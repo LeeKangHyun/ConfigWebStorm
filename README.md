@@ -1,2 +1,0 @@
-# ConfigWebStorm
-configuration webstorm
