@@ -1,0 +1,42 @@
+<templateSet group="React">
+  <template name="cns" value="constructor(props) {&#10;  super(props);&#10;  &#10;  this.state = {&#10;    $END$&#10;  }&#10;}" description="초기 생성자 constructor" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cwm" value="componentWillMount() {&#10;  $END$&#10;}" description="DOM위에 만들어지기 전에 componentWillMount" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cdm" value="componentDidMount() {&#10;  $END$&#10;}" description="DOM초기화는 여기 componentDidMount" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cwr" value="componentWillReceiveProps(nextProps) {&#10;  $END$&#10;}" description="PROP을 새로 받을때 componentWillReceiveProps" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cwup" value="componentWillUpdate(nextProps, nextState) {&#10;  $END$&#10;}" description="COMPONENT가 업데이트 되기전 componentWillUpdate" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cdup" value="componentDidUpdate(prevProps, prevState) {&#10;  $END$&#10;}" description="COMPONENT 리렌더링 마친 후 componentDidUpdate" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cwun" value="componentWillUnmount() {&#10;  $END$&#10;}" description="DOM에서 사라질 때 componentWillUnmount" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="scu" value="shouldComponentUpdate(nextProps, nextState) {&#10;  $END$&#10;}" description="PROP, STATE 변경 될 때 shouldComponentUpdate" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

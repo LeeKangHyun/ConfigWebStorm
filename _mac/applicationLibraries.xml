@@ -1,0 +1,52 @@
+<application>
+  <component name="libraryTable">
+    <library name="medigate_partner_iframe" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_image.medigate.net_static_medigate_partner_iframe.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_image.medigate.net_static_medigate_partner_iframe.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="postcode.v2" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_spi.maps.daum.net_imap_map_js_init_postcode.v2.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_spi.maps.daum.net_imap_map_js_init_postcode.v2.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="wcslog" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_wcs.naver.net_wcslog.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__wcs.naver.net_wcslog.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_wcs.naver.net_wcslog.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__wcs.naver.net_wcslog.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="wp_astg_4.0" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn-aitg.widerplanet.com_js_wp_astg_4.0.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn-aitg.widerplanet.com_js_wp_astg_4.0.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn-aitg.widerplanet.com_js_wp_astg_4.0.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn-aitg.widerplanet.com_js_wp_astg_4.0.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

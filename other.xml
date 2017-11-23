@@ -1,0 +1,29 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/Documents/mouda/megle-front/server.js">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache last-modified="0" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.11.0/bin/node">
+      <version-cache version="6.11.0" last-modified="1496776898000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.10.1/bin/node">
+      <version-cache version="6.10.1" last-modified="1490125259000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v6.10.1/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.6.0/bin/node">
+      <version-cache version="4.6.0" last-modified="1475020079000" />
+    </local-interpreter>
+  </component>
+</application>

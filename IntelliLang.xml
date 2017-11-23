@@ -1,9 +1,16 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <option name="INSTRUMENTATION" value="ASSERT" />
-    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
-    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
-    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
-    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="SCSS" injector-id="js">
+      <display-name>styled-components</display-name>
+      <prefix>dummy_selector {</prefix>
+      <suffix>}</suffix>
+      <place><![CDATA[jsLiteralExpression().withText(string().matchesBrics("styled.+"))]]></place>
+      <place><![CDATA[jsLiteralExpression().withText(string().startsWith("`/* styled */"))]]></place>
+      <place><![CDATA[jsLiteralExpression().withText(string().startsWith("`// styled"))]]></place>
+    </injection>
+    <injection language="ECMAScript 6" injector-id="xml">
+      <display-name>header</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("header"))]]></place>
+    </injection>
   </component>
 </application>
