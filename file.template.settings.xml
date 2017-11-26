@@ -3,6 +3,7 @@
     <default_templates>
       <template name="React.js" reformat="true" live-template-enabled="true" />
       <template name="ReactConst.js" reformat="true" live-template-enabled="true" />
+      <template name="ReactRedux.js" reformat="true" live-template-enabled="true" />
     </default_templates>
   </component>
 </application>
