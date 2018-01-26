@@ -4,10 +4,9 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="CodeInsightSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="JAVADOC_STUB_ON_ENTER" value="false" />
-  </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
 </application>
