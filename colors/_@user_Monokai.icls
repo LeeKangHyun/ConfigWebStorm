@@ -1,11 +1,16 @@
 <scheme name="_@user_Monokai" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2016-12-19T18:55:54</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2018-02-20T22:52:08</property>
+    <property name="modified">2018-02-20T22:56:19</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.25" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="D2Coding ligature" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
