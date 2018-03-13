@@ -1,5 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="1.6.1" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="darkTitleBar" value="true" />
+    <option name="arrowsStyle" value="Darcula" />
   </component>
 </application>
