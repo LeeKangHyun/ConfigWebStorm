@@ -1,11 +1,8 @@
 <application>
   <component name="CssEmmetOptions">
-    <option name="autoInsertCssPrefixedEnabled" value="false" />
-    <option name="cssEmmetEnabled" value="false" />
     <option name="fuzzySearchEnabled" value="false" />
   </component>
   <component name="EmmetOptions">
-    <option name="emmetEnabled" value="false" />
     <option name="emmetExpandShortcut" value="32" />
     <option name="hrefAutoDetectEnabled" value="false" />
   </component>
