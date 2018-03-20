@@ -5,4 +5,8 @@
   <template name="p" value="padding: $END$;" description="padding:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
+  <template name="td" value="text-decoration:$VAR0$;" description="text-decoration:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;none&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
