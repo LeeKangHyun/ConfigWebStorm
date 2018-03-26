@@ -9,4 +9,10 @@
     <variable name="VAR0" expression="" defaultValue="&quot;none&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="th" value="text-height: $END$;" description="text-height:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="tr" value="text-replace: $END$;" description="text-replace:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
 </templateSet>
