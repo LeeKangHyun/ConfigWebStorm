@@ -10,6 +10,10 @@
   <option name="HTML_ALIGN_TEXT" value="true" />
   <option name="HTML_SPACE_AROUND_EQUALITY_IN_ATTRINUTE" value="true" />
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  <CssCodeStyleSettings>
+    <option name="HEX_COLOR_UPPER_CASE" value="true" />
+    <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
+  </CssCodeStyleSettings>
   <DBN-PSQL>
     <case-options enabled="false">
       <option name="KEYWORD_CASE" value="lower" />
