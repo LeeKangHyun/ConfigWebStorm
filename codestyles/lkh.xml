@@ -40,6 +40,7 @@
   </DBN-SQL>
   <HTMLCodeStyleSettings>
     <option name="HTML_KEEP_WHITESPACES" value="true" />
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_ALIGN_TEXT" value="true" />
     <option name="HTML_SPACE_AROUND_EQUALITY_IN_ATTRIBUTE" value="true" />
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
@@ -71,6 +72,7 @@
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
@@ -92,7 +94,7 @@
     <option name="SPACE_WITHIN_BRACKETS" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
-    <option name="WRAP_ON_TYPING" value="1" />
+    <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
