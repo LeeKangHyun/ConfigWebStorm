@@ -1,5 +1,14 @@
 <application>
   <component name="PostfixTemplatesSettings">
+    <option name="providerToDisabledTemplates">
+      <disabled-templates provider="builtin.js">
+        <value>
+          <set>
+            <option value="com.intellij.lang.javascript.template.postfix.JSIntroduceVarPostfixTemplate#.var" />
+          </set>
+        </value>
+      </disabled-templates>
+    </option>
     <option name="shortcut" value="32" />
   </component>
 </application>
