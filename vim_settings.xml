@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" timestamp="1529546172685">
-        <mark key="'" line="54" column="6" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" timestamp="1529546336956">
+        <mark key="'" line="16" column="6" />
         <mark key="[" line="28" column="26" />
         <mark key="]" line="28" column="26" />
         <mark key="^" line="28" column="11" />
@@ -20,6 +20,15 @@
       <jump line="60" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
       <jump line="61" column="2" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
       <jump line="56" column="6" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="43" column="30" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="32" column="13" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="33" column="12" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="6" column="19" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="10" column="24" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="17" column="6" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="16" column="6" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
     </jumps>
     <registers>
       <register name="1" type="4">
@@ -32,30 +41,36 @@
         <text encoding="base64">Y29uc3QgaXNQcm9kdWN0aW9uID0gcHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdwcm9kdWN0aW9uJzsKY29uc3QgcG9ydCA9IGlzUHJvZHVjdGlvbiA/IHByb2Nlc3MuZW52LlBPUlQ6MzAwMDsKY29uc3QgZGV2UG9ydCA9IDMwMDE7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohls</text>
       </register>
       <register name="-" type="4">
         <text>hongsung</text>
       </register>
       <register name="/" type="4">
-        <text>send</text>
+        <text>redis</text>
       </register>
     </registers>
     <search>
-      <last-search>send</last-search>
+      <last-search>redis</last-search>
       <last-offset />
-      <last-pattern>send</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>redis</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>send</entry>
+        <entry>Redis</entry>
+        <entry>REDIS</entry>
+        <entry>redis</entry>
       </history-search>
       <history-cmd>
         <entry>set nu</entry>
         <entry>set nonu</entry>
         <entry>w</entry>
+        <entry>21</entry>
+        <entry>set hls ic</entry>
+        <entry>nohls</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
