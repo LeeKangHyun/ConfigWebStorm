@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" timestamp="1529546336956">
-        <mark key="'" line="16" column="6" />
-        <mark key="[" line="28" column="26" />
-        <mark key="]" line="28" column="26" />
-        <mark key="^" line="28" column="11" />
-        <mark key="." line="28" column="26" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" timestamp="1529550650171">
+        <mark key="'" line="18" column="6" />
+        <mark key="[" line="50" column="17" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -31,23 +31,44 @@
       <jump line="16" column="6" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">LCAoKSA9PiB7CiAgICBjb25zb2xlLmxvZygnd2VicGFjay1kZXYtc2VydmVyIGlzIGxpc3RlbmluZyBvbiBwb3J0JywgZGV2UG9ydCk7CiAgfQ==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LCAoKSA9PiB7CiAgICBjb25zb2xlLmxvZygnd2VicGFjay1kZXYtc2VydmVyIGlzIGxpc3RlbmluZyBvbiBwb3J0JywgZGV2UG9ydCk7CiAgfQ==</text>
-      </register>
-      <register name="2" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Y29uc3QgaXNQcm9kdWN0aW9uID0gcHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdwcm9kdWN0aW9uJzsKY29uc3QgcG9ydCA9IGlzUHJvZHVjdGlvbiA/IHByb2Nlc3MuZW52LlBPUlQ6MzAwMDsKY29uc3QgZGV2UG9ydCA9IDMwMDE7Cg==</text>
       </register>
-      <register name=":" type="4">
-        <text>nohls</text>
-      </register>
       <register name="-" type="4">
-        <text>hongsung</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Y29uc3QgaXNQcm9kdWN0aW9uID0gcHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdwcm9kdWN0aW9uJzsKY29uc3QgcG9ydCA9IGlzUHJvZHVjdGlvbiA/IHByb2Nlc3MuZW52LlBPUlQ6MzAwMDsKY29uc3QgZGV2UG9ydCA9IDMwMDE7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHNlc3Npb24gZnJvbSAnZXhwcmVzcy1zZXNzaW9uJzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHdlYnBhY2sgZnJvbSAnd2VicGFjayc7CmltcG9ydCBXZWJwYWNrRGV2U2VydmVyIGZyb20gJ3dlYnBhY2stZGV2LXNlcnZlcic7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuLi93ZWJwYWNrLmNvbmZpZy5kZXYnOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">LCAoKSA9PiB7CiAgICBjb25zb2xlLmxvZygnd2VicGFjay1kZXYtc2VydmVyIGlzIGxpc3RlbmluZyBvbiBwb3J0JywgZGV2UG9ydCk7CiAgfQ==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uc3QgaXNQcm9kdWN0aW9uID0gcHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdwcm9kdWN0aW9uJzsKY29uc3QgcG9ydCA9IGlzUHJvZHVjdGlvbiA/IHByb2Nlc3MuZW52LlBPUlQ6MzAwMDsKY29uc3QgZGV2UG9ydCA9IDMwMDE7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -67,10 +88,10 @@
       <history-cmd>
         <entry>set nu</entry>
         <entry>set nonu</entry>
-        <entry>w</entry>
         <entry>21</entry>
         <entry>set hls ic</entry>
         <entry>nohls</entry>
+        <entry>w</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
