@@ -3,12 +3,42 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/configureStore.js" timestamp="1529557928799">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="11" column="31" />
+        <mark key="^" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/board/reducer.js" timestamp="1529558196035">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="34" column="7" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" timestamp="1529550650171">
         <mark key="'" line="18" column="6" />
         <mark key="[" line="50" column="17" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/board.js" timestamp="1529558734060">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="3" column="2" />
+        <mark key="." line="3" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/index.js" timestamp="1529558904941">
+        <mark key="[" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/rootReducer.js" timestamp="1529557725727">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/board/action.js" timestamp="1529557468888">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -32,40 +62,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgaXNQcm9kdWN0aW9uID0gcHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdwcm9kdWN0aW9uJzsKY29uc3QgcG9ydCA9IGlzUHJvZHVjdGlvbiA/IHByb2Nlc3MuZW52LlBPUlQ6MzAwMDsKY29uc3QgZGV2UG9ydCA9IDMwMDE7Cg==</text>
+        <text encoding="base64">ICBCT0FSRF9GRVRDSF9GQUlMRUQsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>, compose</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgaXNQcm9kdWN0aW9uID0gcHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdwcm9kdWN0aW9uJzsKY29uc3QgcG9ydCA9IGlzUHJvZHVjdGlvbiA/IHByb2Nlc3MuZW52LlBPUlQ6MzAwMDsKY29uc3QgZGV2UG9ydCA9IDMwMDE7Cg==</text>
+        <text encoding="base64">ICBCT0FSRF9GRVRDSF9GQUlMRUQsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBCT0FSRF9GRVRDSF9TVUNDRVNTRUQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBCT0FSRF9GRVRDSF9SRVFVRVNURUQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNlc3Npb24gZnJvbSAnZXhwcmVzcy1zZXNzaW9uJzsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHdlYnBhY2sgZnJvbSAnd2VicGFjayc7CmltcG9ydCBXZWJwYWNrRGV2U2VydmVyIGZyb20gJ3dlYnBhY2stZGV2LXNlcnZlcic7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuLi93ZWJwYWNrLmNvbmZpZy5kZXYnOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LCAoKSA9PiB7CiAgICBjb25zb2xlLmxvZygnd2VicGFjay1kZXYtc2VydmVyIGlzIGxpc3RlbmluZyBvbiBwb3J0JywgZGV2UG9ydCk7CiAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgY29tcG9zZUVuaGFuY2VycyA9IHdpbmRvdy5fX1JFRFVYX0RFVlRPT0xTX0VYVEVOU0lPTl9DT01QT1NFX18gfHwgY29tcG9zZTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZXhwb3J0IAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgaXNQcm9kdWN0aW9uID0gcHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdwcm9kdWN0aW9uJzsKY29uc3QgcG9ydCA9IGlzUHJvZHVjdGlvbiA/IHByb2Nlc3MuZW52LlBPUlQ6MzAwMDsKY29uc3QgZGV2UG9ydCA9IDMwMDE7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgaXNQcm9kdWN0aW9uID0gcHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdwcm9kdWN0aW9uJzsKY29uc3QgcG9ydCA9IGlzUHJvZHVjdGlvbiA/IHByb2Nlc3MuZW52LlBPUlQ6MzAwMDsKY29uc3QgZGV2UG9ydCA9IDMwMDE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
