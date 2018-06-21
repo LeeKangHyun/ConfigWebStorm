@@ -3,11 +3,53 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/index.js" timestamp="1529564439489">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/configureStore.js" timestamp="1529557928799">
         <mark key="[" line="10" column="5" />
         <mark key="]" line="11" column="31" />
         <mark key="^" line="11" column="31" />
         <mark key="." line="11" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchFetchBoard.js" timestamp="1529566827848">
+        <mark key="'" line="11" column="46" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="14" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/index.js" timestamp="1529558904941">
+        <mark key="[" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/Controller.js" timestamp="1529565727744">
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="13" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/board/action.js" timestamp="1529557468888">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/.babelrc" timestamp="1529565215882">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/index.js" timestamp="1529564594658">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="25" />
+        <mark key="^" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/index.js" timestamp="1529564710509">
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/board/reducer.js" timestamp="1529558196035">
         <mark key="[" line="3" column="0" />
@@ -28,17 +70,17 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/index.js" timestamp="1529558904941">
-        <mark key="[" line="0" column="6" />
-      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/rootReducer.js" timestamp="1529557725727">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/board/action.js" timestamp="1529557468888">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/Board.js" timestamp="1529566774962">
+        <mark key="[" line="3" column="91" />
+        <mark key="]" line="3" column="91" />
+        <mark key="." line="3" column="91" />
+        <mark key="^" line="3" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -59,43 +101,47 @@
       <jump line="10" column="24" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
       <jump line="17" column="6" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
       <jump line="16" column="6" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="11" column="46" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchFetchBoard.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBCT0FSRF9GRVRDSF9GQUlMRUQsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>, compose</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
       </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICB5aWVsZCB0YWtlTGF0ZXN0KEJPQVJEX0ZFVENIX1NVQ0NFU1NFRCkK</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBCT0FSRF9GRVRDSF9GQUlMRUQsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBCT0FSRF9GRVRDSF9TVUNDRVNTRUQsCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBCT0FSRF9GRVRDSF9SRVFVRVNURUQsCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">LnRoZW4ocmVzID0+IHsKICAgIHJlcy5qc29uKCk7CiAgfSkudGhlbihqc29uID0+IHsKICAgIGNvbnNvbGUubG9nKGpzb24pOwogIH0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICByZXR1cm4ganNvbjs=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgY29tcG9zZUVuaGFuY2VycyA9IHdpbmRvdy5fX1JFRFVYX0RFVlRPT0xTX0VYVEVOU0lPTl9DT01QT1NFX18gfHwgY29tcG9zZTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAg</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgLnRoZW4ocmVzID0+IHsKICAgIHJldHVybiByZXMuZGF0YTsKICB9KQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgaXNQcm9kdWN0aW9uID0gcHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdwcm9kdWN0aW9uJzsKY29uc3QgcG9ydCA9IGlzUHJvZHVjdGlvbiA/IHByb2Nlc3MuZW52LlBPUlQ6MzAwMDsKY29uc3QgZGV2UG9ydCA9IDMwMDE7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -106,7 +152,7 @@
       <last-offset />
       <last-pattern>redis</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
