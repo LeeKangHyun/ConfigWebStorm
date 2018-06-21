@@ -1,9 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.1.5.3" />
+    <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="accentColor" value="80cbc4" />
+    <option name="accentColor" value="00bcd4" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="darkTitleBar" value="true" />

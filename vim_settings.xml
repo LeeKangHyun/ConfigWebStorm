@@ -1,0 +1,47 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" timestamp="1529544041136">
+        <mark key="'" line="23" column="6" />
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="27" column="2" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="22" column="6" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+    </jumps>
+    <registers>
+      <register name=":" type="4">
+        <text>set nonu</text>
+      </register>
+      <register name="/" type="4">
+        <text>send</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>send</last-search>
+      <last-offset />
+      <last-pattern>send</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>send</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set nu</entry>
+        <entry>set nonu</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
