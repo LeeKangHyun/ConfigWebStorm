@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/index.js" timestamp="1529651363941">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="7" column="18" />
-        <mark key="^" line="7" column="18" />
-        <mark key="." line="7" column="18" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/index.js" timestamp="1529659827305">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/index.js" timestamp="1529648561479">
         <mark key="[" line="17" column="11" />
@@ -15,11 +15,11 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/popup/reducer.js" timestamp="1529657066948">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="13" column="18" />
-        <mark key="^" line="13" column="18" />
-        <mark key="." line="13" column="18" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/popup/reducer.js" timestamp="1529659940479">
+        <mark key="[" line="28" column="7" />
+        <mark key="]" line="28" column="7" />
+        <mark key="^" line="28" column="7" />
+        <mark key="." line="28" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/Admin.js" timestamp="1529652575340">
         <mark key="[" line="4" column="13" />
@@ -84,11 +84,11 @@
         <mark key="^" line="11" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/util/fetch.js" timestamp="1529652351991" />
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/rootReducer.js" timestamp="1529628388875">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="8" />
-        <mark key="^" line="6" column="7" />
-        <mark key="." line="5" column="8" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/rootReducer.js" timestamp="1529659969181">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
       </file>
       <file name="/Dummy.txt" timestamp="1529653517679">
         <mark key="[" line="0" column="0" />
@@ -144,8 +144,11 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/popup/action.js" timestamp="1529656868339">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/popup/action.js" timestamp="1529660001581">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="2" />
+        <mark key="^" line="6" column="2" />
+        <mark key="." line="6" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/stylesheets/container/notify/notice.scss" timestamp="1529637448726">
         <mark key="[" line="91" column="0" />
@@ -171,6 +174,12 @@
         <mark key="]" line="18" column="19" />
         <mark key="." line="18" column="19" />
         <mark key="^" line="18" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchPopup.js" timestamp="1529659791202">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+        <mark key="^" line="11" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/board.js" timestamp="1529558734060">
         <mark key="[" line="3" column="2" />
@@ -207,11 +216,11 @@
       <jump line="8" column="6" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>BoardApi</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAuLi5hY3Rpb24sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>BoardApi</text>
+        <text>Admin</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
@@ -220,31 +229,31 @@
         <text encoding="base64">ICAgICAgICAgIDxkaXY+PC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpZiAocGFnZSkgdXJsKz1gP3BhZ2U9JHtwYWdlfWA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAuLi5hY3Rpb24sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkPC9kdmk+Cg==</text>
+        <text encoding="base64">ICBBRE1JTl9CT0FSRF9DUkVBVEUsCiAgQURNSU5fQk9BUkRfU1VDQ0VTUywKICBBRE1JTl9CT0FSRF9GQUlMRUQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGF0YQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICBpZiAocGFnZSkgdXJsKz1gP3BhZ2U9JHtwYWdlfWA7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxkPC9kdmk+Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZGF0YQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZldGNoQ2hhbmdlQm9hcmQsCg==</text>
+        <text encoding="base64">ICBpZiAocGFnZSkgdXJsKz1gP3BhZ2U9JHtwYWdlfWA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZldGNoQm9hcmQsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGZldGNoQ2hhbmdlQm9hcmQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IHVuY3Rpb24gCg==</text>
+        <text encoding="base64">ICAgIGZldGNoQm9hcmQsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/li/Li/g</text>
