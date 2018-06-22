@@ -3,10 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1529637338340">
+      <file name="/Dummy.txt" timestamp="1529644559181">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Slider/Carousel.js" timestamp="1529644469302">
+        <mark key="[" line="25" column="10" />
+        <mark key="]" line="25" column="10" />
+        <mark key="^" line="25" column="11" />
+        <mark key="." line="25" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/index.js" timestamp="1529564439489">
         <mark key="[" line="0" column="0" />
@@ -89,6 +95,12 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/views/include/footer.pug" timestamp="1529644722894">
+        <mark key="[" line="26" column="47" />
+        <mark key="]" line="26" column="55" />
+        <mark key="." line="26" column="55" />
+        <mark key="^" line="26" column="55" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" timestamp="1529550650171">
         <mark key="'" line="18" column="6" />
         <mark key="[" line="50" column="17" />
@@ -101,6 +113,12 @@
         <mark key="]" line="3" column="2" />
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Slider/EmptyInvest.js" timestamp="1529644091563">
+        <mark key="[" line="19" column="47" />
+        <mark key="]" line="19" column="47" />
+        <mark key="." line="19" column="47" />
+        <mark key="^" line="18" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/rootReducer.js" timestamp="1529628388875">
         <mark key="[" line="5" column="8" />
@@ -136,10 +154,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>ktok</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>ktok</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
