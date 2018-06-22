@@ -52,12 +52,12 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/index.js" timestamp="1529629358530">
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/index.js" timestamp="1529632098943">
         <mark key="'" line="22" column="13" />
-        <mark key="[" line="35" column="22" />
-        <mark key="]" line="36" column="1" />
-        <mark key="." line="36" column="1" />
-        <mark key="^" line="36" column="1" />
+        <mark key="[" line="36" column="2" />
+        <mark key="]" line="40" column="1" />
+        <mark key="." line="40" column="1" />
+        <mark key="^" line="40" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/admin/reducer.js" timestamp="1529628363236">
         <mark key="[" line="18" column="17" />
@@ -126,10 +126,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CmltcG9ydCBtb21lbnQgZnJvbSAnbW9tZW50Jzs=</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>{)</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
@@ -137,32 +137,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICB5aWVsZCB0YWtlTGF0ZXN0KEJPQVJEX0ZFVENIX1NVQ0NFU1NFRCkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmltcG9ydCBtb21lbnQgZnJvbSAnbW9tZW50Jzs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBib2FyZAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAKICAK</text>
+      <register name="2" type="4">
+        <text>: {
+    list: [],
+    isLoading: false,
+  }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZmV0Y2hCb2FyZCB9IGZyb20gJy4uLy4uL3JlZHV4L2JvYXJkL2FjdGlvbic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Qm9hcmQuZGVmYXVsdFByb3BzID0gewoKfTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvbkNsaWNrVG9SZWZyZXNoID0gKCkgPT4gewogICAgY29uc3QgeyBmZXRjaEJvYXJkIH0gPSB0aGlzLnByb3BzOwogICAgZmV0Y2hCb2FyZCgpOwogIH07Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlZCBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2FyZCk7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CmltcG9ydCBtb21lbnQgZnJvbSAnbW9tZW50Jzs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGJ1dHRvbiBvbkNsaWNrPXtvbkNsaWNrVG9SZWZyZXNofT7sg4jroZwg67aI65+s7Jik6riwPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZmV0Y2hCb2FyZCB9IGZyb20gJy4uLy4uL3JlZHV4L2JvYXJkL2FjdGlvbic7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAuLi5wcm9wcwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
