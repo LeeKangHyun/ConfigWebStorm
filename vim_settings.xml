@@ -46,6 +46,12 @@
         <mark key="^" line="26" column="24" />
         <mark key="." line="26" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/Popup.js" timestamp="1529658968050">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+        <mark key="^" line="3" column="84" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/board/reducer.js" timestamp="1529637075927">
         <mark key="'" line="23" column="9" />
         <mark key="[" line="33" column="17" />
@@ -120,8 +126,11 @@
         <mark key="^" line="14" column="1" />
         <mark key="." line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/index.js" timestamp="1529651116480">
-        <mark key="[" line="0" column="28" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/index.js" timestamp="1529658983035">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/Controller.js" timestamp="1529644987044">
         <mark key="[" line="15" column="0" />
@@ -169,7 +178,7 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/Board.js" timestamp="1529638445166" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/Board.js" timestamp="1529658934278" />
     </filemarks>
     <jumps>
       <jump line="27" column="2" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
@@ -199,10 +208,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PC9kdmk+</text>
+        <text>BoardApi</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9kdmk+</text>
+        <text>BoardApi</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
@@ -211,31 +220,31 @@
         <text encoding="base64">ICAgICAgICAgIDxkaXY+PC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkPC9kdmk+Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGF0YQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICBpZiAocGFnZSkgdXJsKz1gP3BhZ2U9JHtwYWdlfWA7Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxkPC9kdmk+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZGF0YQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBpZiAocGFnZSkgdXJsKz1gP3BhZ2U9JHtwYWdlfWA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZldGNoQ2hhbmdlQm9hcmQsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZldGNoQm9hcmQsCg==</text>
+        <text encoding="base64">ICAgIGZldGNoQ2hhbmdlQm9hcmQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGZldGNoQm9hcmQsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IHVuY3Rpb24gCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHVuY3Rpb24gCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/li/Li/g</text>
