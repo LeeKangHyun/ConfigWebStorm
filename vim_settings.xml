@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1529821948203">
+      <file name="/Dummy.txt" timestamp="1529823364347">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/portfolio/src/redux/Board/reducer.js" timestamp="1529821920651">
@@ -12,6 +12,11 @@
         <mark key="]" line="7" column="5" />
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/portfolio/src/components/Nav/index.js" timestamp="1529824044826">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/portfolio/src/redux/Pet/reducer.js" timestamp="1529823211605">
         <mark key="[" line="0" column="0" />
@@ -33,22 +38,23 @@
       <file name="$USER_HOME$/Documents/portfolio/src/pages/Pet/index.js" timestamp="1529823161655">
         <mark key="[" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/portfolio/src/redux/configureStore.js" timestamp="1529818205265">
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="11" column="54" />
-        <mark key="^" line="11" column="54" />
-        <mark key="." line="11" column="54" />
+      <file name="$USER_HOME$/Documents/portfolio/src/redux/configureStore.js" timestamp="1529824222119">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="12" column="76" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/portfolio/src/redux/Pet/action.js" timestamp="1529823204075">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/portfolio/src/redux/saga/watchBoard.js" timestamp="1529820633499">
-        <mark key="[" line="12" column="43" />
-        <mark key="]" line="26" column="51" />
-        <mark key="^" line="26" column="51" />
-        <mark key="." line="26" column="51" />
+      <file name="$USER_HOME$/Documents/portfolio/src/redux/saga/watchBoard.js" timestamp="1529824353559">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="24" column="3" />
+        <mark key="]" line="13" column="28" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="13" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/portfolio/src/components/Router/index.js" timestamp="1529823119818">
         <mark key="[" line="19" column="87" />
@@ -73,11 +79,11 @@
         <mark key="." line="9" column="20" />
         <mark key="^" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/portfolio/src/redux/reducers.js" timestamp="1529820728841">
-        <mark key="[" line="0" column="40" />
-        <mark key="]" line="5" column="7" />
-        <mark key="." line="5" column="7" />
-        <mark key="^" line="5" column="7" />
+      <file name="$USER_HOME$/Documents/portfolio/src/redux/reducers.js" timestamp="1529823996133">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+        <mark key="^" line="1" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/portfolio/src/pages/Board/Controller.js" timestamp="1529822542309">
         <mark key="'" line="38" column="0" />
@@ -96,12 +102,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/portfolio/src/pages/Board/index.js" timestamp="1529822599060">
-        <mark key="'" line="5" column="37" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="33" column="34" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Documents/portfolio/src/pages/Board/index.js" timestamp="1529824079406">
+        <mark key="'" line="6" column="37" />
+        <mark key="[" line="24" column="9" />
+        <mark key="]" line="4" column="48" />
+        <mark key="^" line="4" column="48" />
+        <mark key="." line="4" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -115,43 +121,48 @@
       <jump line="4" column="0" filename="$USER_HOME$/Documents/portfolio/src/redux/Pet/action.js" />
       <jump line="19" column="13" filename="$USER_HOME$/Documents/portfolio/src/redux/Pet/reducer.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/portfolio/src/redux/Pet/reducer.js" />
+      <jump line="15" column="12" filename="$USER_HOME$/Documents/portfolio/src/redux/saga/watchBoard.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/portfolio/src/redux/saga/watchBoard.js" />
     </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgbG9hZGluZ0Jhck1pZGRsZXdhcmUgfSBmcm9tICdyZWFjdC1yZWR1eC1sb2FkaW5nLWJhcic7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>)</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHsgZ2V0UG9zdCB9ID0gdGhpcy5wcm9wczsKICAgIGdldFBvc3QoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBHRVRfUE9TVF9QRVQsCiAgRkVUQ0hfUE9TVF9QRVQsCiAgUFVUX1BPU1RfUEVULAp9IGZyb20gJy4vYWN0aW9uJzsKCmV4cG9ydCBjb25zdCBnZXRQb3N0ID0gKHN0YXRlID0gewogIGxpc3Q6IFtdLAogIGxvYWRpbmc6IGZhbHNlLAp9LCBhY3Rpb24pID0+IHsKICBzd2l0Y2goYWN0aW9uLnR5cGUpIHsKICAgIGNhc2UgR0VUX1BPU1RfUEVUOgogICAgICByZXR1cm4gewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIGxvYWRpbmc6IHRydWUsCiAgICAgICAgbGlzdDogYWN0aW9uLmxpc3QsCiAgICAgIH07CiAgICBjYXNlIEZFVENIX1BPU1RfUEVUOgogICAgICByZXR1cm4gewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIGxpc3Q6IGFjdGlvbi5saXN0CiAgICAgIH0KICAgIGRlZmF1bHQ6CiAgICAgIHJldHVybiBzdGF0ZTsKICB9Cn07CgpleHBvcnQgY29uc3QgcHV0UG9zdCA9IChzdGF0ZSA9IHsKICBsb2FkaW5nOiBmYWxzZSwKfSwgYWN0aW9uKSA9PiB7CiAgc3dpdGNoIChhY3Rpb24udHlwZSkgewogICAgY2FzZSBQVVRfUE9TVF9QRVQ6CiAgICAgIHJldHVybiB7CiAgICAgICAgLi4uc3RhdGUsCiAgICAgICAgbG9hZGluZzogdHJ1ZSwKICAgICAgfTsKICAgIGRlZmF1bHQ6CiAgICAgIHJldHVybiBzdGF0ZTsKICB9Cn07Cg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBHRVRfUE9TVF9QRVQsCiAgRkVUQ0hfUE9TVF9QRVQsCiAgUFVUX1BPU1RfUEVULAp9IGZyb20gJy4vYWN0aW9uJzsKCmV4cG9ydCBjb25zdCBnZXRQb3N0ID0gKHN0YXRlID0gewogIGxpc3Q6IFtdLAogIGxvYWRpbmc6IGZhbHNlLAp9LCBhY3Rpb24pID0+IHsKICBzd2l0Y2goYWN0aW9uLnR5cGUpIHsKICAgIGNhc2UgR0VUX1BPU1RfUEVUOgogICAgICByZXR1cm4gewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIGxvYWRpbmc6IHRydWUsCiAgICAgICAgbGlzdDogYWN0aW9uLmxpc3QsCiAgICAgIH07CiAgICBjYXNlIEZFVENIX1BPU1RfUEVUOgogICAgICByZXR1cm4gewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIGxpc3Q6IGFjdGlvbi5saXN0CiAgICAgIH0KICAgIGRlZmF1bHQ6CiAgICAgIHJldHVybiBzdGF0ZTsKICB9Cn07CgpleHBvcnQgY29uc3QgcHV0UG9zdCA9IChzdGF0ZSA9IHsKICBsb2FkaW5nOiBmYWxzZSwKfSwgYWN0aW9uKSA9PiB7CiAgc3dpdGNoIChhY3Rpb24udHlwZSkgewogICAgY2FzZSBQVVRfUE9TVF9QRVQ6CiAgICAgIHJldHVybiB7CiAgICAgICAgLi4uc3RhdGUsCiAgICAgICAgbG9hZGluZzogdHJ1ZSwKICAgICAgfTsKICAgIGRlZmF1bHQ6CiAgICAgIHJldHVybiBzdGF0ZTsKICB9Cn07Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbG9hZGluZ0Jhck1pZGRsZXdhcmUgfSBmcm9tICdyZWFjdC1yZWR1eC1sb2FkaW5nLWJhcic7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEZCIGZyb20gJ2ZpcmViYXNlJzsKCmV4cG9ydCBjb25zdCBHRVRfUE9TVF9QRVQgPSBgR0VUX1BPU1RfUEVUYDsKZXhwb3J0IGNvbnN0IEZFVENIX1BPU1RfUEVUID0gYEZFVENIX1BPU1RfUEVUYDsKZXhwb3J0IGNvbnN0IFBVVF9QT1NUX1BFVCA9IGBQVVRfUE9TVF9QRVRgOwoKZXhwb3J0IGNvbnN0IGdldFBvc3RQZXQgPSAoKSA9PiB7CiAgY29uc3QgcmVmID0gRkIuZGF0YWJhc2UoKS5yZWYoYEJvYXJkL3Bvc3RgKTsKICByZWYub25jZSgndmFsdWUnKS50aGVuKHNuYXBzaG90ID0+IHsKICAgIHJldHVybiB7CiAgICAgIHR5cGU6IEdFVF9QT1NUX1BFVCwKICAgICAgbGlzdDogc25hcHNob3QudmFsKCkKICAgIH0KICB9KQp9OwoKZXhwb3J0IGNvbnN0IGZldGNoUG9zdFBldCA9IGxpc3QgPT4gewogIHJldHVybiB7CiAgICB0eXBlOiBGRVRDSF9QT1NUX1BFVCwKICAgIGxpc3QKICB9Cn07CgpleHBvcnQgY29uc3QgcHV0UG9zdFBldCA9ICgpID0+IHsKICAKICByZXR1cm4gewogICAgdHlwZTogUFVUX1BPU1RfUEVUCiAgfQp9Owo=</text>
+        <text encoding="base64">aW1wb3J0IHJvb3RSZWR1Y2VyIGZyb20gJy4vcmVkdWNlcnMnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IExvYWRpbmdCYXIgZnJvbSAncmVhY3QtcmVkdXgtbG9hZGluZy1iYXInOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsK</text>
+        <text encoding="base64">ICAgICAgICA8TG9hZGluZ0JhciAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsKICBHRVRfUE9TVF9QRVQsCiAgRkVUQ0hfUE9TVF9QRVQsCiAgUFVUX1BPU1RfUEVULAp9IGZyb20gJy4vYWN0aW9uJzsKCmV4cG9ydCBjb25zdCBnZXRQb3N0ID0gKHN0YXRlID0gewogIGxpc3Q6IFtdLAogIGxvYWRpbmc6IGZhbHNlLAp9LCBhY3Rpb24pID0+IHsKICBzd2l0Y2goYWN0aW9uLnR5cGUpIHsKICAgIGNhc2UgR0VUX1BPU1RfUEVUOgogICAgICByZXR1cm4gewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIGxvYWRpbmc6IHRydWUsCiAgICAgICAgbGlzdDogYWN0aW9uLmxpc3QsCiAgICAgIH07CiAgICBjYXNlIEZFVENIX1BPU1RfUEVUOgogICAgICByZXR1cm4gewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIGxpc3Q6IGFjdGlvbi5saXN0CiAgICAgIH0KICAgIGRlZmF1bHQ6CiAgICAgIHJldHVybiBzdGF0ZTsKICB9Cn07CgpleHBvcnQgY29uc3QgcHV0UG9zdCA9IChzdGF0ZSA9IHsKICBsb2FkaW5nOiBmYWxzZSwKfSwgYWN0aW9uKSA9PiB7CiAgc3dpdGNoIChhY3Rpb24udHlwZSkgewogICAgY2FzZSBQVVRfUE9TVF9QRVQ6CiAgICAgIHJldHVybiB7CiAgICAgICAgLi4uc3RhdGUsCiAgICAgICAgbG9hZGluZzogdHJ1ZSwKICAgICAgfTsKICAgIGRlZmF1bHQ6CiAgICAgIHJldHVybiBzdGF0ZTsKICB9Cn07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFBldCBmcm9tICcuL2luZGV4JztkZGsK</text>
+        <text encoding="base64">aW1wb3J0IEZCIGZyb20gJ2ZpcmViYXNlJzsKCmV4cG9ydCBjb25zdCBHRVRfUE9TVF9QRVQgPSBgR0VUX1BPU1RfUEVUYDsKZXhwb3J0IGNvbnN0IEZFVENIX1BPU1RfUEVUID0gYEZFVENIX1BPU1RfUEVUYDsKZXhwb3J0IGNvbnN0IFBVVF9QT1NUX1BFVCA9IGBQVVRfUE9TVF9QRVRgOwoKZXhwb3J0IGNvbnN0IGdldFBvc3RQZXQgPSAoKSA9PiB7CiAgY29uc3QgcmVmID0gRkIuZGF0YWJhc2UoKS5yZWYoYEJvYXJkL3Bvc3RgKTsKICByZWYub25jZSgndmFsdWUnKS50aGVuKHNuYXBzaG90ID0+IHsKICAgIHJldHVybiB7CiAgICAgIHR5cGU6IEdFVF9QT1NUX1BFVCwKICAgICAgbGlzdDogc25hcHNob3QudmFsKCkKICAgIH0KICB9KQp9OwoKZXhwb3J0IGNvbnN0IGZldGNoUG9zdFBldCA9IGxpc3QgPT4gewogIHJldHVybiB7CiAgICB0eXBlOiBGRVRDSF9QT1NUX1BFVCwKICAgIGxpc3QKICB9Cn07CgpleHBvcnQgY29uc3QgcHV0UG9zdFBldCA9ICgpID0+IHsKICAKICByZXR1cm4gewogICAgdHlwZTogUFVUX1BPU1RfUEVUCiAgfQp9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KShDKFBldCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtYXBTdGF0ZVRvUHJvcHMK</text>
+        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY29ubmVjdCgK</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
-      <register name="-" type="4">
-        <text>Controller</text>
+      <register name=":" type="4">
+        <text>3</text>
       </register>
     </registers>
     <search>
@@ -160,6 +171,9 @@
     </search>
     <history>
       <history-search />
+      <history-cmd>
+        <entry>3</entry>
+      </history-cmd>
     </history>
     <shortcut-conflicts />
     <editor>
