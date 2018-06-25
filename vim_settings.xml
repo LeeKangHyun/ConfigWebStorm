@@ -22,10 +22,10 @@
         <mark key="." line="28" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/Admin.js" timestamp="1529652575340">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
-        <mark key="^" line="11" column="34" />
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="10" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/index.js" timestamp="1529564594658">
         <mark key="[" line="13" column="13" />
@@ -71,6 +71,13 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="23" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" timestamp="1529550650171">
+        <mark key="'" line="18" column="6" />
+        <mark key="[" line="50" column="17" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Slider/EmptyInvest.js" timestamp="1529644091563">
         <mark key="[" line="19" column="47" />
         <mark key="]" line="19" column="47" />
@@ -90,7 +97,7 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529653517679">
+      <file name="/Dummy.txt" timestamp="1529661048999">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -138,6 +145,13 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="20" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/board/action.js" timestamp="1529638098349">
+        <mark key="'" line="3" column="56" />
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="9" column="35" />
+        <mark key="." line="9" column="35" />
+        <mark key="^" line="9" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/.babelrc" timestamp="1529656472087">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="23" />
@@ -149,6 +163,12 @@
         <mark key="]" line="6" column="2" />
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Home/Controller.js" timestamp="1529660897235">
+        <mark key="[" line="36" column="7" />
+        <mark key="]" line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+        <mark key="." line="16" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/stylesheets/container/notify/notice.scss" timestamp="1529637448726">
         <mark key="[" line="91" column="0" />
@@ -175,17 +195,24 @@
         <mark key="." line="18" column="19" />
         <mark key="^" line="18" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchPopup.js" timestamp="1529659791202">
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="11" column="16" />
-        <mark key="." line="11" column="16" />
-        <mark key="^" line="11" column="16" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchPopup.js" timestamp="1529660973297">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+        <mark key="^" line="7" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/board.js" timestamp="1529558734060">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="2" />
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Home/index.js" timestamp="1529660872473">
+        <mark key="'" line="8" column="17" />
+        <mark key="[" line="116" column="4" />
+        <mark key="]" line="116" column="11" />
+        <mark key="^" line="116" column="11" />
+        <mark key="." line="116" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/Board.js" timestamp="1529658934278" />
     </filemarks>
@@ -214,13 +241,15 @@
       <jump line="6" column="21" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchFetchBoard.js" />
       <jump line="25" column="12" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/index.js" />
       <jump line="8" column="6" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/index.js" />
+      <jump line="1" column="16" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Home/index.js" />
+      <jump line="8" column="17" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Home/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5hY3Rpb24sCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>Admin</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
