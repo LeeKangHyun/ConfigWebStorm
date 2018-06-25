@@ -15,10 +15,11 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Styled.js" timestamp="1529904671048">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="18" />
-        <mark key="." line="3" column="18" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Styled.js" timestamp="1529905837266">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/index.js" timestamp="1529648561479">
         <mark key="[" line="17" column="11" />
@@ -102,7 +103,7 @@
         <mark key="^" line="568" column="19" />
         <mark key="." line="568" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529902443911">
+      <file name="/Dummy.txt" timestamp="1529905841499">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -252,10 +253,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgdG9wOiAwOwogIGxlZnQ6IDA7</text>
+        <text>fixed</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>fixed</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
