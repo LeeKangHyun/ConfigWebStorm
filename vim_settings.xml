@@ -125,13 +125,6 @@
         <mark key="." line="25" column="19" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Router/index.js" timestamp="1529978913742">
-        <mark key="'" line="14" column="92" />
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="21" column="17" />
-        <mark key="^" line="14" column="89" />
-        <mark key="." line="21" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/common/Popup/Controller.js" timestamp="1529654123982">
         <mark key="[" line="13" column="3" />
         <mark key="]" line="14" column="1" />
@@ -159,13 +152,6 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Header/index.js" timestamp="1529915025975">
-        <mark key="'" line="80" column="2" />
-        <mark key="[" line="101" column="21" />
-        <mark key="]" line="101" column="36" />
-        <mark key="^" line="101" column="36" />
-        <mark key="." line="101" column="36" />
-      </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/views/include/footer.pug" timestamp="1529644722894">
         <mark key="[" line="26" column="47" />
         <mark key="]" line="26" column="55" />
@@ -188,6 +174,12 @@
         <mark key="[" line="35" column="55" />
         <mark key="]" line="35" column="56" />
         <mark key="." line="35" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/DEVKH/devKangTo/src/pages/Board/index.js" timestamp="1530001171824">
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="25" column="44" />
+        <mark key="^" line="25" column="44" />
+        <mark key="." line="25" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/package.json" timestamp="1529912413426">
         <mark key="[" line="52" column="39" />
@@ -212,11 +204,11 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Landing/Styled.js" timestamp="1529979848648">
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="8" column="32" />
-        <mark key="." line="8" column="32" />
-        <mark key="^" line="8" column="32" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Landing/Styled.js" timestamp="1530001652217">
+        <mark key="[" line="13" column="73" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="^" line="10" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/Admin.js" timestamp="1529652575340">
         <mark key="[" line="3" column="13" />
@@ -381,8 +373,11 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/DEVKH/devKangTo/src/components/Nav/styled.js" timestamp="1530000056149">
-        <mark key="[" line="19" column="3" />
+      <file name="$USER_HOME$/Documents/DEVKH/devKangTo/src/components/Nav/styled.js" timestamp="1530000945060">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="22" />
+        <mark key="." line="18" column="22" />
+        <mark key="^" line="13" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/DEVKH/devKangTo/config/jest/fileTransform.js" timestamp="1529997265131">
         <mark key="[" line="4" column="0" />
@@ -437,11 +432,11 @@
       <jump line="14" column="92" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Router/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>6D60A9</text>
       </register>
       <register name="-" type="4">
-        <text>{display: show ? 'block':'none'}</text>
+        <text>6D60A9</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
