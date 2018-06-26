@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.1.5.3" />
+    <option name="version" value="2.4.2-2018.1" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
@@ -10,5 +10,6 @@
     <option name="darkTitleBar" value="true" />
     <option name="arrowsStyle" value="Darcula" />
     <option name="compactDropdowns" value="true" />
+    <option name="userId" value="-4a8a33da:16439779fa3:-7fff" />
   </component>
 </application>

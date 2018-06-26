@@ -9,11 +9,11 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Styled.js" timestamp="1529915309391">
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-        <mark key="^" line="3" column="20" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Styled.js" timestamp="1529976252426">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="15" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/index.js" timestamp="1529648561479">
         <mark key="[" line="17" column="11" />
@@ -138,7 +138,6 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/build/index.html" timestamp="1529913891504" />
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Header/index.js" timestamp="1529915025975">
         <mark key="'" line="80" column="2" />
         <mark key="[" line="101" column="21" />
@@ -170,11 +169,11 @@
         <mark key="." line="52" column="46" />
         <mark key="^" line="52" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1529915815215">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="11" column="6" />
-        <mark key="^" line="11" column="6" />
-        <mark key="." line="11" column="6" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1529976215121">
+        <mark key="[" line="15" column="56" />
+        <mark key="]" line="15" column="62" />
+        <mark key="^" line="15" column="62" />
+        <mark key="." line="15" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/app.js" timestamp="1529911916734">
         <mark key="[" line="12" column="11" />
@@ -211,7 +210,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Router/index.js" timestamp="1529903915896">
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Router/index.js" timestamp="1529975921917">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -249,11 +248,12 @@
         <mark key="^" line="10" column="54" />
         <mark key="." line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Controller.js" timestamp="1529915805304">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="7" column="15" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Controller.js" timestamp="1529975774688">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+        <mark key="^" line="14" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/public/index.html" timestamp="1529906395128">
         <mark key="[" line="8" column="11" />
@@ -370,46 +370,50 @@
       <jump line="42" column="38" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Home/Controller.js" />
       <jump line="96" column="101" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Header/index.js" />
       <jump line="80" column="2" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Header/index.js" />
+      <jump line="14" column="17" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Controller.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Controller.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGltZyBzcmMgPSAiL2ltYWdlcy9sYXlvdXQvaGVhZGVyX2Jsb2cucG5nIiBhbHQgPSAi64Sk7J2067KE67iU66Gc6re4IiAvPg==</text>
+        <text encoding="base64">PGlucHV0IHR5cGU9ImNoZWNrYm94IiAvPuyYpOuKmCDtlZjro6gg67O07KeA7JWK6riw</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">e3BvcHVwLmxpc3QubWFwKGRhdGEgPT4gewogICAgICAgIHJldHVybiAoCiAgICAgICAgICA8dGQ+CiAgICAgICAgICAgIDxQb3B1cCB7Li4uZGF0YX0ga2V5PXtkYXRhLmlkfSAvPgogICAgICAgICAgPC90ZD4KICAgICAgICApCiAgICAgIH0pfQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxTd2l0Y2g+CiAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvYm9hcmQvOnN1YiIgY29tcG9uZW50PXsgQm9hcmQgfSAvPgogICAgICAgICAgICA8Um91dGUgcGF0aD0iL2JvYXJkIiBjb21wb25lbnQ9eyBCb2FyZCB9IC8+CiAgICAgICAgICA8L1N3aXRjaD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIGNvbnN0IHsgIH0gPSB0aGlzLnByb3BzOwogICAgY29uc29sZS5sb2codGhpcy5wcm9wcyk7CiAgfQo=</text>
+        <text encoding="base64">ICBvcGVuX2RhdGUsCiAgY2xvc2VfZGF0ZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxQb3B1cCB7Li4uZGF0YX0ga2V5PXtkYXRhLmlkfSAvPgo=</text>
+        <text encoding="base64">aW1wb3J0IFBvcHVwIGZyb20gJy4uL1BvcHVwL2luZGV4JzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vYmxvZy5uYXZlci5jb20vUG9zdExpc3QubmhuP2Jsb2dJZD1wc2RyYW4mZnJvbT1wb3N0TGlzdCZjYXRlZ29yeU5vPTYiPuqzteyLneu4lOuhnOq3uDwvYT48YnIgLz4KICAgICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vYmxvZy5uYXZlci5jb20vcHNkcmFobiI+6rO17Iud67iU66Gc6re4PC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxTd2l0Y2g+CiAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvcG9wdXAiIGNvbXBvbmVudD17IFBvcHVwIH0gLz4KICAgICAgICAgIDwvU3dpdGNoPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vYmxvZy5uYXZlci5jb20vUG9zdExpc3QubmhuP2Jsb2dJZD1wc2RyYW4mZnJvbT1wb3N0TGlzdCZjYXRlZ29yeU5vPTYiPuqzteyLneu4lOuhnOq3uDwvYT48YnIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9wb3B1cCIgY29tcG9uZW50PXsgQm9hcmQgfSAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbWcgc3JjID0gIi9pbWFnZXMvbGF5b3V0L2hlYWRlcl9ibG9nLnBuZyIgYWx0ID0gIuuEpOydtOuyhOu4lOuhnOq3uCIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9ib2FyZC86c3ViIiBjb21wb25lbnQ9eyBCb2FyZCB9IC8+Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgCg==</text>
+      <register name="7" type="8">
+        <text>h
+h</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="8" type="8">
+        <text>t
+t</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lLWhlaWdodDogMTAwJTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/li/Li/g</text>
@@ -460,11 +464,20 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
