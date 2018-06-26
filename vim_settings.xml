@@ -182,11 +182,11 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Landing/Styled.js" timestamp="1529979113337">
-        <mark key="[" line="11" column="31" />
-        <mark key="]" line="11" column="32" />
-        <mark key="^" line="12" column="53" />
-        <mark key="." line="11" column="32" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Landing/Styled.js" timestamp="1529979848648">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+        <mark key="^" line="8" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/Admin.js" timestamp="1529652575340">
         <mark key="[" line="3" column="13" />
@@ -390,10 +390,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
@@ -402,33 +402,32 @@
         <text encoding="base64">ICAgICAgICAgIDxTd2l0Y2g+CiAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvYm9hcmQvOnN1YiIgY29tcG9uZW50PXsgQm9hcmQgfSAvPgogICAgICAgICAgICA8Um91dGUgcGF0aD0iL2JvYXJkIiBjb21wb25lbnQ9eyBCb2FyZCB9IC8+CiAgICAgICAgICA8L1N3aXRjaD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtc2l6ZTogY292ZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvcGVuX2RhdGUsCiAgY2xvc2VfZGF0ZSwK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6ICR7KHsgdGFibGV0IH0pID0+IChgdXJsKCIke3RhYmxldH0iKWApfSBuby1yZXBlYXQgY2VudGVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFBvcHVwIGZyb20gJy4uL1BvcHVwL2luZGV4JzsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxTd2l0Y2g+CiAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvcG9wdXAiIGNvbXBvbmVudD17IFBvcHVwIH0gLz4KICAgICAgICAgIDwvU3dpdGNoPgo=</text>
+        <text encoding="base64">ICBvcGVuX2RhdGUsCiAgY2xvc2VfZGF0ZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9wb3B1cCIgY29tcG9uZW50PXsgQm9hcmQgfSAvPgo=</text>
+        <text encoding="base64">aW1wb3J0IFBvcHVwIGZyb20gJy4uL1BvcHVwL2luZGV4JzsK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxTd2l0Y2g+CiAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvcG9wdXAiIGNvbXBvbmVudD17IFBvcHVwIH0gLz4KICAgICAgICAgIDwvU3dpdGNoPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9wb3B1cCIgY29tcG9uZW50PXsgQm9hcmQgfSAvPgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9ib2FyZC86c3ViIiBjb21wb25lbnQ9eyBCb2FyZCB9IC8+Cg==</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text>h
 h</text>
-      </register>
-      <register name="8" type="8">
-        <text>t
-t</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/li/Li/g</text>
