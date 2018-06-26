@@ -281,7 +281,7 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529997675041">
+      <file name="/Dummy.txt" timestamp="1530003288646">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -325,6 +325,12 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/DEVKH/devKangTo/src/pages/Board/Controller.js" timestamp="1530003283974">
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="14" column="1" />
+        <mark key="^" line="14" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/Controller.js" timestamp="1529644987044">
         <mark key="[" line="15" column="0" />
@@ -433,7 +439,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyOwo=</text>
+        <text encoding="base64">IHN0YXRpYyBnZXREZXJpdmVkU3RhdGVGcm9tUHJvcHMobmV4dFByb3BzLCBwcmV2U3RhdGUpIHsKICAgCiB9IAo=</text>
       </register>
       <register name="-" type="4">
         <text>6D60A9</text>
@@ -445,31 +451,31 @@
         <text encoding="base64">ICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IHN0YXRpYyBnZXREZXJpdmVkU3RhdGVGcm9tUHJvcHMobmV4dFByb3BzLCBwcmV2U3RhdGUpIHsKICAgCiB9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gaHR0cDovL2ZhY2Vib29rLmdpdGh1Yi5pby9qZXN0L2RvY3MvZW4vd2VicGFjay5odG1sCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gVGhpcyBpcyBhIGN1c3RvbSBKZXN0IHRyYW5zZm9ybWVyIHR1cm5pbmcgZmlsZSBpbXBvcnRzIGludG8gZmlsZW5hbWVzLgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFRoZSBvdXRwdXQgaXMgYWx3YXlzIHRoZSBzYW1lLgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Ly8gaHR0cDovL2ZhY2Vib29rLmdpdGh1Yi5pby9qZXN0L2RvY3MvZW4vd2VicGFjay5odG1sCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gVGhpcyBpcyBhIGN1c3RvbSBKZXN0IHRyYW5zZm9ybWVyIHR1cm5pbmcgZmlsZSBpbXBvcnRzIGludG8gZmlsZW5hbWVzLgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIFRoZSBvdXRwdXQgaXMgYWx3YXlzIHRoZSBzYW1lLgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gVGhpcyBpcyBhIGN1c3RvbSBKZXN0IHRyYW5zZm9ybWVyIHR1cm5pbmcgc3R5bGUgaW1wb3J0cyBpbnRvIGVtcHR5IG9iamVjdHMuCg==</text>
+        <text encoding="base64">Ly8gaHR0cDovL2ZhY2Vib29rLmdpdGh1Yi5pby9qZXN0L2RvY3MvZW4vd2VicGFjay5odG1sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gaHR0cHM6Ly9naXRodWIuY29tL2ZhY2Vib29raW5jdWJhdG9yL2NyZWF0ZS1yZWFjdC1hcHAvaXNzdWVzLzIyNzIjaXNzdWVjb21tZW50LTMwMjgzMjQzMgo=</text>
+        <text encoding="base64">Ly8gVGhpcyBpcyBhIGN1c3RvbSBKZXN0IHRyYW5zZm9ybWVyIHR1cm5pbmcgc3R5bGUgaW1wb3J0cyBpbnRvIGVtcHR5IG9iamVjdHMuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gaXQgdXNlZCB0aGUgc2FtZSBob3N0IGFuZCBwb3J0Lgo=</text>
+        <text encoding="base64">ICAgICAgLy8gaHR0cHM6Ly9naXRodWIuY29tL2ZhY2Vib29raW5jdWJhdG9yL2NyZWF0ZS1yZWFjdC1hcHAvaXNzdWVzLzIyNzIjaXNzdWVjb21tZW50LTMwMjgzMjQzMgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/li/Li/g</text>
