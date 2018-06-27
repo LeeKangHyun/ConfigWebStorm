@@ -20,10 +20,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/index.js" timestamp="1530069879795">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/index.js" timestamp="1530074687514">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="18" column="22" />
+        <mark key="." line="18" column="22" />
+        <mark key="^" line="18" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Controller.js" timestamp="1529906685440">
         <mark key="[" line="11" column="1" />
@@ -477,11 +478,11 @@
       <jump line="55" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KCfshLHqs7UnKTsK</text>
+      <register name="&quot;" type="4">
+        <text>text</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
