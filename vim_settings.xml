@@ -108,10 +108,10 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchAdmin.js" timestamp="1530070410779">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchAdmin.js" timestamp="1530079946013">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Styled.js" timestamp="1530062423374">
         <mark key="[" line="11" column="29" />
@@ -265,11 +265,11 @@
         <mark key="." line="9" column="18" />
         <mark key="^" line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/Admin.js" timestamp="1529652575340">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="3" column="13" />
-        <mark key="^" line="10" column="34" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/Admin.js" timestamp="1530079912886">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+        <mark key="^" line="5" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/registerServiceWorker.js" timestamp="1529908210979">
         <mark key="[" line="69" column="0" />
@@ -508,43 +508,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQk9BUkRfRkVUQ0hfUkVRVUVTVEVEIH0gZnJvbSAnLi4vYm9hcmQvYWN0aW9uJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;BOARD&quot;</text>
+        <text>'https://5x6ehnbthk.execute-api.ap-northeast-2.amazonaws.com/psdran/board/insert';</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGZvcm0+CiAgICAgICAgPGlucHV0IHR5cGU9eyJ0ZXh0In0gdmFsdWU9e3RpdGxlfSBuYW1lPSJ0aXRsZSIgb25DaGFuZ2U9e29uQ2hhbmdlVG9TdGF0ZX0gLz4KICAgICAgICA8dGV4dGFyZWEgdmFsdWU9e2NvbnRlbnR9IG5hbWU9ImNvbnRlbnQiIG9uQ2hhbmdlPXtvbkNoYW5nZVRvU3RhdGV9IC8+CiAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXtvblN1Ym1pdEZldGNofT7snpHshLE8L2J1dHRvbj4KICAgICAgPC9mb3JtPgo=</text>
+      <register name="0" type="4">
+        <text>'https://5x6ehnbthk.execute-api.ap-northeast-2.amazonaws.com/psdran/board/insert';</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQk9BUkRfRkVUQ0hfUkVRVUVTVEVEIH0gZnJvbSAnLi4vYm9hcmQvYWN0aW9uJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIHB1dCh7CiAgICAgIHR5cGU6IEJPQVJEX0ZFVENIX1JFUVVFU1RFRAogICAgfSkK</text>
+        <text encoding="base64">ZnVuY3Rpb24qIGZldGNoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdHlwZTogIkJPQVJEIgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBsZXQgdXJsID0gJ2h0dHBzOi8vNXg2ZWhuYnRoay5leGVjdXRlLWFwaS5hcC1ub3J0aGVhc3QtMi5hbWF6b25hd3MuY29tL3BzZHJhbi9ib2FyZC9pbnNlcnQnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0IC8+Cg==</text>
+        <text encoding="base64">a2sK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAKICBjb21wb25lbnREaWRNb3VudCgpIHsKICAKICB9Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICByZXR1cm4gX2ZldGNoKAogICAgdXJsLAogICAgewogICAgICBtZXRob2Q6ICdQT1NUJywKICAgICAgaGVhZGVyczogewogICAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicsCiAgICAgICAgJ0FjY2VwdCc6ICdhcHBsaWNhdGlvbi9qc29uJwogICAgICB9LAogICAgICBib2R5OiBKU09OLnN0cmluZ2lmeShkYXRhKQogICAgfQogICk7</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0aXRsZSwKICBjb250ZW50LAogIG9uQ2hhbmdlVG9TdGF0ZSwKICBvblN1Ym1pdEZldGNoLAo=</text>
+        <text encoding="base64">ICByZXR1cm4gX2ZldGNoKAogICAgdXJsLAogICAgewogICAgICBtZXRob2Q6ICdQT1NUJywKICAgICAgaGVhZGVyczogewogICAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24vanNvbicsCiAgICAgICAgJ0FjY2VwdCc6ICdhcHBsaWNhdGlvbi9qc29uJwogICAgICB9LAogICAgICBib2R5OiBKU09OLnN0cmluZ2lmeShkYXRhKQogICAgfQogICk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGZvcm0+CiAgICAgICAgPGlucHV0IHR5cGU9eyJ0ZXh0In0gdmFsdWU9e3RpdGxlfSBuYW1lPSJ0aXRsZSIgb25DaGFuZ2U9e29uQ2hhbmdlVG9TdGF0ZX0gLz4KICAgICAgICA8dGV4dGFyZWEgdmFsdWU9e2NvbnRlbnR9IG5hbWU9ImNvbnRlbnQiIG9uQ2hhbmdlPXtvbkNoYW5nZVRvU3RhdGV9IC8+CiAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXtvblN1Ym1pdEZldGNofT7snpHshLE8L2J1dHRvbj4KICAgICAgPC9mb3JtPgo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAK</text>
+      </register>
+      <register name="9" type="4">
+        <text>function XHR</text>
       </register>
       <register name=":" type="4">
         <text>%s/li/Li/g</text>
