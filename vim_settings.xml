@@ -495,6 +495,11 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/Board.js" timestamp="1530174963560">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="27" column="2" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
@@ -548,11 +553,11 @@
       <jump line="26" column="25" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNhc2UgQk9BUkRfRkVUQ0hfRkFJTEVEOgo=</text>
+      <register name="&quot;" type="4">
+        <text>https://5x6ehnbthk.execute-api.ap-northeast-2.amazonaws.com/psdran</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>https://5x6ehnbthk.execute-api.ap-northeast-2.amazonaws.com/psdran</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
