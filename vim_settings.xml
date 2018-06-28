@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Documents/portfolio/scripts/build.js" timestamp="1529825410682">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529824671943">
+      <file name="/Dummy.txt" timestamp="1530190656713">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/portfolio/src/redux/Board/reducer.js" timestamp="1529821920651">
@@ -26,7 +26,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/portfolio/package.json" timestamp="1529821080557">
+      <file name="$USER_HOME$/Documents/portfolio/package.json" timestamp="1529825445221">
         <mark key="[" line="99" column="5" />
         <mark key="]" line="108" column="4" />
         <mark key="^" line="108" column="4" />
@@ -52,12 +52,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/portfolio/src/redux/saga/watchBoard.js" timestamp="1529824865579">
+      <file name="$USER_HOME$/Documents/portfolio/src/redux/saga/watchBoard.js" timestamp="1529827586914">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="24" column="3" />
-        <mark key="]" line="13" column="28" />
-        <mark key="^" line="13" column="28" />
-        <mark key="." line="13" column="28" />
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="31" column="22" />
+        <mark key="^" line="31" column="22" />
+        <mark key="." line="31" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/portfolio/src/components/Router/index.js" timestamp="1529823119818">
         <mark key="[" line="19" column="87" />
@@ -82,7 +82,7 @@
         <mark key="." line="9" column="20" />
         <mark key="^" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/portfolio/src/redux/reducers.js" timestamp="1529823996133">
+      <file name="$USER_HOME$/Documents/portfolio/src/redux/reducers.js" timestamp="1529827800996">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="1" column="25" />
         <mark key="." line="1" column="25" />
@@ -130,14 +130,14 @@
       <jump line="9" column="0" filename="$USER_HOME$/Documents/portfolio/scripts/build.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9hZGluZ0Jhck1pZGRsZXdhcmUgfSBmcm9tICdyZWFjdC1yZWR1eC1sb2FkaW5nLWJhcic7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>D</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>D</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZ2V0UG9zdCB9ID0gdGhpcy5wcm9wczsKICAgIGdldFBvc3QoKTsK</text>
+        <text encoding="base64">ICB5aWVsZCB0YWtlTGF0ZXN0KEJPQVJEX0ZFVENIX1JFUVVFU1QsIGZldGNoQm9hcmQpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHsgbG9hZGluZ0Jhck1pZGRsZXdhcmUgfSBmcm9tICdyZWFjdC1yZWR1eC1sb2FkaW5nLWJhcic7Cg==</text>
@@ -179,6 +179,8 @@
       <history-cmd>
         <entry>3</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
