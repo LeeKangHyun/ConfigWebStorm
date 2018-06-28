@@ -108,12 +108,14 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/styled.js" timestamp="1529902426347">
-        <mark key="[" line="567" column="24" />
-        <mark key="]" line="568" column="19" />
-        <mark key="^" line="568" column="19" />
-        <mark key="." line="568" column="19" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/util/util.js" timestamp="1530067605923" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/styled.js" timestamp="1530166423471">
+        <mark key="[" line="712" column="10" />
+        <mark key="]" line="691" column="21" />
+        <mark key="^" line="691" column="21" />
+        <mark key="." line="691" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/common/Paging.js" timestamp="1530166517645" />
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Slider/Carousel.js" timestamp="1529644469302">
         <mark key="[" line="25" column="10" />
         <mark key="]" line="25" column="10" />
@@ -150,6 +152,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="27" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/modal/Notice.js" timestamp="1530068198811" />
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/views/include/footer.pug" timestamp="1529644722894">
         <mark key="[" line="26" column="47" />
         <mark key="]" line="26" column="55" />
@@ -188,6 +191,7 @@
         <mark key="^" line="25" column="44" />
         <mark key="." line="25" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home.js" timestamp="1530069716858" />
       <file name="$USER_HOME$/Documents/hnh/mhub/package.json" timestamp="1529912413426">
         <mark key="[" line="52" column="39" />
         <mark key="]" line="52" column="46" />
@@ -271,7 +275,7 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530153674151">
+      <file name="/Dummy.txt" timestamp="1530166596503">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -302,6 +306,12 @@
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/stylesheets/container/modal/okinvest.scss" timestamp="1530091423706">
         <mark key="[" line="160" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Status.js" timestamp="1530166331203">
+        <mark key="[" line="56" column="11" />
+        <mark key="]" line="56" column="11" />
+        <mark key="^" line="43" column="17" />
+        <mark key="." line="56" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/Controller.js" timestamp="1529644987044">
         <mark key="[" line="15" column="0" />
@@ -417,10 +427,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
