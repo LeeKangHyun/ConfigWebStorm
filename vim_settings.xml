@@ -62,11 +62,11 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/index.js" timestamp="1530162744874">
-        <mark key="[" line="28" column="44" />
-        <mark key="]" line="28" column="44" />
-        <mark key="." line="28" column="44" />
-        <mark key="^" line="28" column="44" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/index.js" timestamp="1530170136092">
+        <mark key="[" line="31" column="11" />
+        <mark key="]" line="33" column="9" />
+        <mark key="." line="33" column="9" />
+        <mark key="^" line="33" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/views/layout.pug" timestamp="1530168699851">
         <mark key="[" line="17" column="43" />
@@ -413,11 +413,11 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="56" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/Controller.js" timestamp="1529644987044">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="20" column="23" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/Controller.js" timestamp="1530170201761">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
+        <mark key="^" line="17" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Router/styled.js" timestamp="1529906873466">
         <mark key="[" line="3" column="0" />
@@ -546,11 +546,11 @@
       <jump line="26" column="25" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>invest list issue</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb21wb25lbnRXaWxsUmVjZWl2ZVByb3BzKG5leHRQcm9wcykgewogICAgCiAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>invest list issue</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
@@ -559,31 +559,31 @@
         <text encoding="base64">QURNSU5fU0VUX0RBVEFfUkVRVUVTVApBRE1JTl9TRVRfREFUQV9TVUNDRVNTCkFETUlOX1NFVF9EQVRBX0NIQU5HRUQKQURNSU5fU0VUX0RBVEFfRkFJTEVEIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2PntkYXRhLmlkfTwvZGl2PgogICAgICAgICAgICAgIDxkaXY+e2RhdGEudGl0bGV9PC9kaXY+CiAgICAgICAgICAgICAgPGRpdj57ZGF0YS5jcmVhdGVUaW1lfTwvZGl2PgogICAgICAgICAgICA8L0xpPgo=</text>
+        <text encoding="base64">ICBjb21wb25lbnRXaWxsUmVjZWl2ZVByb3BzKG5leHRQcm9wcykgewogICAgCiAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">7JeFCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2PntkYXRhLmlkfTwvZGl2PgogICAgICAgICAgICAgIDxkaXY+e2RhdGEudGl0bGV9PC9kaXY+CiAgICAgICAgICAgICAgPGRpdj57ZGF0YS5jcmVhdGVUaW1lfTwvZGl2PgogICAgICAgICAgICA8L0xpPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB5aWVsZCB0YWtlTGF0ZXN0KEFETUlOX1BPUFVQX0NSRUFURSwgc2V0UG9wdXApOwogIAo=</text>
+        <text encoding="base64">7JeFCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24qIHNldFBvcHVwKHtkYXRhfSkgewogIHRyeSB7CiAgICB5aWVsZCBwdXQoc2hvd0xvYWRpbmcoKSk7CiAgICB5aWVsZCBjYWxsKGFkbWluLnNldFBvcHVwLCBkYXRhKTsKICAgIHlpZWxkIHB1dCh7CiAgICAgIHR5cGU6IEFETUlOX1BPUFVQX1NVQ0NFU1MsCiAgICB9KTsKICB9IGNhdGNoKGVycikgewogICAgeWllbGQgcHV0KHsKICAgICAgdHlwZTogQURNSU5fUE9QVVBfRkFJTEVELAogICAgICBlcnJvcjogZXJyLAogICAgfSkKICB9IGZpbmFsbHkgewogICAgeWllbGQgcHV0KGhpZGVMb2FkaW5nKCkpOwogIH0KfQoK</text>
+        <text encoding="base64">ICB5aWVsZCB0YWtlTGF0ZXN0KEFETUlOX1BPUFVQX0NSRUFURSwgc2V0UG9wdXApOwogIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBBRE1JTl9QT1BVUF9DUkVBVEUsCiAgQURNSU5fUE9QVVBfU1VDQ0VTUywKICBBRE1JTl9QT1BVUF9GQUlMRUQsCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24qIHNldFBvcHVwKHtkYXRhfSkgewogIHRyeSB7CiAgICB5aWVsZCBwdXQoc2hvd0xvYWRpbmcoKSk7CiAgICB5aWVsZCBjYWxsKGFkbWluLnNldFBvcHVwLCBkYXRhKTsKICAgIHlpZWxkIHB1dCh7CiAgICAgIHR5cGU6IEFETUlOX1BPUFVQX1NVQ0NFU1MsCiAgICB9KTsKICB9IGNhdGNoKGVycikgewogICAgeWllbGQgcHV0KHsKICAgICAgdHlwZTogQURNSU5fUE9QVVBfRkFJTEVELAogICAgICBlcnJvcjogZXJyLAogICAgfSkKICB9IGZpbmFsbHkgewogICAgeWllbGQgcHV0KGhpZGVMb2FkaW5nKCkpOwogIH0KfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzZXRQb3B1cCwK</text>
+        <text encoding="base64">ICBBRE1JTl9QT1BVUF9DUkVBVEUsCiAgQURNSU5fUE9QVVBfU1VDQ0VTUywKICBBRE1JTl9QT1BVUF9GQUlMRUQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gc2V0UG9wdXAoZGF0YSkgewogIGxldCB1cmwgPSAnaHR0cHM6Ly81eDZlaG5idGhrLmV4ZWN1dGUtYXBpLmFwLW5vcnRoZWFzdC0yLmFtYXpvbmF3cy5jb20vcHNkcmFuL3BvcHVwL2luc2VydCc7CiAgcmV0dXJuIFhIUih1cmwsIGRhdGEpOwp9Cg==</text>
+        <text encoding="base64">ICBzZXRQb3B1cCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNhc2UgQURNSU5fUE9QVVBfRkFJTEVEOgo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gc2V0UG9wdXAoZGF0YSkgewogIGxldCB1cmwgPSAnaHR0cHM6Ly81eDZlaG5idGhrLmV4ZWN1dGUtYXBpLmFwLW5vcnRoZWFzdC0yLmFtYXpvbmF3cy5jb20vcHNkcmFuL3BvcHVwL2luc2VydCc7CiAgcmV0dXJuIFhIUih1cmwsIGRhdGEpOwp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhc2UgQURNSU5fUE9QVVBfU1VDQ0VTUzoK</text>
+        <text encoding="base64">ICAgIGNhc2UgQURNSU5fUE9QVVBfRkFJTEVEOgo=</text>
       </register>
       <register name=":" type="4">
         <text>5</text>
