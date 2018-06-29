@@ -20,11 +20,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/index.js" timestamp="1530074695068">
-        <mark key="[" line="19" column="22" />
-        <mark key="]" line="19" column="22" />
-        <mark key="." line="19" column="22" />
-        <mark key="^" line="18" column="22" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/index.js" timestamp="1530261665276">
+        <mark key="[" line="21" column="37" />
+        <mark key="]" line="21" column="38" />
+        <mark key="." line="21" column="38" />
+        <mark key="^" line="16" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Controller.js" timestamp="1529906685440">
         <mark key="[" line="11" column="1" />
@@ -92,17 +92,10 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/public/index.html" timestamp="1530249064381">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="7" column="2" />
-        <mark key="^" line="5" column="36" />
-        <mark key="." line="7" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Styled.js" timestamp="1530062423374">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="29" />
-        <mark key="." line="11" column="29" />
-        <mark key="^" line="11" column="29" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Styled.js" timestamp="1530262131877">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/styled.js" timestamp="1530166423471">
         <mark key="[" line="712" column="10" />
@@ -397,12 +390,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Footer/index.js" timestamp="1530233656206">
-        <mark key="[" line="64" column="127" />
-        <mark key="]" line="66" column="35" />
-        <mark key="^" line="66" column="35" />
-        <mark key="." line="66" column="35" />
-      </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/views/layout.pug" timestamp="1530168699851">
         <mark key="[" line="17" column="43" />
         <mark key="]" line="17" column="43" />
@@ -539,12 +526,6 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/src/index.js" timestamp="1530250100325">
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="8" column="16" />
-        <mark key="." line="8" column="16" />
-        <mark key="^" line="8" column="16" />
-      </file>
       <file name="/Dummy.txt" timestamp="1530257642455">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -595,11 +576,10 @@
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/src/components/Layout.css" timestamp="1530249399858">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/index.js" timestamp="1530260250971">
-        <mark key="[" line="15" column="29" />
-        <mark key="]" line="16" column="27" />
-        <mark key="." line="16" column="27" />
-        <mark key="^" line="16" column="27" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/index.js" timestamp="1530261560654">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/build-utils/webpack.prod.js" timestamp="1530255986987">
         <mark key="[" line="0" column="0" />
@@ -690,46 +670,47 @@
       <jump line="1" column="21" filename="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/.babelrc" />
       <jump line="21" column="18" filename="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/src/components/App.js" />
       <jump line="5" column="26" filename="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/build-utils/addons/webpack.bundleanalyzer.js" />
+      <jump line="12" column="1" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Styled.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPAo=</text>
+        <text encoding="base64">ICBpbnB1dCB7CiAgICBwYWRkaW5nOiAuM2VtIC42ZW07CiAgICBib3JkZXI6IDFweCBzb2xpZCAjZWZlZmVmOwogICAgb3V0bGluZTogbm9uZTsKICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Popup</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJjcm9zcy1lbnYgTk9ERV9FTlY9cHJvZHVjdGlvbiB3ZWJwYWNrIC1wIC0tZW52LmVudj1wcm9kIgo=</text>
+        <text encoding="base64">ICAgICAgPGJyIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPAo=</text>
+        <text encoding="base64">ICBpbnB1dCB7CiAgICBwYWRkaW5nOiAuM2VtIC42ZW07CiAgICBib3JkZXI6IDFweCBzb2xpZCAjZWZlZmVmOwogICAgb3V0bGluZTogbm9uZTsKICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ3ZWJwYWNrIjogIl40LjYuMCIK</text>
+        <text encoding="base64">IAogIHRleHRhcmVhIHsKICAgIHJlc2l6ZTogbm9uZTsKICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wb2x5ZmlsbCI6ICJeNi4yNi4wIiwKICAgICJiYWJlbC1wcmVzZXQtcmVhY3QtYXBwIjogIl4zLjEuMSIsCg==</text>
+        <text encoding="base64">ICAKICB0ZXh0YXJlYSB7CiAgICByZXNpemU6IG5vbmU7CiAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLkhvdE1vZHVsZVJlcGxhY2VtZW50UGx1Z2luKCksCg==</text>
+        <text encoding="base64">ICAgIGJvcmRlcjogbm9uZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZXZTZXJ2ZXI6IHsKICAgIGhvc3Q6ICdsb2NhbGhvc3QnLAogICAgcG9ydDogcG9ydCwKICAgIGhpc3RvcnlBcGlGYWxsYmFjazogdHJ1ZSwKICAgIG9wZW46IHRydWUsCiAgICBob3Q6IHRydWUsCiAgfSwK</text>
+        <text encoding="base64">ICBvdXRsaW5lOiBub25lOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1c2U6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgbG9hZGVyOiAnc3R5bGUtbG9hZGVyJywKICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgIGxvYWRlcjogJ2Nzcy1sb2FkZXInLAogICAgICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICAgICAgbW9kdWxlczogdHJ1ZSwKICAgICAgICAgICAgICBjYW1lbENhc2U6IHRydWUsCiAgICAgICAgICAgICAgc291cmNlTWFwOiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8g65GQ67KI7Ke4IOujsAo=</text>
+        <text encoding="base64">ICAgICAgPAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8g7LKr67KI7Ke4IOujsAo=</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrIjogIl40LjYuMCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wb2x5ZmlsbCI6ICJeNi4yNi4wIiwKICAgICJiYWJlbC1wcmVzZXQtcmVhY3QtYXBwIjogIl4zLjEuMSIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>5</text>
