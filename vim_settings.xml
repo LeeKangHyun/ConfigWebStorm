@@ -69,8 +69,11 @@
         <mark key="]" line="208" column="0" />
         <mark key="." line="208" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/package.json" timestamp="1530249729288">
-        <mark key="[" line="25" column="3" />
+      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/package.json" timestamp="1530253298209">
+        <mark key="[" line="33" column="14" />
+        <mark key="]" line="33" column="91" />
+        <mark key="^" line="33" column="91" />
+        <mark key="." line="33" column="91" />
       </file>
       <file name="$USER_HOME$/Documents/DEVKH/devKangTo/config/webpackDevServer.config.js" timestamp="1529997243101">
         <mark key="[" line="35" column="0" />
@@ -645,11 +648,11 @@
       <jump line="21" column="18" filename="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/src/components/App.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLkhvdE1vZHVsZVJlcGxhY2VtZW50UGx1Z2luKCksCg==</text>
+      <register name="&quot;" type="4">
+        <text>server</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>server</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
