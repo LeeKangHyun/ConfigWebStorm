@@ -75,6 +75,12 @@
         <mark key="]" line="208" column="0" />
         <mark key="." line="208" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/package.json" timestamp="1530259285174">
+        <mark key="[" line="38" column="33" />
+        <mark key="]" line="38" column="33" />
+        <mark key="." line="38" column="33" />
+        <mark key="^" line="51" column="23" />
+      </file>
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/package.json" timestamp="1530256428797">
         <mark key="[" line="40" column="29" />
         <mark key="]" line="40" column="66" />
@@ -533,7 +539,7 @@
         <mark key="." line="8" column="16" />
         <mark key="^" line="8" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530236320828">
+      <file name="/Dummy.txt" timestamp="1530257642455">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -681,10 +687,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
@@ -693,28 +699,28 @@
         <text encoding="base64">ICAgICJidWlsZCI6ICJjcm9zcy1lbnYgTk9ERV9FTlY9cHJvZHVjdGlvbiB3ZWJwYWNrIC1wIC0tZW52LmVudj1wcm9kIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLkhvdE1vZHVsZVJlcGxhY2VtZW50UGx1Z2luKCksCg==</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrIjogIl40LjYuMCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZXZTZXJ2ZXI6IHsKICAgIGhvc3Q6ICdsb2NhbGhvc3QnLAogICAgcG9ydDogcG9ydCwKICAgIGhpc3RvcnlBcGlGYWxsYmFjazogdHJ1ZSwKICAgIG9wZW46IHRydWUsCiAgICBob3Q6IHRydWUsCiAgfSwK</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wb2x5ZmlsbCI6ICJeNi4yNi4wIiwKICAgICJiYWJlbC1wcmVzZXQtcmVhY3QtYXBwIjogIl4zLjEuMSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1c2U6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgbG9hZGVyOiAnc3R5bGUtbG9hZGVyJywKICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgIGxvYWRlcjogJ2Nzcy1sb2FkZXInLAogICAgICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICAgICAgbW9kdWxlczogdHJ1ZSwKICAgICAgICAgICAgICBjYW1lbENhc2U6IHRydWUsCiAgICAgICAgICAgICAgc291cmNlTWFwOiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLkhvdE1vZHVsZVJlcGxhY2VtZW50UGx1Z2luKCksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8g65GQ67KI7Ke4IOujsAo=</text>
+        <text encoding="base64">ICBkZXZTZXJ2ZXI6IHsKICAgIGhvc3Q6ICdsb2NhbGhvc3QnLAogICAgcG9ydDogcG9ydCwKICAgIGhpc3RvcnlBcGlGYWxsYmFjazogdHJ1ZSwKICAgIG9wZW46IHRydWUsCiAgICBob3Q6IHRydWUsCiAgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8g7LKr67KI7Ke4IOujsAo=</text>
+        <text encoding="base64">ICAgICAgICB1c2U6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgbG9hZGVyOiAnc3R5bGUtbG9hZGVyJywKICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgIGxvYWRlcjogJ2Nzcy1sb2FkZXInLAogICAgICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICAgICAgbW9kdWxlczogdHJ1ZSwKICAgICAgICAgICAgICBjYW1lbENhc2U6IHRydWUsCiAgICAgICAgICAgICAgc291cmNlTWFwOiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICBdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgICAgLy8g65GQ67KI7Ke4IOujsAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8g7LKr67KI7Ke4IOujsAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyB3ZWJwYWNrIOyEpOyglSDrtoDrtoQK</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
