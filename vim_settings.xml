@@ -310,6 +310,12 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub2/src/pages/Landing/index.js" timestamp="1530241116393">
+        <mark key="[" line="11" column="53" />
+        <mark key="]" line="13" column="71" />
+        <mark key="." line="13" column="71" />
+        <mark key="^" line="13" column="71" />
+      </file>
       <file name="$USER_HOME$/Documents/DEVKH/devKangTo/scripts/test.js" timestamp="1529996995230">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -572,11 +578,11 @@
       <jump line="58" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>mhubhospital</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>mhubhospital</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
