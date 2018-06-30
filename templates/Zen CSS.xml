@@ -1,0 +1,18 @@
+<templateSet group="Zen CSS">
+  <template name="m" value="margin: $END$;" description="margin:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="p" value="padding: $END$;" description="padding:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="td" value="text-decoration:$VAR0$;" description="text-decoration:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;none&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="th" value="text-height: $END$;" description="text-height:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="tr" value="text-replace: $END$;" description="text-replace:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+</templateSet>

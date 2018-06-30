@@ -1,5 +1,11 @@
 <application>
-  <component name="WebBrowsersConfiguration">
+  <component name="WebBrowsersConfiguration" default="first">
+    <browser id="07f8375a-e881-41fd-9007-263cac7144e2" name="whale" family="CHROME" path="/Applications/Whale.app">
+      <settings>
+        <use-custom-profile>true</use-custom-profile>
+        <user-data-dir>$APPLICATION_CONFIG_DIR$/chrome-user-data</user-data-dir>
+      </settings>
+    </browser>
     <browser id="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" name="Chrome" family="CHROME" />
     <browser id="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" name="Firefox" family="FIREFOX" />
     <browser id="e5120d43-2c3f-47ef-9f26-65e539e05186" name="Safari" family="SAFARI" />

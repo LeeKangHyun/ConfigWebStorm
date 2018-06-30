@@ -1,6 +1,5 @@
 <application>
   <component name="IntentionManagerSettings">
-    <ignoreAction name="Dart/Quick assist powered by the Dart Analysis Server" />
-    <ignoreAction name="Flow JS/Specify variable type explicitly" />
+    <ignoreAction name="JavaScript/Language Injection/Annotate injection with comment" />
   </component>
 </application>

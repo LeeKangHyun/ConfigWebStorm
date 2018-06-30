@@ -39,4 +39,20 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="rsc" value="import React from 'react'&#10;&#10;const $COMPONENT$ = (props) =&gt; {&#10;  return (&#10;      &lt;div&gt;$END$&lt;/div&gt;&#10;  );&#10;};&#10;&#10;export default $COMPONENT$;" description="const stateless 함수" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="gdsp" value="static getDerivedStateFromProps(nextProps, prevState) {&#10;  $END$&#10;}" description="cwm, cwr 대신에 사용 getDerivedStateFromProps" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="gsbu" value="getSnapshotBeforeUpdate(prevProps, prevState) {&#10;  $END$ &#10;}" description="cwup 대신에 사용 getSnapshotBeforeUpdate, 반환이 cdup arg[3]" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>

@@ -1,0 +1,789 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/DEVKH/devKangTo/scripts/build.js" timestamp="1529996957431">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/build-utils/webpack.common.js" timestamp="1530256017498">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="79" column="23" />
+        <mark key="^" line="79" column="23" />
+        <mark key="." line="79" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Styled.js" timestamp="1529976252426">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="15" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/index.js" timestamp="1530261665276">
+        <mark key="[" line="21" column="37" />
+        <mark key="]" line="21" column="38" />
+        <mark key="." line="21" column="38" />
+        <mark key="^" line="16" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Controller.js" timestamp="1529906685440">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="13" column="29" />
+        <mark key="^" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Component/SetPop.js" timestamp="1530075779104">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/index.js" timestamp="1529564594658">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="25" />
+        <mark key="^" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/index.js" timestamp="1530176672536">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="30" column="45" />
+        <mark key="]" line="30" column="62" />
+        <mark key="." line="30" column="62" />
+        <mark key="^" line="30" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/admin/reducer.js" timestamp="1530152210556">
+        <mark key="'" line="23" column="7" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="33" column="7" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/Popup.js" timestamp="1529658968050">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+        <mark key="^" line="3" column="84" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/globalStyled.js" timestamp="1529906502717">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/config/webpack.config.prod.js" timestamp="1529907993535">
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/package.json" timestamp="1530259285174">
+        <mark key="[" line="38" column="33" />
+        <mark key="]" line="38" column="33" />
+        <mark key="." line="38" column="33" />
+        <mark key="^" line="51" column="23" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/package.json" timestamp="1530256428797">
+        <mark key="[" line="40" column="29" />
+        <mark key="]" line="40" column="66" />
+        <mark key="^" line="40" column="66" />
+        <mark key="." line="40" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/DEVKH/devKangTo/config/webpackDevServer.config.js" timestamp="1529997243101">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Styled.js" timestamp="1530262131877">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/styled.js" timestamp="1530166423471">
+        <mark key="[" line="712" column="10" />
+        <mark key="]" line="691" column="21" />
+        <mark key="^" line="691" column="21" />
+        <mark key="." line="691" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Slider/Carousel.js" timestamp="1529644469302">
+        <mark key="[" line="25" column="10" />
+        <mark key="]" line="25" column="10" />
+        <mark key="^" line="25" column="11" />
+        <mark key="." line="25" column="10" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/src/components/Home.js" timestamp="1530250368832">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchFetchBoard.js" timestamp="1530176470634">
+        <mark key="[" line="14" column="51" />
+        <mark key="]" line="14" column="55" />
+        <mark key="^" line="14" column="55" />
+        <mark key="." line="14" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/common/Popup/Controller.js" timestamp="1529654123982">
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="14" column="1" />
+        <mark key="^" line="14" column="1" />
+        <mark key="." line="14" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/index.js" timestamp="1529658983035">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/util/index.js" timestamp="1530067545843">
+        <mark key="[" line="27" column="1" />
+        <mark key="]" line="27" column="1" />
+        <mark key="^" line="27" column="1" />
+        <mark key="." line="27" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/DEVKH/devKangTo/config/webpack.config.dev.js" timestamp="1529997120817">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/board/action.js" timestamp="1530176314397">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="29" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/DEVKH/devKangTo/config/paths.js" timestamp="1529997027364">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Header/index.js" timestamp="1530066144080">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/views/include/footer.pug" timestamp="1529644722894">
+        <mark key="[" line="26" column="47" />
+        <mark key="]" line="26" column="55" />
+        <mark key="." line="26" column="55" />
+        <mark key="^" line="26" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/Styled.js" timestamp="1530156587627">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchPopup.js" timestamp="1530078373959">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/component/BoardItem.js" timestamp="1530155711816">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/DEVKH/devKangTo/scripts/start.js" timestamp="1529997474667">
+        <mark key="[" line="35" column="55" />
+        <mark key="]" line="35" column="56" />
+        <mark key="." line="35" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1530068527979">
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="27" column="35" />
+        <mark key="." line="27" column="35" />
+        <mark key="^" line="27" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/DEVKH/devKangTo/config/polyfills.js" timestamp="1529997037060">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/app.js" timestamp="1529911916734">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="11" />
+        <mark key="^" line="4" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/SetPopup.js" timestamp="1530086159217">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="15" column="35" />
+        <mark key="^" line="15" column="35" />
+        <mark key="." line="15" column="35" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/webpack.config.production.js" timestamp="1530252248691">
+        <mark key="[" line="63" column="7" />
+        <mark key="]" line="66" column="20" />
+        <mark key="." line="66" column="20" />
+        <mark key="^" line="66" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Controller.js" timestamp="1530153703263">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/Admin.js" timestamp="1530152227687">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/build-utils/addons/webpack.bundleanalyzer.js" timestamp="1530256344521">
+        <mark key="'" line="5" column="26" />
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/DEVKH/devKangTo/scripts/test.js" timestamp="1529996995230">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/board/reducer.js" timestamp="1530173077067">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Landing/index.js" timestamp="1530001813960">
+        <mark key="[" line="13" column="96" />
+        <mark key="]" line="13" column="97" />
+        <mark key="." line="13" column="97" />
+        <mark key="^" line="13" column="95" />
+      </file>
+      <file name="$USER_HOME$/Documents/DEVKH/devKangTo/index.js" timestamp="1529996897544">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/public/manifest.json" timestamp="1529906345973">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/DEVKH/devKangTo/config/jest/cssTransform.js" timestamp="1529997259125">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/config/env.js" timestamp="1529908060134">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/postcss.config.js" timestamp="1530252539001">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/common/Popup/index.js" timestamp="1529654195812">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/configureStore.js" timestamp="1529568863496">
+        <mark key="[" line="10" column="54" />
+        <mark key="]" line="10" column="54" />
+        <mark key="^" line="10" column="54" />
+        <mark key="." line="10" column="54" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/.babelrc" timestamp="1530250492041">
+        <mark key="'" line="1" column="21" />
+        <mark key="[" line="1" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/public/index.html" timestamp="1529906395128">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/DEVKH/devKangTo/config/webpack.config.prod.js" timestamp="1529997212029">
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/DEVKH/devKangTo/src/pages/Board/Controller.js" timestamp="1530003283974">
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="14" column="1" />
+        <mark key="^" line="14" column="1" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/src/components/App.js" timestamp="1530250907227">
+        <mark key="'" line="35" column="18" />
+        <mark key="[" line="28" column="28" />
+        <mark key="]" line="28" column="39" />
+        <mark key="^" line="28" column="39" />
+        <mark key="." line="28" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/Controller.js" timestamp="1530176646349">
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="32" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Router/styled.js" timestamp="1529906873466">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/webpack.config.js" timestamp="1530256095672">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="54" column="20" />
+        <mark key="." line="54" column="20" />
+        <mark key="^" line="54" column="20" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/src/components/Layout.js" timestamp="1530249432179">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/board.js" timestamp="1529558734060">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="3" column="2" />
+        <mark key="." line="3" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/DEVKH/devKangTo/src/components/Nav/styled.js" timestamp="1530000945060">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="22" />
+        <mark key="." line="18" column="22" />
+        <mark key="^" line="13" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/DEVKH/devKangTo/config/jest/fileTransform.js" timestamp="1529997265131">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/Board.js" timestamp="1530176441462">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="5" column="29" />
+        <mark key="." line="5" column="29" />
+        <mark key="^" line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/src/components/DynamicPage.js" timestamp="1530249709712">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="19" />
+        <mark key="^" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/index.js" timestamp="1529659827305">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Styled.js" timestamp="1529907627450">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="2" />
+        <mark key="." line="4" column="2" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/popup/reducer.js" timestamp="1529659940479">
+        <mark key="[" line="28" column="7" />
+        <mark key="]" line="28" column="7" />
+        <mark key="^" line="28" column="7" />
+        <mark key="." line="28" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/index.js" timestamp="1529906957993">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/views/layout.pug" timestamp="1530168699851">
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="43" />
+        <mark key="." line="17" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/admin/action.js" timestamp="1530152198992">
+        <mark key="'" line="6" column="13" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" timestamp="1530152184855">
+        <mark key="'" line="26" column="25" />
+        <mark key="[" line="44" column="21" />
+        <mark key="]" line="44" column="28" />
+        <mark key="." line="44" column="28" />
+        <mark key="^" line="44" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchAdmin.js" timestamp="1530152242383">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="6" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/index.js" timestamp="1529910975064">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/SetUser.js" timestamp="1530260216483">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="11" />
+        <mark key="^" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Header/Controller.js" timestamp="1529895128290">
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="19" />
+        <mark key="." line="25" column="19" />
+        <mark key="^" line="25" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/scripts/start.js" timestamp="1529908329740">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/SetBoard.js" timestamp="1530075950164">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="3" column="48" />
+        <mark key="." line="3" column="48" />
+        <mark key="^" line="3" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/component/Styled.js" timestamp="1530156574548">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/build-utils/webpack.dev.js" timestamp="1530256005499">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/DEVKH/devKangTo/src/pages/Board/index.js" timestamp="1530001171824">
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="25" column="44" />
+        <mark key="^" line="25" column="44" />
+        <mark key="." line="25" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/.gitignore" timestamp="1530236722610">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/package.json" timestamp="1529912413426">
+        <mark key="[" line="52" column="39" />
+        <mark key="]" line="52" column="46" />
+        <mark key="." line="52" column="46" />
+        <mark key="^" line="52" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Landing/Styled.js" timestamp="1530001945088">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="15" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/registerServiceWorker.js" timestamp="1529908210979">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub2/src/pages/Landing/index.js" timestamp="1530241116393">
+        <mark key="[" line="11" column="53" />
+        <mark key="]" line="13" column="71" />
+        <mark key="." line="13" column="71" />
+        <mark key="^" line="13" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Component/index.js" timestamp="1530075782466">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/src/components/NoMatch.js" timestamp="1530249711776">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" timestamp="1529998813361">
+        <mark key="'" line="18" column="6" />
+        <mark key="[" line="50" column="17" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Slider/EmptyInvest.js" timestamp="1529644091563">
+        <mark key="[" line="19" column="47" />
+        <mark key="]" line="19" column="47" />
+        <mark key="." line="19" column="47" />
+        <mark key="^" line="18" column="23" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/build-utils/build-validations.js" timestamp="1530254255371">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/config/paths.js" timestamp="1529908036548">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Router/index.js" timestamp="1530066428329">
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="24" column="30" />
+        <mark key="." line="24" column="30" />
+        <mark key="^" line="24" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/rootReducer.js" timestamp="1530065967948">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1530257642455">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/scripts/build.js" timestamp="1529908178136">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/scripts/test.js" timestamp="1529908137082">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Status.js" timestamp="1530166331203">
+        <mark key="[" line="56" column="11" />
+        <mark key="]" line="56" column="11" />
+        <mark key="^" line="43" column="17" />
+        <mark key="." line="56" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/.babelrc" timestamp="1529888267629">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+        <mark key="^" line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/popup/action.js" timestamp="1529660001581">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="2" />
+        <mark key="^" line="6" column="2" />
+        <mark key="." line="6" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Home/Controller.js" timestamp="1529901829052">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/stylesheets/container/notify/notice.scss" timestamp="1529637448726">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="93" column="10" />
+        <mark key="." line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/build-utils/common-paths.js" timestamp="1530254157902">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/src/components/Layout.css" timestamp="1530249399858">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/index.js" timestamp="1530261560654">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/build-utils/webpack.prod.js" timestamp="1530255986987">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="52" column="23" />
+        <mark key="^" line="52" column="23" />
+        <mark key="." line="52" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/index.js" timestamp="1529907514133">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/component/BoardList.js" timestamp="1530176703147">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="43" />
+        <mark key="^" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/config/polyfills.js" timestamp="1529908025711">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/DEVKH/devKangTo/config/env.js" timestamp="1529997016810">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/src/components/Loading.js" timestamp="1530250688922">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="27" column="2" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="22" column="6" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="8" column="26" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="61" column="2" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="56" column="6" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="43" column="30" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="32" column="13" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="33" column="12" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="6" column="19" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="10" column="24" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="17" column="6" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="16" column="6" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="11" column="46" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchFetchBoard.js" />
+      <jump line="19" column="13" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/index.js" />
+      <jump line="3" column="56" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/board/action.js" />
+      <jump line="22" column="9" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/board/reducer.js" />
+      <jump line="6" column="21" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchFetchBoard.js" />
+      <jump line="25" column="12" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/index.js" />
+      <jump line="8" column="6" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/index.js" />
+      <jump line="1" column="16" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Home/index.js" />
+      <jump line="8" column="17" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Home/index.js" />
+      <jump line="14" column="33" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchFetchBoard.js" />
+      <jump line="42" column="38" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Home/Controller.js" />
+      <jump line="96" column="101" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Header/index.js" />
+      <jump line="80" column="2" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Header/index.js" />
+      <jump line="14" column="17" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Controller.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Router/index.js" />
+      <jump line="14" column="92" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Router/index.js" />
+      <jump line="20" column="17" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Controller.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Controller.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Controller.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Controller.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Controller.js" />
+      <jump line="1" column="27" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Controller.js" />
+      <jump line="34" column="31" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Controller.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Controller.js" />
+      <jump line="25" column="19" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Controller.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Controller.js" />
+      <jump line="28" column="13" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/admin/reducer.js" />
+      <jump line="9" column="13" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
+      <jump line="22" column="13" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/admin/action.js" />
+      <jump line="34" column="7" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/admin/reducer.js" />
+      <jump line="26" column="25" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
+      <jump line="33" column="7" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/index.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/index.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/.babelrc" />
+      <jump line="1" column="21" filename="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/.babelrc" />
+      <jump line="21" column="18" filename="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/src/components/App.js" />
+      <jump line="5" column="26" filename="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/build-utils/addons/webpack.bundleanalyzer.js" />
+      <jump line="12" column="1" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Styled.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBpbnB1dCB7CiAgICBwYWRkaW5nOiAuM2VtIC42ZW07CiAgICBib3JkZXI6IDFweCBzb2xpZCAjZWZlZmVmOwogICAgb3V0bGluZTogbm9uZTsKICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgfQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>li</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgPGJyIC8+Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICBpbnB1dCB7CiAgICBwYWRkaW5nOiAuM2VtIC42ZW07CiAgICBib3JkZXI6IDFweCBzb2xpZCAjZWZlZmVmOwogICAgb3V0bGluZTogbm9uZTsKICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgfQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IAogIHRleHRhcmVhIHsKICAgIHJlc2l6ZTogbm9uZTsKICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAKICB0ZXh0YXJlYSB7CiAgICByZXNpemU6IG5vbmU7CiAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJvcmRlcjogbm9uZTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBvdXRsaW5lOiBub25lOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgPAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJ3ZWJwYWNrIjogIl40LjYuMCIK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICJiYWJlbC1wb2x5ZmlsbCI6ICJeNi4yNi4wIiwKICAgICJiYWJlbC1wcmVzZXQtcmVhY3QtYXBwIjogIl4zLjEuMSIsCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>5</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>li</last-search>
+      <last-offset />
+      <last-pattern>li</last-pattern>
+      <last-replace>Li</last-replace>
+      <last-substitute>li</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>send</entry>
+        <entry>Redis</entry>
+        <entry>REDIS</entry>
+        <entry>redis</entry>
+        <entry>s</entry>
+        <entry>li</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set nu</entry>
+        <entry>set nonu</entry>
+        <entry>21</entry>
+        <entry>set hls ic</entry>
+        <entry>nohls</entry>
+        <entry>w</entry>
+        <entry>s/li/Li/g</entry>
+        <entry>s/li/Li</entry>
+        <entry>%s/li/Li/g</entry>
+        <entry>35</entry>
+        <entry>5</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
