@@ -186,11 +186,11 @@
         <mark key="]" line="35" column="56" />
         <mark key="." line="35" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1530068527979">
-        <mark key="[" line="26" column="26" />
-        <mark key="]" line="27" column="35" />
-        <mark key="." line="27" column="35" />
-        <mark key="^" line="27" column="35" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1530606813286">
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="42" />
+        <mark key="." line="21" column="42" />
+        <mark key="^" line="21" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/DEVKH/devKangTo/config/polyfills.js" timestamp="1529997037060">
         <mark key="[" line="11" column="0" />
@@ -527,10 +527,16 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530599164807">
+      <file name="/Dummy.txt" timestamp="1530605005348">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Controller.js" timestamp="1530606995703">
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="27" column="25" />
+        <mark key="^" line="27" column="25" />
+        <mark key="." line="27" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/scripts/build.js" timestamp="1529908178136">
         <mark key="[" line="100" column="0" />
@@ -683,11 +689,11 @@
       <jump line="31" column="30" filename="$USER_HOME$/Documents/hnh/hongplastic/webpack.config.dev.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
+      <register name="&quot;" type="4">
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>test: /\.jsx?$/</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>mhub</text>
