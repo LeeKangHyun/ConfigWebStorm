@@ -20,11 +20,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/index.js" timestamp="1530261665276">
-        <mark key="[" line="21" column="37" />
-        <mark key="]" line="21" column="38" />
-        <mark key="." line="21" column="38" />
-        <mark key="^" line="16" column="25" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/index.js" timestamp="1530594977445">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="21" column="3" />
+        <mark key="." line="21" column="3" />
+        <mark key="^" line="21" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Controller.js" timestamp="1529906685440">
         <mark key="[" line="11" column="1" />
@@ -75,11 +75,10 @@
         <mark key="]" line="208" column="0" />
         <mark key="." line="208" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/package.json" timestamp="1530259285174">
-        <mark key="[" line="38" column="33" />
-        <mark key="]" line="38" column="33" />
-        <mark key="." line="38" column="33" />
-        <mark key="^" line="52" column="23" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/package.json" timestamp="1530596205539">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/package.json" timestamp="1530256428797">
         <mark key="[" line="40" column="29" />
@@ -92,10 +91,11 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Styled.js" timestamp="1530262131877">
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="12" column="3" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Styled.js" timestamp="1530594993575">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/styled.js" timestamp="1530166423471">
         <mark key="[" line="712" column="10" />
@@ -216,12 +216,12 @@
         <mark key="." line="66" column="20" />
         <mark key="^" line="66" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Controller.js" timestamp="1530153703263">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="19" />
-        <mark key="." line="9" column="19" />
-        <mark key="^" line="9" column="19" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Controller.js" timestamp="1530594506047">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="35" column="44" />
+        <mark key="]" line="35" column="44" />
+        <mark key="." line="35" column="44" />
+        <mark key="^" line="36" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/Admin.js" timestamp="1530152227687">
         <mark key="[" line="23" column="0" />
@@ -392,12 +392,12 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" timestamp="1530588644303">
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" timestamp="1530593202198">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="45" column="94" />
-        <mark key="]" line="44" column="10" />
-        <mark key="." line="44" column="10" />
-        <mark key="^" line="44" column="10" />
+        <mark key="]" line="45" column="94" />
+        <mark key="." line="45" column="94" />
+        <mark key="^" line="45" column="94" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchAdmin.js" timestamp="1530152242383">
         <mark key="[" line="28" column="0" />
@@ -427,11 +427,24 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/webpack.config.dev.js" timestamp="1530595544014">
+        <mark key="'" line="27" column="23" />
+        <mark key="[" line="41" column="10" />
+        <mark key="]" line="41" column="10" />
+        <mark key="." line="41" column="10" />
+        <mark key="^" line="41" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/SetBoard.js" timestamp="1530586934581">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="15" column="13" />
         <mark key="." line="15" column="13" />
         <mark key="^" line="15" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/webpack.config.js" timestamp="1530595393098">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/build-utils/webpack.dev.js" timestamp="1530256005499">
         <mark key="[" line="0" column="0" />
@@ -456,7 +469,7 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/package.json" timestamp="1529912413426">
+      <file name="$USER_HOME$/Documents/hnh/mhub/package.json" timestamp="1530595970510">
         <mark key="[" line="52" column="39" />
         <mark key="]" line="52" column="46" />
         <mark key="." line="52" column="46" />
@@ -583,11 +596,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/.eslintrc" timestamp="1530587870328">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="13" column="15" />
-        <mark key="." line="13" column="15" />
-        <mark key="^" line="13" column="15" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/.eslintrc" timestamp="1530593617250">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/DEVKH/devKangTo/config/env.js" timestamp="1529997016810">
         <mark key="[" line="54" column="0" />
@@ -662,13 +675,14 @@
       <jump line="11" column="70" filename="$USER_HOME$/Documents/hnh/mhub2/src/pages/Landing/index.js" />
       <jump line="20" column="42" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
+      <jump line="26" column="23" filename="$USER_HOME$/Documents/hnh/hongplastic/webpack.config.dev.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZXMyMDE1IjogIl42LjI0LjEiLAogICAgImJhYmVsLXByZXNldC1sYXRlc3QiOiAiXjYuMjQuMSIsCiAgICAiYmFiZWwtcHJlc2V0LXJlYWN0IjogIl42LjI0LjEiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>presets</text>
       </register>
       <register name="/" type="4">
         <text>mhub</text>
@@ -677,35 +691,34 @@
         <text encoding="base64">ICBhYlRvcDogUHJvcFR5cGVzLm9uZU9mVHlwZShbCiAgICBQcm9wVHlwZXMuc3RyaW5nLAogICAgUHJvcFR5cGVzLm51bWJlciwKICBdKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZXMyMDE1IjogIl42LjI0LjEiLAogICAgImJhYmVsLXByZXNldC1sYXRlc3QiOiAiXjYuMjQuMSIsCiAgICAiYmFiZWwtcHJlc2V0LXJlYWN0IjogIl42LjI0LjEiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdGF0aWMgcHJvcFR5cGVzID0gewogICAgYWRtaW5TZXREYXRhOiBQcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkLAogIH07Cg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtcmVhY3QiOiAiXjYuMjQuMSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtbGF0ZXN0IjogIl42LjI0LjEiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZXMyMDE1IjogIl42LjI0LjEiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgICJwYXJzZXIiOiAiYmFiZWwtZXNsaW50IiwKICAgICJlbnYiOiB7CiAgICAgICJub2RlIjogdHJ1ZSwKICAgICAgImVzNiI6IHRydWUsCiAgICAgICJicm93c2VyIjogdHJ1ZQogICAgfSwKICAgICJleHRlbmRzIjogImFpcmJuYiIsCiAgICAicGx1Z2lucyI6IFsKICAgICAgImltcG9ydCIsCiAgICAgICJyZWFjdCIsCiAgICAgICJqc3gtYTExeSIsCiAgICAgICJzdHlsZWQtY29tcG9uZW50cy1jb25maWciCiAgICBdLAogICAgInJ1bGVzIjogewogICAgICAic3RyaWN0IjogMCwKICAgICAgIm1heC1sZW4iOiAwLAogICAgICAicmVhY3QvanN4LWZpbGVuYW1lLWV4dGVuc2lvbiI6IFsKICAgICAgICAxLAogICAgICAgIHsKICAgICAgICAgICJleHRlbnNpb25zIjogWwogICAgICAgICAgICAiLmpzIiwKICAgICAgICAgICAgIi5qc3giCiAgICAgICAgICBdCiAgICAgICAgfQogICAgICBdLAogICAgICAic3R5bGVkLWNvbXBvbmVudHMtY29uZmlnL3J1bGUtbmFtZSI6IDIKICAgIH0K</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-  return (</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">fTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBvbiwK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/mhub/madi</text>
+        <text>34</text>
       </register>
     </registers>
     <search>
@@ -740,6 +753,7 @@
         <entry>35</entry>
         <entry>5</entry>
         <entry>%s/mhub/madi</entry>
+        <entry>34</entry>
       </history-cmd>
       <history-expr />
       <history-input />
