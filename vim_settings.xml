@@ -454,6 +454,11 @@
         <mark key="^" line="25" column="44" />
         <mark key="." line="25" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub2/public/index.html" timestamp="1530582425796">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/.gitignore" timestamp="1530580434054">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="6" column="8" />
@@ -477,7 +482,8 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub2/src/pages/Landing/index.js" timestamp="1530241116393">
+      <file name="$USER_HOME$/Documents/hnh/mhub2/src/pages/Landing/index.js" timestamp="1530581864838">
+        <mark key="'" line="11" column="70" />
         <mark key="[" line="11" column="53" />
         <mark key="]" line="13" column="71" />
         <mark key="." line="13" column="71" />
@@ -614,6 +620,12 @@
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/src/components/Loading.js" timestamp="1530250688922">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub2/src/pages/Landing/Styled.js" timestamp="1530581723758">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+        <mark key="^" line="17" column="15" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="27" column="2" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
@@ -673,16 +685,17 @@
       <jump line="21" column="18" filename="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/src/components/App.js" />
       <jump line="5" column="26" filename="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/build-utils/addons/webpack.bundleanalyzer.js" />
       <jump line="12" column="1" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Styled.js" />
+      <jump line="11" column="70" filename="$USER_HOME$/Documents/hnh/mhub2/src/pages/Landing/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>mhub</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>mhub</text>
       </register>
       <register name="/" type="4">
-        <text>li</text>
+        <text>mhub</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPGJyIC8+Cg==</text>
@@ -715,15 +728,15 @@
         <text encoding="base64">ICAgICAgPAo=</text>
       </register>
       <register name=":" type="4">
-        <text>5</text>
+        <text>%s/mhub/madi</text>
       </register>
     </registers>
     <search>
-      <last-search>li</last-search>
+      <last-search>mhub</last-search>
       <last-offset />
-      <last-pattern>li</last-pattern>
-      <last-replace>Li</last-replace>
-      <last-substitute>li</last-substitute>
+      <last-pattern>mhub</last-pattern>
+      <last-replace>madi</last-replace>
+      <last-substitute>mhub</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -735,6 +748,7 @@
         <entry>redis</entry>
         <entry>s</entry>
         <entry>li</entry>
+        <entry>mhub</entry>
       </history-search>
       <history-cmd>
         <entry>set nu</entry>
@@ -748,6 +762,7 @@
         <entry>%s/li/Li/g</entry>
         <entry>35</entry>
         <entry>5</entry>
+        <entry>%s/mhub/madi</entry>
       </history-cmd>
       <history-expr />
       <history-input />
