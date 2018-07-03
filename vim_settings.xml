@@ -204,7 +204,7 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/SetPopup.js" timestamp="1530586547907">
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/SetPopup.js" timestamp="1530588426613">
         <mark key="[" line="12" column="68" />
         <mark key="]" line="12" column="69" />
         <mark key="^" line="4" column="74" />
@@ -392,12 +392,12 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" timestamp="1530587386390">
-        <mark key="'" line="26" column="25" />
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="18" />
-        <mark key="." line="19" column="18" />
-        <mark key="^" line="19" column="18" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" timestamp="1530588644303">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="45" column="94" />
+        <mark key="]" line="44" column="10" />
+        <mark key="." line="44" column="10" />
+        <mark key="^" line="44" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchAdmin.js" timestamp="1530152242383">
         <mark key="[" line="28" column="0" />
@@ -510,7 +510,7 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530257642455">
+      <file name="/Dummy.txt" timestamp="1530588641967">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -660,13 +660,15 @@
       <jump line="5" column="26" filename="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/build-utils/addons/webpack.bundleanalyzer.js" />
       <jump line="12" column="1" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Styled.js" />
       <jump line="11" column="70" filename="$USER_HOME$/Documents/hnh/mhub2/src/pages/Landing/index.js" />
+      <jump line="20" column="42" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>mhub</text>
@@ -675,32 +677,32 @@
         <text encoding="base64">ICBhYlRvcDogUHJvcFR5cGVzLm9uZU9mVHlwZShbCiAgICBQcm9wVHlwZXMuc3RyaW5nLAogICAgUHJvcFR5cGVzLm51bWJlciwKICBdKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICBzdGF0aWMgcHJvcFR5cGVzID0gewogICAgYWRtaW5TZXREYXRhOiBQcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkLAogIH07Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-  return (</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">fTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvbiwK</text>
+        <text encoding="base64">fTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICApCg==</text>
+      <register name="6" type="4">
+        <text>{
+  return (</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiIgo=</text>
+        <text encoding="base64">ICBvbiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/mhub/madi</text>
