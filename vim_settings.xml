@@ -204,7 +204,11 @@
         <mark key="]" line="35" column="56" />
         <mark key="." line="35" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/const/index.js" timestamp="1530671338736" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/const/index.js" timestamp="1530687699925">
+        <mark key="[" line="33" column="6" />
+        <mark key="]" line="33" column="6" />
+        <mark key="." line="33" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1530606813286">
         <mark key="[" line="21" column="36" />
         <mark key="]" line="21" column="42" />
@@ -545,10 +549,10 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Router/index.js" timestamp="1530671004570">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="12" />
-        <mark key="." line="32" column="12" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Router/index.js" timestamp="1530687686179">
+        <mark key="[" line="32" column="10" />
+        <mark key="]" line="32" column="10" />
+        <mark key="." line="32" column="10" />
         <mark key="^" line="32" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/rootReducer.js" timestamp="1530065967948">
@@ -596,10 +600,10 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Home/Controller.js" timestamp="1529901829052">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Home/Controller.js" timestamp="1530687715294">
+        <mark key="[" line="43" column="4" />
+        <mark key="]" line="43" column="4" />
+        <mark key="." line="43" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/stylesheets/container/notify/notice.scss" timestamp="1529637448726">
         <mark key="[" line="91" column="0" />
@@ -721,10 +725,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>isBorrower</text>
