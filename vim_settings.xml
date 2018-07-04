@@ -390,7 +390,7 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/config/webpack.config.dev.js" timestamp="1530602266314">
+      <file name="$USER_HOME$/Documents/hnh/mhub/config/webpack.config.dev.js" timestamp="1530693365676">
         <mark key="[" line="142" column="0" />
         <mark key="]" line="142" column="0" />
         <mark key="." line="142" column="0" />
@@ -430,12 +430,12 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" timestamp="1530690938668">
-        <mark key="'" line="76" column="29" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="30" column="6" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" timestamp="1530692803719">
+        <mark key="'" line="81" column="29" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchAdmin.js" timestamp="1530152242383">
         <mark key="[" line="28" column="0" />
@@ -465,12 +465,12 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/webpack.config.dev.js" timestamp="1530690857338">
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/webpack.config.dev.js" timestamp="1530693343961">
         <mark key="'" line="33" column="30" />
-        <mark key="[" line="52" column="9" />
-        <mark key="]" line="26" column="3" />
-        <mark key="." line="26" column="3" />
-        <mark key="^" line="26" column="3" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="63" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/SetBoard.js" timestamp="1530689253304">
         <mark key="[" line="9" column="25" />
@@ -727,10 +727,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBtb2R1bGVzOiB0cnVlLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>isBorrower</text>
@@ -739,39 +739,32 @@
         <text encoding="base64">Y29uc3QgYXBwRGlyZWN0b3J5ID0gZnMucmVhbHBhdGhTeW5jKHByb2Nlc3MuY3dkKCkpOwpjb25zdCByZXNvbHZlQXBwID0gcmVsYXRpdmVQYXRoID0+IHBhdGgucmVzb2x2ZShhcHBEaXJlY3RvcnksIHJlbGF0aXZlUGF0aCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBtb2R1bGVzOiB0cnVlLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgIG5hbWU6ICdzdGF0aWMvbWVkaWEvW25hbWVdLltoYXNoOjhdLltleHRdJywK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICd0dWktZWRpdG9yL2Rpc3QvdHVpLWVkaXRvci5jc3MnOwppbXBvcnQgJ3R1aS1lZGl0b3IvZGlzdC90dWktZWRpdG9yLWNvbnRlbnRzLmNzcyc7Cg==</text>
+      <register name="3" type="4">
+        <text>,
+        exclude: /(node_modules|bower_components)/,</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICdoaWdobGlnaHQuanMvc3R5bGVzL2dpdGh1Yi5jc3MnOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgZXhjbHVkZTogLyhub2RlX21vZHVsZXN8Ym93ZXJfY29tcG9uZW50cykvLA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICdjb2RlbWlycm9yL2xpYi9jb2RlbWlycm9yLmNzcyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>,
-          {
-            loader: 'css-loader',
-            options: {
-              modules: true,
-              camelCase: true,
-              sourceMap: true
-            }
-          }</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">aW1wb3J0IAppbXBvcnQgCmltcG9ydCAKaW1wb3J0IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0ICd0dWktZWRpdG9yL2Rpc3QvdHVpLWVkaXRvci5jc3MnOwppbXBvcnQgJ3R1aS1lZGl0b3IvZGlzdC90dWktZWRpdG9yLWNvbnRlbnRzLmNzcyc7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgIAogICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0ICdoaWdobGlnaHQuanMvc3R5bGVzL2dpdGh1Yi5jc3MnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgZXhwcmVzcyBmcm9tICdleHByZXNzJzsKIHNlc3Npb24gZnJvbSAnZXhwcmVzcy1zZXNzaW9uJzsK</text>
+        <text encoding="base64">aW1wb3J0ICdjb2RlbWlycm9yL2xpYi9jb2RlbWlycm9yLmNzcyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
