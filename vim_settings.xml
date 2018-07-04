@@ -74,11 +74,11 @@
         <mark key="]" line="208" column="0" />
         <mark key="." line="208" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/package.json" timestamp="1530672338361">
-        <mark key="[" line="8" column="40" />
-        <mark key="]" line="8" column="61" />
-        <mark key="." line="8" column="61" />
-        <mark key="^" line="8" column="61" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/package.json" timestamp="1530683351618">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/package.json" timestamp="1530256428797">
         <mark key="[" line="40" column="29" />
@@ -721,10 +721,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>컬</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>컬</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>isBorrower</text>
