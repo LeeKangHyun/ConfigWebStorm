@@ -125,6 +125,12 @@
         <mark key="]" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub2/public/manifest.json" timestamp="1530681769791">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchFetchBoard.js" timestamp="1530176470634">
         <mark key="[" line="14" column="51" />
         <mark key="]" line="14" column="55" />
@@ -468,8 +474,8 @@
         <mark key="." line="15" column="13" />
         <mark key="^" line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/webpack.config.js" timestamp="1530671538748">
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/webpack.config.js" timestamp="1530681525829">
+        <mark key="[" line="7" column="18" />
         <mark key="]" line="5" column="76" />
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="19" />
@@ -715,10 +721,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>from =</text>
+        <text>컬</text>
       </register>
       <register name="-" type="4">
-        <text>from =</text>
+        <text>컬</text>
       </register>
       <register name="/" type="4">
         <text>isBorrower</text>
