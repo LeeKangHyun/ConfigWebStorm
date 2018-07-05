@@ -32,11 +32,11 @@
         <mark key="^" line="13" column="29" />
         <mark key="." line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Board/index.js" timestamp="1530781008396">
-        <mark key="[" line="14" column="7" />
-        <mark key="]" line="14" column="16" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Board/index.js" timestamp="1530781365434">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="13" column="6" />
         <mark key="^" line="14" column="16" />
-        <mark key="." line="14" column="16" />
+        <mark key="." line="13" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Component/SetPop.js" timestamp="1530075779104">
         <mark key="[" line="0" column="0" />
@@ -287,11 +287,11 @@
         <mark key="]" line="21" column="28" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/saga/watchBoard.js" timestamp="1530779001111">
-        <mark key="[" line="20" column="9" />
-        <mark key="]" line="20" column="23" />
-        <mark key="." line="20" column="23" />
-        <mark key="^" line="20" column="23" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/saga/watchBoard.js" timestamp="1530781762554">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Landing/index.js" timestamp="1530001813960">
         <mark key="[" line="13" column="96" />
@@ -509,12 +509,12 @@
         <mark key="." line="25" column="19" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Router/index.js" timestamp="1530779953346">
-        <mark key="'" line="16" column="53" />
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="25" column="11" />
-        <mark key="^" line="25" column="11" />
-        <mark key="." line="25" column="11" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Router/index.js" timestamp="1530781668172">
+        <mark key="'" line="17" column="53" />
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="24" column="21" />
+        <mark key="^" line="24" column="21" />
+        <mark key="." line="24" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/scripts/start.js" timestamp="1529908329740">
         <mark key="[" line="76" column="0" />
@@ -528,11 +528,11 @@
         <mark key="." line="55" column="8" />
         <mark key="^" line="51" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/reducer/index.js" timestamp="1530776451497">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="7" column="26" />
-        <mark key="^" line="7" column="26" />
-        <mark key="." line="7" column="26" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/reducer/index.js" timestamp="1530781699428">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/SetBoard.js" timestamp="1530752733488">
         <mark key="[" line="8" column="0" />
@@ -810,10 +810,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>require</text>
