@@ -287,11 +287,11 @@
         <mark key="]" line="21" column="28" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/saga/watchBoard.js" timestamp="1530778386687">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="28" column="51" />
-        <mark key="^" line="28" column="51" />
-        <mark key="." line="28" column="51" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/saga/watchBoard.js" timestamp="1530779001111">
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="20" column="23" />
+        <mark key="." line="20" column="23" />
+        <mark key="^" line="20" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Landing/index.js" timestamp="1530001813960">
         <mark key="[" line="13" column="96" />
@@ -590,10 +590,11 @@
         <mark key="." line="13" column="71" />
         <mark key="^" line="13" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Board/Controller.js" timestamp="1530775509570">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Board/Controller.js" timestamp="1530779118174">
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="23" column="17" />
+        <mark key="." line="23" column="17" />
+        <mark key="^" line="23" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" timestamp="1530672269500">
         <mark key="'" line="17" column="6" />
@@ -805,11 +806,11 @@
       <jump line="13" column="21" filename="$USER_HOME$/Documents/hnh/mhub/src/redux/reducer/Board.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB5aWVsZCB0YWtlTGF0ZXN0KEJPQVJEX0ZFVENIX0ZBSUxFRCwgZmV0Y2hGYWlsZWQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>require</text>
@@ -818,31 +819,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9hZG1pbiIgY29tcG9uZW50PXsgQWRtaW4gfSAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEJPQVJEX0ZFVENIX0NIQU5HRUQgPSAiQk9BUkRfRkVUQ0hfQ0hBTkdFRCI7Cg==</text>
+        <text encoding="base64">ICB5aWVsZCB0YWtlTGF0ZXN0KEJPQVJEX0ZFVENIX0ZBSUxFRCwgZmV0Y2hGYWlsZWQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNhc2UgQk9BUkRfRkVUQ0hfRkFJTEVEOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBpc0xvYWRpbmc6IGZhbHNlLAogICAgICB9Owo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gZmV0Y2hGYWlsZWQoe2Vycn0pIHsKICBjb25zb2xlLmxvZyhlcnIpOwp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEJPQVJEX0ZFVENIX0NIQU5HRUQK</text>
+        <text encoding="base64">ICB5aWVsZCBwdXQoewogICAgCiAgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB0cnkgewogICAgCiAgfSBjYXRjaChlcnIpIHsKICAgIAogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBnZXQK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcyk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEJPQVJEX0ZFVENIX0NIQU5HRUQgPSAiQk9BUkRfRkVUQ0hfQ0hBTkdFRCI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAuLi5wcm9wcywK</text>
+        <text encoding="base64">ICAgIGNhc2UgQk9BUkRfRkVUQ0hfRkFJTEVEOgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/require/import</text>
