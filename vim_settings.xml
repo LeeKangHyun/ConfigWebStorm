@@ -338,11 +338,8 @@
         <mark key="^" line="28" column="39" />
         <mark key="." line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/Controller.js" timestamp="1530599718267">
-        <mark key="[" line="16" column="2" />
-        <mark key="]" line="16" column="2" />
-        <mark key="." line="16" column="2" />
-        <mark key="^" line="32" column="5" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/Controller.js" timestamp="1530756714051">
+        <mark key="^" line="31" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Router/styled.js" timestamp="1529906873466">
         <mark key="[" line="3" column="0" />
@@ -728,8 +725,8 @@
       <jump line="25" column="1" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Styled.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5leHRQcm9wcyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -741,31 +738,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9hZG1pbiIgY29tcG9uZW50PXsgQWRtaW4gfSAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaG9va3M6IHsKICAgICAgICBjaGFuZ2U6ICguLi5hcmdzKSA9PiB7CiAgICAgICAgICBjb25zb2xlLmxvZyhhcmdzKTsKICAgICAgICB9LAogICAgICAgIHN0YXRlQ2hhbmdlOiAoLi4uYXJncykgPT4gewogICAgICAgICAgY29uc29sZS5sb2coJ3N0YXRlQ2hhbmdlJywgYXJncykKICAgICAgICB9CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5leHRQcm9wcyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9hZG1pbiIgY29tcG9uZW50PXsgQWRtaW4gfSAvPgo=</text>
+        <text encoding="base64">ICAgICAgaG9va3M6IHsKICAgICAgICBjaGFuZ2U6ICguLi5hcmdzKSA9PiB7CiAgICAgICAgICBjb25zb2xlLmxvZyhhcmdzKTsKICAgICAgICB9LAogICAgICAgIHN0YXRlQ2hhbmdlOiAoLi4uYXJncykgPT4gewogICAgICAgICAgY29uc29sZS5sb2coJ3N0YXRlQ2hhbmdlJywgYXJncykKICAgICAgICB9CiAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9ib2FyZCIgY29tcG9uZW50PXsgQm9hcmQgfSAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9hZG1pbiIgY29tcG9uZW50PXsgQWRtaW4gfSAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvU3dpdGNoPgogICAgICAgICAgPFN3aXRjaD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9ib2FyZCIgY29tcG9uZW50PXsgQm9hcmQgfSAvPgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIDwvU3dpdGNoPgogICAgICAgICAgPFN3aXRjaD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxSb3V0ZSBleGFjdCBwYXRoPSIvIiBjb21wb25lbnQ9eyBIb21lIH0gLz4K</text>
+        <text encoding="base64">ICAgICAgICAgIDwvU3dpdGNoPgogICAgICAgICAgPFN3aXRjaD4K</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxSb3V0ZSBleGFjdCBwYXRoPSIvIiBjb21wb25lbnQ9eyBIb21lIH0gLz4K</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIDx0ZXh0YXJlYSB2YWx1ZT17Y29udGVudH0gbmFtZT0iY29udGVudCIgb25DaGFuZ2U9e29uQ2hhbmdlVG9TdGF0ZX0gLz4K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgIHsKICAgICAgICB0ZXN0OiBbL1wuYm1wJC8sIC9cLmdpZiQvLCAvXC5qcGU/ZyQvLCAvXC5wbmckL10sCiAgICAgICAgbG9hZGVyOiAndXJsLWxvYWRlcicsCiAgICAgICAgb3B0aW9uczogewogICAgICAgICAgbGltaXQ6IDEwMDAwLAogICAgICAgIH0sCiAgICAgIH0s</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgIHsKICAgICAgICB0ZXN0OiAvXC4ocG5nfGpwZ3xnaWZ8ZW90fHN2Z3x0dGZ8d29mZnx3b2ZmMikkLywKICAgICAgICBsb2FkZXI6ICdmaWxlLWxvYWRlcicKICAgICAgfSwKICAgICAgewogICAgICAgIHRlc3Q6IFsvXC5ibXAkLywgL1wuZ2lmJC8sIC9cLmpwZT9nJC8sIC9cLnBuZyQvXSwKICAgICAgICBsb2FkZXI6ICd1cmwtbG9hZGVyJywKICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICBsaW1pdDogMTAwMDAsCiAgICAgICAgfSwKICAgICAgfSw=</text>
+        <text encoding="base64">CiAgICAgIHsKICAgICAgICB0ZXN0OiBbL1wuYm1wJC8sIC9cLmdpZiQvLCAvXC5qcGU/ZyQvLCAvXC5wbmckL10sCiAgICAgICAgbG9hZGVyOiAndXJsLWxvYWRlcicsCiAgICAgICAgb3B0aW9uczogewogICAgICAgICAgbGltaXQ6IDEwMDAwLAogICAgICAgIH0sCiAgICAgIH0s</text>
       </register>
       <register name=":" type="4">
         <text>%s/require/import</text>
