@@ -20,11 +20,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/index.js" timestamp="1530594977445">
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="21" column="3" />
-        <mark key="." line="21" column="3" />
-        <mark key="^" line="21" column="3" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/index.js" timestamp="1530753345402">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+        <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Controller.js" timestamp="1529906685440">
         <mark key="[" line="11" column="1" />
@@ -91,11 +91,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Styled.js" timestamp="1530594993575">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="0" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Styled.js" timestamp="1530753387184">
+        <mark key="'" line="29" column="1" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/item/item.js" timestamp="1530668202003">
         <mark key="[" line="339" column="0" />
@@ -430,12 +431,12 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" timestamp="1530752707270">
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" timestamp="1530754344667">
         <mark key="'" line="4" column="39" />
-        <mark key="[" line="35" column="21" />
-        <mark key="]" line="35" column="23" />
+        <mark key="[" line="37" column="24" />
+        <mark key="]" line="37" column="24" />
         <mark key="^" line="35" column="23" />
-        <mark key="." line="35" column="23" />
+        <mark key="." line="37" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchAdmin.js" timestamp="1530152242383">
         <mark key="[" line="28" column="0" />
@@ -549,11 +550,11 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Router/index.js" timestamp="1530687686179">
-        <mark key="[" line="32" column="10" />
-        <mark key="]" line="32" column="10" />
-        <mark key="." line="32" column="10" />
-        <mark key="^" line="32" column="12" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Router/index.js" timestamp="1530754120938">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="30" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/rootReducer.js" timestamp="1530065967948">
         <mark key="[" line="9" column="8" />
@@ -600,7 +601,7 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Home/Controller.js" timestamp="1530687715294">
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Home/Controller.js" timestamp="1530753265881">
         <mark key="[" line="43" column="4" />
         <mark key="]" line="43" column="4" />
         <mark key="." line="43" column="4" />
@@ -724,47 +725,47 @@
       <jump line="340" column="8" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/item/item.js" />
       <jump line="67" column="29" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
       <jump line="4" column="39" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
+      <jump line="25" column="1" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Styled.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDx0ZXh0YXJlYSB2YWx1ZT17Y29udGVudH0gbmFtZT0iY29udGVudCIgb25DaGFuZ2U9e29uQ2hhbmdlVG9TdGF0ZX0gLz4K</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>vertical</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>require</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgYXBwRGlyZWN0b3J5ID0gZnMucmVhbHBhdGhTeW5jKHByb2Nlc3MuY3dkKCkpOwpjb25zdCByZXNvbHZlQXBwID0gcmVsYXRpdmVQYXRoID0+IHBhdGgucmVzb2x2ZShhcHBEaXJlY3RvcnksIHJlbGF0aXZlUGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9hZG1pbiIgY29tcG9uZW50PXsgQWRtaW4gfSAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDx0ZXh0YXJlYSB2YWx1ZT17Y29udGVudH0gbmFtZT0iY29udGVudCIgb25DaGFuZ2U9e29uQ2hhbmdlVG9TdGF0ZX0gLz4K</text>
+        <text encoding="base64">ICAgICAgaG9va3M6IHsKICAgICAgICBjaGFuZ2U6ICguLi5hcmdzKSA9PiB7CiAgICAgICAgICBjb25zb2xlLmxvZyhhcmdzKTsKICAgICAgICB9LAogICAgICAgIHN0YXRlQ2hhbmdlOiAoLi4uYXJncykgPT4gewogICAgICAgICAgY29uc29sZS5sb2coJ3N0YXRlQ2hhbmdlJywgYXJncykKICAgICAgICB9CiAgICAgIH0K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgIHsKICAgICAgICB0ZXN0OiBbL1wuYm1wJC8sIC9cLmdpZiQvLCAvXC5qcGU/ZyQvLCAvXC5wbmckL10sCiAgICAgICAgbG9hZGVyOiAndXJsLWxvYWRlcicsCiAgICAgICAgb3B0aW9uczogewogICAgICAgICAgbGltaXQ6IDEwMDAwLAogICAgICAgIH0sCiAgICAgIH0s</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9hZG1pbiIgY29tcG9uZW50PXsgQWRtaW4gfSAvPgo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgIHsKICAgICAgICB0ZXN0OiAvXC4ocG5nfGpwZ3xnaWZ8ZW90fHN2Z3x0dGZ8d29mZnx3b2ZmMikkLywKICAgICAgICBsb2FkZXI6ICdmaWxlLWxvYWRlcicKICAgICAgfSwKICAgICAgewogICAgICAgIHRlc3Q6IFsvXC5ibXAkLywgL1wuZ2lmJC8sIC9cLmpwZT9nJC8sIC9cLnBuZyQvXSwKICAgICAgICBsb2FkZXI6ICd1cmwtbG9hZGVyJywKICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICBsaW1pdDogMTAwMDAsCiAgICAgICAgfSwKICAgICAgfSw=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9ib2FyZCIgY29tcG9uZW50PXsgQm9hcmQgfSAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzb3VyY2VNYXA6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgIDwvU3dpdGNoPgogICAgICAgICAgPFN3aXRjaD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBtb2R1bGVzOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvU3dpdGNoPgogICAgICAgICAgPFN3aXRjaD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5hbWU6ICdzdGF0aWMvbWVkaWEvW25hbWVdLltoYXNoOjhdLltleHRdJywK</text>
+        <text encoding="base64">ICAgICAgICAgIDxSb3V0ZSBleGFjdCBwYXRoPSIvIiBjb21wb25lbnQ9eyBIb21lIH0gLz4K</text>
       </register>
-      <register name="7" type="4">
-        <text>,
-        exclude: /(node_modules|bower_components)/,</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDx0ZXh0YXJlYSB2YWx1ZT17Y29udGVudH0gbmFtZT0iY29udGVudCIgb25DaGFuZ2U9e29uQ2hhbmdlVG9TdGF0ZX0gLz4K</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgZXhjbHVkZTogLyhub2RlX21vZHVsZXN8Ym93ZXJfY29tcG9uZW50cykvLA==</text>
+        <text encoding="base64">CiAgICAgIHsKICAgICAgICB0ZXN0OiBbL1wuYm1wJC8sIC9cLmdpZiQvLCAvXC5qcGU/ZyQvLCAvXC5wbmckL10sCiAgICAgICAgbG9hZGVyOiAndXJsLWxvYWRlcicsCiAgICAgICAgb3B0aW9uczogewogICAgICAgICAgbGltaXQ6IDEwMDAwLAogICAgICAgIH0sCiAgICAgIH0s</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgIHsKICAgICAgICB0ZXN0OiAvXC4ocG5nfGpwZ3xnaWZ8ZW90fHN2Z3x0dGZ8d29mZnx3b2ZmMikkLywKICAgICAgICBsb2FkZXI6ICdmaWxlLWxvYWRlcicKICAgICAgfSwKICAgICAgewogICAgICAgIHRlc3Q6IFsvXC5ibXAkLywgL1wuZ2lmJC8sIC9cLmpwZT9nJC8sIC9cLnBuZyQvXSwKICAgICAgICBsb2FkZXI6ICd1cmwtbG9hZGVyJywKICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICBsaW1pdDogMTAwMDAsCiAgICAgICAgfSwKICAgICAgfSw=</text>
       </register>
       <register name=":" type="4">
         <text>%s/require/import</text>
