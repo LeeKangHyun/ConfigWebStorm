@@ -32,11 +32,11 @@
         <mark key="^" line="13" column="29" />
         <mark key="." line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Board/index.js" timestamp="1530775270488">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="9" column="16" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Board/index.js" timestamp="1530778108580">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="14" />
+        <mark key="^" line="22" column="14" />
+        <mark key="." line="22" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Component/SetPop.js" timestamp="1530075779104">
         <mark key="[" line="0" column="0" />
@@ -56,7 +56,7 @@
         <mark key="." line="30" column="62" />
         <mark key="^" line="30" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/admin/reducer.js" timestamp="1530152210556">
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/admin/reducer.js" timestamp="1530776263725">
         <mark key="'" line="23" column="7" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -110,6 +110,12 @@
         <mark key="." line="339" column="0" />
         <mark key="^" line="339" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/saga/api/Board.js" timestamp="1530777253610">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="44" />
+        <mark key="^" line="5" column="44" />
+        <mark key="." line="5" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/util/util.js" timestamp="1530667321814">
         <mark key="[" line="202" column="0" />
         <mark key="]" line="476" column="0" />
@@ -161,6 +167,12 @@
         <mark key="]" line="27" column="1" />
         <mark key="^" line="27" column="1" />
         <mark key="." line="27" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/redux/action/Board.js" timestamp="1530775916409">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="6" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/DEVKH/devKangTo/config/webpack.config.dev.js" timestamp="1529997120817">
         <mark key="[" line="142" column="0" />
@@ -275,6 +287,12 @@
         <mark key="]" line="21" column="28" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/saga/watchBoard.js" timestamp="1530777829910">
+        <mark key="[" line="26" column="52" />
+        <mark key="]" line="27" column="51" />
+        <mark key="^" line="27" column="51" />
+        <mark key="." line="27" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Landing/index.js" timestamp="1530001813960">
         <mark key="[" line="13" column="96" />
         <mark key="]" line="13" column="97" />
@@ -291,6 +309,12 @@
         <mark key="]" line="15" column="45" />
         <mark key="^" line="15" column="45" />
         <mark key="." line="15" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/store/configureStroe.js" timestamp="1530776672770">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="13" column="31" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="13" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/public/manifest.json" timestamp="1529906345973">
         <mark key="[" line="2" column="11" />
@@ -377,6 +401,12 @@
         <mark key="." line="18" column="22" />
         <mark key="^" line="13" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/saga/index.js" timestamp="1530777858565">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/DEVKH/devKangTo/config/jest/fileTransform.js" timestamp="1529997265131">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -405,6 +435,12 @@
         <mark key="]" line="142" column="0" />
         <mark key="." line="142" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/saga/api/index.js" timestamp="1530777155498">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Styled.js" timestamp="1529907627450">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="2" />
@@ -417,11 +453,11 @@
         <mark key="^" line="28" column="7" />
         <mark key="." line="28" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/index.js" timestamp="1529906957993">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/index.js" timestamp="1530776829740">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+        <mark key="^" line="13" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/package.json" timestamp="1530667025027">
         <mark key="[" line="2" column="14" />
@@ -489,6 +525,12 @@
         <mark key="." line="55" column="8" />
         <mark key="^" line="51" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/reducer/index.js" timestamp="1530776451497">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/SetBoard.js" timestamp="1530752733488">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -525,10 +567,10 @@
         <mark key="." line="6" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/package.json" timestamp="1530595970510">
-        <mark key="[" line="52" column="39" />
-        <mark key="]" line="52" column="46" />
-        <mark key="." line="52" column="46" />
-        <mark key="^" line="52" column="46" />
+        <mark key="[" line="55" column="39" />
+        <mark key="]" line="55" column="46" />
+        <mark key="." line="55" column="46" />
+        <mark key="^" line="55" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Landing/Styled.js" timestamp="1530001945088">
         <mark key="[" line="14" column="37" />
@@ -548,11 +590,10 @@
         <mark key="." line="13" column="71" />
         <mark key="^" line="13" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Board/Controller.js" timestamp="1530775235115">
-        <mark key="[" line="18" column="3" />
-        <mark key="]" line="10" column="1" />
-        <mark key="^" line="10" column="1" />
-        <mark key="." line="10" column="1" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Board/Controller.js" timestamp="1530775509570">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" timestamp="1530672269500">
         <mark key="'" line="17" column="6" />
@@ -583,6 +624,11 @@
         <mark key="]" line="1" column="26" />
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/action/Board.js" timestamp="1530776207429">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="57" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1530672346677">
         <mark key="[" line="0" column="0" />
@@ -651,6 +697,13 @@
         <mark key="]" line="6" column="9" />
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/reducer/Board.js" timestamp="1530776240944">
+        <mark key="'" line="38" column="21" />
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/component/BoardList.js" timestamp="1530597626860">
         <mark key="[" line="16" column="10" />
@@ -749,13 +802,14 @@
       <jump line="4" column="39" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
       <jump line="25" column="1" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Styled.js" />
       <jump line="16" column="53" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Router/index.js" />
+      <jump line="13" column="21" filename="$USER_HOME$/Documents/hnh/mhub/src/redux/reducer/Board.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>require</text>
@@ -764,32 +818,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9hZG1pbiIgY29tcG9uZW50PXsgQWRtaW4gfSAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcyk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEJPQVJEX0ZFVENIX0NIQU5HRUQgPSAiQk9BUkRfRkVUQ0hfQ0hBTkdFRCI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAuLi5wcm9wcywK</text>
+        <text encoding="base64">ICAgIGNhc2UgQk9BUkRfRkVUQ0hfRkFJTEVEOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBpc0xvYWRpbmc6IGZhbHNlLAogICAgICB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEJPQVJEX0ZFVENIX0NIQU5HRUQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5leHRQcm9wcyk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBnZXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3ViOiAxZGQK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdGF0aWMgZ2V0RGVyaXZlZFN0YXRlRnJvbVByb3BzKG5leHRQcm9wcywgcHJldlN0YXRlKSB7CiAgfQo=</text>
+        <text encoding="base64">ICAuLi5wcm9wcywK</text>
       </register>
       <register name=":" type="4">
         <text>%s/require/import</text>
