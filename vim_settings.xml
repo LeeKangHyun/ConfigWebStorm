@@ -430,12 +430,12 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" timestamp="1530694705077">
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" timestamp="1530752707270">
         <mark key="'" line="4" column="39" />
-        <mark key="[" line="67" column="6" />
-        <mark key="]" line="69" column="6" />
-        <mark key="^" line="69" column="6" />
-        <mark key="." line="69" column="6" />
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="35" column="23" />
+        <mark key="^" line="35" column="23" />
+        <mark key="." line="35" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchAdmin.js" timestamp="1530152242383">
         <mark key="[" line="28" column="0" />
@@ -472,13 +472,12 @@
         <mark key="." line="55" column="8" />
         <mark key="^" line="51" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/SetBoard.js" timestamp="1530689253304">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="26" />
-        <mark key="." line="9" column="26" />
-        <mark key="^" line="9" column="26" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/SetBoard.js" timestamp="1530752733488">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/webpack.dev.config.js" timestamp="1530690054270" />
       <file name="$USER_HOME$/Documents/hnh/hongplastic/webpack.config.js" timestamp="1530693819818">
         <mark key="[" line="45" column="8" />
         <mark key="]" line="45" column="8" />
@@ -727,11 +726,11 @@
       <jump line="4" column="39" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDx0ZXh0YXJlYSB2YWx1ZT17Y29udGVudH0gbmFtZT0iY29udGVudCIgb25DaGFuZ2U9e29uQ2hhbmdlVG9TdGF0ZX0gLz4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>vertical</text>
       </register>
       <register name="/" type="4">
         <text>require</text>
@@ -739,33 +738,33 @@
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgYXBwRGlyZWN0b3J5ID0gZnMucmVhbHBhdGhTeW5jKHByb2Nlc3MuY3dkKCkpOwpjb25zdCByZXNvbHZlQXBwID0gcmVsYXRpdmVQYXRoID0+IHBhdGgucmVzb2x2ZShhcHBEaXJlY3RvcnksIHJlbGF0aXZlUGF0aCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgIHsKICAgICAgICB0ZXN0OiBbL1wuYm1wJC8sIC9cLmdpZiQvLCAvXC5qcGU/ZyQvLCAvXC5wbmckL10sCiAgICAgICAgbG9hZGVyOiAndXJsLWxvYWRlcicsCiAgICAgICAgb3B0aW9uczogewogICAgICAgICAgbGltaXQ6IDEwMDAwLAogICAgICAgIH0sCiAgICAgIH0s</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDx0ZXh0YXJlYSB2YWx1ZT17Y29udGVudH0gbmFtZT0iY29udGVudCIgb25DaGFuZ2U9e29uQ2hhbmdlVG9TdGF0ZX0gLz4K</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICAgIHsKICAgICAgICB0ZXN0OiBbL1wuYm1wJC8sIC9cLmdpZiQvLCAvXC5qcGU/ZyQvLCAvXC5wbmckL10sCiAgICAgICAgbG9hZGVyOiAndXJsLWxvYWRlcicsCiAgICAgICAgb3B0aW9uczogewogICAgICAgICAgbGltaXQ6IDEwMDAwLAogICAgICAgIH0sCiAgICAgIH0s</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAgIHsKICAgICAgICB0ZXN0OiAvXC4ocG5nfGpwZ3xnaWZ8ZW90fHN2Z3x0dGZ8d29mZnx3b2ZmMikkLywKICAgICAgICBsb2FkZXI6ICdmaWxlLWxvYWRlcicKICAgICAgfSwKICAgICAgewogICAgICAgIHRlc3Q6IFsvXC5ibXAkLywgL1wuZ2lmJC8sIC9cLmpwZT9nJC8sIC9cLnBuZyQvXSwKICAgICAgICBsb2FkZXI6ICd1cmwtbG9hZGVyJywKICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICBsaW1pdDogMTAwMDAsCiAgICAgICAgfSwKICAgICAgfSw=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBzb3VyY2VNYXA6IHRydWUK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBtb2R1bGVzOiB0cnVlLAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIG5hbWU6ICdzdGF0aWMvbWVkaWEvW25hbWVdLltoYXNoOjhdLltleHRdJywK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>,
         exclude: /(node_modules|bower_components)/,</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgZXhjbHVkZTogLyhub2RlX21vZHVsZXN8Ym93ZXJfY29tcG9uZW50cykvLA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/require/import</text>
