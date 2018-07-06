@@ -320,6 +320,12 @@
         <mark key="^" line="13" column="31" />
         <mark key="." line="13" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Editor.js" timestamp="1530844896812">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/public/manifest.json" timestamp="1530780127430">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="2" column="16" />
@@ -813,8 +819,8 @@
       <jump line="13" column="21" filename="$USER_HOME$/Documents/hnh/mhub/src/redux/reducer/Board.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudGltZSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PgogICAgICAgIAogICAgICA8L2Rpdg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -825,32 +831,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9hZG1pbiIgY29tcG9uZW50PXsgQWRtaW4gfSAvPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudGltZSgpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">PgogICAgICAgIAogICAgICA8L2Rpdg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudGltZUVuZCgpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudGltZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWFrZSBwbGFuIOyImOyglQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudGltZUVuZCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZSA9ICdDb21wYW55LWludHJvZHVjZSBDb21wYW55LWludHJvZHVjZV9fdmlwcmUnPgogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPGltZyBzcmM9e2AvaW1hZ2VzL2NvbXBhbnkvaW50cm9kdWNlL3ZpcHJlJHtzaXplfS5qcGdgfSBhbHQgPScnIC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">bWFrZSBwbGFuIOyImOyglQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZSA9ICdDb21wYW55LWludHJvZHVjZSBDb21wYW55LWludHJvZHVjZV9fdmlwcmUnPgogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPGltZyBzcmM9e2AvaW1hZ2VzL2NvbXBhbnkvaW50cm9kdWNlL3ZpcHJlJHtzaXplfS5qcGdgfSBhbHQgPScnIC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB5aWVsZCB0YWtlTGF0ZXN0KEJPQVJEX0ZFVENIX0ZBSUxFRCwgZmV0Y2hGYWlsZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZSA9ICdDb21wYW55LWludHJvZHVjZSBDb21wYW55LWludHJvZHVjZV9fdmlwcmUnPgogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPGltZyBzcmM9e2AvaW1hZ2VzL2NvbXBhbnkvaW50cm9kdWNlL3ZpcHJlJHtzaXplfS5qcGdgfSBhbHQgPScnIC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB5aWVsZCB0YWtlTGF0ZXN0KEJPQVJEX0ZFVENIX0ZBSUxFRCwgZmV0Y2hGYWlsZWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZmV0Y2hGYWlsZWQoe2Vycn0pIHsKICBjb25zb2xlLmxvZyhlcnIpOwp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gZmV0Y2hGYWlsZWQoe2Vycn0pIHsKICBjb25zb2xlLmxvZyhlcnIpOwp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/require/import</text>
