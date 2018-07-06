@@ -32,11 +32,11 @@
         <mark key="^" line="13" column="29" />
         <mark key="." line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Board/index.js" timestamp="1530781365434">
-        <mark key="[" line="13" column="6" />
-        <mark key="]" line="13" column="6" />
-        <mark key="^" line="14" column="16" />
-        <mark key="." line="13" column="6" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Board/index.js" timestamp="1530845608180">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="19" column="25" />
+        <mark key="^" line="19" column="25" />
+        <mark key="." line="19" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Component/SetPop.js" timestamp="1530075779104">
         <mark key="[" line="0" column="0" />
@@ -712,12 +712,12 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/reducer/Board.js" timestamp="1530776240944">
-        <mark key="'" line="38" column="21" />
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/reducer/Board.js" timestamp="1530845638643">
+        <mark key="'" line="39" column="21" />
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="^" line="8" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/component/BoardList.js" timestamp="1530597626860">
         <mark key="[" line="16" column="10" />
@@ -820,7 +820,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PgogICAgICAgIAogICAgICA8L2Rpdg==</text>
+        <text encoding="base64">PgogICAgICAgIAogICAgICA8L3RleHRhcmVh</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -832,31 +832,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9hZG1pbiIgY29tcG9uZW50PXsgQWRtaW4gfSAvPgo=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">PgogICAgICAgIAogICAgICA8L3RleHRhcmVh</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">PgogICAgICAgIAogICAgICA8L2Rpdg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUudGltZSgpOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUudGltZUVuZCgpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">bWFrZSBwbGFuIOyImOyglQo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZSA9ICdDb21wYW55LWludHJvZHVjZSBDb21wYW55LWludHJvZHVjZV9fdmlwcmUnPgogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPGltZyBzcmM9e2AvaW1hZ2VzL2NvbXBhbnkvaW50cm9kdWNlL3ZpcHJlJHtzaXplfS5qcGdgfSBhbHQgPScnIC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">bWFrZSBwbGFuIOyImOyglQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZSA9ICdDb21wYW55LWludHJvZHVjZSBDb21wYW55LWludHJvZHVjZV9fdmlwcmUnPgogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPGltZyBzcmM9e2AvaW1hZ2VzL2NvbXBhbnkvaW50cm9kdWNlL3ZpcHJlJHtzaXplfS5qcGdgfSBhbHQgPScnIC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB5aWVsZCB0YWtlTGF0ZXN0KEJPQVJEX0ZFVENIX0ZBSUxFRCwgZmV0Y2hGYWlsZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZSA9ICdDb21wYW55LWludHJvZHVjZSBDb21wYW55LWludHJvZHVjZV9fdmlwcmUnPgogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPGltZyBzcmM9e2AvaW1hZ2VzL2NvbXBhbnkvaW50cm9kdWNlL3ZpcHJlJHtzaXplfS5qcGdgfSBhbHQgPScnIC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB5aWVsZCB0YWtlTGF0ZXN0KEJPQVJEX0ZFVENIX0ZBSUxFRCwgZmV0Y2hGYWlsZWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZmV0Y2hGYWlsZWQoe2Vycn0pIHsKICBjb25zb2xlLmxvZyhlcnIpOwp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/require/import</text>
