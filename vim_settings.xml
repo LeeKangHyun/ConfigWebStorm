@@ -32,12 +32,12 @@
         <mark key="^" line="13" column="29" />
         <mark key="." line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Board/index.js" timestamp="1530853824601">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Board/index.js" timestamp="1530855108276">
         <mark key="'" line="44" column="13" />
-        <mark key="[" line="44" column="15" />
-        <mark key="]" line="44" column="25" />
-        <mark key="^" line="44" column="25" />
-        <mark key="." line="44" column="25" />
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="22" />
+        <mark key="^" line="32" column="22" />
+        <mark key="." line="32" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Component/SetPop.js" timestamp="1530075779104">
         <mark key="[" line="0" column="0" />
@@ -111,11 +111,11 @@
         <mark key="." line="339" column="0" />
         <mark key="^" line="339" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/saga/api/Board.js" timestamp="1530854037726">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="14" column="13" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/saga/api/Board.js" timestamp="1530854985182">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="34" />
+        <mark key="^" line="7" column="34" />
+        <mark key="." line="7" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/util/util.js" timestamp="1530667321814">
         <mark key="[" line="202" column="0" />
@@ -293,11 +293,11 @@
         <mark key="]" line="21" column="28" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/saga/watchBoard.js" timestamp="1530854007700">
-        <mark key="[" line="32" column="46" />
-        <mark key="]" line="32" column="52" />
-        <mark key="." line="32" column="52" />
-        <mark key="^" line="32" column="52" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/saga/watchBoard.js" timestamp="1530855202221">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="4" />
+        <mark key="." line="32" column="4" />
+        <mark key="^" line="32" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Landing/index.js" timestamp="1530001813960">
         <mark key="[" line="13" column="96" />
@@ -605,12 +605,12 @@
         <mark key="." line="13" column="71" />
         <mark key="^" line="13" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Board/Controller.js" timestamp="1530854160969">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Board/Controller.js" timestamp="1530855000456">
         <mark key="'" line="24" column="13" />
-        <mark key="[" line="48" column="13" />
-        <mark key="]" line="48" column="15" />
-        <mark key="." line="48" column="15" />
-        <mark key="^" line="48" column="15" />
+        <mark key="[" line="47" column="16" />
+        <mark key="]" line="47" column="21" />
+        <mark key="." line="47" column="21" />
+        <mark key="^" line="47" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" timestamp="1530672269500">
         <mark key="'" line="17" column="6" />
@@ -642,11 +642,11 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/action/Board.js" timestamp="1530853985881">
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="12" column="8" />
-        <mark key="." line="12" column="8" />
-        <mark key="^" line="12" column="8" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/action/Board.js" timestamp="1530854967775">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+        <mark key="^" line="12" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1530841154884">
         <mark key="[" line="0" column="0" />
@@ -827,46 +827,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{title, content, database: test}</text>
+        <text>const res = y</text>
       </register>
       <register name="-" type="4">
-        <text>{title, content, database: test}</text>
+        <text>const res = y</text>
       </register>
       <register name="/" type="4">
         <text>require</text>
       </register>
       <register name="0" type="4">
-        <text>onSubmitToFetch</text>
+        <text>https://3gle9wxxva.execute-api.ap-northeast-2.amazonaws.com/mhub</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgZGF0YWJhc2U6IHRlc3QsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRpdGxlLCBjb250ZW50KQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRhdGEgPSB5aWVsZCBjYWxsKGJvYXJkLikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGF0YSwK</text>
+        <text encoding="base64">ICByZXR1cm4ge307Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogMDsKICAgIHBhZGRpbmc6IDA7Cg==</text>
+        <text encoding="base64">ICBsZXQgdXJsID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPHNlbGVjdCB2YWx1ZT17dGVzdH0gbmFtZT0idGVzdCIgb25DaGFuZ2U9e29uQ2hhbmdlVG9TdGF0ZX0+CiAgICAgICAgPG9wdGlvbiB2YWx1ZT0iaW5xdWlyeSI+7IOB64u066y47J2YPC9vcHRpb24+CiAgICAgICAgPG9wdGlvbiB2YWx1ZT0iYm9va2luZyI+7KeE66OM7JiI7JW9PC9vcHRpb24+CiAgICAgICAgPG9wdGlvbiB2YWx1ZT0ibm90aWNlIj7sl6Dtl4jruIwg7IaM7IudPC9vcHRpb24+CiAgICAgICAgPG9wdGlvbiB2YWx1ZT0ibmV3cyI+67O064+E7J6Q66OMPC9vcHRpb24+CiAgICAgICAgPG9wdGlvbiB2YWx1ZT0idG9nZXRoZXIiPu2VqOq7mOunjOuTnOuKlCDsl6Dtl4jruIw8L29wdGlvbj4KICAgICAgPC9zZWxlY3Q+PGJyIC8+CiAgICAgIOygnOuqqTogPGlucHV0IHR5cGU9InRleHQiIHZhbHVlPXt0aXRsZX0gbmFtZT0idGl0bGUiIG9uQ2hhbmdlPXtvbkNoYW5nZVRvU3RhdGV9IC8+PGJyIC8+CiAgICAgIOuCtOyaqTogPHRleHRhcmVhIHZhbHVlPXtjb250ZW50fSBuYW1lPSJjb250ZW50IiBvbkNoYW5nZT17b25DaGFuZ2VUb1N0YXRlfSAvPgo=</text>
+        <text encoding="base64">ICArPWAvJHtkYXRhYmFzZX1gOwo=</text>
       </register>
-      <register name="6" type="8">
-        <text>상담문의
-상담문의
-상담문의
-상담문의</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBsZXQgdXJsID0gImh0dHBzOi8vM2dsZTl3eHh2YS5leGVjdXRlLWFwaS5hcC1ub3J0aGVhc3QtMi5hbWF6b25hd3MuY29tL21odWIiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdldEJvYXJkKHN1Yik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRpdGxlLCBjb250ZW50KQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PgogICAgICAgIAogICAgICA8L3RleHRhcmVh</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgZGF0YSwK</text>
       </register>
       <register name=":" type="4">
         <text>%s/require/import</text>
