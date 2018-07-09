@@ -262,11 +262,11 @@
         <mark key="." line="24" column="28" />
         <mark key="^" line="24" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/Admin.js" timestamp="1531111697367">
-        <mark key="[" line="19" column="3" />
-        <mark key="]" line="19" column="25" />
-        <mark key="." line="19" column="25" />
-        <mark key="^" line="19" column="25" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/Admin.js" timestamp="1531121125443">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="11" column="42" />
       </file>
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/build-utils/addons/webpack.bundleanalyzer.js" timestamp="1530256344521">
         <mark key="'" line="5" column="26" />
@@ -653,7 +653,7 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531114929502">
+      <file name="/Dummy.txt" timestamp="1531120777200">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -840,44 +840,57 @@
       <jump line="10" column="19" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchAdmin.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAmOmZpcnN0LW9mLXR5cGUgewogICAgYmFja2dyb3VuZDogI2NmY2ZjZjsKICAgIGZvbnQtd2VpZ2h0OiA1MDA7CiAgfQogICY6bm90KDpmaXJzdC1vZi10eXBlKTpob3ZlciB7CiAgICBiYWNrZ3JvdW5kOiAjZWZlZmVmOwogICAgY3Vyc29yOiBwb2ludGVyOwogIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZG1pblNpZ25cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>logOut</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgICAgICdBY2NlcHQnOiAnYXBwbGljYXRpb24vanNvbicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAmOmZpcnN0LW9mLXR5cGUgewogICAgYmFja2dyb3VuZDogI2NmY2ZjZjsKICAgIGZvbnQtd2VpZ2h0OiA1MDA7CiAgfQogICY6bm90KDpmaXJzdC1vZi10eXBlKTpob3ZlciB7CiAgICBiYWNrZ3JvdW5kOiAjZWZlZmVmOwogICAgY3Vyc29yOiBwb2ludGVyOwogIH0K</text>
+        <text encoding="base64">ICBjb25zdCByZXNwb25zZSA9IGF3YWl0IF9mZXRjaAogIHJldHVybiBfZmV0Y2goCiAgICB1cmwsCiAgICB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICBoZWFkZXJzOiBzZXR0aW5nLmhlYWRlcnMsCiAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KGRhdGEpCiAgICB9CiAgKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtYXJnaW46IDAgYXV0bzsK</text>
+        <text encoding="base64">ICBjb25zdCByZXNwb25zZSA9IGF3YWl0IF9mZXRjaCgKICAgIGAke1VSTH1zaWduLyR7dHlwZX1gLAogICAgewogICAgICBtZXRob2Q6ICdQT1NUJywKICAgICAgaGVhZGVyczogc2V0dGluZy5oZWFkZXJzLAogICAgICBib2R5OiBKU09OLnN0cmluZ2lmeShkYXRhKQogICAgfQogICk7CiAgcmV0dXJuIGF3YWl0IHJlc3BvbnNlLmpzb24oKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAmOmZpcnN0LWNoaWxkIHsKICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zdCBib2R5ID0gCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAmOm50aC1jaGlsZCgyKSB7CiAgICAgIHRleHQtYWxpZ246IAogICAgfQ==</text>
+        <text>_fetch(
+    `${URL}sign/${type}`,
+    {
+      method: 'POST',
+      headers: setting.headers,
+      body: JSON.stringify(data)
+    }
+  )</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBkaXYgewogICAgZGlzcGxheTogdGFibGUtY2VsbDsKICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICB9Cg==</text>
+      <register name="5" type="4">
+        <text>{
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+      }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAmOm5vdCg6Zmlyc3Qtb2YtdHlwZSk6aG92ZXIgewogICAgYmFja2dyb3VuZDogI2VmZWZlZjsKICAgIGN1cnNvcjogcG9pbnRlcjsKICB9Cg==</text>
+      <register name="6" type="4">
+        <text>{
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+      }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGN1cnNvcjogcG9pbnRlcjsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6ICNlZmVmZWY7Cg==</text>
+        <text encoding="base64">ICAmOmZpcnN0LW9mLXR5cGUgewogICAgYmFja2dyb3VuZDogI2NmY2ZjZjsKICAgIGZvbnQtd2VpZ2h0OiA1MDA7CiAgfQogICY6bm90KDpmaXJzdC1vZi10eXBlKTpob3ZlciB7CiAgICBiYWNrZ3JvdW5kOiAjZWZlZmVmOwogICAgY3Vyc29yOiBwb2ludGVyOwogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAmOm5vdCg6Zmlyc3Qtb2YtdHlwZSk6aG92ZXIgewo=</text>
+        <text encoding="base64">ICBtYXJnaW46IDAgYXV0bzsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/require/import</text>
