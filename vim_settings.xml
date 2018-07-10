@@ -184,10 +184,10 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/SetPopup.js" timestamp="1531198796687">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="22" />
-        <mark key="." line="5" column="22" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/SetPopup.js" timestamp="1531198800629">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
         <mark key="^" line="5" column="21" />
       </file>
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/webpack.config.production.js" timestamp="1530252248691">
@@ -203,11 +203,11 @@
         <mark key="." line="20" column="18" />
         <mark key="^" line="20" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/Admin.js" timestamp="1531121125443">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="11" column="42" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/Admin.js" timestamp="1531200793687">
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="33" column="29" />
+        <mark key="." line="33" column="29" />
+        <mark key="^" line="33" column="29" />
       </file>
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/build-utils/addons/webpack.bundleanalyzer.js" timestamp="1530256344521">
         <mark key="'" line="5" column="26" />
@@ -687,11 +687,11 @@
       <jump line="94" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>abTop, abLeft,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zdCBqc29uID0gcmVzcG9uc2UuanNvbigpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>abTop, abLeft,</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZG1pblNpZ25cPg==</text>
@@ -700,36 +700,33 @@
         <text>onChangeFileToState</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBqc29uID0gcmVzcG9uc2UuanNvbigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">ICAgIGAke1VSTH0ke3R5cGV9YCwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBzdGF0aWMgcHJvcFR5cGVzID0gewogICAgYWRtaW5TZXREYXRhOiBQcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkLAogIH07Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">U2V0UG9wdXAuZGVmYXVsdFByb3BzID0gewogIGFiVG9wOiAwLAogIGFiTGVmdDogMCwKfTsKCgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">U2V0UG9wdXAucHJvcFR5cGVzID0gewogIGZpbGU6IFByb3BUeXBlcy5hbnkuaXNSZXF1aXJlZCwKICB1cmw6IFByb3BUeXBlcy5zdHJpbmcuaXNSZXF1aXJlZCwKICBwb3BOYW1lOiBQcm9wVHlwZXMuc3RyaW5nLmlzUmVxdWlyZWQsCiAgb3Blbl9kYXRlOiBQcm9wVHlwZXMuc3RyaW5nLmlzUmVxdWlyZWQsCiAgY2xvc2VfZGF0ZTogUHJvcFR5cGVzLnN0cmluZy5pc1JlcXVpcmVkLAogIGFiVG9wOiBQcm9wVHlwZXMub25lT2ZUeXBlKFsKICAgIFByb3BUeXBlcy5zdHJpbmcsCiAgICBQcm9wVHlwZXMubnVtYmVyLAogIF0pLAogIGFiTGVmdDogUHJvcFR5cGVzLm9uZU9mVHlwZShbCiAgICBQcm9wVHlwZXMuc3RyaW5nLAogICAgUHJvcFR5cGVzLm51bWJlciwKICBdKSwKICBvbkNoYW5nZVRvU3RhdGU6IFByb3BUeXBlcy5mdW5jLmlzUmVxdWlyZWQsCiAgb25TdWJtaXRQb3B1cDogUHJvcFR5cGVzLmZ1bmMuaXNSZXF1aXJlZCwKfTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBnZXQgaW5pdGlhbFN0YXRlKCkgewogICAgcmV0dXJuIHsKICAgICAgaWQ6ICcnLAogICAgICBwYXNzd29yZDogJycsCiAgICAgIGlzQWRtaW46IHRydWUsCiAgICAgIGVycm9yOiAnJywKICAgIH0KICB9Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>{
-      isAdmin: false,
-      error: '',
-    }</text>
-      </register>
-      <register name="9" type="4">
+      <register name="3" type="4">
         <text>{
       
     }</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gdXBsb2FkKCkgewogIAp9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ey8qICAgIDxpbnB1dCBvbkNoYW5nZT17b25DaGFuZ2VUb1N0YXRlfSBuYW1lPSJhYlRvcCIgdmFsdWU9e2FiVG9wfSBwbGFjZWhvbGRlcj0i7JyE7JeQ7IScIOu2gO2EsCDrs7Tsl6zsp4gg7JyE7LmYIiAvPgogICAgPGlucHV0IG9uQ2hhbmdlPXtvbkNoYW5nZVRvU3RhdGV9IG5hbWU9ImFiTGVmdCIgdmFsdWU9e2FiTGVmdH0gcGxhY2Vob2xkZXI9IuyYhuyXkOyEnCDrtoDthLAg67O07Jes7KeIIOychOy5mCIgLz4qL30K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBzdGF0aWMgcHJvcFR5cGVzID0gewogICAgYWRtaW5TZXREYXRhOiBQcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkLAogIH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/require/import</text>
