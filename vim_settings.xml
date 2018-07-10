@@ -184,11 +184,11 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/SetPopup.js" timestamp="1531193401901">
-        <mark key="[" line="7" column="74" />
-        <mark key="]" line="7" column="74" />
-        <mark key="." line="7" column="74" />
-        <mark key="^" line="7" column="74" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/SetPopup.js" timestamp="1531198796687">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+        <mark key="^" line="5" column="21" />
       </file>
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/webpack.config.production.js" timestamp="1530252248691">
         <mark key="[" line="63" column="7" />
@@ -380,12 +380,12 @@
         <mark key="." line="6" column="53" />
         <mark key="^" line="6" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" timestamp="1531193516714">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="50" column="4" />
-        <mark key="]" line="50" column="25" />
-        <mark key="^" line="50" column="25" />
-        <mark key="." line="50" column="25" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" timestamp="1531198772359">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="15" />
+        <mark key="^" line="52" column="22" />
+        <mark key="." line="19" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchAdmin.js" timestamp="1531114363749">
         <mark key="'" line="10" column="19" />
@@ -682,19 +682,22 @@
       <jump line="72" column="17" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
       <jump line="10" column="21" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
       <jump line="91" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
+      <jump line="57" column="2" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
+      <jump line="41" column="1" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
+      <jump line="94" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>abTop, abLeft,</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>abTop, abLeft,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZG1pblNpZ25cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaXNJdGVtOiBmYWxzZSwKICAgICAgaXRlbTogbnVsbCwKICAgICAgYk5vOiBudWxsLAo=</text>
+      <register name="0" type="4">
+        <text>onChangeFileToState</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
