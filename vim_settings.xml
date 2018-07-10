@@ -325,6 +325,12 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/Router/upload.js" timestamp="1531205528188">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="2" />
+        <mark key="^" line="4" column="2" />
+        <mark key="." line="4" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/.gitignore" timestamp="1530780545769">
         <mark key="[" line="20" column="15" />
         <mark key="]" line="22" column="5" />
@@ -491,12 +497,12 @@
         <mark key="." line="29" column="50" />
         <mark key="^" line="29" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" timestamp="1531204211231">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="59" column="19" />
-        <mark key="]" line="59" column="20" />
-        <mark key="." line="59" column="20" />
-        <mark key="^" line="58" column="25" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" timestamp="1531204520879">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="64" column="38" />
+        <mark key="]" line="64" column="45" />
+        <mark key="." line="64" column="45" />
+        <mark key="^" line="64" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Slider/EmptyInvest.js" timestamp="1529644091563">
         <mark key="[" line="19" column="47" />
@@ -516,6 +522,7 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin/routes/sms.js" timestamp="1531204789908" />
       <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/action/Board.js" timestamp="1530854967775">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="12" column="19" />
@@ -691,13 +698,15 @@
       <jump line="35" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
       <jump line="56" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
       <jump line="64" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="58" column="6" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
+      <jump line="66" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBqc29uID0gcmVzcG9uc2UuanNvbigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZG1pblNpZ25cPg==</text>
@@ -706,33 +715,33 @@
         <text>onChangeFileToState</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBqc29uID0gcmVzcG9uc2UuanNvbigpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnRXhwcmVzcyBsaXN0ZW5pbmcgb24gcG9ydCcsIHBvcnQpOwp9KTsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBjb25zdCBqc29uID0gcmVzcG9uc2UuanNvbigpOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGAke1VSTH0ke3R5cGV9YCwK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
       
     }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gdXBsb2FkKCkgewogIAp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ey8qICAgIDxpbnB1dCBvbkNoYW5nZT17b25DaGFuZ2VUb1N0YXRlfSBuYW1lPSJhYlRvcCIgdmFsdWU9e2FiVG9wfSBwbGFjZWhvbGRlcj0i7JyE7JeQ7IScIOu2gO2EsCDrs7Tsl6zsp4gg7JyE7LmYIiAvPgogICAgPGlucHV0IG9uQ2hhbmdlPXtvbkNoYW5nZVRvU3RhdGV9IG5hbWU9ImFiTGVmdCIgdmFsdWU9e2FiTGVmdH0gcGxhY2Vob2xkZXI9IuyYhuyXkOyEnCDrtoDthLAg67O07Jes7KeIIOychOy5mCIgLz4qL30K</text>
+        <text encoding="base64">ZnVuY3Rpb24gdXBsb2FkKCkgewogIAp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ey8qICAgIDxpbnB1dCBvbkNoYW5nZT17b25DaGFuZ2VUb1N0YXRlfSBuYW1lPSJhYlRvcCIgdmFsdWU9e2FiVG9wfSBwbGFjZWhvbGRlcj0i7JyE7JeQ7IScIOu2gO2EsCDrs7Tsl6zsp4gg7JyE7LmYIiAvPgogICAgPGlucHV0IG9uQ2hhbmdlPXtvbkNoYW5nZVRvU3RhdGV9IG5hbWU9ImFiTGVmdCIgdmFsdWU9e2FiTGVmdH0gcGxhY2Vob2xkZXI9IuyYhuyXkOyEnCDrtoDthLAg67O07Jes7KeIIOychOy5mCIgLz4qL30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdGF0aWMgcHJvcFR5cGVzID0gewogICAgYWRtaW5TZXREYXRhOiBQcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkLAogIH07Cg==</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/require/import</text>
