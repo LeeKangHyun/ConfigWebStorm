@@ -47,11 +47,11 @@
         <mark key="." line="8" column="5" />
         <mark key="^" line="3" column="84" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/globalStyled.js" timestamp="1530852838673">
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="5" column="1" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="5" column="1" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/globalStyled.js" timestamp="1531278502006">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="94" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/package.json" timestamp="1531100167463">
         <mark key="[" line="5" column="61" />
@@ -325,6 +325,7 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/common/styled.js" timestamp="1531278519899" />
       <file name="$USER_HOME$/Documents/hnh/hongplastic/Router/upload.js" timestamp="1531205528188">
         <mark key="[" line="4" column="2" />
         <mark key="]" line="4" column="2" />
@@ -711,11 +712,11 @@
       <jump line="2" column="28" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Header/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>v</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZG1pblNpZ25cPg==</text>
@@ -724,33 +725,33 @@
         <text>onChangeFileToState</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIDwK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgSGVhZGVyID0gKHt9KSA9PiB7CiAgcmV0dXJuICgKICAgIAogICkKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBuZXcgUHJvbWlzZS5tZGRhcCgpCg==</text>
+        <text encoding="base64">Y29uc3QgSGVhZGVyID0gKHt9KSA9PiB7CiAgcmV0dXJuICgKICAgIAogICkKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnRXhwcmVzcyBsaXN0ZW5pbmcgb24gcG9ydCcsIHBvcnQpOwp9KTsK</text>
+        <text encoding="base64">ICBuZXcgUHJvbWlzZS5tZGRhcCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBqc29uID0gcmVzcG9uc2UuanNvbigpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnRXhwcmVzcyBsaXN0ZW5pbmcgb24gcG9ydCcsIHBvcnQpOwp9KTsK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICBjb25zdCBqc29uID0gcmVzcG9uc2UuanNvbigpOwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGAke1VSTH0ke3R5cGV9YCwK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>{
       
     }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/require/import</text>
