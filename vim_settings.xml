@@ -72,11 +72,9 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Header/styled.js" timestamp="1531279382995">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="14" column="30" />
-        <mark key="." line="14" column="30" />
-        <mark key="^" line="14" column="30" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Header/styled.js" timestamp="1531279865188">
+        <mark key="[" line="25" column="5" />
+        <mark key="^" line="24" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/item/item.js" timestamp="1530668202003">
         <mark key="[" line="339" column="0" />
@@ -269,12 +267,12 @@
         <mark key="^" line="10" column="54" />
         <mark key="." line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Header/index.js" timestamp="1531279161429">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Header/index.js" timestamp="1531279825905">
         <mark key="'" line="2" column="28" />
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="17" column="30" />
-        <mark key="." line="17" column="30" />
-        <mark key="^" line="17" column="30" />
+        <mark key="[" line="24" column="57" />
+        <mark key="]" line="24" column="61" />
+        <mark key="." line="24" column="61" />
+        <mark key="^" line="24" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/public/index.html" timestamp="1530780060800">
         <mark key="[" line="7" column="37" />
@@ -718,44 +716,44 @@
       <jump line="2" column="28" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Header/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxpbWcgc3JjPSIiIGFsdD0iIiAvPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZG1pblNpZ25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGFydGljbGU+PC9hcnRpY2xlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxpbWcgc3JjPSIiIGFsdD0iIiAvPiAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGhzbCgwLCAwJSwgMTAwJSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxpbWcgc3JjPSIiIGFsdD0iIiAvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBib3JkZXItYm90dG9tOiAxcHggc29saWQgI2M4YzhjODsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxpbWcgc3JjPSIvaW1hZ2VzLyIgYWx0PSIiIC8+IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA+IGFydGljbGUgewogIH0K</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIHNyYz0iIiAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICY6Zmlyc3QtY2hpbGQgewogICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGhzbCgwLCAwJSwgMTAwJSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxOTIwcHg7Cg==</text>
+        <text encoding="base64">ICBib3JkZXItYm90dG9tOiAxcHggc29saWQgI2M4YzhjODsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA+IGFydGljbGUgewogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwK</text>
+        <text encoding="base64">ICAgICY6Zmlyc3QtY2hpbGQgewogICAgICAKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAxOTIwcHg7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgSGVhZGVyID0gKHt9KSA9PiB7CiAgcmV0dXJuICgKICAgIAogICkKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/require/import</text>
