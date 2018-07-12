@@ -78,11 +78,11 @@
         <mark key="^" line="40" column="66" />
         <mark key="." line="40" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Footer/styled.js" timestamp="1531373433225">
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="24" column="18" />
-        <mark key="." line="24" column="18" />
-        <mark key="^" line="24" column="18" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Footer/styled.js" timestamp="1531375790544">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="22" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Styled.js" timestamp="1530753387184">
         <mark key="'" line="29" column="1" />
@@ -308,11 +308,11 @@
         <mark key="." line="76" column="41" />
         <mark key="^" line="76" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Footer/index.js" timestamp="1531373381099">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="33" />
-        <mark key="." line="14" column="33" />
-        <mark key="^" line="14" column="33" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Footer/index.js" timestamp="1531374260730">
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/public/index.html" timestamp="1530780060800">
         <mark key="[" line="7" column="37" />
@@ -803,43 +803,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogYmxvY2s7Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiA1NTZweDsK</text>
       </register>
       <register name="-" type="4">
-        <text>width</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8QXJ0aWNsZT4KICAgICAgICAKICAgICAgICA8L0FydGljbGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGljbGU+CiAgICAgICAgICAgICAgCiAgICAgICAgICAgIDwvYXJ0aWNsZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogYmxvY2s7Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiA1NTZweDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHdpZHRoOiA1NDBweDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbWcgewogICAgZGlzcGxheTogYmxvY2s7CiAgICB3aWR0aDogMTAwJTsKICAgIGhlaWdodDogMTAwJTsKICB9Cg==</text>
+        <text encoding="base64">ICBpbWcgewogICAgZGlzcGxheTogYmxvY2s7CiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMTAwJTsK</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1yaWdodDogLTE2cHg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGJsb2NrOwogICAgaGVpZ2h0OiAxMDAlOwo=</text>
+        <text encoding="base64">ICB3aWR0aDogMTA4MHB4O2RkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwogICAgaGVpZ2h0OiAxMDAlO1Zrawo=</text>
+        <text encoding="base64">ICB3aWR0aDogY2FsYygxMDAlIC8gMik7ZGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICY6bGFzdC1vZi10eXBlIHsKICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbWcgewogICAgZGlzcGxheTogYmxvY2s7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/children/sub</text>
