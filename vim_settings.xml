@@ -126,11 +126,12 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/index.js" timestamp="1531384063036">
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="14" />
-        <mark key="^" line="16" column="14" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/index.js" timestamp="1531385229438">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="28" />
+        <mark key="^" line="10" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub2/public/manifest.json" timestamp="1530681769791">
         <mark key="[" line="2" column="11" />
@@ -186,6 +187,12 @@
         <mark key="]" line="3" column="8" />
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/Controller.js" timestamp="1531387378780">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/views/include/footer.pug" timestamp="1529644722894">
         <mark key="[" line="26" column="47" />
@@ -351,11 +358,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="33" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/styled.js" timestamp="1531383079161">
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="14" column="19" />
-        <mark key="^" line="14" column="19" />
-        <mark key="." line="14" column="19" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/styled.js" timestamp="1531387392421">
+        <mark key="'" line="8" column="9" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/webpack.config.js" timestamp="1530256095672">
         <mark key="[" line="0" column="0" />
@@ -712,15 +719,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="26" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
-      <jump line="60" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
-      <jump line="61" column="2" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
-      <jump line="43" column="30" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
-      <jump line="32" column="13" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
-      <jump line="33" column="12" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
       <jump line="6" column="19" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
       <jump line="10" column="24" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
       <jump line="17" column="6" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
@@ -812,13 +810,22 @@
       <jump line="20" column="11" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Header/Hamburger/index.js" />
       <jump line="6" column="6" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Header/Hamburger/index.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Header/Hamburger/List.js" />
+      <jump line="2" column="28" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/index.js" />
+      <jump line="22" column="14" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/index.js" />
+      <jump line="29" column="1" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/index.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/index.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/styled.js" />
+      <jump line="4" column="9" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/styled.js" />
+      <jump line="21" column="3" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/Controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBhbmltYXRpb246IDFzICR7U3dpbmdBbml9Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -827,31 +834,31 @@
         <text>/images/common/mhub_quick1.svg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX3F1aWNrID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignI3F1aWNrJyk7Cg==</text>
+        <text encoding="base64">ICBhbmltYXRpb246IDFzICR7U3dpbmdBbml9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50Cg==</text>
+        <text encoding="base64">ICAgICAgZGlzYWJsZTogdHJ1ZSwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">LCAoKSA9PiB7CiAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgIGRpc2FibGU6IGZhbHNlLAogICAgICB9KQogICAgfQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGltZyB7CiAgICAgIHdpZHRoOiAzMHB4OwogICAgICBoZWlnaHQ6IDM2cHg7CiAgICAgIG1hcmdpbi10b3A6IDEycHg7CiAgICAgIG1hcmdpbi1ib3R0b206IDVweDsKICAgIH0K</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBjb25zdCB7ZGlzYWJsZX0gPSB0aGlzLnN0YXRlOw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbWcgewogICAgd2lkdGg6IDMwcHg7CiAgICBoZWlnaHQ6IDM2cHg7CiAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgUXVpY2sgPSAoKSA9PiB7CiAgCn0K</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgdG9wOiB1cGRhdGUodGhpcy5zdGF0ZS50b3AsIHskc2V0OiAoK3dpbmRvdy5zY3JvbGxZICsgMTkwKX0pLAogICAgICAgIGRpc2FibGU6IHRydWUsCiAgICAgIH0sICgpID0+IHsKICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgIGRpc2FibGU6IGZhbHNlLAogICAgICAgIH0pCiAgICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZWZ0OiAwOwo=</text>
+        <text encoding="base64">ICAgIHNldEludGVydmFsKCgpID0+IHsKICAgIH0sIDUwMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZWZ0OiAwOwogIHdpZHRoOiAyNzBweDsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB3aWR0aDogY2FsYygxMDAlIC8gMik7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgdG9wOiB1cGRhdGUodGhpcy5zdGF0ZS50b3AsIHskc2V0OiAoK3dpbmRvdy5zY3JvbGxZICsgMTkwKX0pLAogICAgICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/children/sub</text>
