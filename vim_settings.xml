@@ -126,6 +126,12 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/index.js" timestamp="1531379857911">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub2/public/manifest.json" timestamp="1530681769791">
         <mark key="[" line="2" column="11" />
         <mark key="]" line="2" column="18" />
@@ -607,7 +613,7 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531367593456">
+      <file name="/Dummy.txt" timestamp="1531379163989">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -803,7 +809,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBsZWZ0OiAwOwo=</text>
+        <text encoding="base64">Y29uc3QgUXVpY2sgPSAoKSA9PiB7CiAgCn0K</text>
       </register>
       <register name="-" type="4">
         <text>4</text>
@@ -815,31 +821,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPGFydGljbGU+CiAgICAgICAgICAgICAgCiAgICAgICAgICAgIDwvYXJ0aWNsZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZWZ0OiAwOwo=</text>
+        <text encoding="base64">Y29uc3QgUXVpY2sgPSAoKSA9PiB7CiAgCn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZWZ0OiAwOwogIHdpZHRoOiAyNzBweDsK</text>
+        <text encoding="base64">ICBsZWZ0OiAwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB3aWR0aDogY2FsYygxMDAlIC8gMik7Cg==</text>
+        <text encoding="base64">ICBsZWZ0OiAwOwogIHdpZHRoOiAyNzBweDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA1NTZweDsK</text>
+        <text encoding="base64">ICB3aWR0aDogY2FsYygxMDAlIC8gMik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA1NDBweDsK</text>
+        <text encoding="base64">ICAgIHdpZHRoOiA1NTZweDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbWcgewogICAgZGlzcGxheTogYmxvY2s7CiAgfQo=</text>
+        <text encoding="base64">ICAgIHdpZHRoOiA1NDBweDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1yaWdodDogLTE2cHg7Cg==</text>
+        <text encoding="base64">ICBpbWcgewogICAgZGlzcGxheTogYmxvY2s7CiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTA4MHB4O2RkCg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1yaWdodDogLTE2cHg7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB3aWR0aDogY2FsYygxMDAlIC8gMik7ZGQK</text>
+        <text encoding="base64">ICB3aWR0aDogMTA4MHB4O2RkCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/children/sub</text>
