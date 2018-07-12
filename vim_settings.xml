@@ -126,11 +126,11 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/index.js" timestamp="1531383257053">
-        <mark key="[" line="52" column="12" />
-        <mark key="]" line="52" column="12" />
-        <mark key="." line="52" column="12" />
-        <mark key="^" line="16" column="21" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/index.js" timestamp="1531384063036">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub2/public/manifest.json" timestamp="1530681769791">
         <mark key="[" line="2" column="11" />
@@ -815,10 +815,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -827,31 +827,31 @@
         <text>/images/common/mhub_quick1.svg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuX3F1aWNrID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignI3F1aWNrJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltZyB7CiAgICAgIHdpZHRoOiAzMHB4OwogICAgICBoZWlnaHQ6IDM2cHg7CiAgICAgIG1hcmdpbi10b3A6IDEycHg7CiAgICAgIG1hcmdpbi1ib3R0b206IDVweDsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbWcgewogICAgd2lkdGg6IDMwcHg7CiAgICBoZWlnaHQ6IDM2cHg7CiAgfQo=</text>
+        <text encoding="base64">ICAgIGltZyB7CiAgICAgIHdpZHRoOiAzMHB4OwogICAgICBoZWlnaHQ6IDM2cHg7CiAgICAgIG1hcmdpbi10b3A6IDEycHg7CiAgICAgIG1hcmdpbi1ib3R0b206IDVweDsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgUXVpY2sgPSAoKSA9PiB7CiAgCn0K</text>
+        <text encoding="base64">ICBpbWcgewogICAgd2lkdGg6IDMwcHg7CiAgICBoZWlnaHQ6IDM2cHg7CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZWZ0OiAwOwo=</text>
+        <text encoding="base64">Y29uc3QgUXVpY2sgPSAoKSA9PiB7CiAgCn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZWZ0OiAwOwogIHdpZHRoOiAyNzBweDsK</text>
+        <text encoding="base64">ICBsZWZ0OiAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB3aWR0aDogY2FsYygxMDAlIC8gMik7Cg==</text>
+        <text encoding="base64">ICBsZWZ0OiAwOwogIHdpZHRoOiAyNzBweDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA1NTZweDsK</text>
+        <text encoding="base64">ICB3aWR0aDogY2FsYygxMDAlIC8gMik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/children/sub</text>
