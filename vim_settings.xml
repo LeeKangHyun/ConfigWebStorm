@@ -126,11 +126,11 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/index.js" timestamp="1531379857911">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="6" column="7" />
-        <mark key="." line="6" column="7" />
-        <mark key="^" line="6" column="7" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/index.js" timestamp="1531381532616">
+        <mark key="[" line="14" column="47" />
+        <mark key="]" line="14" column="48" />
+        <mark key="." line="14" column="48" />
+        <mark key="^" line="8" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub2/public/manifest.json" timestamp="1530681769791">
         <mark key="[" line="2" column="11" />
@@ -350,6 +350,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="33" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/styled.js" timestamp="1531381585518">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/webpack.config.js" timestamp="1530256095672">
         <mark key="[" line="0" column="0" />
@@ -808,17 +814,17 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Header/Hamburger/List.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgUXVpY2sgPSAoKSA9PiB7CiAgCn0K</text>
+      <register name="&quot;" type="4">
+        <text>/images/common/mhub_quick1.svg</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>개</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGljbGU+CiAgICAgICAgICAgICAgCiAgICAgICAgICAgIDwvYXJ0aWNsZT4K</text>
+      <register name="0" type="4">
+        <text>/images/common/mhub_quick1.svg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y29uc3QgUXVpY2sgPSAoKSA9PiB7CiAgCn0K</text>
