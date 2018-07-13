@@ -212,6 +212,12 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/styled.js" timestamp="1531444975518">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/const/index.js" timestamp="1531102398867">
         <mark key="[" line="33" column="6" />
         <mark key="]" line="33" column="6" />
@@ -488,12 +494,12 @@
         <mark key="." line="25" column="19" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Router/index.js" timestamp="1531382328709">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Router/index.js" timestamp="1531445038098">
         <mark key="'" line="20" column="53" />
-        <mark key="[" line="30" column="16" />
-        <mark key="]" line="30" column="16" />
-        <mark key="." line="30" column="16" />
-        <mark key="^" line="30" column="16" />
+        <mark key="[" line="32" column="46" />
+        <mark key="]" line="32" column="49" />
+        <mark key="." line="32" column="49" />
+        <mark key="^" line="32" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/webpack.config.dev.js" timestamp="1531100130523">
         <mark key="'" line="30" column="27" />
@@ -520,13 +526,6 @@
         <mark key="]" line="15" column="12" />
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Mask/styled.js" timestamp="1531358525446">
-        <mark key="p" line="0" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="8" column="14" />
-        <mark key="^" line="8" column="14" />
-        <mark key="." line="8" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/Utils/ScrollAni.js" timestamp="1531443884141">
         <mark key="'" line="0" column="0" />
@@ -634,7 +633,7 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531379163989">
+      <file name="/Dummy.txt" timestamp="1531444240702">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -687,12 +686,12 @@
         <mark key="^" line="52" column="23" />
         <mark key="." line="52" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/index.js" timestamp="1531277370785">
-        <mark key="'" line="2" column="28" />
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="22" />
-        <mark key="^" line="14" column="22" />
-        <mark key="." line="14" column="22" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/index.js" timestamp="1531445004318">
+        <mark key="'" line="6" column="28" />
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="12" column="11" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="12" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/reducer/Board.js" timestamp="1530853572107">
         <mark key="'" line="40" column="21" />
@@ -830,10 +829,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f5fbfe</text>
+        <text>Landing</text>
       </register>
       <register name="-" type="4">
-        <text>f5fbfe</text>
+        <text>Landing</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
