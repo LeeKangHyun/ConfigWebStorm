@@ -212,11 +212,11 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/styled.js" timestamp="1531446474791">
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="11" column="1" />
-        <mark key="^" line="11" column="1" />
-        <mark key="." line="11" column="1" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/styled.js" timestamp="1531452068500">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/const/index.js" timestamp="1531102398867">
         <mark key="[" line="33" column="6" />
@@ -327,11 +327,11 @@
         <mark key="." line="76" column="41" />
         <mark key="^" line="76" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Footer/index.js" timestamp="1531376910068">
-        <mark key="[" line="18" column="63" />
-        <mark key="]" line="18" column="69" />
-        <mark key="." line="18" column="69" />
-        <mark key="^" line="18" column="69" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Footer/index.js" timestamp="1531451001850">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/public/index.html" timestamp="1530780060800">
         <mark key="[" line="7" column="37" />
@@ -364,11 +364,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="33" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/styled.js" timestamp="1531444211526">
-        <mark key="'" line="4" column="9" />
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/styled.js" timestamp="1531450978755">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
         <mark key="^" line="8" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/webpack.config.js" timestamp="1530256095672">
@@ -686,12 +686,15 @@
         <mark key="^" line="52" column="23" />
         <mark key="." line="52" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/index.js" timestamp="1531446385155">
-        <mark key="'" line="6" column="28" />
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="11" />
-        <mark key="^" line="12" column="11" />
-        <mark key="." line="12" column="11" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/index.js" timestamp="1531451977311">
+        <mark key="'" line="8" column="28" />
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="5" column="9" />
+        <mark key="^" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/config/webpackDevServer.config.js" timestamp="1531451114122">
+        <mark key="[" line="18" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/reducer/Board.js" timestamp="1530853572107">
         <mark key="'" line="40" column="21" />
@@ -726,8 +729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="6" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
-      <jump line="16" column="6" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
       <jump line="11" column="46" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/watchFetchBoard.js" />
       <jump line="19" column="13" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/index.js" />
       <jump line="3" column="56" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/board/action.js" />
@@ -826,13 +827,15 @@
       <jump line="21" column="3" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/Controller.js" />
       <jump line="1" column="19" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/Utils/ScrollAni.js" />
+      <jump line="21" column="25" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/styled.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/styled.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Landing</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Landing</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
