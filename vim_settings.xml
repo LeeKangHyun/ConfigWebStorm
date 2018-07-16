@@ -657,7 +657,7 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531705725611">
+      <file name="/Dummy.txt" timestamp="1531708132861">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -858,10 +858,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>scriptPage</text>
+        <text>naver</text>
       </register>
       <register name="-" type="4">
-        <text>scriptPage</text>
+        <text>naver</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
