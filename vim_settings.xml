@@ -72,10 +72,11 @@
         <mark key="." line="5" column="61" />
         <mark key="^" line="5" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Router/ScrollTop.js" timestamp="1531705691326">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Router/ScrollTop.js" timestamp="1531707359347">
+        <mark key="[" line="48" column="15" />
+        <mark key="]" line="50" column="39" />
+        <mark key="." line="50" column="39" />
+        <mark key="^" line="50" column="39" />
       </file>
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/package.json" timestamp="1530256428797">
         <mark key="[" line="40" column="29" />
@@ -616,7 +617,7 @@
         <mark key="." line="29" column="50" />
         <mark key="^" line="29" column="50" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531706234280">
+      <file name="/JavaScript Console" timestamp="1531706285238">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" timestamp="1531204520879">
@@ -856,11 +857,11 @@
       <jump line="17" column="20" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/Controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc2NyaXB0ICYmIGRvY3VtZW50LmJvZHkucmVtb3ZlQ2hpbGQoc2NyaXB0KTsK</text>
+      <register name="&quot;" type="4">
+        <text>scriptPage</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>scriptPage</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
