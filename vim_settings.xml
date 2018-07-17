@@ -668,13 +668,13 @@
         <mark key="." line="64" column="45" />
         <mark key="^" line="64" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/styled.js" timestamp="1531806550924">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/styled.js" timestamp="1531808879537">
         <mark key="p" line="0" column="0" />
         <mark key="a" line="64" column="2" />
-        <mark key="[" line="15" column="37" />
-        <mark key="]" line="16" column="17" />
-        <mark key="." line="16" column="17" />
-        <mark key="^" line="16" column="17" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="20" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Slider/EmptyInvest.js" timestamp="1529644091563">
         <mark key="[" line="19" column="47" />
@@ -710,7 +710,7 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531802038914">
+      <file name="/Dummy.txt" timestamp="1531808908793">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -906,43 +906,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyOwo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtcG9zaXRpb246IGNlbnRlciBsZWZ0Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>Tab</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyOwo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6ICR7KHtiYWNrZ3JvdW5kTW9ifSkgPT4gKGJhY2tncm91bmQoYmFja2dyb3VuZE1vYikpfTsKICAgIGJhY2tncm91bmQtc2l6ZTogY29udGFpbjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtcG9zaXRpb246IGNlbnRlciBsZWZ0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGIK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtc2l6ZTogY29udGFpbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtaW1hZ2UK</text>
+        <text encoding="base64">ICBAbWVkaWEgYWxsIGFuZCAobWF4LXdpZHRoOiA3MDZweCkgewogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtaW1hZ2UK</text>
+        <text encoding="base64">ICAgIGhlaWdodDogNDUwcHg7CiAgICBiYWNrZ3JvdW5kOiAkeyh7YmFja2dyb3VuZE1vYn0pID0+IChiYWNrZ3JvdW5kKGJhY2tncm91bmRNb2IpKX07CiAgICBiYWNrZ3JvdW5kLXNpemU6IGNvbnRhaW47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB7CiAgICBzcmM6ICIvaW1hZ2VzL3VwbG9hZC9jYXJvdXNlbC5qcGciLAogICAgdXJsOiAnJywKICB9LAo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtc2l6ZTogY29udGFpbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtcG9zaXRpb246IDUwJSAxMDAlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJpZ2h0OiAwICFpbXBvcnRhbnQ7Cg==</text>
+        <text encoding="base64">ICBqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0KICAgIHJpZ2h0OiAwICFpbXBvcnRhbnQ7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/children/sub</text>
