@@ -223,11 +223,11 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/styled.js" timestamp="1531795906618">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="41" column="0" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/styled.js" timestamp="1531798449917">
+        <mark key="[" line="352" column="27" />
+        <mark key="]" line="221" column="31" />
+        <mark key="." line="221" column="31" />
+        <mark key="^" line="222" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1531100861526">
         <mark key="[" line="22" column="0" />
@@ -491,6 +491,12 @@
         <mark key="]" line="13" column="23" />
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/Arrow.js" timestamp="1531797140136">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/admin/action.js" timestamp="1531114267042">
         <mark key="'" line="9" column="13" />
@@ -761,12 +767,11 @@
         <mark key="^" line="52" column="23" />
         <mark key="." line="52" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/index.js" timestamp="1531795332606">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/index.js" timestamp="1531797343151">
         <mark key="'" line="84" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="39" />
-        <mark key="." line="6" column="39" />
-        <mark key="^" line="6" column="39" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/config/webpackDevServer.config.js" timestamp="1531451114122">
         <mark key="[" line="18" column="14" />
@@ -907,43 +912,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYXJyb3dzOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDIwcHggMTBweCA0MHB4Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gYXBwZW5kRG90czogZG90cyA9PiAoCiAgICAgIC8vICAgPERvdHM+CiAgICAgIC8vICAgICA8dWwgc3R5bGU9e3sgbWFyZ2luOiAiMHB4IiB9fT4ge2RvdHN9IDwvdWw+CiAgICAgIC8vICAgPC9Eb3RzPgogICAgICAvLyApCg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDIwcHggMTBweCA0MHB4Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXJyb3dzOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDIwcHggMDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDU1MHB4Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDEwMCU7Cg==</text>
+        <text encoding="base64">ICBkZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDU1MHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICA8R29Nb2JpbGVkZAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">JycKICAgIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBAbWVkaWEgYWxsIGFuZCAobWF4LXdpZHRoOiApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiL2ltYWdlcy91cGxvYWQvY2Fyb3VzZWwuanBnIiwK</text>
+        <text encoding="base64">ICAgIGRpc3AK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgYXJyb3dzOiB0cnVlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8SXRlbSAvPgo=</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDU1MHB4Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPAo=</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDEwMCU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/children/sub</text>
