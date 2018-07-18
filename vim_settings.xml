@@ -115,12 +115,12 @@
         <mark key="^" line="7" column="34" />
         <mark key="." line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/index.js" timestamp="1531884530231">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/index.js" timestamp="1531890009093">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="62" column="15" />
-        <mark key="]" line="64" column="31" />
-        <mark key="." line="64" column="31" />
-        <mark key="^" line="64" column="31" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="27" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/styled.js" timestamp="1530166423471">
         <mark key="[" line="712" column="10" />
@@ -159,12 +159,12 @@
         <mark key="^" line="14" column="1" />
         <mark key="." line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/const.js" timestamp="1531883526978">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/const.js" timestamp="1531890138374">
         <mark key="'" line="40" column="4" />
-        <mark key="[" line="63" column="14" />
-        <mark key="]" line="63" column="19" />
-        <mark key="^" line="43" column="18" />
-        <mark key="." line="63" column="14" />
+        <mark key="[" line="213" column="16" />
+        <mark key="]" line="213" column="27" />
+        <mark key="^" line="213" column="27" />
+        <mark key="." line="213" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/index.js" timestamp="1529658983035">
         <mark key="[" line="6" column="8" />
@@ -390,11 +390,12 @@
         <mark key="^" line="28" column="39" />
         <mark key="." line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Controller.js" timestamp="1531884438769">
-        <mark key="'" line="15" column="44" />
-        <mark key="[" line="24" column="3" />
-        <mark key="]" line="24" column="3" />
-        <mark key="." line="24" column="3" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Controller.js" timestamp="1531890051661">
+        <mark key="'" line="21" column="44" />
+        <mark key="[" line="34" column="5" />
+        <mark key="]" line="34" column="5" />
+        <mark key="." line="34" column="5" />
+        <mark key="^" line="40" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Router/styled.js" timestamp="1529906873466">
         <mark key="[" line="3" column="0" />
@@ -662,12 +663,6 @@
         <mark key="." line="10" column="52" />
         <mark key="^" line="34" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/index.js" timestamp="1531806269685">
-        <mark key="'" line="58" column="22" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Landing/Styled.js" timestamp="1530001945088">
         <mark key="[" line="14" column="37" />
         <mark key="]" line="15" column="20" />
@@ -694,14 +689,6 @@
         <mark key="]" line="64" column="45" />
         <mark key="." line="64" column="45" />
         <mark key="^" line="64" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/styled.js" timestamp="1531809028661">
-        <mark key="p" line="0" column="0" />
-        <mark key="a" line="64" column="2" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="20" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Intro/page/story.js" timestamp="1531880597502">
         <mark key="'" line="11" column="0" />
@@ -755,6 +742,12 @@
         <mark key="]" line="27" column="25" />
         <mark key="^" line="27" column="25" />
         <mark key="." line="27" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/index.js" timestamp="1531888825974">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Status.js" timestamp="1530166331203">
         <mark key="[" line="56" column="11" />
@@ -945,44 +938,52 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>엠허브</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>엠허브</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CmNvbnN0IEFydGljbGUgPSBzdHlsZWQuYXJ0aWNsZWAKICB3aWR0aDogMTA4MHB4OwogIG1hcmdpbjogMCBhdXRvOwogIEBtZWRpYSBhbGwgYW5kIChtYXgtd2lkdGg6IDEwNzlweCkgewogICAgd2lkdGg6IDcwOHB4OwogIH0KICBAbWVkaWEgYWxsIGFuZCAobWF4LXdpZHRoOiA3NjdweCkgewogICAgd2lkdGg6IDEwMCU7CiAgfQpgOwoKZXhwb3J0IGNvbnN0IEludHJvID0gQXJ0aWNsZS5leHRlbmRgCiAgcGFkZGluZy10b3A6IDYwcHg7CiAgdGV4dC1hbGlnbjogY2VudGVyOwogIGZvbnQtc2l6ZTogMjRweDsKICBjb2xvcjogIzJhMmEyYTsKICB3b3JkLWJyZWFrOiBrZWVwLWFsbDsKICBsYWJlbCB7CiAgICBmb250LXdlaWdodDogYm9sZDsKICAgIGxldHRlci1zcGFjaW5nOiAtMC42cHg7CiAgfQogIC5oci1saW5lIHsKICAgIHdpZHRoOiAzMHB4OwogICAgaGVpZ2h0OiAzcHg7CiAgICBtYXJnaW46IDIwcHggYXV0bzsKICAgIGJhY2tncm91bmQ6ICMwZDZmYjg7CiAgfQogIHNwYW4gewogICAgZGlzcGxheTogYmxvY2s7CiAgICBsZXR0ZXItc3BhY2luZzogLTAuNnB4OwogICAgbGluZS1oZWlnaHQ6IDEuNTsKICAgIHdvcmQtYnJlYWs6IGtlZXAtYWxsOwogIH0KICAmLndpdGhfaW1hZ2UgewogICAgcGFkZGluZy10b3A6IDUwcHg7CiAgfQogIEBtZWRpYSBhbGwgYW5kIChtYXgtd2lkdGg6IDEwNzlweCkgewogICAgcGFkZGluZy10b3A6IDUwcHg7CiAgICAmLndpdGhfaW1hZ2UgewogICAgICBwYWRkaW5nLXRvcDogNDBweDsKICAgIH0KICAgIGxhYmVsIHsKICAgICAgZm9udC1zaXplOiAyMXB4OwogICAgICBsZXR0ZXItc3BhY2luZzogLTAuNXB4OwogICAgfQogICAgc3BhbiB7CiAgICAgIGZvbnQtc2l6ZTogMThweDsKICAgICAgbGV0dGVyLXNwYWNpbmc6IC0wLjVweDsKICAgIH0KICB9CiAgQG1lZGlhIGFsbCBhbmQgKG1heC13aWR0aDogNzY3cHgpIHsKICAgIHBhZGRpbmctdG9wOiAyMHB4OwogICAgcGFkZGluZy1sZWZ0OiAyMHB4OwogICAgcGFkZGluZy1yaWdodDogMjBweDsKICAgIGxhYmVsIHsKICAgICAgZm9udC1zaXplOiAxOHB4OwogICAgfQogICAgLmhyLWxpbmUgewogICAgICB3aWR0aDogMjBweDsKICAgICAgaGVpZ2h0OiAycHg7CiAgICAgIG1hcmdpbjogMTVweCBhdXRvOwogICAgfQogICAgc3BhbiB7CiAgICAgIGZvbnQtc2l6ZTogMTVweDsKICAgICAgbGluZS1oZWlnaHQ6IDIycHg7CiAgICB9CiAgICAmLndpdGhfaW1hZ2UgewogICAgICBwYWRkaW5nLXRvcDogMzBweDsKICAgICAgbGFiZWwgewogICAgICAgIGZvbnQtc2l6ZTogMTVweDsKICAgICAgICBsaW5lLWhlaWdodDogMjJweDsKICAgICAgfQogICAgICAuaHItbGluZSB7CiAgICAgICAgbWFyZ2luOiAxNXB4IGF1dG8gMjBweDsKICAgICAgfQogICAgfQogIH0KYDsKCmV4cG9ydCBjb25zdCBXaXRoSW1hZ2UgPSBBcnRpY2xlLmV4dGVuZGAKICBtYXJnaW4tdG9wOiA1MHB4OwogICYubTAgewogICAgbWFyZ2luOiAwICFpbXBvcnRhbnQ7CiAgICBwYWRkaW5nOiAwICFpbXBvcnRhbnQ7CiAgfQogIEBtZWRpYSBhbGwgYW5kIChtYXgtd2lkdGg6IDEwNzlweCkgewogICAgbWFyZ2luLXRvcDogNDBweDsKICB9CiAgQG1lZGlhIGFsbCBhbmQgKG1heC13aWR0aDogNzY3cHgpIHsKICAgIG1hcmdpbi10b3A6IDMwcHg7CiAgICBwYWRkaW5nOiAwIDIwcHg7CiAgfQpgOwoKZXhwb3J0IGNvbnN0IEltYWdlID0gc3R5bGVkLmltZ2AKICAkeyh7d2lkdGgsIGhlaWdodH0pID0+IHsKICBpZiAod2lkdGggfHwgaGVpZ2h0KSB7CiAgICByZXR1cm4gYAogICAgICAgIHdpZHRoOiAke3dpZHRofXB4OwogICAgICAgIGhlaWdodDogJHtoZWlnaHR9cHg7CiAgICAgIGAKICB9CiAgcmV0dXJuIGAKICAgICAgd2lkdGg6IDEwMCU7CiAgICAgIGhlaWdodDogMTAwJTsKICAgIGAKfX07CiAgbWFyZ2luOiAwIGF1dG87CiAgJi5kLXdlYiB7CiAgICBkaXNwbGF5OiBibG9jazsKICB9CiAgJi5kLXRhYiwgJi5kLW1vYiB7CiAgICBkaXNwbGF5OiBub25lOwogIH0KICBAbWVkaWEgYWxsIGFuZCAobWF4LXdpZHRoOiAxMDc5cHgpIHsKICAgICYuZC10YWIgewogICAgICBkaXNwbGF5OiBibG9jazsKICAgIH0KICAgICYuZC13ZWIsICYuZC1tb2IgewogICAgICBkaXNwbGF5OiBub25lOwogICAgfQogIH0KICBAbWVkaWEgYWxsIGFuZCAobWF4LXdpZHRoOiA3NjdweCkgewogICAgJi5kLW1vYiB7CiAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgfQogICAgJi5kLXdlYiwgJi5kLXRhYiB7CiAgICAgIGRpc3BsYXk6IG5vbmU7CiAgICB9CiAgfQpgOwo=</text>
+      <register name="0" type="4">
+        <text>web: '/images/sub/intro/intro_banner_web.jpg',
+    tab: '/images/sub/intro/intro_banner_tab.jpg',
+    mob: '/images/sub/intro/intro_banner_mob.png',
+    label: {
+      story: {
+        sub: 'MHUB MEDICAL STORY',
+        title: '엠허브 메디컬 스토리'
+      },
+    }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBuYXZpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlZCBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7Cg==</text>
+        <text encoding="base64">CmNvbnN0IG51bWJlciA9IHsKICAic3RvcnkiOiAwLAogICJoZWFsdGgiOiAxLAp9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmNvbnN0IEFydGljbGUgPSBzdHlsZWQuYXJ0aWNsZWAKICB3aWR0aDogMTA4MHB4OwogIG1hcmdpbjogMCBhdXRvOwogIEBtZWRpYSBhbGwgYW5kIChtYXgtd2lkdGg6IDEwNzlweCkgewogICAgd2lkdGg6IDcwOHB4OwogIH0KICBAbWVkaWEgYWxsIGFuZCAobWF4LXdpZHRoOiA3NjdweCkgewogICAgd2lkdGg6IDEwMCU7CiAgfQpgOwo=</text>
+        <text encoding="base64">CmNvbnN0IGJhbm5lciA9IHsKICAiaW50cm8iOiB7CiAgICBsYWJlbDogewogICAgfQogIH0sCiAgImhlYWx0aCI6IHsKICAgIHdlYjogJy9pbWFnZXMvc3ViL2ludHJvL2ludHJvX2Jhbm5lcl93ZWIuanBnJywKICAgIHRhYjogJy9pbWFnZXMvc3ViL2ludHJvL2ludHJvX2Jhbm5lcl90YWIuanBnJywKICAgIG1vYjogJy9pbWFnZXMvc3ViL2ludHJvL2ludHJvX2Jhbm5lcl9tb2IucG5nJywKICAgIGxhYmVsOiB7CiAgICAgICJiYXNpYyI6IHsKICAgICAgICBzdWI6ICdNSFVCIE1FRElDQUwgU1RPUlknLAogICAgICAgIHRpdGxlOiAn7Jeg7ZeI67iMIOuplOuUlOy7rCDsiqTthqDrpqwnCiAgICAgIH0sCiAgICB9CiAgfSwKfTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">dHlsZWQuaW1nYAogICR7KHt3aWR0aCwgaGVpZ2h0fSkgPT4gewogIGlmICh3aWR0aCB8fCBoZWlnaHQpIHsKICAgIHJldHVybiBgCiAgICAgICAgd2lkdGg6ICR7d2lkdGh9cHg7CiAgICAgICAgaGVpZ2h0OiAke2hlaWdodH1weDsKICAgICAgYAogIH0KICByZXR1cm4gYAogICAgICB3aWR0aDogMTAwJTsKICAgICAgaGVpZ2h0OiAxMDAlOwogICAgYAp9fTsKICBtYXJnaW46IDAgYXV0bzsKICAmLmQtd2ViIHsKICAgIGRpc3BsYXk6IGJsb2NrOwogIH0KICAmLmQtdGFiLCAmLmQtbW9iIHsKICAgIGRpc3BsYXk6IG5vbmU7CiAgfQogIEBtZWRpYSBhbGwgYW5kIChtYXgtd2lkdGg6IDEwNzlweCkgewogICAgJi5kLXRhYiB7CiAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgfQogICAgJi5kLXdlYiwgJi5kLW1vYiB7CiAgICAgIGRpc3BsYXk6IG5vbmU7CiAgICB9CiAgfQogIEBtZWRpYSBhbGwgYW5kIChtYXgtd2lkdGg6IDc2N3B4KSB7CiAgICAmLmQtbW9iIHsKICAgICAgZGlzcGxheTogYmxvY2s7CiAgICB9CiAgICAmLmQtd2ViLCAmLmQtdGFiIHsKICAgICAgZGlzcGxheTogbm9uZTsKICAgIH0KICB9CmA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">c3R5bGVkLmltZ2AKICAkeyh7d2lkdGgsIGhlaWdodH0pID0+IHsKICBpZiAod2lkdGggfHwgaGVpZ2h0KSB7CiAgICByZXR1cm4gYAogICAgICAgIHdpZHRoOiAke3dpZHRofXB4OwogICAgICAgIGhlaWdodDogJHtoZWlnaHR9cHg7CiAgICAgIGAKICB9CiAgcmV0dXJuIGAKICAgICAgd2lkdGg6IDEwMCU7CiAgICAgIGhlaWdodDogMTAwJTsKICAgIGAKfX07CiAgbWFyZ2luOiAwIGF1dG87CiAgJi5kLXdlYiB7CiAgICBkaXNwbGF5OiBibG9jazsKICB9CiAgJi5kLXRhYiwgJi5kLW1vYiB7CiAgICBkaXNwbGF5OiBub25lOwogIH0KICBAbWVkaWEgYWxsIGFuZCAobWF4LXdpZHRoOiAxMDc5cHgpIHsKICAgICYuZC10YWIgewogICAgICBkaXNwbGF5OiBibG9jazsKICAgIH0KICAgICYuZC13ZWIsICYuZC1tb2IgewogICAgICBkaXNwbGF5OiBub25lOwogICAgfQogIH0KICBAbWVkaWEgYWxsIGFuZCAobWF4LXdpZHRoOiA3NjdweCkgewogICAgJi5kLW1vYiB7CiAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgfQogICAgJi5kLXdlYiwgJi5kLXRhYiB7CiAgICAgIGRpc3BsYXk6IG5vbmU7CiAgICB9CiAgfQpg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgInN0b3J5IjogewogICAgICAgIHN1YjogJ01IVUIgTUVESUNBTCBTVE9SWScsCiAgICAgICAgdGl0bGU6ICfsl6Dtl4jruIwg66mU65SU7LusIOyKpO2GoOumrCcKICAgICAgfSwK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">QXJ0aWNsZS5leHRlbmRgCiAgbWFyZ2luLXRvcDogNTBweDsKICAmLm0wIHsKICAgIG1hcmdpbjogMCAhaW1wb3J0YW50OwogICAgcGFkZGluZzogMCAhaW1wb3J0YW50OwogIH0KICBAbWVkaWEgYWxsIGFuZCAobWF4LXdpZHRoOiAxMDc5cHgpIHsKICAgIG1hcmdpbi10b3A6IDQwcHg7CiAgfQogIEBtZWRpYSBhbGwgYW5kIChtYXgtd2lkdGg6IDc2N3B4KSB7CiAgICBtYXJnaW4tdG9wOiAzMHB4OwogICAgcGFkZGluZzogMCAyMHB4OwogIH0KYA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">QXJ0aWNsZS5leHRlbmRgCiAgcGFkZGluZy10b3A6IDYwcHg7CiAgdGV4dC1hbGlnbjogY2VudGVyOwogIGZvbnQtc2l6ZTogMjRweDsKICBjb2xvcjogIzJhMmEyYTsKICB3b3JkLWJyZWFrOiBrZWVwLWFsbDsKICBsYWJlbCB7CiAgICBmb250LXdlaWdodDogYm9sZDsKICAgIGxldHRlci1zcGFjaW5nOiAtMC42cHg7CiAgfQogIC5oci1saW5lIHsKICAgIHdpZHRoOiAzMHB4OwogICAgaGVpZ2h0OiAzcHg7CiAgICBtYXJnaW46IDIwcHggYXV0bzsKICAgIGJhY2tncm91bmQ6ICMwZDZmYjg7CiAgfQogIHNwYW4gewogICAgZGlzcGxheTogYmxvY2s7CiAgICBsZXR0ZXItc3BhY2luZzogLTAuNnB4OwogICAgbGluZS1oZWlnaHQ6IDEuNTsKICAgIHdvcmQtYnJlYWs6IGtlZXAtYWxsOwogIH0KICAmLndpdGhfaW1hZ2UgewogICAgcGFkZGluZy10b3A6IDUwcHg7CiAgfQogIEBtZWRpYSBhbGwgYW5kIChtYXgtd2lkdGg6IDEwNzlweCkgewogICAgcGFkZGluZy10b3A6IDUwcHg7CiAgICAmLndpdGhfaW1hZ2UgewogICAgICBwYWRkaW5nLXRvcDogNDBweDsKICAgIH0KICAgIGxhYmVsIHsKICAgICAgZm9udC1zaXplOiAyMXB4OwogICAgICBsZXR0ZXItc3BhY2luZzogLTAuNXB4OwogICAgfQogICAgc3BhbiB7CiAgICAgIGZvbnQtc2l6ZTogMThweDsKICAgICAgbGV0dGVyLXNwYWNpbmc6IC0wLjVweDsKICAgIH0KICB9CiAgQG1lZGlhIGFsbCBhbmQgKG1heC13aWR0aDogNzY3cHgpIHsKICAgIHBhZGRpbmctdG9wOiAyMHB4OwogICAgcGFkZGluZy1sZWZ0OiAyMHB4OwogICAgcGFkZGluZy1yaWdodDogMjBweDsKICAgIGxhYmVsIHsKICAgICAgZm9udC1zaXplOiAxOHB4OwogICAgfQogICAgLmhyLWxpbmUgewogICAgICB3aWR0aDogMjBweDsKICAgICAgaGVpZ2h0OiAycHg7CiAgICAgIG1hcmdpbjogMTVweCBhdXRvOwogICAgfQogICAgc3BhbiB7CiAgICAgIGZvbnQtc2l6ZTogMTVweDsKICAgICAgbGluZS1oZWlnaHQ6IDIycHg7CiAgICB9CiAgICAmLndpdGhfaW1hZ2UgewogICAgICBwYWRkaW5nLXRvcDogMzBweDsKICAgICAgbGFiZWwgewogICAgICAgIGZvbnQtc2l6ZTogMTVweDsKICAgICAgICBsaW5lLWhlaWdodDogMjJweDsKICAgICAgfQogICAgICAuaHItbGluZSB7CiAgICAgICAgbWFyZ2luOiAxNXB4IGF1dG8gMjBweDsKICAgICAgfQogICAgfQogIH0KYA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHdlYjogJy9pbWFnZXMvc3ViL2ludHJvL2ludHJvX2Jhbm5lcl93ZWIuanBnJywKICAgIHRhYjogJy9pbWFnZXMvc3ViL2ludHJvL2ludHJvX2Jhbm5lcl90YWIuanBnJywKICAgIG1vYjogJy9pbWFnZXMvc3ViL2ludHJvL2ludHJvX2Jhbm5lcl9tb2IucG5nJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgbnVtYmVyID0gewogICJzdG9yeSI6IDAsCiAgImhlYWx0aCI6IDEsCn07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/children/sub</text>
