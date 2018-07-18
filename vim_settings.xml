@@ -525,12 +525,12 @@
         <mark key="^" line="10" column="70" />
         <mark key="." line="10" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/styled.js" timestamp="1531901836352">
-        <mark key="'" line="185" column="19" />
-        <mark key="[" line="14" column="2" />
-        <mark key="]" line="15" column="22" />
-        <mark key="." line="15" column="22" />
-        <mark key="^" line="15" column="22" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/styled.js" timestamp="1531903240927">
+        <mark key="'" line="191" column="19" />
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="11" />
+        <mark key="." line="10" column="11" />
+        <mark key="^" line="10" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/admin/action.js" timestamp="1531114267042">
         <mark key="'" line="9" column="13" />
@@ -749,7 +749,7 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531898948078">
+      <file name="/Dummy.txt" timestamp="1531901862278">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -767,12 +767,12 @@
         <mark key="." line="16" column="30" />
         <mark key="^" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/Basic.js" timestamp="1531901048779">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/Basic.js" timestamp="1531903260261">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="73" column="43" />
-        <mark key="]" line="73" column="43" />
-        <mark key="." line="73" column="43" />
-        <mark key="^" line="73" column="43" />
+        <mark key="[" line="36" column="19" />
+        <mark key="]" line="36" column="37" />
+        <mark key="." line="36" column="19" />
+        <mark key="^" line="15" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Status.js" timestamp="1530166331203">
         <mark key="[" line="56" column="11" />
@@ -966,31 +966,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text encoding="base64">IGNsYXNzTmFtZT0iY29sb3Ii</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBAbWVkaWEgYWxsIGFuZCAobWF4LXdpZHRoOiAxMDc5cHgpIHsKICAgIAogIH0KICBAbWVkaWEgYWxsIGFuZCAobWF4LXdpZHRoOiA3NjdweCkgewogIAogIH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGNsYXNzTmFtZT0iY29sb3Ii</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICA8c3Bhbj7sl6Dtl4jruIzsnZjsm5Dsl5DshJwgPGNvbG9yPuy1nOyyqOuLqOuqhe2SiOydmOujjOyepeu5hDwvY29sb3I+66GcIOqxtOqwleqygOynhOydhCDrsJvslYTrs7TshLjsmpQuPC9zcGFuPgogICAgICA8L3A+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGpqampqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">c3R5bGVkLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGpqampqCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgCg==</text>
@@ -1002,7 +1002,7 @@
         <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgPGRpdj4KICAgICAgICAgICA8cD4xPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/children/sub</text>
