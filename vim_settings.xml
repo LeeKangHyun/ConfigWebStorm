@@ -120,12 +120,12 @@
         <mark key="^" line="7" column="34" />
         <mark key="." line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/index.js" timestamp="1531891467161">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/index.js" timestamp="1531905292663">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="44" column="12" />
-        <mark key="]" line="44" column="15" />
-        <mark key="." line="44" column="15" />
-        <mark key="^" line="44" column="15" />
+        <mark key="[" line="46" column="82" />
+        <mark key="]" line="46" column="107" />
+        <mark key="." line="46" column="107" />
+        <mark key="^" line="46" column="107" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/styled.js" timestamp="1530166423471">
         <mark key="[" line="712" column="10" />
@@ -164,12 +164,12 @@
         <mark key="^" line="14" column="1" />
         <mark key="." line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/const.js" timestamp="1531891391382">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/const.js" timestamp="1531905132213">
         <mark key="'" line="40" column="4" />
-        <mark key="[" line="197" column="45" />
-        <mark key="]" line="197" column="45" />
-        <mark key="^" line="208" column="49" />
-        <mark key="." line="197" column="47" />
+        <mark key="[" line="217" column="16" />
+        <mark key="]" line="217" column="22" />
+        <mark key="^" line="217" column="22" />
+        <mark key="." line="217" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/index.js" timestamp="1529658983035">
         <mark key="[" line="6" column="8" />
@@ -395,12 +395,12 @@
         <mark key="^" line="28" column="39" />
         <mark key="." line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Controller.js" timestamp="1531890051661">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Controller.js" timestamp="1531905248629">
         <mark key="'" line="21" column="44" />
-        <mark key="[" line="34" column="5" />
-        <mark key="]" line="34" column="5" />
-        <mark key="." line="34" column="5" />
-        <mark key="^" line="40" column="29" />
+        <mark key="[" line="45" column="33" />
+        <mark key="]" line="46" column="26" />
+        <mark key="." line="46" column="26" />
+        <mark key="^" line="46" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Router/styled.js" timestamp="1529906873466">
         <mark key="[" line="3" column="0" />
@@ -652,6 +652,12 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/Cancer.js" timestamp="1531905009590">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="5" />
+        <mark key="^" line="12" column="5" />
+        <mark key="." line="12" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/DEVKH/devKangTo/src/pages/Board/index.js" timestamp="1530001171824">
         <mark key="[" line="25" column="39" />
         <mark key="]" line="25" column="44" />
@@ -767,10 +773,10 @@
         <mark key="." line="16" column="30" />
         <mark key="^" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/Basic.js" timestamp="1531903260261">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/Basic.js" timestamp="1531904973351">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="36" column="19" />
-        <mark key="]" line="36" column="37" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="7" column="17" />
         <mark key="." line="36" column="19" />
         <mark key="^" line="15" column="41" />
       </file>
@@ -966,34 +972,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGNsYXNzTmFtZT0iY29sb3Ii</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IGNsYXNzTmFtZT0iY29sb3Ii</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHsKICBJbnRybywKICBSZWMsCiAgTGlzdCwKICBMaXN0SXRlbSwKfSBmcm9tICcuL3N0eWxlZCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8c3Bhbj7sl6Dtl4jruIzsnZjsm5Dsl5DshJwgPGNvbG9yPuy1nOyyqOuLqOuqhe2SiOydmOujjOyepeu5hDwvY29sb3I+66GcIOqxtOqwleqygOynhOydhCDrsJvslYTrs7TshLjsmpQuPC9zcGFuPgogICAgICA8L3A+Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">c3R5bGVkLgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8c3Bhbj7sl6Dtl4jruIzsnZjsm5Dsl5DshJwgPGNvbG9yPuy1nOyyqOuLqOuqhe2SiOydmOujjOyepeu5hDwvY29sb3I+66GcIOqxtOqwleqygOynhOydhCDrsJvslYTrs7TshLjsmpQuPC9zcGFuPgogICAgICA8L3A+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">c3R5bGVkLgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGpqampqCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGpqampqCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgCg==</text>
