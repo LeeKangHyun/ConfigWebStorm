@@ -95,6 +95,13 @@
         <mark key="." line="125" column="25" />
         <mark key="^" line="125" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/Body.js" timestamp="1531978399054">
+        <mark key="'" line="11" column="9" />
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Styled.js" timestamp="1530753387184">
         <mark key="'" line="29" column="1" />
         <mark key="[" line="20" column="0" />
@@ -164,12 +171,12 @@
         <mark key="^" line="14" column="1" />
         <mark key="." line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/const.js" timestamp="1531965613803">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/const.js" timestamp="1531977346324">
         <mark key="'" line="40" column="4" />
-        <mark key="[" line="247" column="52" />
-        <mark key="]" line="247" column="52" />
-        <mark key="." line="247" column="52" />
-        <mark key="^" line="247" column="52" />
+        <mark key="[" line="245" column="16" />
+        <mark key="]" line="245" column="21" />
+        <mark key="." line="245" column="21" />
+        <mark key="^" line="245" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/index.js" timestamp="1529658983035">
         <mark key="[" line="6" column="8" />
@@ -521,13 +528,13 @@
         <mark key="^" line="10" column="70" />
         <mark key="." line="10" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/styled.js" timestamp="1531968173720">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/styled.js" timestamp="1531978719055">
         <mark key="a" line="370" column="7" />
         <mark key="'" line="191" column="19" />
-        <mark key="[" line="358" column="19" />
-        <mark key="]" line="359" column="21" />
-        <mark key="." line="359" column="21" />
-        <mark key="^" line="359" column="21" />
+        <mark key="[" line="382" column="20" />
+        <mark key="]" line="383" column="22" />
+        <mark key="." line="383" column="22" />
+        <mark key="^" line="383" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/admin/action.js" timestamp="1531114267042">
         <mark key="'" line="9" column="13" />
@@ -645,10 +652,10 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/Cancer.js" timestamp="1531966405357">
-        <mark key="'" line="25" column="7" />
-        <mark key="[" line="28" column="17" />
-        <mark key="]" line="28" column="25" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/Cancer.js" timestamp="1531977402115">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="42" column="21" />
         <mark key="." line="28" column="25" />
         <mark key="^" line="28" column="25" />
       </file>
@@ -763,11 +770,11 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="27" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/index.js" timestamp="1531905537833">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="2" column="29" />
-        <mark key="." line="2" column="29" />
-        <mark key="^" line="2" column="29" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/index.js" timestamp="1531977440070">
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+        <mark key="^" line="13" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/Basic.js" timestamp="1531905419950">
         <mark key="'" line="46" column="0" />
@@ -864,9 +871,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Controller.js" />
-      <jump line="28" column="13" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/admin/reducer.js" />
-      <jump line="9" column="13" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
       <jump line="60" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/Controller.js" />
       <jump line="22" column="13" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/admin/action.js" />
       <jump line="34" column="7" filename="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/admin/reducer.js" />
@@ -964,46 +968,49 @@
       <jump line="46" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/Basic.js" />
       <jump line="175" column="19" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/styled.js" />
       <jump line="22" column="7" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/Cancer.js" />
+      <jump line="34" column="18" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/Cancer.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/Cancer.js" />
+      <jump line="11" column="9" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/Body.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBsaW5lLWhlaWdodDogMjsK</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">NeuMgCDslZTqsoDsp4TsnYQg7Jeg7ZeI67iMIOqxtOqwleqygOynhOyEvO2EsOyXkOyEnCDtjrjtlZjqsowg67Cb7JWE67O07IS47JqULiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAmOm5vdCg6Zmlyc3QtY2hpbGQpIHsKICAgIHBhZGRpbmctdG9wOiAyNXB4OwogIH0KICAmOm5vdCg6bGFzdC1jaGlsZCkgewogICAgcGFkZGluZy1ib3R0b206IDI1cHg7CiAgICBib3JkZXItYm90dG9tOiAxcHggc29saWQgI2M4YzhjODsKICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IEZyYWdtZW50IH0gZnJvbSAncmVhY3QnOwoKaW1wb3J0IHsKICBJbnRybywKICBGYW1pbHksCiAgSW1hZ2UsCiAgRGlzZWFzZXMsCiAgU2ljaywKfSBmcm9tICcuL3N0eWxlZCcKaW1wb3J0IHsgY2FuY2VyIH0gZnJvbSAnQC9jb25zdCc7Cgpjb25zdCBDYW5jZXIgPSAoKSA9PiB7CiAgcmV0dXJuICgKICAgIDxGcmFnbWVudD4KICAgICAgPEludHJvIGNsYXNzTmFtZT0ib25seV9zdHJpbmcgbS1wMjAiPgogICAgICAgIDxwPgogICAgICAgICAgPHNwYW4+NeuMgCDslZTqsoDsp4TsnYQg7Jeg7ZeI67iMIOqxtOqwleqygOynhOyEvO2EsOyXkOyEnCDtjrjtlZjqsowg67Cb7JWE67O07IS47JqULiA8L3NwYW4+CiAgICAgICAgICA8c3Bhbj48c3BhbiBjbGFzc05hbWU9ImNvbG9yIj7qsbTqsJXqsoDsp4TsnYAg64KY7JmAIOuCtCDqsIDsobHsnYQg7JyE7ZWcIOyGjOykke2VnCDtiKzsnpA8L3NwYW4+7J6F64uI64ukLjwvc3Bhbj4KICAgICAgICA8L3A+CiAgICAgIDwvSW50cm8+CiAgICAgIDxGYW1pbHk+CiAgICAgICAgPEltYWdlIGNsYXNzTmFtZT0iZC13ZWIiIHNyYz0iL2ltYWdlcy9zdWIvaGVhbHRoL2hlYWx0aF9jYW5jZXJfZmFtaWx5X3dlYi5wbmciIGFsdD0i6rCA7KGx7IKs7KeEIiB3aWR0aD0iMTA4MCIgaGVpZ2h0PSIyODAiLz4KICAgICAgICA8SW1hZ2UgY2xhc3NOYW1lPSJkLXRhYiIgc3JjPSIvaW1hZ2VzL3N1Yi9oZWFsdGgvaGVhbHRoX2NhbmNlcl9mYW1pbHlfdGFiLnBuZyIgYWx0PSLqsIDsobHsgqzsp4QiIHdpZHRoPSI3MDgiIGhlaWdodD0iMjAwIi8+CiAgICAgICAgPEltYWdlIGNsYXNzTmFtZT0iZC1tb2IiIHNyYz0iL2ltYWdlcy9zdWIvaGVhbHRoL2hlYWx0aF9jYW5jZXJfZmFtaWx5X21vYi5wbmciIGFsdD0i6rCA7KGx7IKs7KeEIiAvPgogICAgICA8L0ZhbWlseT4KICAgICAgPERpc2Vhc2VzPgogICAgICAgIHsKICAgICAgICAgIGNhbmNlci5tYXAoKGRhdGEsIGlkeCkgPT4gKAogICAgICAgICAgICA8U2ljayBrZXk9e2lkeH0+CiAgICAgICAgICAgICAgPGltZyBhbHQ9e2RhdGEubGFiZWx9IHNyYz17ZGF0YS5zdmd9IC8+CiAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgIDxzcGFuPntkYXRhLmxhYmVsfTwvc3Bhbj4KICAgICAgICAgICAgICAgIDxwPntkYXRhLnRleHR9PC9wPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L1NpY2s+CiAgICAgICAgICApKQogICAgICAgIH0KICAgICAgPC9EaXNlYXNlcz4KICAgIDwvRnJhZ21lbnQ+CiAgKQp9OwoKZXhwb3J0IGRlZmF1bHQgQ2FuY2VyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoZWlnaHQ6Cg==</text>
+        <text encoding="base64">ICBsaW5lLWhlaWdodDogMjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNwYW4gewogICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICBGYW1pbHksCiAgSW1hZ2UsCiAgRGlzZWFzZXMsCiAgU2ljaywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxzcGFuPjxzcGFuIGNsYXNzTmFtZT0iY29sb3IiPuqxtOqwleqygOynhOydgCDrgpjsmYAg64K0IOqwgOyhseydhCDsnITtlZwg7IaM7KSR7ZWcIO2IrOyekDwvc3Bhbj7snoXri4jri6QuPC9zcGFuPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNjOGM4Yzg7Cg==</text>
+        <text encoding="base64">ICAgICAgPEZhbWlseT4KICAgICAgICA8SW1hZ2UgY2xhc3NOYW1lPSJkLXdlYiIgc3JjPSIvaW1hZ2VzL3N1Yi9oZWFsdGgvaGVhbHRoX2NhbmNlcl9mYW1pbHlfd2ViLnBuZyIgYWx0PSLqsIDsobHsgqzsp4QiIHdpZHRoPSIxMDgwIiBoZWlnaHQ9IjI4MCIvPgogICAgICAgIDxJbWFnZSBjbGFzc05hbWU9ImQtdGFiIiBzcmM9Ii9pbWFnZXMvc3ViL2hlYWx0aC9oZWFsdGhfY2FuY2VyX2ZhbWlseV90YWIucG5nIiBhbHQ9IuqwgOyhseyCrOynhCIgd2lkdGg9IjcwOCIgaGVpZ2h0PSIyMDAiLz4KICAgICAgICA8SW1hZ2UgY2xhc3NOYW1lPSJkLW1vYiIgc3JjPSIvaW1hZ2VzL3N1Yi9oZWFsdGgvaGVhbHRoX2NhbmNlcl9mYW1pbHlfbW9iLnBuZyIgYWx0PSLqsIDsobHsgqzsp4QiIC8+CiAgICAgIDwvRmFtaWx5PgogICAgICA8RGlzZWFzZXM+CiAgICAgICAgewogICAgICAgICAgY2FuY2VyLm1hcCgoZGF0YSwgaWR4KSA9PiAoCiAgICAgICAgICAgIDxTaWNrIGtleT17aWR4fT4KICAgICAgICAgICAgICA8aW1nIGFsdD17ZGF0YS5sYWJlbH0gc3JjPXtkYXRhLnN2Z30gLz4KICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgPHNwYW4+e2RhdGEubGFiZWx9PC9zcGFuPgogICAgICAgICAgICAgICAgPHA+e2RhdGEudGV4dH08L3A+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvU2ljaz4KICAgICAgICAgICkpCiAgICAgICAgfQogICAgICA8L0Rpc2Vhc2VzPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgY2hlY2s6IHt9LAogICAgICBub3JtYWw6IHt9LAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgewogICAgd2ViOiAiL2ltYWdlcy91cGxvYWQvbWh1Yl9tYWluYmFubmVyX3dlYi5wbmciLAogICAgdGFiOiAiL2ltYWdlcy91cGxvYWQvbWh1Yl9tYWluYmFubmVyX3RhYi5wbmciLAogICAgbW9iOiAiL2ltYWdlcy91cGxvYWQvbWh1Yl9tYWluYmFubmVyX21vYi5wbmciLAogICAgdXJsOiAnJywKICB9LA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY2hlY2s6IHt9LAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgbm9ybWFsOiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBoZWlnaHQ6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/children/sub</text>
