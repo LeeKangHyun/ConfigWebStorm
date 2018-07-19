@@ -521,12 +521,13 @@
         <mark key="^" line="10" column="70" />
         <mark key="." line="10" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/styled.js" timestamp="1531966605802">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/styled.js" timestamp="1531968173720">
+        <mark key="a" line="370" column="7" />
         <mark key="'" line="191" column="19" />
-        <mark key="[" line="346" column="22" />
-        <mark key="]" line="348" column="24" />
-        <mark key="." line="348" column="24" />
-        <mark key="^" line="348" column="24" />
+        <mark key="[" line="358" column="19" />
+        <mark key="]" line="359" column="21" />
+        <mark key="." line="359" column="21" />
+        <mark key="^" line="359" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/admin/action.js" timestamp="1531114267042">
         <mark key="'" line="9" column="13" />
@@ -965,11 +966,11 @@
       <jump line="22" column="7" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/Cancer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNjOGM4Yzg7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>국</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -978,31 +979,31 @@
         <text encoding="base64">ICAmOm5vdCg6Zmlyc3QtY2hpbGQpIHsKICAgIHBhZGRpbmctdG9wOiAyNXB4OwogIH0KICAmOm5vdCg6bGFzdC1jaGlsZCkgewogICAgcGFkZGluZy1ib3R0b206IDI1cHg7CiAgICBib3JkZXItYm90dG9tOiAxcHggc29saWQgI2M4YzhjODsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNjOGM4Yzg7Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWlnaHQ6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgewogICAgd2ViOiAiL2ltYWdlcy91cGxvYWQvbWh1Yl9tYWluYmFubmVyX3dlYi5wbmciLAogICAgdGFiOiAiL2ltYWdlcy91cGxvYWQvbWh1Yl9tYWluYmFubmVyX3RhYi5wbmciLAogICAgbW9iOiAiL2ltYWdlcy91cGxvYWQvbWh1Yl9tYWluYmFubmVyX21vYi5wbmciLAogICAgdXJsOiAnJywKICB9LA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHNwYW4gewogICAgICAKICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNjOGM4Yzg7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICA=</text>
-      </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICA=</text>
+        <text encoding="base64">CiAgewogICAgd2ViOiAiL2ltYWdlcy91cGxvYWQvbWh1Yl9tYWluYmFubmVyX3dlYi5wbmciLAogICAgdGFiOiAiL2ltYWdlcy91cGxvYWQvbWh1Yl9tYWluYmFubmVyX3RhYi5wbmciLAogICAgbW9iOiAiL2ltYWdlcy91cGxvYWQvbWh1Yl9tYWluYmFubmVyX21vYi5wbmciLAogICAgdXJsOiAnJywKICB9LA==</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/children/sub</text>
