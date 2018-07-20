@@ -645,7 +645,7 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532001158281">
+      <file name="/Dummy.txt" timestamp="1532053790398">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -736,11 +736,11 @@
         <mark key="^" line="16" column="10" />
         <mark key="." line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/util/fetchToAws.js" timestamp="1532053271723">
-        <mark key="[" line="13" column="42" />
-        <mark key="]" line="13" column="42" />
-        <mark key="." line="13" column="42" />
-        <mark key="^" line="13" column="42" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/util/fetchToAws.js" timestamp="1532053990112">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="12" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/.eslintrc" timestamp="1530593617250">
         <mark key="[" line="7" column="14" />
@@ -864,8 +864,8 @@
       <jump line="454" column="4" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/doctorMap/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>elasticAccess'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJ4LWFwaS1rZXkiOiAiVmE5MUEzU014MzY3cnNhRXFjcDFpN1NiQ2RjRGNyU1o4ak9mNERMaCIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>elasticAccess'</text>
@@ -877,31 +877,31 @@
         <text encoding="base64">ICAgICAgICAmOm5vdCg6bGFzdC1vZi10eXBlKSB7CiAgICAgICAgICBtYXJnaW4tYm90dG9tOiAyMHB4OwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICJ4LWFwaS1rZXkiOiAiVmE5MUEzU014MzY3cnNhRXFjcDFpN1NiQ2RjRGNyU1o4ak9mNERMaCIsCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ewogICAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ewogICAgICA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA6cm9vdCB7CiAgICAtLW5pY2UtYmx1ZTogIzBkNmZiODsKICAgIC0tYmxhY2s6ICMyYTJhMmE7CiAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmVydGljYWwtYWxpZ246IGJvdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmVydGljYWwtYWxpZ246IGJvdHRvbTsK</text>
+        <text encoding="base64">ICA6cm9vdCB7CiAgICAtLW5pY2UtYmx1ZTogIzBkNmZiODsKICAgIC0tYmxhY2s6ICMyYTJhMmE7CiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdmVydGljYWwtYWxpZ246IGJvdDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA0NTZweDsK</text>
+        <text encoding="base64">ICAgICAgdmVydGljYWwtYWxpZ246IGJvdHRvbTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/require(/import &quot;</text>
