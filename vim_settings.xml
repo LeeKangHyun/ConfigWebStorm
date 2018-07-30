@@ -120,11 +120,11 @@
         <mark key="." line="46" column="107" />
         <mark key="^" line="46" column="107" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/styled.js" timestamp="1530166423471">
-        <mark key="[" line="712" column="10" />
-        <mark key="]" line="691" column="21" />
-        <mark key="^" line="691" column="21" />
-        <mark key="." line="691" column="21" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/styled.js" timestamp="1532941542995">
+        <mark key="[" line="319" column="22" />
+        <mark key="]" line="320" column="22" />
+        <mark key="^" line="320" column="22" />
+        <mark key="." line="320" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Slider/Carousel.js" timestamp="1529644469302">
         <mark key="[" line="25" column="10" />
@@ -437,11 +437,11 @@
         <mark key="." line="54" column="20" />
         <mark key="^" line="54" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/index.js" timestamp="1531466957495">
-        <mark key="[" line="28" column="9" />
-        <mark key="]" line="17" column="30" />
-        <mark key="^" line="17" column="30" />
-        <mark key="." line="17" column="30" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/index.js" timestamp="1532940955445">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="31" />
+        <mark key="^" line="130" column="52" />
+        <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/board.js" timestamp="1529558734060">
         <mark key="[" line="3" column="2" />
@@ -977,44 +977,44 @@
       <jump line="96" column="14" filename="$USER_HOME$/Documents/mouda/mouda_admin/app/components/modal/signin.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">7Ja466Gg67O064+EIOyekeyEsSBwYWdlCg==</text>
+      <register name="&quot;" type="4">
+        <text>182</text>
       </register>
       <register name="-" type="4">
-        <text>React.</text>
+        <text>182</text>
       </register>
       <register name="/" type="4">
         <text>fetch.get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxsaT7rp4wgNTDshLgg7J207IOBIOuCqOuFgCwgMeuFhOuniOuLpCAx7ZqMPC9saT4KICAgICAgICAgICAgPGxpPuu2hOuzgOyeoO2YiOqygOyCrCDsi6Tsi5wg7ZuEIOyWkeyEsSDtjJDsoJUg7IucIOuMgOyepeuCtOyLnOqyvSDrmJDripQg64yA7J6l7J207KSR7KGw7JiBIOykkSDshKDtg50g6rKA7IKsPC9saT4KICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8QmFubmVyCiAgICAgICAgICBoZWFkZXI9IkJleW9uZCBjYXNoIGxpa2UgY2FzaCIKICAgICAgICAgIHRpdGxlPXtg66qo7Jqw64ukIO2PrOyduO2KuGB9CiAgICAgICAgICB0ZXh0PXtg7Yis7J6Q7IiY7J21LCDqt7gg7J207IOB7J2YIOyerOuvuCE8YnIgLz7sp4DquIgg7Y+s7J247Yq466W8IOyggeumve2VoCDsiJgg7J6I64qUIOuLpOyWke2VnCDrsKnrspXsnYQg7JWM7JWE67O07IS47JqUYH0KICAgICAgICAgIGJhY2tncm91bmQ9Ii9pbWFnZXMvaG9tZS92ZXIyL21haW4tYm4tMS5qcGciCiAgICAgICAgICBpY29uPSIvaW1hZ2VzL2hvbWUvdmVyMi9iYW5uZXIxX21iLnN2ZyIKICAgICAgICAgIG9uQ2xpY2s9e3RyYW5VcmwuYmluZCh0aGlzLCAnL3N0YXJ0cG9pbnQnKX0KICAgICAgICAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">7Ja466Gg67O064+EIOyekeyEsSBwYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1hcmdpbjogMCBhdXRvOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT0ic29ydC1mbGV4Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsKaW1wb3J0IHsgYmluZEFjdGlvbkNyZWF0b3JzIH0gZnJvbSAncmVkdXgnOwo=</text>
+        <text encoding="base64">ICAgICAgICA8QmFubmVyCiAgICAgICAgICB0aXRsZT17YDxzcGFuPuqwnOyduO2IrOyekOyekDxiciAvPu2IrOyekO2VnOuPhCDsg4HtlqU8L3NwYW4+YH0KICAgICAgICAgIHRleHQ9IjLsm5QgMjfsnbzrtoDthLAg6rCc7J247Yis7J6Q7J6Q7J2YIO2IrOyekO2VnOuPhOqwgCAx7LKc66eM7JuQ7JeQ7IScIDLsspzrp4zsm5DsnLzroZwg7IOB7Zal7KGw7KCVIOuQmOyXiOyKteuLiOuLpCIKICAgICAgICAgIAogICAgICAgICAgYmFja2dyb3VuZD0iL2ltYWdlcy9ob21lL3ZlcjIvbWFpbi1ibi0zLmpwZyIKICAgICAgICAgIGljb249Ii9pbWFnZXMvaG9tZS92ZXIyL2Jhbm5lcjNfbWIuc3ZnIgogICAgICAgICAgCiAgICAgICAgICBvbkNsaWNrPXt0cmFuVXJsLmJpbmQodGhpcywgJy9ub3RpY2U/Yk5vPTEwNicpfQogICAgICAgIC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGZpcmViYXNlIGZyb20gJ2ZpcmViYXNlJzsKaW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwo=</text>
+        <text encoding="base64">7Ja466Gg67O064+EIOyekeyEsSBwYWdlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsKaW1wb3J0IHsgYmluZEFjdGlvbkNyZWF0b3JzIH0gZnJvbSAncmVkdXgnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbDogbnVsbCwK</text>
+        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsKaW1wb3J0IHsgYmluZEFjdGlvbkNyZWF0b3JzIH0gZnJvbSAncmVkdXgnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbDogYWN0aW9uLmVtYWlsLAo=</text>
+        <text encoding="base64">aW1wb3J0IGZpcmViYXNlIGZyb20gJ2ZpcmViYXNlJzsKaW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGZldGNoIGZyb20gJy4vdXRpbC9mZXRjaCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsKaW1wb3J0IHsgYmluZEFjdGlvbkNyZWF0b3JzIH0gZnJvbSAncmVkdXgnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmZXRjaC5nZXQoJ01hbmFnZXJzLycrbG9jYWxTdG9yYWdlLmlkKS50aGVuKGluZm8gPT4gewogIH0pLmNhdGNoKGVyciA9PiB7CiAgICBjb25zb2xlLmxvZyhlcnIpOwogICAgaW5pdCgpOwogIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICBlbWFpbDogbnVsbCwK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
