@@ -764,6 +764,11 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
+      <file name="/Dummy.txt" timestamp="1532939268973">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Controller.js" timestamp="1530606995703">
         <mark key="[" line="27" column="25" />
         <mark key="]" line="27" column="25" />
@@ -973,7 +978,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">7Ja466Gg67O064+EIOyekeyEsSBwYWdlCg==</text>
       </register>
       <register name="-" type="4">
         <text>React.</text>
@@ -985,31 +990,31 @@
         <text encoding="base64">ICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxsaT7rp4wgNTDshLgg7J207IOBIOuCqOuFgCwgMeuFhOuniOuLpCAx7ZqMPC9saT4KICAgICAgICAgICAgPGxpPuu2hOuzgOyeoO2YiOqygOyCrCDsi6Tsi5wg7ZuEIOyWkeyEsSDtjJDsoJUg7IucIOuMgOyepeuCtOyLnOqyvSDrmJDripQg64yA7J6l7J207KSR7KGw7JiBIOykkSDshKDtg50g6rKA7IKsPC9saT4KICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">7Ja466Gg67O064+EIOyekeyEsSBwYWdlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsKaW1wb3J0IHsgYmluZEFjdGlvbkNyZWF0b3JzIH0gZnJvbSAncmVkdXgnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGZpcmViYXNlIGZyb20gJ2ZpcmViYXNlJzsKaW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsKaW1wb3J0IHsgYmluZEFjdGlvbkNyZWF0b3JzIH0gZnJvbSAncmVkdXgnOwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGZpcmViYXNlIGZyb20gJ2ZpcmViYXNlJzsKaW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbDogbnVsbCwK</text>
+        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsKaW1wb3J0IHsgYmluZEFjdGlvbkNyZWF0b3JzIH0gZnJvbSAncmVkdXgnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbDogYWN0aW9uLmVtYWlsLAo=</text>
+        <text encoding="base64">ICAgICAgICBlbWFpbDogbnVsbCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGZldGNoIGZyb20gJy4vdXRpbC9mZXRjaCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbWFpbDogYWN0aW9uLmVtYWlsLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmZXRjaC5nZXQoJ01hbmFnZXJzLycrbG9jYWxTdG9yYWdlLmlkKS50aGVuKGluZm8gPT4gewogIH0pLmNhdGNoKGVyciA9PiB7CiAgICBjb25zb2xlLmxvZyhlcnIpOwogICAgaW5pdCgpOwogIH0pCg==</text>
+        <text encoding="base64">aW1wb3J0IGZldGNoIGZyb20gJy4vdXRpbC9mZXRjaCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0b3JlLmRpc3BhdGNoKF9zaWduaW4oaW5mbykpLnRoZW4oKCkgPT4gewogICAgICBpbml0KCk7CiAgICB9KS5jYXRjaCgoKSA9PiB7CiAgICAgIGxvY2FsU3RvcmFnZS5yZW1vdmVJdGVtKCd0b2tlbicpOwogICAgICBsb2NhbFN0b3JhZ2UucmVtb3ZlSXRlbSgnaWQnKTsKICAgIH0pCg==</text>
+        <text encoding="base64">ICBmZXRjaC5nZXQoJ01hbmFnZXJzLycrbG9jYWxTdG9yYWdlLmlkKS50aGVuKGluZm8gPT4gewogIH0pLmNhdGNoKGVyciA9PiB7CiAgICBjb25zb2xlLmxvZyhlcnIpOwogICAgaW5pdCgpOwogIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
