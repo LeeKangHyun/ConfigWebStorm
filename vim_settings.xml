@@ -48,7 +48,12 @@
         <mark key="." line="118" column="27" />
         <mark key="o" line="46" column="84" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/app.js" timestamp="1532934570333" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/app.js" timestamp="1532936268990">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Router/ScrollTop.js" timestamp="1531904227923">
         <mark key="[" line="55" column="42" />
         <mark key="]" line="56" column="43" />
@@ -877,10 +882,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>fetch.get</text>
