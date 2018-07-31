@@ -780,6 +780,12 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/Surgery/Controller.js" timestamp="1533017010696">
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="28" column="14" />
+        <mark key="^" line="28" column="14" />
+        <mark key="." line="28" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_back/server/datasources.json" timestamp="1531706139623">
         <mark key="[" line="9" column="26" />
         <mark key="]" line="9" column="26" />
@@ -804,7 +810,7 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532999811831">
+      <file name="/Dummy.txt" timestamp="1533014277279">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -917,15 +923,15 @@
         <mark key="." line="17" column="15" />
         <mark key="^" line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/Surgery/index.js" timestamp="1533001817995">
-        <mark key="[" line="46" column="10" />
-        <mark key="]" line="46" column="11" />
-        <mark key="^" line="47" column="26" />
-        <mark key="." line="46" column="11" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/Surgery/index.js" timestamp="1533017192213">
+        <mark key="'" line="62" column="10" />
+        <mark key="[" line="62" column="31" />
+        <mark key="]" line="62" column="31" />
+        <mark key="^" line="62" column="31" />
+        <mark key="." line="62" column="31" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
       <jump line="64" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
       <jump line="58" column="6" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
       <jump line="66" column="0" filename="$USER_HOME$/Documents/hnh/hongplastic/server/main.js" />
@@ -1025,13 +1031,14 @@
       <jump line="68" column="38" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/Surgery/styled.js" />
       <jump line="392" column="5" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/Surgery/styled.js" />
       <jump line="346" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/Surgery/styled.js" />
+      <jump line="62" column="10" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/Surgery/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgID4gZGl2IHsKICAgIAogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>20px;</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>fetch.get</text>
