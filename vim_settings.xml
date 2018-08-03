@@ -721,6 +721,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/Man.js" timestamp="1533279288234">
+        <mark key="[" line="80" column="30" />
+        <mark key="]" line="80" column="30" />
+        <mark key="." line="80" column="30" />
+      </file>
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/build-utils/webpack.dev.js" timestamp="1530256005499">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -734,7 +739,6 @@
         <mark key="." line="3" column="34" />
         <mark key="^" line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/package.json" timestamp="1533261431841" />
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/Cancer.js" timestamp="1531980217042">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="28" column="12" />
@@ -1102,11 +1106,11 @@
       <jump line="15" column="16" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICY6Zmlyc3Qtb2YtdHlwZSB7CiAgICAgIG1hcmdpbi10b3A6IDQwcHg7CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>I</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>I</text>
       </register>
       <register name="/" type="4">
         <text>fetch.get</text>
