@@ -91,6 +91,12 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/portfolio/src/pages/Board/Component/Editor.js" timestamp="1533365003409">
+        <mark key="[" line="39" column="19" />
+        <mark key="]" line="39" column="20" />
+        <mark key="." line="39" column="20" />
+        <mark key="^" line="42" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/portfolio/src/pages/Board/index.js" timestamp="1533360977386">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="3" column="9" />
@@ -1135,10 +1141,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>connect</text>
+        <text>prev</text>
       </register>
       <register name="-" type="4">
-        <text>connect</text>
+        <text>prev</text>
       </register>
       <register name="/" type="4">
         <text>fetch.get</text>
@@ -1147,31 +1153,32 @@
         <text encoding="base64">ICAgICY6Zmlyc3Qtb2YtdHlwZSB7CiAgICAgIG1hcmdpbi10b3A6IDQwcHg7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAmOmFmdGVyCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICY6Zmlyc3Qtb2YtdHlwZSB7CiAgICAgIG1hcmdpbi10b3A6IDQwcHg7CiAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICY6Zmlyc3Qtb2YtdHlwZSB7CiAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luLXRvcDogCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luLXRvcDogMzBweDsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgZWRpdG9yOiB0dWksCg==</text>
+      </register>
+      <register name="3" type="8">
+        <text>// codemirror
+ // editor ui</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAmOmFmdGVyCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICY6Zmlyc3Qtb2YtdHlwZSB7CiAgICAgIG1hcmdpbi10b3A6IDQwcHg7CiAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICY6Zmlyc3Qtb2YtdHlwZSB7CiAgICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luOiAwIGF1dG87Cg==</text>
+        <text encoding="base64">ICAgICAgbWFyZ2luLXRvcDogCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgbWFyZ2luLXRvcDogMzBweDsK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
