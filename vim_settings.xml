@@ -394,11 +394,11 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/public/index.html" timestamp="1530780060800">
-        <mark key="[" line="7" column="37" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="7" column="38" />
-        <mark key="^" line="7" column="38" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/public/index.html" timestamp="1533519969841">
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="5" column="38" />
+        <mark key="." line="5" column="38" />
+        <mark key="^" line="5" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/components/event.js" timestamp="1532937609971">
         <mark key="'" line="120" column="14" />
@@ -619,7 +619,7 @@
         <mark key="^" line="10" column="70" />
         <mark key="." line="10" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/views/layout.pug" timestamp="1533516415011">
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/views/layout.pug" timestamp="1533519990514">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="96" />
         <mark key="." line="11" column="0" />
@@ -874,7 +874,7 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533285399131">
+      <file name="/Dummy.txt" timestamp="1533517670876">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1111,11 +1111,11 @@
       <jump line="15" column="16" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1ldGEocHJvcGVydHk9J29nOmRlc2NyaXB0aW9uJywgY29udGVudD0n66qo7Jqw64uk64qUIOyJveqzoCDtmITrqoXtlZwg7Yis7J6QLCDqsITtjrjtlZjqs6Ag7ZWp66as7KCB7J24IOuMgOy2nCwg7IKs656M7J2EIOychO2VnCDquLDsiKDquIjsnLXsnYQg7Iuk7ZiE7ZWp64uI64ukLicpCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>fetch.get</text>
