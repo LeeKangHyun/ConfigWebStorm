@@ -248,11 +248,12 @@
         <mark key="^" line="52" column="37" />
         <mark key="." line="52" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/styled.js" timestamp="1531811335092">
-        <mark key="[" line="167" column="13" />
-        <mark key="]" line="167" column="13" />
-        <mark key="." line="167" column="13" />
-        <mark key="^" line="167" column="13" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/styled.js" timestamp="1533543176067">
+        <mark key="'" line="105" column="1" />
+        <mark key="[" line="344" column="34" />
+        <mark key="]" line="344" column="34" />
+        <mark key="." line="344" column="34" />
+        <mark key="^" line="340" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/components/invest/info/investinfo.js" timestamp="1532937558735">
         <mark key="'" line="6" column="34" />
@@ -1051,7 +1052,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
       <jump line="40" column="4" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
       <jump line="13" column="4" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Header/Hamburger/index.js" />
       <jump line="20" column="11" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Header/Hamburger/index.js" />
@@ -1151,13 +1151,14 @@
       <jump line="287" column="12" filename="$USER_HOME$/Documents/mouda/mouda_admin/app/components/home.js" />
       <jump line="52" column="17" filename="$USER_HOME$/Documents/mouda/mouda_admin/package.json" />
       <jump line="82" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin/package.json" />
+      <jump line="105" column="1" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/styled.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGdldEF0dHJpYnV0ZSA9IGdldEF0dHJpYnV0ZSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>evt.target.</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>fetch.get</text>
@@ -1166,31 +1167,31 @@
         <text encoding="base64">ICAgID4gaW1nIHsKICAgICAgJjpmaXJzdC1vZi10eXBlIHsKICAgICAgICBtYXJnaW4tYm90dG9tOiAxM3B4OwogICAgICB9CiAgICAgICY6bGFzdC1vZi10eXBlIHsKICAgICAgICBtYXJnaW4tdG9wOiAxM3B4OwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGdldEF0dHJpYnV0ZSA9IGdldEF0dHJpYnV0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxlZnQ6IDUwJTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGdldEF0dHJpYnV0ZSA9IGdldEF0dHJpYnV0ZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgRm9vdGVyID0gTG9hZGFibGUoewogIGxvYWRlcjogKCkgPT4KICAgIGltcG9ydCgvKiB3ZWJwYWNrQ2h1bmtOYW1lOiAiZm9vdGVyIiAqLyAnQC9jb21wb25lbnRzL0NvbW1vbi9Gb290ZXInKSwKfSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgSGVhZGVyID0gTG9hZGFibGUoewogIGxvYWRlcjogKCkgPT4KICAgIGltcG9ydCgvKiB3ZWJwYWNrQ2h1bmtOYW1lOiAiaGVhZGVyIiAqLyAnQC9jb21wb25lbnRzL0NvbW1vbi9IZWFkZXInKSwKfSk7Ci8vIGNvbnN0IEhvbWUgPSBMb2FkYWJsZSh7Ci8vICAgbG9hZGVyOiAoKSA9PiBpbXBvcnQoLyogd2VicGFja0NodW5rTmFtZTogImhvbWUiICovICdAL3BhZ2VzL0hvbWUnKSwKLy8gfSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEhvbWUgZnJvbSAnQC9wYWdlcy9Ib21lJzsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Y29uc3QgRm9vdGVyID0gTG9hZGFibGUoewogIGxvYWRlcjogKCkgPT4KICAgIGltcG9ydCgvKiB3ZWJwYWNrQ2h1bmtOYW1lOiAiZm9vdGVyIiAqLyAnQC9jb21wb25lbnRzL0NvbW1vbi9Gb290ZXInKSwKfSk7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgSGVhZGVyID0gTG9hZGFibGUoewogIGxvYWRlcjogKCkgPT4KICAgIGltcG9ydCgvKiB3ZWJwYWNrQ2h1bmtOYW1lOiAiaGVhZGVyIiAqLyAnQC9jb21wb25lbnRzL0NvbW1vbi9IZWFkZXInKSwKfSk7Ci8vIGNvbnN0IEhvbWUgPSBMb2FkYWJsZSh7Ci8vICAgbG9hZGVyOiAoKSA9PiBpbXBvcnQoLyogd2VicGFja0NodW5rTmFtZTogImhvbWUiICovICdAL3BhZ2VzL0hvbWUnKSwKLy8gfSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IEhvbWUgZnJvbSAnQC9wYWdlcy9Ib21lJzsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDAgMjBweDsK</text>
+        <text encoding="base64">Y29uc3QgRm9vdGVyID0gTG9hZGFibGUoewogIGxvYWRlcjogKCkgPT4KICAgIGltcG9ydCgvKiB3ZWJwYWNrQ2h1bmtOYW1lOiAiZm9vdGVyIiAqLyAnQC9jb21wb25lbnRzL0NvbW1vbi9Gb290ZXInKSwKfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
