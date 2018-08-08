@@ -362,12 +362,11 @@
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Subject/Otolar.js" timestamp="1533705314378">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Subject/Otolar.js" timestamp="1533706424418">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="98" column="11" />
-        <mark key="]" line="109" column="43" />
-        <mark key="^" line="109" column="43" />
-        <mark key="." line="109" column="43" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/Item.js" timestamp="1531806015641">
         <mark key="[" line="13" column="28" />
@@ -643,11 +642,11 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Subject/styled.js" timestamp="1533705337957">
-        <mark key="[" line="589" column="39" />
-        <mark key="]" line="591" column="20" />
-        <mark key="." line="591" column="20" />
-        <mark key="^" line="591" column="20" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Subject/styled.js" timestamp="1533707341700">
+        <mark key="[" line="653" column="30" />
+        <mark key="]" line="653" column="31" />
+        <mark key="." line="653" column="31" />
+        <mark key="^" line="653" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Annual/index.js" timestamp="1532996766786">
         <mark key="[" line="3" column="2" />
@@ -970,7 +969,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533697031384">
+      <file name="/Dummy.txt" timestamp="1533707422612">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -1225,10 +1224,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>중이에 발생하는 모든 염증을 가리키는 용어로, 소아에서 발생하는 세균성 감염 중에서 가장 흔합니다.</text>
+        <text>margin</text>
       </register>
       <register name="-" type="4">
-        <text>중이에 발생하는 모든 염증을 가리키는 용어로, 소아에서 발생하는 세균성 감염 중에서 가장 흔합니다.</text>
+        <text>margin</text>
       </register>
       <register name="/" type="4">
         <text>fetch.get</text>
@@ -1237,31 +1236,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICA8c3Bhbj7sm5Dsnbg8L3NwYW4+CiAgICAgICAgICAgICAgPHA+6rCQ6riwLCDsnbjrkZDsl7wsIOy5mOyVhOqwkOyXvCwg7L2U7KSR6rKp66eM6rOh7KadLCDslYzroIjrpbTquLAsIOu5hOqwlSDrgrQg7KKF7JaR7Jy866GcIOyduO2VnCDtj5Dsh4QsIOyImOyYgSwg7Jm47IOBLCDslYXslYjrqbQg6riw7ZiVPC9wPgogICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg7KSR7J207JeQIOuwnOyDne2VmOuKlCDrqqjrk6Ag7Je87Kad7J2EIOqwgOumrO2CpOuKlCDsmqnslrTroZwsIOyGjOyVhOyXkOyEnCDrsJzsg53tlZjripQg7IS46reg7ISxIOqwkOyXvCDspJHsl5DshJwg6rCA7J6lIO2dlO2VqeuLiOuLpC4K</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tbGVmdDogMjBweDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA+IHNwYW4gewogICAgICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGMK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4+7Kad7IOBPC9zcGFuPgogICAgICAgICAgICA8cD7tmIjslaHqsoDsgqwsIO2UvOu2gOqygOyCrDwvcD4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48c3Bhbj7qtazqsJztjrjrj4TsmYAg7JWE642w64W47J2065OcIOu5hOuMgOymnTo8L3NwYW4+IOy9lOunie2emCwg7IK87Lac7ISxIOykkeydtOyXvCwg7L2U6rOo7J20LCDsiJjrqbTrrLTtmLjtnaHspp0sIOy9p+usvCwg7J6F7Jy866GcIOyIqOyJvCDrk7E8L2xpPgoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48c3Bhbj7quInshLEg7Y6464+E7Je8Ojwvc3Bhbj4g7J2M7IudIOyCvO2CrOuVjDwvbGk+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbG9yOiAjMmEyYTJhOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ck90b2xhci5wcm9wVHlwZXMgPSB7fTsKCk90b2xhci5kZWZhdWx0UHJvcHMgPSB7fTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAg7KSR7J207JeQIOuwnOyDne2VmOuKlCDrqqjrk6Ag7Je87Kad7J2EIOqwgOumrO2CpOuKlCDsmqnslrTroZwsIOyGjOyVhOyXkOyEnCDrsJzsg53tlZjripQg7IS46reg7ISxIOqwkOyXvCDspJHsl5DshJwg6rCA7J6lIO2dlO2VqeuLiOuLpC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
