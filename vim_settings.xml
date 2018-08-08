@@ -89,12 +89,6 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Subject/Pediatry.js" timestamp="1533691500604">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="67" column="16" />
-        <mark key="^" line="54" column="22" />
-        <mark key="." line="54" column="22" />
-      </file>
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/package.json" timestamp="1530256428797">
         <mark key="[" line="40" column="29" />
         <mark key="]" line="40" column="66" />
@@ -289,11 +283,6 @@
         <mark key="." line="22" column="8" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Subject/Derma.js" timestamp="1533694844278">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="89" column="15" />
-        <mark key="." line="77" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/util/util.js" timestamp="1533531191715">
         <mark key="[" line="7" column="30" />
         <mark key="]" line="7" column="33" />
@@ -373,11 +362,12 @@
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Subject/Otolar.js" timestamp="1533699011219">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="57" />
-        <mark key="." line="26" column="57" />
-        <mark key="^" line="26" column="57" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Subject/Otolar.js" timestamp="1533705314378">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="98" column="11" />
+        <mark key="]" line="109" column="43" />
+        <mark key="^" line="109" column="43" />
+        <mark key="." line="109" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/Item.js" timestamp="1531806015641">
         <mark key="[" line="13" column="28" />
@@ -653,11 +643,11 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Subject/styled.js" timestamp="1533698944132">
-        <mark key="[" line="585" column="2" />
-        <mark key="]" line="587" column="0" />
-        <mark key="." line="587" column="0" />
-        <mark key="^" line="587" column="0" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Subject/styled.js" timestamp="1533705337957">
+        <mark key="[" line="589" column="39" />
+        <mark key="]" line="591" column="20" />
+        <mark key="." line="591" column="20" />
+        <mark key="^" line="591" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Annual/index.js" timestamp="1532996766786">
         <mark key="[" line="3" column="2" />
@@ -688,12 +678,6 @@
         <mark key="]" line="2" column="21" />
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Subject/Ortho.js" timestamp="1533698953583">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="37" column="17" />
-        <mark key="^" line="79" column="13" />
-        <mark key="." line="76" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/Arrow.js" timestamp="1531803280110">
         <mark key="[" line="10" column="55" />
@@ -1138,8 +1122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/index.js" />
-      <jump line="29" column="1" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/index.js" />
       <jump line="43" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/index.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/index.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/styled.js" />
@@ -1238,46 +1220,48 @@
       <jump line="19" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Subject/Urology.js" />
       <jump line="159" column="41" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
+      <jump line="34" column="10" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Subject/Otolar.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Subject/Otolar.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>OrthoWrap</text>
+        <text>중이에 발생하는 모든 염증을 가리키는 용어로, 소아에서 발생하는 세균성 감염 중에서 가장 흔합니다.</text>
       </register>
       <register name="-" type="4">
-        <text>OrthoWrap</text>
+        <text>중이에 발생하는 모든 염증을 가리키는 용어로, 소아에서 발생하는 세균성 감염 중에서 가장 흔합니다.</text>
       </register>
       <register name="/" type="4">
         <text>fetch.get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPE9ydGhvV3JhcD4KICAgICAgICA8UXVvdFA+CiAgICAgICAgICA8YXJ0aWNsZT4KICAgICAgICAgICAgPGltZyBzcmM9Ii9pbWFnZXMvY29tbW9uL3F1b3RhdGlvbi5zdmciIGFsdD0iIiAvPgogICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICDsoJXtmJXsmbjqs7zripQg6re86rOo6rKp6rOEKOyCrOyngCwg7LKZ7LaUKeydmCDsmbjsg4EsIOyXvOymnSDrsI8g67OA7ZiV7J2YIOyYiOuwqeqzvCDsuZjro4zrv5Drp4wg7JWE64uI6528IOq3uCDrtoDsho3quLDqtIDsnZgg7ZiV7YOc7JmAIOq4sOuKpeydhCDrgrTqs7zsoIEsIOyZuOqzvOyggSDqt7jrpqzqs6Ag66y866as7ZWZ7KCBIOuwqeuyleycvOuhnAog7Jew6rWsLCDrs7TsoITtlZjrqbAsIO2ajOuztSDrsI8g67Cc7KCE7Iuc7YKk64qUIOydmO2VmeydmCDrtoTslbzsnoXri4jri6QuCiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGltZyBzcmM9Ii9pbWFnZXMvY29tbW9uL3F1b3RhdGlvbi5zdmciIGFsdD0iIiAvPgogICAgICAgICAgPC9hcnRpY2xlPgogICAgICAgIDwvUXVvdFA+CiAgICAgIDwvT3J0aG9XcmFwPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICA8c3Bhbj7sm5Dsnbg8L3NwYW4+CiAgICAgICAgICAgICAgPHA+6rCQ6riwLCDsnbjrkZDsl7wsIOy5mOyVhOqwkOyXvCwg7L2U7KSR6rKp66eM6rOh7KadLCDslYzroIjrpbTquLAsIOu5hOqwlSDrgrQg7KKF7JaR7Jy866GcIOyduO2VnCDtj5Dsh4QsIOyImOyYgSwg7Jm47IOBLCDslYXslYjrqbQg6riw7ZiVPC9wPgogICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAg7KSR7J207JeQIOuwnOyDne2VmOuKlCDrqqjrk6Ag7Je87Kad7J2EIOqwgOumrO2CpOuKlCDsmqnslrTroZwsIOyGjOyVhOyXkOyEnCDrsJzsg53tlZjripQg7IS46reg7ISxIOqwkOyXvCDspJHsl5DshJwg6rCA7J6lIO2dlO2VqeuLiOuLpC4K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ck90b2xhci5wcm9wVHlwZXMgPSB7fTsKCk90b2xhci5kZWZhdWx0UHJvcHMgPSB7fTsK</text>
+        <text encoding="base64">ICAgICAgICA+IHNwYW4gewogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">ICAgICAgICAgIGMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDAgMjBweDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4+7Kad7IOBPC9zcGFuPgogICAgICAgICAgICA8cD7tmIjslaHqsoDsgqwsIO2UvOu2gOqygOyCrDwvcD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAbWVkaWEgYWxsIGFuZCAobWF4LXdpZHRoOiA3NjdweCkgewogICAgcGFkZGluZzogMCAyMHB4OwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNjOGM4Yzg7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ck90b2xhci5wcm9wVHlwZXMgPSB7fTsKCk90b2xhci5kZWZhdWx0UHJvcHMgPSB7fTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
