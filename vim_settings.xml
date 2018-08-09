@@ -21,11 +21,11 @@
         <mark key="." line="18" column="20" />
         <mark key="^" line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Advice.js" timestamp="1533792910961">
-        <mark key="[" line="33" column="28" />
-        <mark key="]" line="33" column="34" />
-        <mark key="." line="33" column="34" />
-        <mark key="^" line="33" column="34" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Advice.js" timestamp="1533795198738">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Header/Hamburger/index.js" timestamp="1531983531591">
         <mark key="'" line="6" column="6" />
@@ -84,12 +84,12 @@
         <mark key="." line="8" column="5" />
         <mark key="^" line="3" column="84" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/styled.js" timestamp="1533793081435">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/styled.js" timestamp="1533795356031">
         <mark key="'" line="49" column="30" />
-        <mark key="[" line="98" column="36" />
-        <mark key="]" line="99" column="34" />
-        <mark key="." line="99" column="34" />
-        <mark key="^" line="99" column="34" />
+        <mark key="[" line="119" column="24" />
+        <mark key="]" line="120" column="24" />
+        <mark key="." line="120" column="24" />
+        <mark key="^" line="120" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/portfolio/src/components/Router/index.js" timestamp="1532002630961">
         <mark key="[" line="8" column="26" />
@@ -947,7 +947,7 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533792882955">
+      <file name="/Dummy.txt" timestamp="1533795112132">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -1192,7 +1192,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBib2UK</text>
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Jg==</text>
@@ -1201,34 +1201,34 @@
         <text>fetch.get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyOiAxcHggc29saWQgI2M4YzhjODsKICAgICAgZm9udC1zaXplOiAxOHB4OwogICAgICBsaW5lLWhlaWdodDogMjsKICAgICAgbGV0dGVyLXNwYWNpbmc6IC0wLjVweDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im51bWJlciI+67KI7Zi4PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0aXRsZSI+7KCc66qpPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhbnN3ZXIiPuuLteuzgOyXrOu2gDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0id3JpdGVyIj7snpHshLHsnpA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNyZWF0ZWQiPuuCoOynnDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBib2UK</text>
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA+IGFydGljbGUgewogICAgPiBkaXYgewogICAgfQogIH0K</text>
+        <text encoding="base64">ICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJi5udW1iZXIgewogICAgICAgIHdpZHRoOiAxMzBweDsKICAgICAgfQogICAgICAmLnRpdGxlIHsKICAgICAgICB3aWR0aDogNDgwcHg7CiAgICAgIH0KICAgICAgJi5hbnN3ZXIsICYud3JpdGVyIHsKICAgICAgICB3aWR0aDogMTUwcHg7CiAgICAgIH0KICAgICAgJi5jcmVhdGVkIHsKICAgICAgICB3aWR0aDogMTcwcHg7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgJi4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vMTMwIC0gNDgwIC0gMTUwIC0gMTUwIC0xNzAK</text>
+        <text encoding="base64">ICAgID4gZGl2IHt9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJi53cml0ZXIgewogICAgICAgIHdpZHRoOiAxNTBweDsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGFiIH0gZnJvbSAnLi4vc3R5bGVkJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBib2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAmOmFmdGVyIHsKICAgICAgICAgIGNvbnRlbnQ6ICfilrwnOwogICAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICAgICAgdG9wOiA1MCU7CiAgICAgICAgICByaWdodDogMTBweDsKICAgICAgICB9CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
