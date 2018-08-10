@@ -259,12 +259,12 @@
         <mark key="^" line="52" column="37" />
         <mark key="." line="52" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/styled.js" timestamp="1533611587046">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/styled.js" timestamp="1533879916133">
         <mark key="'" line="105" column="1" />
-        <mark key="[" line="345" column="0" />
-        <mark key="]" line="345" column="0" />
-        <mark key="^" line="344" column="40" />
-        <mark key="." line="345" column="0" />
+        <mark key="[" line="850" column="19" />
+        <mark key="]" line="851" column="24" />
+        <mark key="^" line="851" column="24" />
+        <mark key="." line="851" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/components/invest/info/investinfo.js" timestamp="1532937558735">
         <mark key="'" line="6" column="34" />
@@ -390,11 +390,11 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Router/ScrollTop.js" timestamp="1530772816967">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="7" />
-        <mark key="^" line="5" column="27" />
-        <mark key="." line="0" column="7" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Router/ScrollTop.js" timestamp="1533878415270">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="35" />
+        <mark key="^" line="14" column="35" />
+        <mark key="." line="14" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Controller.js" timestamp="1531467759806">
         <mark key="[" line="55" column="3" />
@@ -762,12 +762,12 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Intro/styled.js" timestamp="1533877019808">
-        <mark key="'" line="457" column="37" />
-        <mark key="[" line="446" column="0" />
-        <mark key="]" line="446" column="0" />
-        <mark key="." line="446" column="0" />
-        <mark key="^" line="446" column="23" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Intro/styled.js" timestamp="1533877692552">
+        <mark key="'" line="477" column="37" />
+        <mark key="[" line="353" column="3" />
+        <mark key="]" line="356" column="21" />
+        <mark key="^" line="356" column="21" />
+        <mark key="." line="356" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/components/modal/profile.js" timestamp="1532937806030">
         <mark key="'" line="559" column="14" />
@@ -883,12 +883,12 @@
         <mark key="." line="10" column="52" />
         <mark key="^" line="34" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Intro/Doctor.js" timestamp="1533876989304">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Intro/Doctor.js" timestamp="1533877326900">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="45" column="28" />
-        <mark key="]" line="45" column="33" />
-        <mark key="." line="45" column="33" />
-        <mark key="^" line="45" column="33" />
+        <mark key="[" line="45" column="39" />
+        <mark key="]" line="45" column="44" />
+        <mark key="." line="45" column="44" />
+        <mark key="^" line="45" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/styled.js" timestamp="1533865732645">
         <mark key="[" line="60" column="26" />
@@ -984,7 +984,7 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533865755560">
+      <file name="/Dummy.txt" timestamp="1533879414580">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1075,6 +1075,13 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="3" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/index.js" timestamp="1533880051527">
+        <mark key="'" line="335" column="0" />
+        <mark key="[" line="312" column="59" />
+        <mark key="]" line="312" column="59" />
+        <mark key="^" line="312" column="59" />
+        <mark key="." line="312" column="59" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/reducer/Board.js" timestamp="1533796596267">
         <mark key="[" line="19" column="17" />
         <mark key="]" line="20" column="16" />
@@ -1132,8 +1139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="18" filename="$USER_HOME$/Documents/portfolio/src/pages/Board/Controller.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/portfolio/src/pages/Board/Controller.js" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/portfolio/src/pages/Board/Controller.js" />
       <jump line="3" column="8" filename="$USER_HOME$/Documents/portfolio/src/pages/Board/index.js" />
       <jump line="65" column="0" filename="$USER_HOME$/Documents/portfolio/src/pages/Board/index.js" />
@@ -1232,46 +1237,48 @@
       <jump line="3" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Intro/Doctor.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Intro/Doctor.js" />
       <jump line="448" column="37" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Intro/styled.js" />
+      <jump line="170" column="49" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/index.js" />
+      <jump line="330" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDUwcHg7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>img</text>
       </register>
       <register name="-" type="4">
-        <text>비뇨의학과</text>
+        <text>img</text>
       </register>
       <register name="/" type="4">
         <text>fetch.get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8RG9jdG9ySW1hZ2U+CiAgICAgICAgICA8bGFiZWw+67mE64eo7J2Y7ZWZ6rO8PC9sYWJlbD4KICAgICAgICAgIDxJbWFnZXM+CiAgICAgICAgICAgIDxpbWcgY2xhc3NOYW1lPSJkLXdlYiIgc3JjPSIvaW1hZ2VzL3N1Yi9pbnRyby9pbnRyb19kb2MxLnBuZyIgYWx0PSIiIC8+CiAgICAgICAgICAgIDxpbWcgY2xhc3NOYW1lPSJkLXRhYiIgc3JjPSIvaW1hZ2VzL3N1Yi9pbnRyby9pbnRyb19kb2MxX3RhYi5wbmciIGFsdD0iIiAvPgogICAgICAgICAgICA8aW1nIGNsYXNzTmFtZT0iZC1tb2IiIHNyYz0iL2ltYWdlcy9zdWIvaW50cm8vaW50cm9fZG9jMV9tb2IucG5nIiBhbHQ9IiIgLz4KICAgICAgICAgIDwvSW1hZ2VzPgogICAgICAgICAgPEltYWdlcz4KICAgICAgICAgICAgPGltZyBjbGFzc05hbWU9ImQtd2ViIiBzcmM9Ii9pbWFnZXMvc3ViL2ludHJvL2ludHJvX2RvYzIucG5nIiBhbHQ9IiIgLz4KICAgICAgICAgICAgPGltZyBjbGFzc05hbWU9ImQtdGFiIiBzcmM9Ii9pbWFnZXMvc3ViL2ludHJvL2ludHJvX2RvYzJfdGFiLnBuZyIgYWx0PSIiIC8+CiAgICAgICAgICAgIDxpbWcgY2xhc3NOYW1lPSJkLW1vYiIgc3JjPSIvaW1hZ2VzL3N1Yi9pbnRyby9pbnRyb19kb2MyX21vYi5wbmciIGFsdD0iIiAvPgogICAgICAgICAgPC9JbWFnZXM+CiAgICAgICAgICA8SW1hZ2VzPgogICAgICAgICAgICA8aW1nIGNsYXNzTmFtZT0iZC13ZWIiIHNyYz0iL2ltYWdlcy9zdWIvaW50cm8vaW50cm9fZG9jMy5wbmciIGFsdD0iIiAvPgogICAgICAgICAgICA8aW1nIGNsYXNzTmFtZT0iZC10YWIiIHNyYz0iL2ltYWdlcy9zdWIvaW50cm8vaW50cm9fZG9jM190YWIucG5nIiBhbHQ9IiIgLz4KICAgICAgICAgICAgPGltZyBjbGFzc05hbWU9ImQtbW9iIiBzcmM9Ii9pbWFnZXMvc3ViL2ludHJvL2ludHJvX2RvYzNfbW9iLnBuZyIgYWx0PSIiIC8+CiAgICAgICAgICA8L0ltYWdlcz4KICAgICAgICA8L0RvY3RvckltYWdlPgo=</text>
+        <text encoding="base64">ICAgICAgICA8RG9jdG9ySW1hZ2U+CiAgICAgICAgICA8bGFiZWw+7IaM7JWE7LKt7IaM64WE6rO8PC9sYWJlbD4KICAgICAgICAgIDxJbWFnZXM+CiAgICAgICAgICAgIHsvKjxpbWcgY2xhc3NOYW1lPSJkLXdlYiIgc3JjPSIvaW1hZ2VzL3N1Yi9pbnRyby9pbnRyb19kb2M0LnBuZyIgYWx0PSIiIC8+Ki99CiAgICAgICAgICAgIDxpbWcgY2xhc3NOYW1lPSJkLXdlYiBkLXRhYiIgc3JjPSIvaW1hZ2VzL3N1Yi9pbnRyby9pbnRyb19kb2M0X3RhYi5wbmciIGFsdD0iIiAvPgogICAgICAgICAgICA8aW1nIGNsYXNzTmFtZT0iZC1tb2IiIHNyYz0iL2ltYWdlcy9zdWIvaW50cm8vaW50cm9fZG9jNF9tb2IucG5nIiBhbHQ9IiIgLz4KICAgICAgICAgIDwvSW1hZ2VzPgogICAgICAgIDwvRG9jdG9ySW1hZ2U+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDUwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAmOm50aC1jaGlsZCgzbikgewogICAgICAgICAgbWFyZ2luLXJpZ2h0OiAwOwogICAgICAgICAgbWFyZ2luLWJvdHRvbTogMjBweDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJi5kLXRhYiB7CiAgICAgICAgZGlzcGxheTogbm9uZTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGhlaWdodDogMTA1cHg7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJi5kLXdlYiB7CiAgICAgICAgZGlzcGxheTogbm9uZTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDEzN3B4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICYuZC10YWIsICYuZC1tb2IgewogICAgICBkaXNwbGF5OiBub25lOwogICAgfQo=</text>
+        <text encoding="base64">ICAnL2ltYWdlcy9tYWluL21haW5fcGFydG5lci5wbmcnLAogICcvaW1hZ2VzL21haW4vbWFpbl9wYXJ0bmVyLnBuZycsCiAgJy9pbWFnZXMvbWFpbi9tYWluX3BhcnRuZXIucG5nJywKICAnL2ltYWdlcy9tYWluL21haW5fcGFydG5lci5wbmcnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOgo=</text>
+        <text encoding="base64">7J2Y66OM7KeEIOyGjOqwnCDsnpHsl4UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxJbWFnZXM+CiAgICAgICAgICAgIDxpbWcgY2xhc3NOYW1lPSJkLXdlYiIgc3JjPSIvaW1hZ2VzL3N1Yi9pbnRyby9pbnRyb19kb2MyLnBuZyIgYWx0PSIiIC8+CiAgICAgICAgICAgIDxpbWcgY2xhc3NOYW1lPSJkLXRhYiIgc3JjPSIvaW1hZ2VzL3N1Yi9pbnRyby9pbnRyb19kb2MyX3RhYi5wbmciIGFsdD0iIiAvPgogICAgICAgICAgICA8aW1nIGNsYXNzTmFtZT0iZC1tb2IiIHNyYz0iL2ltYWdlcy9zdWIvaW50cm8vaW50cm9fZG9jMl9tb2IucG5nIiBhbHQ9IiIgLz4KICAgICAgICAgIDwvSW1hZ2VzPgogICAgICAgICAgPEltYWdlcz4KICAgICAgICAgICAgPGltZyBjbGFzc05hbWU9ImQtd2ViIiBzcmM9Ii9pbWFnZXMvc3ViL2ludHJvL2ludHJvX2RvYzMucG5nIiBhbHQ9IiIgLz4KICAgICAgICAgICAgPGltZyBjbGFzc05hbWU9ImQtdGFiIiBzcmM9Ii9pbWFnZXMvc3ViL2ludHJvL2ludHJvX2RvYzNfdGFiLnBuZyIgYWx0PSIiIC8+CiAgICAgICAgICAgIDxpbWcgY2xhc3NOYW1lPSJkLW1vYiIgc3JjPSIvaW1hZ2VzL3N1Yi9pbnRyby9pbnRyb19kb2MzX21vYi5wbmciIGFsdD0iIiAvPgogICAgICAgICAgPC9JbWFnZXM+Cg==</text>
+        <text encoding="base64">ICAgICY6Zmlyc3Qtb2YtdHlwZSB7CiAgICAgIAogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxJbWFnZXM+CiAgICAgICAgICAgIDxpbWcgY2xhc3NOYW1lPSJkLXdlYiIgc3JjPSIvaW1hZ2VzL3N1Yi9pbnRyby9pbnRyb19kb2MyLnBuZyIgYWx0PSIiIC8+CiAgICAgICAgICAgIDxpbWcgY2xhc3NOYW1lPSJkLXRhYiIgc3JjPSIvaW1hZ2VzL3N1Yi9pbnRyby9pbnRyb19kb2MyX3RhYi5wbmciIGFsdD0iIiAvPgogICAgICAgICAgICA8aW1nIGNsYXNzTmFtZT0iZC1tb2IiIHNyYz0iL2ltYWdlcy9zdWIvaW50cm8vaW50cm9fZG9jMl9tb2IucG5nIiBhbHQ9IiIgLz4KICAgICAgICAgIDwvSW1hZ2VzPgogICAgICAgICAgPEltYWdlcz4KICAgICAgICAgICAgPGltZyBjbGFzc05hbWU9ImQtd2ViIiBzcmM9Ii9pbWFnZXMvc3ViL2ludHJvL2ludHJvX2RvYzMucG5nIiBhbHQ9IiIgLz4KICAgICAgICAgICAgPGltZyBjbGFzc05hbWU9ImQtdGFiIiBzcmM9Ii9pbWFnZXMvc3ViL2ludHJvL2ludHJvX2RvYzNfdGFiLnBuZyIgYWx0PSIiIC8+CiAgICAgICAgICAgIDxpbWcgY2xhc3NOYW1lPSJkLW1vYiIgc3JjPSIvaW1hZ2VzL3N1Yi9pbnRyby9pbnRyb19kb2MzX21vYi5wbmciIGFsdD0iIiAvPgogICAgICAgICAgPC9JbWFnZXM+Cg==</text>
+        <text encoding="base64">ICAgICAgbWFyZ2luLXRvcDogNDBweDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICY6bm90KDpmaXJzdC1jaGlsZCkgewogICAgICBtYXJnaW4tdG9wOgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDMwcHg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
