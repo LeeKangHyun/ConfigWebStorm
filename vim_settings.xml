@@ -247,6 +247,12 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Term/PrivacyStatement.js" timestamp="1533881378632">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/component/BoardItem.js" timestamp="1531125602965">
         <mark key="[" line="10" column="23" />
         <mark key="]" line="10" column="31" />
@@ -984,7 +990,7 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533879414580">
+      <file name="/Dummy.txt" timestamp="1533880079931">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1242,10 +1248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>img</text>
+        <text>React</text>
       </register>
       <register name="-" type="4">
-        <text>img</text>
+        <text>React</text>
       </register>
       <register name="/" type="4">
         <text>fetch.get</text>
