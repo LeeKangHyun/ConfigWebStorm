@@ -21,7 +21,7 @@
         <mark key="." line="18" column="20" />
         <mark key="^" line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Advice.js" timestamp="1533803746472">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Advice.js" timestamp="1533883550827">
         <mark key="'" line="8" column="19" />
         <mark key="[" line="74" column="27" />
         <mark key="]" line="74" column="29" />
@@ -73,6 +73,12 @@
         <mark key="]" line="10" column="37" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Intro/Around/index.js" timestamp="1533883560194">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Router/ScrollTop.js" timestamp="1531904227923">
         <mark key="[" line="55" column="42" />
@@ -247,11 +253,11 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Term/PrivacyStatement.js" timestamp="1533881378632">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="8" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Term/PrivacyStatement.js" timestamp="1533882968196">
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="8" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="197" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/component/BoardItem.js" timestamp="1531125602965">
         <mark key="[" line="10" column="23" />
@@ -434,12 +440,12 @@
         <mark key="^" line="31" column="67" />
         <mark key="." line="31" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Intro/index.js" timestamp="1533867769196">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Intro/index.js" timestamp="1533883279202">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="13" column="25" />
-        <mark key="." line="13" column="25" />
-        <mark key="^" line="13" column="25" />
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="20" column="22" />
+        <mark key="^" line="20" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Footer/index.js" timestamp="1531451001850">
         <mark key="[" line="0" column="12" />
@@ -896,6 +902,7 @@
         <mark key="." line="45" column="44" />
         <mark key="^" line="45" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/index.js" timestamp="1533883497852" />
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/styled.js" timestamp="1533865732645">
         <mark key="[" line="60" column="26" />
         <mark key="]" line="61" column="20" />
@@ -1247,11 +1254,11 @@
       <jump line="330" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>React</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFBhZ2luYXRpb24gZnJvbSAgJ0AvY29tcG9uZXRzJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>React</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>fetch.get</text>
@@ -1260,31 +1267,31 @@
         <text encoding="base64">ICAgICAgICA8RG9jdG9ySW1hZ2U+CiAgICAgICAgICA8bGFiZWw+7IaM7JWE7LKt7IaM64WE6rO8PC9sYWJlbD4KICAgICAgICAgIDxJbWFnZXM+CiAgICAgICAgICAgIHsvKjxpbWcgY2xhc3NOYW1lPSJkLXdlYiIgc3JjPSIvaW1hZ2VzL3N1Yi9pbnRyby9pbnRyb19kb2M0LnBuZyIgYWx0PSIiIC8+Ki99CiAgICAgICAgICAgIDxpbWcgY2xhc3NOYW1lPSJkLXdlYiBkLXRhYiIgc3JjPSIvaW1hZ2VzL3N1Yi9pbnRyby9pbnRyb19kb2M0X3RhYi5wbmciIGFsdD0iIiAvPgogICAgICAgICAgICA8aW1nIGNsYXNzTmFtZT0iZC1tb2IiIHNyYz0iL2ltYWdlcy9zdWIvaW50cm8vaW50cm9fZG9jNF9tb2IucG5nIiBhbHQ9IiIgLz4KICAgICAgICAgIDwvSW1hZ2VzPgogICAgICAgIDwvRG9jdG9ySW1hZ2U+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAmOm50aC1jaGlsZCgzbikgewogICAgICAgICAgbWFyZ2luLXJpZ2h0OiAwOwogICAgICAgICAgbWFyZ2luLWJvdHRvbTogMjBweDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IFBhZ2luYXRpb24gZnJvbSAgJ0AvY29tcG9uZXRzJwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMTA1cHg7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PSAoewogIAp9KSA9PiB7CiAgCn0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDEzN3B4Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAnL2ltYWdlcy9tYWluL21haW5fcGFydG5lci5wbmcnLAogICcvaW1hZ2VzL21haW4vbWFpbl9wYXJ0bmVyLnBuZycsCiAgJy9pbWFnZXMvbWFpbi9tYWluX3BhcnRuZXIucG5nJywKICAnL2ltYWdlcy9tYWluL21haW5fcGFydG5lci5wbmcnLAo=</text>
+        <text encoding="base64">ICAgICAgICAmOm50aC1jaGlsZCgzbikgewogICAgICAgICAgbWFyZ2luLXJpZ2h0OiAwOwogICAgICAgICAgbWFyZ2luLWJvdHRvbTogMjBweDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">7J2Y66OM7KeEIOyGjOqwnCDsnpHsl4UK</text>
+        <text encoding="base64">ICAgIGhlaWdodDogMTA1cHg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICY6Zmlyc3Qtb2YtdHlwZSB7CiAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDEzN3B4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luLXRvcDogNDBweDsK</text>
+        <text encoding="base64">ICAnL2ltYWdlcy9tYWluL21haW5fcGFydG5lci5wbmcnLAogICcvaW1hZ2VzL21haW4vbWFpbl9wYXJ0bmVyLnBuZycsCiAgJy9pbWFnZXMvbWFpbi9tYWluX3BhcnRuZXIucG5nJywKICAnL2ltYWdlcy9tYWluL21haW5fcGFydG5lci5wbmcnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">7J2Y66OM7KeEIOyGjOqwnCDsnpHsl4UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDMwcHg7Cg==</text>
+        <text encoding="base64">ICAgICY6Zmlyc3Qtb2YtdHlwZSB7CiAgICAgIAogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
