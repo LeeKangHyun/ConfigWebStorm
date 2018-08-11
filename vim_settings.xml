@@ -833,11 +833,11 @@
         <mark key="^" line="667" column="22" />
         <mark key="." line="686" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Company/mhub/src/pages/Sub/Intro/Around/index.js" timestamp="1533987915740">
+      <file name="$USER_HOME$/Documents/Company/mhub/src/pages/Sub/Intro/Around/index.js" timestamp="1533988958522">
         <mark key="'" line="162" column="42" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
+        <mark key="[" line="107" column="28" />
+        <mark key="]" line="107" column="28" />
+        <mark key="." line="107" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/board/action.js" timestamp="1530176314397">
         <mark key="[" line="5" column="29" />
@@ -1242,11 +1242,11 @@
       <jump line="135" column="42" filename="$USER_HOME$/Documents/Company/mhub/src/pages/Sub/Intro/Around/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAKICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, true</text>
       </register>
       <register name="-" type="4">
-        <text>...setting1</text>
+        <text>, true</text>
       </register>
       <register name="/" type="4">
         <text>fetch.get</text>
@@ -1255,31 +1255,31 @@
         <text encoding="base64">Y29uc3QgTmV4dEFycm93ID0gKHtjbGFzc05hbWUsIHN0eWxlLCBvbkNsaWNrfSkgPT4gewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT17Y2xhc3NOYW1lfSBzdHlsZT17ey4uLnN0eWxlfX0+CiAgICAgIDxpbWcgc3JjPXsiL2ltYWdlcy9jb21tb24vcGFnZV9yaWdodC5zdmcifSBhbHQ9eyIifSBvbkNsaWNrPXtvbkNsaWNrfSAvPgogICAgPC9kaXY+CiAgKQp9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zbGljay5nZXRTbGljaygpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29tcG9uZW50RGlkTW91bnQoKSB7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIHRoaXMuc2xpY2suc2xpY2tHb1RvKDAsIHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgY29tcG9uZW50RGlkTW91bnQoKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIHRoaXMuc2xpY2suc2xpY2tHb1RvKDAsIHRydWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2xpY2suc2xpY2tHb1RvKDAsIHRydWUpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhZ2luZyA9IDY7CiAgICBjb25zdCBtaW5BcnIgPSBwYWdpbmcgKiAocGFnZSAtIDEpLCBtYXhBcnIgPSBtaW5BcnIgKyBwYWdpbmc7CiAgICBjb25zdCBTbGlja0RhdGEgPSBkYXRhLnNsaWNlKG1pbkFyciwgbWF4QXJyKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuc2xpY2suc2xpY2tHb1RvKDAsIHRydWUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYXJyb3dzOiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhZ2luZyA9IDY7CiAgICBjb25zdCBtaW5BcnIgPSBwYWdpbmcgKiAocGFnZSAtIDEpLCBtYXhBcnIgPSBtaW5BcnIgKyBwYWdpbmc7CiAgICBjb25zdCBTbGlja0RhdGEgPSBkYXRhLnNsaWNlKG1pbkFyciwgbWF4QXJyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgYXJyb3dzOiBmYWxzZSwK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
