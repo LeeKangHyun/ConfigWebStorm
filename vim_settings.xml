@@ -90,6 +90,11 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="25" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Quick/index.js" timestamp="1534127253540">
+        <mark key="[" line="24" column="46" />
+        <mark key="]" line="24" column="46" />
+        <mark key="." line="24" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/redux/action/Board.js" timestamp="1530775916409">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="6" column="10" />
@@ -494,6 +499,9 @@
         <mark key="]" line="11" column="21" />
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="21" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1534127291408">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/Highman.js" timestamp="1533275010522">
         <mark key="[" line="51" column="36" />
@@ -1152,12 +1160,12 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/index.js" timestamp="1533880051527">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/index.js" timestamp="1534127283620">
         <mark key="'" line="335" column="0" />
-        <mark key="[" line="312" column="59" />
-        <mark key="]" line="312" column="59" />
-        <mark key="^" line="312" column="59" />
-        <mark key="." line="312" column="59" />
+        <mark key="[" line="259" column="58" />
+        <mark key="]" line="259" column="78" />
+        <mark key="^" line="259" column="78" />
+        <mark key="." line="259" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/reducer/Board.js" timestamp="1533796596267">
         <mark key="[" line="19" column="17" />
@@ -1281,11 +1289,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGF0YSwg</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>fetch.get</text>
