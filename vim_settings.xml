@@ -191,12 +191,12 @@
         <mark key="^" line="14" column="1" />
         <mark key="." line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/const.js" timestamp="1533862877854">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/const.js" timestamp="1534123232764">
         <mark key="'" line="393" column="19" />
-        <mark key="[" line="34" column="10" />
-        <mark key="]" line="34" column="41" />
-        <mark key="." line="34" column="41" />
-        <mark key="^" line="34" column="41" />
+        <mark key="[" line="389" column="16" />
+        <mark key="]" line="389" column="24" />
+        <mark key="." line="389" column="24" />
+        <mark key="^" line="389" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/redux/action/Board.js" timestamp="1530775916409">
         <mark key="[" line="5" column="28" />
@@ -345,6 +345,12 @@
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Making.js" timestamp="1534123159804">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="16" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/components/modal/AutoInvestHistory.js" timestamp="1532937819028">
         <mark key="'" line="82" column="12" />
@@ -1007,13 +1013,13 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/index.js" timestamp="1533864428144">
-        <mark key="[" line="12" column="3" />
-        <mark key="]" line="13" column="1" />
-        <mark key="." line="13" column="1" />
-        <mark key="^" line="13" column="1" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/index.js" timestamp="1534123212185">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533888934933">
+      <file name="/Dummy.txt" timestamp="1534123324140">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1074,11 +1080,10 @@
         <mark key="^" line="636" column="22" />
         <mark key="." line="636" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/index.js" timestamp="1533804928217">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="33" />
-        <mark key="." line="12" column="33" />
-        <mark key="^" line="12" column="33" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/index.js" timestamp="1534123318075">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="13" column="30" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/popup/action.js" timestamp="1529660001581">
         <mark key="[" line="6" column="2" />
@@ -1276,11 +1281,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>state</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy8gY2FzZSAnYWR2aWNlJzoKICAgICAgLy8gICByZXR1cm4gPEFkdmljZSAvPjsKICAgICAgLy8gY2FzZSAnYm9va2luZyc6CiAgICAgIC8vICAgcmV0dXJuIDxCb29raW5nIC8+Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>state</text>
+        <text>div</text>
       </register>
       <register name="/" type="4">
         <text>fetch.get</text>
@@ -1288,38 +1293,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICB7CiAgICBsYWJlbDogJ+qxtOqwleqygOynhOyEvO2EsCcsCiAgICB0YWI6ICdoZWFsdGgnLAogIH0sCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-                        
-                      }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLy8gY2FzZSAnYWR2aWNlJzoKICAgICAgLy8gICByZXR1cm4gPEFkdmljZSAvPjsKICAgICAgLy8gY2FzZSAnYm9va2luZyc6CiAgICAgIC8vICAgcmV0dXJuIDxCb29raW5nIC8+Owo=</text>
       </register>
-      <register name="2" type="4">
-        <text>{
-      subject: 'health',
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gPGRpdiAvPjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxpbmUtaGVpZ2h0OiAxLjU7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gPE1ha2luZyAvPjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IEJvb2tpbmcgZnJvbSAnLi9Cb29raW5nJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2Pgo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48L2xpPgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">67mg66W4IOyLnAogICAgICAgICA=</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-  
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBtYXJnaW4tdG9wOiA5MHB4Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB3aWR0aDogMTA4MHB4Owo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
