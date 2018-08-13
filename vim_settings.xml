@@ -186,6 +186,11 @@
         <mark key="." line="13" column="97" />
         <mark key="^" line="13" column="95" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/investment.js" timestamp="1534136040627">
+        <mark key="[" line="224" column="17" />
+        <mark key="]" line="224" column="18" />
+        <mark key="." line="224" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Editor.js" timestamp="1530844896812">
         <mark key="[" line="26" column="17" />
         <mark key="]" line="2" column="40" />
@@ -1290,8 +1295,8 @@
       <jump line="42" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/loan/detail/ApplyPharm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>input</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgewogICAgICAgICJ0aXRsZSI6IG1vdWRhVHlwZVs0MF0sCiAgICAgICAgInZhbHVlIjogNDAKICAgICAgfSwK</text>
       </register>
       <register name="-" type="4">
         <text>input</text>
@@ -1299,8 +1304,8 @@
       <register name="/" type="4">
         <text>fetch.get</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IGtleT17dXRpbC5ndWlkKCl9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgewogICAgICAgICJ0aXRsZSI6IG1vdWRhVHlwZVs0MF0sCiAgICAgICAgInZhbHVlIjogNDAKICAgICAgfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
