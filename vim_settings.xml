@@ -246,6 +246,12 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="27" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/styled.js" timestamp="1534211208743">
+        <mark key="[" line="346" column="29" />
+        <mark key="]" line="347" column="32" />
+        <mark key="." line="347" column="32" />
+        <mark key="^" line="347" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1531100861526">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="8" />
@@ -789,7 +795,7 @@
         <mark key="." line="15" column="23" />
         <mark key="^" line="15" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534208677744">
+      <file name="/Dummy.txt" timestamp="1534210285700">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/Highman.js" timestamp="1533275010522">
@@ -875,12 +881,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/index.js" timestamp="1534153176256">
-        <mark key="'" line="335" column="0" />
-        <mark key="[" line="201" column="18" />
-        <mark key="]" line="201" column="75" />
-        <mark key="^" line="201" column="75" />
-        <mark key="." line="201" column="75" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/index.js" timestamp="1534211125787">
+        <mark key="'" line="339" column="0" />
+        <mark key="[" line="243" column="0" />
+        <mark key="]" line="243" column="26" />
+        <mark key="^" line="216" column="25" />
+        <mark key="." line="243" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/reducer/Board.js" timestamp="1533796596267">
         <mark key="[" line="19" column="17" />
@@ -1035,7 +1041,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsK</text>
+        <text encoding="base64">ICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>get</text>
@@ -1043,35 +1049,35 @@
       <register name="/" type="4">
         <text>fetch.get</text>
       </register>
-      <register name="0" type="4">
-        <text>{moment(data.created, moment.ISO_8601).format('YY-MM-DD')}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHNwYW4gLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsK</text>
+        <text encoding="base64">ICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LAogIGNvbm5lY3QoCiAgICAoe2JvYXJkfSk9Pih7Ym9hcmR9KSwKICAgIHsgIH0KICAp</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGxlZnQ6IDUwJTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LCAocmVxLCByZXMpID0+IHsKICByZXMuc2VuZCh7CiAgICBleHByZXNzOiAnSGVsbG8gRnJvbSBFeHByZXNzJywKICB9KTsKfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRvcDogNTAlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgID4gYnV0dG9uIHsKICAgICAgd2lkdGg6IAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwb3NpdGlvbjogcmVsYXRpdmU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgID4gYXJ0aWNsZSB7CiAgICAgIGhlaWdodDogYXV0bzsKICAgICAgcGFkZGluZzogLjZlbSAxMHB4OwogICAgICBmb250LXNpemU6IDE1cHg7CiAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">LAogIGNvbm5lY3QoCiAgICAoe2JvYXJkfSk9Pih7Ym9hcmR9KSwKICAgIHsgIH0KICAp</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgID4gKiB7CiAgICAgIHBhZGRpbmc6IDAgMTBweDsKICAgIH0K</text>
+      <register name="8" type="4">
+        <text encoding="base64">LCAocmVxLCByZXMpID0+IHsKICByZXMuc2VuZCh7CiAgICBleHByZXNzOiAnSGVsbG8gRnJvbSBFeHByZXNzJywKICB9KTsKfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgID4gc2VjdGlvbiB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
