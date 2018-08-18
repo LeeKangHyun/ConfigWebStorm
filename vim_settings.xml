@@ -1067,11 +1067,11 @@
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/portfolio/src/components/Router/index.js" timestamp="1534572511803">
+      <file name="$USER_HOME$/Documents/portfolio/src/components/Router/index.js" timestamp="1534575184393">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
-        <mark key="^" line="0" column="13" />
+        <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Intro/index.js" timestamp="1533618214065">
         <mark key="'" line="0" column="0" />
@@ -1357,10 +1357,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">LCB7IENvbXBvbmVudCB9ICA=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">LCB7IENvbXBvbmVudCB9ICA=</text>
       </register>
       <register name="/" type="4">
         <text>fetch.get</text>
