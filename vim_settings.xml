@@ -771,11 +771,11 @@
         <mark key="." line="15" column="89" />
         <mark key="^" line="15" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/index.js" timestamp="1534827418656">
-        <mark key="[" line="28" column="37" />
-        <mark key="]" line="28" column="38" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/index.js" timestamp="1534986328334">
+        <mark key="[" line="46" column="37" />
+        <mark key="]" line="46" column="38" />
         <mark key="^" line="16" column="41" />
-        <mark key="." line="28" column="38" />
+        <mark key="." line="46" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Landing/Styled.js" timestamp="1530001945088">
         <mark key="[" line="14" column="37" />
@@ -1109,7 +1109,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltZzogJy9pbWFnZXMvaGVhZGVyL3Rlc3QuanBnJywK</text>
+        <text encoding="base64">ICB7CiAgICB3ZWI6ICIvaW1hZ2VzL3VwbG9hZC9taHViX3JvbGxpbmczLnBuZyIsCiAgICB0YWI6ICIvaW1hZ2VzL3VwbG9hZC9taHViX3JvbGxpbmczX3RhYi5wbmciLAogICAgbW9iOiAiL2ltYWdlcy91cGxvYWQvbWh1Yl9yb2xsaW5nM19tb2IucG5nIiwKICAgIHVybDogJycsCiAgfSwK</text>
       </register>
       <register name="-" type="4">
         <text>test.jpg</text>
@@ -1118,7 +1118,7 @@
         <text>fetch.get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltZzogJy9pbWFnZXMvaGVhZGVyL21odWJfaGVhZGVyX2ltZzEucG5nJywK</text>
+        <text encoding="base64">ICB7CiAgICB3ZWI6ICIvaW1hZ2VzL3VwbG9hZC9taHViX3JvbGxpbmczLnBuZyIsCiAgICB0YWI6ICIvaW1hZ2VzL3VwbG9hZC9taHViX3JvbGxpbmczX3RhYi5wbmciLAogICAgbW9iOiAiL2ltYWdlcy91cGxvYWQvbWh1Yl9yb2xsaW5nM19tb2IucG5nIiwKICAgIHVybDogJycsCiAgfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGltZzogJy9pbWFnZXMvaGVhZGVyL3Rlc3QuanBnJywK</text>
