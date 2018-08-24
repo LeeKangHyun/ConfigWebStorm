@@ -51,13 +51,6 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Advice/AdviceTable.js" timestamp="1534918724370">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="17" column="73" />
-        <mark key="]" line="17" column="76" />
-        <mark key="." line="17" column="76" />
-        <mark key="^" line="17" column="76" />
-      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/BoardList.js" timestamp="1535086519620">
         <mark key="[" line="16" column="59" />
         <mark key="]" line="16" column="61" />
@@ -334,12 +327,12 @@
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/Controller.js" timestamp="1535088275318">
+      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/Controller.js" timestamp="1535089376867">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="60" column="68" />
-        <mark key="]" line="60" column="68" />
-        <mark key="." line="60" column="68" />
-        <mark key="^" line="60" column="68" />
+        <mark key="[" line="61" column="26" />
+        <mark key="]" line="61" column="26" />
+        <mark key="." line="61" column="26" />
+        <mark key="^" line="57" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client/src/App.js" timestamp="1533265547392">
         <mark key="[" line="12" column="11" />
@@ -466,13 +459,6 @@
         <mark key="]" line="26" column="77" />
         <mark key="^" line="24" column="38" />
         <mark key="." line="24" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Advice/index.js" timestamp="1534999812661">
-        <mark key="'" line="29" column="19" />
-        <mark key="[" line="96" column="13" />
-        <mark key="]" line="96" column="16" />
-        <mark key="^" line="96" column="16" />
-        <mark key="." line="96" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Footer/index.js" timestamp="1531451001850">
         <mark key="[" line="0" column="12" />
@@ -968,7 +954,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535074242963">
+      <file name="/Dummy.txt" timestamp="1535089715398">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1058,12 +1044,12 @@
         <mark key="." line="35" column="34" />
         <mark key="^" line="35" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/index.js" timestamp="1535087474999">
+      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/index.js" timestamp="1535089548958">
         <mark key="'" line="45" column="6" />
-        <mark key="[" line="64" column="29" />
-        <mark key="]" line="64" column="43" />
-        <mark key="." line="64" column="43" />
-        <mark key="^" line="64" column="43" />
+        <mark key="[" line="63" column="22" />
+        <mark key="]" line="63" column="22" />
+        <mark key="." line="63" column="22" />
+        <mark key="^" line="63" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/stylesheets/container/notify/notice.scss" timestamp="1529637448726">
         <mark key="[" line="91" column="0" />
@@ -1242,10 +1228,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.initialState</text>
+        <text>defaultV</text>
       </register>
       <register name="-" type="4">
-        <text>this.initialState</text>
+        <text>defaultV</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
