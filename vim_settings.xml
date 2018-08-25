@@ -183,12 +183,12 @@
         <mark key="." line="44" column="3" />
         <mark key="^" line="44" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/Controller.js" timestamp="1535172559382">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="81" column="41" />
-        <mark key="]" line="81" column="41" />
-        <mark key="." line="81" column="41" />
-        <mark key="^" line="81" column="41" />
+      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/Controller.js" timestamp="1535174067080">
+        <mark key="'" line="121" column="0" />
+        <mark key="[" line="111" column="42" />
+        <mark key="]" line="112" column="30" />
+        <mark key="." line="112" column="30" />
+        <mark key="^" line="112" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client/src/App.js" timestamp="1533265547392">
         <mark key="[" line="12" column="11" />
@@ -1149,12 +1149,12 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/index.js" timestamp="1535172574037">
-        <mark key="'" line="61" column="11" />
-        <mark key="[" line="39" column="40" />
-        <mark key="]" line="39" column="62" />
-        <mark key="." line="39" column="62" />
-        <mark key="^" line="39" column="62" />
+      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/index.js" timestamp="1535174079663">
+        <mark key="'" line="77" column="32" />
+        <mark key="[" line="28" column="10" />
+        <mark key="]" line="28" column="10" />
+        <mark key="." line="28" column="10" />
+        <mark key="^" line="28" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/Surgery/Vasectomy.js" timestamp="1534817053766">
         <mark key="[" line="21" column="12" />
@@ -1182,9 +1182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="15" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/Viewer.js" />
-      <jump line="1" column="19" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/Viewer.js" />
-      <jump line="323" column="18" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/styled.js" />
       <jump line="15" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/Notice.js" />
       <jump line="72" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/Notice.js" />
       <jump line="40" column="5" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/Notice.js" />
@@ -1282,13 +1279,16 @@
       <jump line="41" column="29" filename="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/index.js" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/index.js" />
       <jump line="61" column="11" filename="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/index.js" />
+      <jump line="51" column="12" filename="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/index.js" />
+      <jump line="73" column="37" filename="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/index.js" />
+      <jump line="77" column="32" filename="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>edit</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>edit</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
