@@ -1149,12 +1149,12 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/index.js" timestamp="1535186447299">
+      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/index.js" timestamp="1535187821805">
         <mark key="'" line="83" column="56" />
-        <mark key="[" line="54" column="40" />
-        <mark key="]" line="54" column="40" />
-        <mark key="." line="54" column="40" />
-        <mark key="^" line="54" column="53" />
+        <mark key="[" line="54" column="43" />
+        <mark key="]" line="55" column="53" />
+        <mark key="." line="55" column="53" />
+        <mark key="^" line="55" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/Surgery/Vasectomy.js" timestamp="1534817053766">
         <mark key="[" line="21" column="12" />
@@ -1285,10 +1285,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, mom.ISO_8601</text>
+        <text>, 'lll'</text>
       </register>
       <register name="-" type="4">
-        <text>, mom.ISO_8601</text>
+        <text>, 'lll'</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
