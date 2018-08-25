@@ -183,12 +183,12 @@
         <mark key="." line="44" column="3" />
         <mark key="^" line="44" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/Controller.js" timestamp="1535177882556">
-        <mark key="'" line="71" column="21" />
-        <mark key="[" line="104" column="15" />
-        <mark key="]" line="104" column="18" />
-        <mark key="." line="104" column="18" />
-        <mark key="^" line="104" column="18" />
+      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/Controller.js" timestamp="1535181014536">
+        <mark key="'" line="74" column="21" />
+        <mark key="[" line="63" column="4" />
+        <mark key="]" line="62" column="3" />
+        <mark key="." line="62" column="3" />
+        <mark key="^" line="62" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client/src/App.js" timestamp="1533265547392">
         <mark key="[" line="12" column="11" />
@@ -1119,11 +1119,11 @@
         <mark key="^" line="27" column="22" />
         <mark key="." line="27" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Util/Fetch.js" timestamp="1535177663987">
-        <mark key="[" line="80" column="9" />
-        <mark key="]" line="81" column="8" />
-        <mark key="." line="81" column="8" />
-        <mark key="^" line="81" column="8" />
+      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Util/Fetch.js" timestamp="1535180628535">
+        <mark key="[" line="94" column="9" />
+        <mark key="]" line="95" column="12" />
+        <mark key="." line="95" column="12" />
+        <mark key="^" line="95" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Status.js" timestamp="1530166331203">
         <mark key="[" line="56" column="11" />
@@ -1149,12 +1149,12 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/index.js" timestamp="1535177857437">
-        <mark key="'" line="31" column="12" />
-        <mark key="[" line="84" column="34" />
-        <mark key="]" line="84" column="43" />
-        <mark key="." line="84" column="43" />
-        <mark key="^" line="84" column="43" />
+      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/index.js" timestamp="1535181051517">
+        <mark key="'" line="83" column="56" />
+        <mark key="[" line="83" column="34" />
+        <mark key="]" line="84" column="12" />
+        <mark key="." line="84" column="12" />
+        <mark key="^" line="84" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/Surgery/Vasectomy.js" timestamp="1534817053766">
         <mark key="[" line="21" column="12" />
@@ -1182,7 +1182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="28" filename="$USER_HOME$/Documents/hnh/mhub/app.js" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/Notice.js" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/Viewer.js" />
       <jump line="30" column="23" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/Notice.js" />
@@ -1282,13 +1281,14 @@
       <jump line="68" column="14" filename="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/index.js" />
       <jump line="70" column="23" filename="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/index.js" />
       <jump line="31" column="12" filename="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/index.js" />
+      <jump line="83" column="56" filename="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
@@ -1297,33 +1297,33 @@
         <text encoding="base64">IG9uQ2hhbmdlPXtvbkNoYW5nZVRvVGFiLmJpbmQodGhpcywgJ05vdGljZXMnKX0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnM6IHsKICAgICAgIkFjY2VwdCI6ICJhcHBsaWNhdGlvbi9qc29uIiwKICAgICAgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIiwKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGhlYWRlcnM6IHsKICAgICAgIkFjY2VwdCI6ICJhcHBsaWNhdGlvbi9qc29uIiwKICAgICAgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIiwKICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIC4uLnJlcywK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHJldHVybiBhd2FpdCBGZXRjaC5Qb3N0KGAvJHt0YWJ9YCwgZGF0YSk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHt9ID0gdGhpcy5zdGF0ZTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{
       
     }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTGluayB9IGZyb20gJ3JlYWN0LXJvdXRlci1kb20nOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IENLRWRpdG9yIGZyb20gJ3JlYWN0LWNrZWRpdG9yLWNvbXBvbmVudCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTGluayB9IGZyb20gJ3JlYWN0LXJvdXRlci1kb20nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
