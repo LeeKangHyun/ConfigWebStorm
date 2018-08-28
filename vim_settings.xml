@@ -835,12 +835,12 @@
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Editor.js" timestamp="1535426307050">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Editor.js" timestamp="1535431840446">
         <mark key="'" line="68" column="19" />
-        <mark key="[" line="80" column="16" />
-        <mark key="]" line="80" column="33" />
-        <mark key="^" line="80" column="33" />
-        <mark key="." line="80" column="33" />
+        <mark key="[" line="98" column="14" />
+        <mark key="]" line="98" column="14" />
+        <mark key="^" line="98" column="14" />
+        <mark key="." line="98" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/Item.js" timestamp="1531806015641">
         <mark key="[" line="13" column="28" />
@@ -1012,11 +1012,11 @@
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/styled.js" timestamp="1535427018779">
-        <mark key="[" line="147" column="19" />
-        <mark key="]" line="149" column="31" />
-        <mark key="." line="149" column="31" />
-        <mark key="^" line="149" column="31" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/styled.js" timestamp="1535432549159">
+        <mark key="[" line="124" column="23" />
+        <mark key="]" line="125" column="26" />
+        <mark key="." line="125" column="26" />
+        <mark key="^" line="125" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Intro/Equip.js" timestamp="1534987339518">
         <mark key="[" line="211" column="20" />
@@ -1108,12 +1108,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/index.js" timestamp="1535423787593">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/index.js" timestamp="1535432901935">
         <mark key="'" line="41" column="28" />
-        <mark key="[" line="38" column="17" />
-        <mark key="]" line="38" column="33" />
-        <mark key="." line="38" column="33" />
-        <mark key="^" line="38" column="33" />
+        <mark key="[" line="35" column="32" />
+        <mark key="]" line="36" column="22" />
+        <mark key="." line="36" column="22" />
+        <mark key="^" line="36" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/index.js" timestamp="1534986328334">
         <mark key="[" line="46" column="37" />
@@ -1199,6 +1199,12 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
         <mark key="^" line="63" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Calendar.js" timestamp="1535432950469">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/Surgery/Vasectomy.js" timestamp="1534817053766">
         <mark key="[" line="21" column="12" />
@@ -1328,11 +1334,11 @@
       <jump line="66" column="19" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Editor.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>phoneNum1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>phoneNum1</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
@@ -1341,33 +1347,31 @@
         <text encoding="base64">QVBJICsg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0aXRsZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBnZW5kZXIsCg==</text>
+        <text encoding="base64">ICAgICAgPGRpdj4KICAgICAgCiAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgdGFiIH0gPSB0aGlzLnN0YXRlOwo=</text>
+        <text encoding="base64">aW1wb3J0IGZyb20gJ3JlYWN0Jwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">Y29uc3QgQ2FsZW5kZXIgPSAoKSA9PiB7CiAgCn0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwogICAgCiAgICB0aGlzLnN0YXRlID0gdGhpcy5pbml0aWFsU3RhdGU7CiAgfQogIAogIGdldCBpbml0aWFsU3RhdGUoKSB7CiAgICByZXR1cm4gewogICAgICB0YWI6ICdoZWFsdGgnLAogICAgfQogIH0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-      
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDMwcHg7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICYudGV4dGFyZWEgewogICAgICA+IGRpdiB7CiAgICAgICAgPiB0ZXh0YXJlYSB7CiAgICAgICAgICBoZWlnaHQ6IDk0cHg7CiAgICAgICAgfQogICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgID4gYXJ0aWNsZSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
