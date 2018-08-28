@@ -15,6 +15,12 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Controller.js" timestamp="1535423897684">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+        <mark key="^" line="21" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Mask/Controller.js" timestamp="1531358203986">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -57,7 +63,7 @@
         <mark key="." line="8" column="5" />
         <mark key="^" line="3" column="84" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/styled.js" timestamp="1534920667924">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/styled.js" timestamp="1535420930927">
         <mark key="[" line="296" column="0" />
         <mark key="]" line="296" column="0" />
         <mark key="^" line="300" column="14" />
@@ -794,11 +800,11 @@
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/DepartmentList/index.js" timestamp="1535418415169">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="6" column="7" />
-        <mark key="^" line="6" column="7" />
-        <mark key="." line="6" column="7" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/DepartmentList/index.js" timestamp="1535420214423">
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="2" column="50" />
+        <mark key="." line="2" column="50" />
+        <mark key="^" line="2" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/SetPopup.js" timestamp="1531198800629">
         <mark key="[" line="13" column="0" />
@@ -828,6 +834,13 @@
         <mark key="]" line="38" column="3" />
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Editor.js" timestamp="1535424011350">
+        <mark key="'" line="67" column="19" />
+        <mark key="[" line="71" column="26" />
+        <mark key="]" line="71" column="32" />
+        <mark key="^" line="71" column="32" />
+        <mark key="." line="71" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/Item.js" timestamp="1531806015641">
         <mark key="[" line="13" column="28" />
@@ -871,7 +884,7 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Advice/index.js" timestamp="1534999812661">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Advice/index.js" timestamp="1535421536884">
         <mark key="'" line="29" column="19" />
         <mark key="[" line="96" column="13" />
         <mark key="]" line="96" column="16" />
@@ -999,11 +1012,11 @@
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/styled.js" timestamp="1534120817706">
-        <mark key="[" line="82" column="11" />
-        <mark key="]" line="85" column="23" />
-        <mark key="." line="85" column="23" />
-        <mark key="^" line="85" column="23" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/styled.js" timestamp="1535423016962">
+        <mark key="[" line="111" column="26" />
+        <mark key="]" line="113" column="31" />
+        <mark key="." line="113" column="31" />
+        <mark key="^" line="113" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Intro/Equip.js" timestamp="1534987339518">
         <mark key="[" line="211" column="20" />
@@ -1095,11 +1108,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/index.js" timestamp="1534842691176">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-        <mark key="^" line="5" column="24" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/index.js" timestamp="1535423787593">
+        <mark key="'" line="41" column="28" />
+        <mark key="[" line="38" column="17" />
+        <mark key="]" line="38" column="33" />
+        <mark key="." line="38" column="33" />
+        <mark key="^" line="38" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/index.js" timestamp="1534986328334">
         <mark key="[" line="46" column="37" />
@@ -1212,8 +1226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="8" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/Viewer.js" />
-      <jump line="46" column="11" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/Viewer.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/Controller.js" />
       <jump line="24" column="21" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/News.js" />
       <jump line="60" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/Notice.js" />
@@ -1312,13 +1324,15 @@
       <jump line="2" column="25" filename="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Util/index.js" />
       <jump line="53" column="35" filename="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/index.js" />
       <jump line="688" column="32" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
+      <jump line="41" column="28" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/index.js" />
+      <jump line="66" column="19" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Editor.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>gender</text>
       </register>
       <register name="-" type="4">
-        <text>concurrently --kill-others-on-fail \&quot;yarn server\&quot; \&quot;yarn client\&quot;</text>
+        <text>gender</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
@@ -1327,32 +1341,33 @@
         <text encoding="base64">QVBJICsg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0aXRsZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZCxkZXBhcnRtZW50SWQsTmFtZQo=</text>
+        <text encoding="base64">ICBnZW5kZXIsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>,
-  &quot;proxy&quot;: &quot;http://localhost:3030/&quot;</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHsgdGFiIH0gPSB0aGlzLnN0YXRlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9LAogICJwcm94eSI6ICJodHRwOi8vbG9jYWxob3N0OjMwMzAvIgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiamVzdCI6IHsKICAgICJjb2xsZWN0Q292ZXJhZ2VGcm9tIjogWwogICAgICAic3JjLyoqLyoue2pzLGpzeCxtanN9IgogICAgXSwKICAgICJzZXR1cEZpbGVzIjogWwogICAgICAiPHJvb3REaXI+L2NvbmZpZy9wb2x5ZmlsbHMuanMiCiAgICBdLAogICAgInRlc3RNYXRjaCI6IFsKICAgICAgIjxyb290RGlyPi9zcmMvKiovX190ZXN0c19fLyoqLyoue2pzLGpzeCxtanN9IiwKICAgICAgIjxyb290RGlyPi9zcmMvKiovPygqLikoc3BlY3x0ZXN0KS57anMsanN4LG1qc30iCiAgICBdLAogICAgInRlc3RFbnZpcm9ubWVudCI6ICJub2RlIiwKICAgICJ0ZXN0VVJMIjogImh0dHA6Ly9sb2NhbGhvc3QiLAogICAgInRyYW5zZm9ybSI6IHsKICAgICAgIl4uK1xcLihqc3xqc3h8bWpzKSQiOiAiPHJvb3REaXI+L25vZGVfbW9kdWxlcy9iYWJlbC1qZXN0IiwKICAgICAgIl4uK1xcLmNzcyQiOiAiPHJvb3REaXI+L2NvbmZpZy9qZXN0L2Nzc1RyYW5zZm9ybS5qcyIsCiAgICAgICJeKD8hLipcXC4oanN8anN4fG1qc3xjc3N8anNvbikkKSI6ICI8cm9vdERpcj4vY29uZmlnL2plc3QvZmlsZVRyYW5zZm9ybS5qcyIKICAgIH0sCiAgICAidHJhbnNmb3JtSWdub3JlUGF0dGVybnMiOiBbCiAgICAgICJbL1xcXFxdbm9kZV9tb2R1bGVzWy9cXFxcXS4rXFwuKGpzfGpzeHxtanMpJCIKICAgIF0sCiAgICAibW9kdWxlTmFtZU1hcHBlciI6IHsKICAgICAgIl5yZWFjdC1uYXRpdmUkIjogInJlYWN0LW5hdGl2ZS13ZWIiCiAgICB9LAogICAgIm1vZHVsZUZpbGVFeHRlbnNpb25zIjogWwogICAgICAid2ViLmpzIiwKICAgICAgImpzIiwKICAgICAgImpzb24iLAogICAgICAid2ViLmpzeCIsCiAgICAgICJqc3giLAogICAgICAibm9kZSIsCiAgICAgICJtanMiCiAgICBdCiAgfSwK</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwogICAgCiAgICB0aGlzLnN0YXRlID0gdGhpcy5pbml0aWFsU3RhdGU7CiAgfQogIAogIGdldCBpbml0aWFsU3RhdGUoKSB7CiAgICByZXR1cm4gewogICAgICB0YWI6ICdoZWFsdGgnLAogICAgfQogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiamVzdCI6IHsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogIm5vZGUgc2NyaXB0cy90ZXN0LmpzIC0tZW52PWpzZG9tIgo=</text>
+      <register name="7" type="4">
+        <text>{
+      
+    }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJzZXJ2ZXIiOiAibm9kZW1vbiBhcHAuanMiLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJjbGllbnQiOiAiIiwK</text>
+        <text encoding="base64">ICAgICYudGV4dGFyZWEgewogICAgICA+IGRpdiB7CiAgICAgICAgPiB0ZXh0YXJlYSB7CiAgICAgICAgICBoZWlnaHQ6IDk0cHg7CiAgICAgICAgfQogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
