@@ -15,11 +15,11 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Controller.js" timestamp="1535423897684">
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="21" column="14" />
-        <mark key="." line="21" column="14" />
-        <mark key="^" line="21" column="14" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Controller.js" timestamp="1535426067888">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="24" column="17" />
+        <mark key="." line="24" column="17" />
+        <mark key="^" line="24" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Mask/Controller.js" timestamp="1531358203986">
         <mark key="[" line="3" column="0" />
@@ -835,12 +835,12 @@
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Editor.js" timestamp="1535424011350">
-        <mark key="'" line="67" column="19" />
-        <mark key="[" line="71" column="26" />
-        <mark key="]" line="71" column="32" />
-        <mark key="^" line="71" column="32" />
-        <mark key="." line="71" column="32" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Editor.js" timestamp="1535426307050">
+        <mark key="'" line="68" column="19" />
+        <mark key="[" line="80" column="16" />
+        <mark key="]" line="80" column="33" />
+        <mark key="^" line="80" column="33" />
+        <mark key="." line="80" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/Item.js" timestamp="1531806015641">
         <mark key="[" line="13" column="28" />
@@ -1012,11 +1012,11 @@
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/styled.js" timestamp="1535423016962">
-        <mark key="[" line="111" column="26" />
-        <mark key="]" line="113" column="31" />
-        <mark key="." line="113" column="31" />
-        <mark key="^" line="113" column="31" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/styled.js" timestamp="1535427018779">
+        <mark key="[" line="147" column="19" />
+        <mark key="]" line="149" column="31" />
+        <mark key="." line="149" column="31" />
+        <mark key="^" line="149" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Intro/Equip.js" timestamp="1534987339518">
         <mark key="[" line="211" column="20" />
@@ -1329,10 +1329,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gender</text>
+        <text>phoneNum1</text>
       </register>
       <register name="-" type="4">
-        <text>gender</text>
+        <text>phoneNum1</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
