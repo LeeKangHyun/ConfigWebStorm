@@ -15,12 +15,12 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Controller.js" timestamp="1535508321465">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Controller.js" timestamp="1535512654326">
         <mark key="'" line="48" column="7" />
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="38" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="55" />
+        <mark key="[" line="207" column="61" />
+        <mark key="]" line="149" column="19" />
+        <mark key="." line="149" column="19" />
+        <mark key="^" line="149" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Mask/Controller.js" timestamp="1531358203986">
         <mark key="[" line="3" column="0" />
@@ -538,7 +538,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535507790566">
+      <file name="/Dummy.txt" timestamp="1535510979039">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -817,12 +817,12 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Booking.js" timestamp="1535505361178">
-        <mark key="'" line="59" column="88" />
-        <mark key="[" line="31" column="27" />
-        <mark key="]" line="31" column="43" />
-        <mark key="." line="31" column="43" />
-        <mark key="^" line="31" column="43" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Booking.js" timestamp="1535511287910">
+        <mark key="'" line="17" column="13" />
+        <mark key="[" line="39" column="21" />
+        <mark key="]" line="39" column="37" />
+        <mark key="." line="39" column="37" />
+        <mark key="^" line="39" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/saga/watchBoard.js" timestamp="1534919998371">
         <mark key="[" line="17" column="31" />
@@ -836,12 +836,12 @@
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Editor.js" timestamp="1535508701524">
-        <mark key="'" line="132" column="18" />
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="20" />
-        <mark key="^" line="11" column="20" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Editor.js" timestamp="1535512312937">
+        <mark key="'" line="141" column="18" />
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/Item.js" timestamp="1531806015641">
         <mark key="[" line="13" column="28" />
@@ -1208,11 +1208,11 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="63" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Calendar.js" timestamp="1535505488871">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="27" column="16" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Calendar.js" timestamp="1535512464437">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="30" column="34" />
+        <mark key="^" line="30" column="34" />
+        <mark key="." line="30" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/Surgery/Vasectomy.js" timestamp="1534817053766">
         <mark key="[" line="21" column="12" />
@@ -1240,7 +1240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="26" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Advice/index.js" />
       <jump line="473" column="19" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
       <jump line="59" column="17" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Advice/index.js" />
       <jump line="11" column="49" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Advice/index.js" />
@@ -1340,46 +1339,47 @@
       <jump line="17" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Editor.js" />
       <jump line="148" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Editor.js" />
       <jump line="123" column="18" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Editor.js" />
+      <jump line="17" column="13" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Booking.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
       </register>
-      <register name="0" type="4">
-        <text>data[departmentId][yyyymmdd]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIGFsZXJ0KCfshKDtg53tlZjsi6Qg7IiYIOyXhuuKlCDrgqDsp5wg7J6F64uI64ukLicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7ISFkYXRhICYmIGRhdGFbZGVwYXJ0bWVudElkXVt5eXl5bW1kZF0ubWFwKChkYXRhLCBpZHgpID0+IHsKICAgICAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9e2RhdGEuaWR9IGtleT17aWR4fT4KICAgICAgICAgICAgICAgICAgICB7ZGF0YS5sYWJlbH0KICAgICAgICAgICAgICAgICAgPC9vcHRpb24+CiAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgIH0pfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBtYXhMZW5ndGg9ezR9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgeXl5eW1tZGQ6IGRhdGUuZm9ybWF0KCdZWVlZTU1ERCcpLAogICAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBoaG1tLAogIEluaXRpYWwsCiAgbmFtZSwKICBwaG9uZU51bTEsCiAgcGhvbmVOdW0yLAogIHBob25lTnVtMywKICBwYXNzd29yZCwKICBjb250ZW50LAogIGJpcnRoRGF0ZSwKICBmaXJzdE51bSwKICAKICBvbkNoYW5nZVRvU3RhdGUsCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICB5eXl5bW1kZDogZGF0ZS5mb3JtYXQoJ1lZWVlNTUREJyksCiAgICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgRWRpdG9yID0gKHsKICAKICAK</text>
+        <text encoding="base64">ICAgIGxldCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fSkgPT4gewp9Owo=</text>
+        <text encoding="base64">ICAgICAgICBtb250aCA6ICLsm5Trs4QiLAogICAgICAgIHdlZWsgOiAi7KO867OEIiwKICAgICAgICBkYXkgOiAi7J2867OEIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAKICBvbkNsaWNrVG9DYWwgPSAoZGF0ZSwganNFdmVudCwgdmlldykgPT4gewogICAgY29uc29sZS5sb2coZGF0ZSkKICB9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gKAogICAgPEVkaXRvcldyYXA+CiAgICAgIDxzZWN0aW9uIGNsYXNzTmFtZT0iZHVvIj4KICAgICAgICA8YXJ0aWNsZT4KICAgICAgICAgIDxkaXY+7JiI7JW97Iuc6rCEPC9kaXY+CiAgICAgICAgICA8ZGl2PgogICAgICAgICAgICA8c3BhbiAvPgogICAgICAgICAgICA8c2VsZWN0CiAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlPXtkZXBhcnRtZW50SWR9CiAgICAgICAgICAgICAgbmFtZT0iaGhtbSIKICAgICAgICAgICAgICBvbkNoYW5nZT17b25DaGFuZ2VUb1N0YXRlfT4KICAgICAgICAgICAgICB7RGVwYXJ0bWVudC5tYXAoKGRhdGEsIGlkeCkgPT4gewogICAgICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT17ZGF0YS5pZH0ga2V5PXtpZHh9PgogICAgICAgICAgICAgICAgICAgIHtkYXRhLmxhYmVsfQogICAgICAgICAgICAgICAgICA8L29wdGlvbj4KICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgfSl9CiAgICAgICAgICAgIDwvc2VsZWN0PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9hcnRpY2xlPgogICAgICAgIDxhcnRpY2xlPgogICAgICAgICAgPGRpdj7snbTrpoQ8L2Rpdj4KICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxzcGFuIC8+CiAgICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICAgIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJzaW5nbGUiCiAgICAgICAgICAgICAgdmFsdWU9e25hbWV9CiAgICAgICAgICAgICAgbmFtZT0ibmFtZSIKICAgICAgICAgICAgICBvbkNoYW5nZT17b25DaGFuZ2VUb1N0YXRlfQogICAgICAgICAgICAvPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9hcnRpY2xlPgogICAgICA8L3NlY3Rpb24+CiAgICAgIDxzZWN0aW9uIGNsYXNzTmFtZT0iZHVvIj4KICAgICAgICA8YXJ0aWNsZT4KICAgICAgICAgIDxkaXY+7KeE66OM6rWs67aEPC9kaXY+CiAgICAgICAgICA8ZGl2PgogICAgICAgICAgICA8c3BhbiAvPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icmFkaW8iPgogICAgICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICAgICAgdHlwZT0icmFkaW8iCiAgICAgICAgICAgICAgICBuYW1lPSJJbml0aWFsIgogICAgICAgICAgICAgICAgaWQ9ImluaXRpYWwxIgogICAgICAgICAgICAgICAgY2hlY2tlZD17K0luaXRpYWwgPT09IDF9CiAgICAgICAgICAgICAgICBvbkNoYW5nZT17b25DaGFuZ2VUb1N0YXRlfQogICAgICAgICAgICAgICAgdmFsdWU9ezF9CiAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICA8bGFiZWwgaHRtbEZvcj0iaW5pdGlhbDEiPuy0iOynhDwvbGFiZWw+CiAgICAgICAgICAgICAgPGlucHV0CiAgICAgICAgICAgICAgICB0eXBlPSJyYWRpbyIKICAgICAgICAgICAgICAgIG5hbWU9IkluaXRpYWwiCiAgICAgICAgICAgICAgICBpZD0iaW5pdGlhbDIiCiAgICAgICAgICAgICAgICBjaGVja2VkPXsrSW5pdGlhbCA9PT0gMn0KICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXtvbkNoYW5nZVRvU3RhdGV9CiAgICAgICAgICAgICAgICB2YWx1ZT17Mn0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgIDxsYWJlbCBodG1sRm9yPSJpbml0aWFsMiI+7J6s7KeEPC9sYWJlbD4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2FydGljbGU+CiAgICAgICAgPGFydGljbGUgY2xhc3NOYW1lPSJqb29taW4iPgogICAgICAgICAgPGRpdj7so7zrr7zrk7HroZ3rsojtmLg8L2Rpdj4KICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxzcGFuIC8+CiAgICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICAgIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgdmFsdWU9e2JpcnRoRGF0ZX0KICAgICAgICAgICAgICBuYW1lPSJiaXJ0aERhdGUiCiAgICAgICAgICAgICAgb25DaGFuZ2U9e29uQ2hhbmdlVG9TdGF0ZX0KICAgICAgICAgICAgICBtYXhMZW5ndGg9ezZ9CiAgICAgICAgICAgIC8+eycgJ30KICAgICAgICAgICAgLXsnICd9CiAgICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICAgIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgdmFsdWU9e2ZpcnN0TnVtfQogICAgICAgICAgICAgIG5hbWU9ImZpcnN0TnVtIgogICAgICAgICAgICAgIG9uQ2hhbmdlPXtvbkNoYW5nZVRvU3RhdGV9CiAgICAgICAgICAgICAgbWF4TGVuZ3RoPXsxfQogICAgICAgICAgICAvPiAqKioqKioKICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvYXJ0aWNsZT4KICAgICAgPC9zZWN0aW9uPgogICAgICA8c2VjdGlvbiBjbGFzc05hbWU9ImR1byI+CiAgICAgICAgPGFydGljbGU+CiAgICAgICAgICA8ZGl2Pu2ctOuMgOyghO2ZlDwvZGl2PgogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPHNwYW4gLz4KICAgICAgICAgICAgPGlucHV0CiAgICAgICAgICAgICAgdHlwZT0idGV4dCIKICAgICAgICAgICAgICB2YWx1ZT17cGhvbmVOdW0xfQogICAgICAgICAgICAgIG5hbWU9InBob25lTnVtMSIKICAgICAgICAgICAgICBvbkNoYW5nZT17b25DaGFuZ2VUb1N0YXRlfQogICAgICAgICAgICAgIG1heExlbmd0aD17M30KICAgICAgICAgICAgLz57JyAnfQogICAgICAgICAgLXsnICd9CiAgICAgICAgICA8aW5wdXQKICAgICAgICAgICAgdHlwZT0idGV4dCIKICAgICAgICAgICAgdmFsdWU9e3Bob25lTnVtMn0KICAgICAgICAgICAgbmFtZT0icGhvbmVOdW0yIgogICAgICAgICAgICBvbkNoYW5nZT17b25DaGFuZ2VUb1N0YXRlfQogICAgICAgICAgICBtYXhMZW5ndGg9ezR9CiAgICAgICAgICAvPnsnICd9CiAgICAgICAgICAteycgJ30KICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICB0eXBlPSJ0ZXh0IgogICAgICAgICAgICB2YWx1ZT17cGhvbmVOdW0zfQogICAgICAgICAgICBuYW1lPSJwaG9uZU51bTMiCiAgICAgICAgICAgIG9uQ2hhbmdlPXtvbkNoYW5nZVRvU3RhdGV9CiAgICAgICAgICAgIG1heExlbmd0aD17NH0KICAgICAgICAgIC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2FydGljbGU+CiAgICAgICAgPGFydGljbGU+CiAgICAgICAgICA8ZGl2Puu5hOuwgOuyiO2YuDwvZGl2PgogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPHNwYW4gLz4KICAgICAgICAgICAgPGlucHV0CiAgICAgICAgICAgICAgdHlwZT0icGFzc3dvcmQiCiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJzaW5nbGUiCiAgICAgICAgICAgICAgdmFsdWU9e3Bhc3N3b3JkfQogICAgICAgICAgICAgIG5hbWU9InBhc3N3b3JkIgogICAgICAgICAgICAgIG9uQ2hhbmdlPXtvbkNoYW5nZVRvU3RhdGV9CiAgICAgICAgICAgIC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2FydGljbGU+CiAgICAgIDwvc2VjdGlvbj4KICAgICAgPHNlY3Rpb24+CiAgICAgICAgPGFydGljbGUgY2xhc3NOYW1lPSJ0ZXh0YXJlYSI+CiAgICAgICAgICA8ZGl2PuyYiOyVvSDrgrTsmqk8L2Rpdj4KICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxzcGFuIC8+CiAgICAgICAgICAgIDx0ZXh0YXJlYQogICAgICAgICAgICAgIGRlZmF1bHRWYWx1ZT17Y29udGVudH0KICAgICAgICAgICAgICBuYW1lPSJjb250ZW50IgogICAgICAgICAgICAgIG9uQ2hhbmdlPXtvbkNoYW5nZVRvU3RhdGV9CiAgICAgICAgICAgIC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2FydGljbGU+CiAgICAgIDwvc2VjdGlvbj4KICAgIDwvRWRpdG9yV3JhcD4KICApOwo=</text>
+        <text encoding="base64">ICAgICAgICBnb1RyYW5Ub0xpbms9e3RoaXMuZ29UcmFuVG9MaW5rfQo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
