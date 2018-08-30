@@ -22,12 +22,12 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Controller.js" timestamp="1535607441794">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Controller.js" timestamp="1535608935505">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="321" column="40" />
-        <mark key="]" line="322" column="54" />
-        <mark key="." line="322" column="54" />
-        <mark key="^" line="322" column="54" />
+        <mark key="[" line="321" column="8" />
+        <mark key="]" line="321" column="30" />
+        <mark key="." line="321" column="8" />
+        <mark key="^" line="321" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Mask/Controller.js" timestamp="1531358203986">
         <mark key="[" line="3" column="0" />
@@ -1232,12 +1232,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="61" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Calendar.js" timestamp="1535607465754">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Calendar.js" timestamp="1535608946607">
         <mark key="'" line="46" column="37" />
-        <mark key="[" line="40" column="24" />
-        <mark key="]" line="40" column="45" />
-        <mark key="^" line="40" column="45" />
-        <mark key="." line="40" column="45" />
+        <mark key="[" line="45" column="20" />
+        <mark key="]" line="45" column="42" />
+        <mark key="^" line="40" column="47" />
+        <mark key="." line="45" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/Surgery/Vasectomy.js" timestamp="1534817053766">
         <mark key="[" line="21" column="12" />
@@ -1368,43 +1368,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.bind(this)</text>
+        <text>onClickToCalEventClick</text>
       </register>
       <register name="-" type="4">
-        <text>.bind(this)</text>
+        <text>onClickToCalEventClick</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWw+CiAgICAgICAgICDrhYTrj4Q8aW5wdXQgdHlwZT0idGV4dCIgbmFtZT0ieXl5eSIgdmFsdWU9e3l5eXl9IC8+CiAgICAgICAgPC9sYWJlbD4K</text>
+      <register name="0" type="4">
+        <text>onClickToCalEventClick</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBldmVudENsaWNrPXt9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5mYy1zYXQgewogICAgICBjb2xvcjogIzAwZjsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBvbkNsaWNrVG9DYWxVbnNlbGVjdD17dGhpcy5vbkNsaWNrVG9DYWxVbnNlbGVjdH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhc2UgMDoKICAgICAgcmV0dXJuICfsmIjslb0g64yA6riwJzsK</text>
+        <text encoding="base64">ICAKICBvbkNsaWNrVG9DYWxVbnNlbGVjdCA9IChldmVudCwgZWxlbWVudCwgdmlldykgPT4gewogICAgZGVidWdnZXI7CiAgfTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXtzZXRCb29rLmJpbmQodGhpcywgaXRlbS5pZCwgMSl9PuyKueyduDwvYnV0dG9uPgogICAgICAgICAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXtzZXRCb29rLmJpbmQodGhpcywgaXRlbS5pZCwgMil9PuqxsOu2gDwvYnV0dG9uPgogICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8cCBkYW5nZXJvdXNseVNldElubmVySFRNTD17e19faHRtbDogaXRlbS5tZW1vfX0vPgo=</text>
+        <text encoding="base64">ICAgIGpzRXZlbnQudGFyZ2V0LnN0eWxlLmJhY2tncm91bmRDb2xvciA9ICcjMGQ2ZmI4JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgLyAgLyAgLyAgLyAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNldHRpbmcgPSB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICBoZWFkZXJzOiB7CiAgICAgICAgIkFjY2VwdCI6ICJhcHBsaWNhdGlvbi9qc29uIiwKICAgICAgICAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iLAogICAgICB9LAogICAgICBib2R5OiBKU09OLnN0cmluZ2lmeShkYXRhKQogICAgfTsK</text>
+        <text encoding="base64">ICAgIC5mYy1zYXQgewogICAgICBjb2xvcjogIzAwZjsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgIH0gPSB0aGlzLnN0YXRlOwogICAgY29uc3QgZGF0YSA9IHsKICAgIAogICAgfTsK</text>
+        <text encoding="base64">ICAgIGNhc2UgMDoKICAgICAgcmV0dXJuICfsmIjslb0g64yA6riwJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXtzZXRCb29rLmJpbmQodGhpcywgaXRlbS5pZCwgMSl9PuyKueyduDwvYnV0dG9uPgogICAgICAgICAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXtzZXRCb29rLmJpbmQodGhpcywgaXRlbS5pZCwgMil9PuqxsOu2gDwvYnV0dG9uPgogICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
