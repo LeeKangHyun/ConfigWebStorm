@@ -149,11 +149,11 @@
         <mark key="." line="121" column="8" />
         <mark key="^" line="140" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/Utils/index.js" timestamp="1535503390663">
-        <mark key="[" line="21" column="6" />
-        <mark key="]" line="22" column="8" />
-        <mark key="^" line="22" column="8" />
-        <mark key="." line="22" column="8" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/Utils/index.js" timestamp="1535621326014">
+        <mark key="[" line="35" column="46" />
+        <mark key="]" line="35" column="56" />
+        <mark key="^" line="35" column="56" />
+        <mark key="." line="35" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/README.md" timestamp="1535004025086">
         <mark key="[" line="0" column="0" />
@@ -557,7 +557,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535613980455">
+      <file name="/Dummy.txt" timestamp="1535621366392">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -758,7 +758,7 @@
         <mark key="." line="698" column="1" />
         <mark key="^" line="698" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/util/index.js" timestamp="1530067545843">
+      <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/util/index.js" timestamp="1535620311779">
         <mark key="[" line="27" column="1" />
         <mark key="]" line="27" column="1" />
         <mark key="^" line="27" column="1" />
@@ -1178,11 +1178,12 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Popup.js" timestamp="1535618540985">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-        <mark key="^" line="9" column="3" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Popup.js" timestamp="1535620768903">
+        <mark key="'" line="96" column="15" />
+        <mark key="[" line="97" column="35" />
+        <mark key="]" line="97" column="40" />
+        <mark key="." line="97" column="40" />
+        <mark key="^" line="97" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/index.js" timestamp="1534826780488">
         <mark key="[" line="31" column="16" />
@@ -1266,9 +1267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="372" column="48" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
-      <jump line="375" column="56" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
-      <jump line="376" column="43" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
       <jump line="379" column="52" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
       <jump line="380" column="39" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
       <jump line="383" column="50" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
@@ -1366,48 +1364,51 @@
       <jump line="20" column="6" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Controller.js" />
       <jump line="9" column="2" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Controller.js" />
       <jump line="35" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Controller.js" />
+      <jump line="47" column="10" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Popup.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Popup.js" />
+      <jump line="95" column="15" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Popup.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>Max-Age=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Max-Age=</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
       </register>
       <register name="0" type="4">
-        <text>fc-highlight</text>
+        <text>`${cName}=${cValue};`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3aWR0aDoK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgUG9wdXBXcmFwID0gc3R5bGVkLmFydGljbGVgYDsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgMSwxLDEsMCwwLDAsaHR0cDovL3Nzc3MsMCwwLDAsaHR0cDovL3Nzc3MsMjAxODA4MjQsMjAxODA5MzAK</text>
-      </register>
-      <register name="5" type="4">
-        <text>{
-      
-    }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBzdGF0ZSA9IHsKICAgIAogIH07Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CmltcG9ydCB7fSBmcm9tICdAL1V0aWxzJwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICA+IGJ1dHRvbiB7CiAgICBmb250LXNpemU6IDFlbTsKICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHdpZHRoOiAyMHB4OwogICAgaGVpZ2h0OiAxMDAlOwo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>{
+      isOpen: false,
+    }</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgUG9wdXAgPSAoewoKfSkgPT4gewp9Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
