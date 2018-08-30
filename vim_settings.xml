@@ -22,12 +22,12 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Controller.js" timestamp="1535606746153">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Controller.js" timestamp="1535607441794">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="257" column="4" />
-        <mark key="]" line="257" column="52" />
-        <mark key="." line="257" column="52" />
-        <mark key="^" line="257" column="52" />
+        <mark key="[" line="321" column="40" />
+        <mark key="]" line="322" column="54" />
+        <mark key="." line="322" column="54" />
+        <mark key="^" line="322" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Mask/Controller.js" timestamp="1531358203986">
         <mark key="[" line="3" column="0" />
@@ -1232,11 +1232,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="61" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Calendar.js" timestamp="1535606119013">
-        <mark key="[" line="45" column="30" />
-        <mark key="]" line="45" column="40" />
-        <mark key="^" line="45" column="40" />
-        <mark key="." line="45" column="40" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Calendar.js" timestamp="1535607465754">
+        <mark key="'" line="46" column="37" />
+        <mark key="[" line="40" column="24" />
+        <mark key="]" line="40" column="45" />
+        <mark key="^" line="40" column="45" />
+        <mark key="." line="40" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/Surgery/Vasectomy.js" timestamp="1534817053766">
         <mark key="[" line="21" column="12" />
@@ -1264,7 +1265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="35" filename="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/styled.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Board/styled.js" />
       <jump line="368" column="37" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
       <jump line="371" column="61" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
@@ -1364,13 +1364,14 @@
       <jump line="16" column="2" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Modal/styled.js" />
       <jump line="44" column="39" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/BookingInfo.js" />
       <jump line="47" column="29" filename="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Booking/Controller.js" />
+      <jump line="46" column="37" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Calendar.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>.bind(this)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.bind(this)</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
