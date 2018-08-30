@@ -22,12 +22,12 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Controller.js" timestamp="1535527725279">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Controller.js" timestamp="1535606746153">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="119" column="12" />
-        <mark key="]" line="120" column="27" />
-        <mark key="." line="120" column="27" />
-        <mark key="^" line="120" column="27" />
+        <mark key="[" line="257" column="4" />
+        <mark key="]" line="257" column="52" />
+        <mark key="." line="257" column="52" />
+        <mark key="^" line="257" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Mask/Controller.js" timestamp="1531358203986">
         <mark key="[" line="3" column="0" />
@@ -107,7 +107,7 @@
         <mark key="^" line="446" column="50" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/saga/api/Board.js" timestamp="1535436729862">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/saga/api/Board.js" timestamp="1535605969898">
         <mark key="[" line="30" column="60" />
         <mark key="]" line="30" column="82" />
         <mark key="^" line="30" column="82" />
@@ -848,7 +848,7 @@
         <mark key="." line="61" column="38" />
         <mark key="^" line="61" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/saga/watchBoard.js" timestamp="1534919998371">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/saga/watchBoard.js" timestamp="1535605986674">
         <mark key="[" line="17" column="31" />
         <mark key="]" line="18" column="27" />
         <mark key="." line="18" column="27" />
@@ -1232,11 +1232,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="61" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Calendar.js" timestamp="1535535215957">
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="21" column="21" />
-        <mark key="^" line="21" column="29" />
-        <mark key="." line="21" column="21" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Calendar.js" timestamp="1535606119013">
+        <mark key="[" line="45" column="30" />
+        <mark key="]" line="45" column="40" />
+        <mark key="^" line="45" column="40" />
+        <mark key="." line="45" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/Surgery/Vasectomy.js" timestamp="1534817053766">
         <mark key="[" line="21" column="12" />
@@ -1367,7 +1367,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC5mYy1zYXQgewogICAgICBjb2xvcjogIzAwZjsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGUpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1379,31 +1379,31 @@
         <text encoding="base64">ICAgICAgICA8bGFiZWw+CiAgICAgICAgICDrhYTrj4Q8aW5wdXQgdHlwZT0idGV4dCIgbmFtZT0ieXl5eSIgdmFsdWU9e3l5eXl9IC8+CiAgICAgICAgPC9sYWJlbD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5mYy1zYXQgewogICAgICBjb2xvcjogIzAwZjsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNhc2UgMDoKICAgICAgcmV0dXJuICfsmIjslb0g64yA6riwJzsK</text>
+        <text encoding="base64">ICAgIC5mYy1zYXQgewogICAgICBjb2xvcjogIzAwZjsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXtzZXRCb29rLmJpbmQodGhpcywgaXRlbS5pZCwgMSl9PuyKueyduDwvYnV0dG9uPgogICAgICAgICAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXtzZXRCb29rLmJpbmQodGhpcywgaXRlbS5pZCwgMil9PuqxsOu2gDwvYnV0dG9uPgogICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIGNhc2UgMDoKICAgICAgcmV0dXJuICfsmIjslb0g64yA6riwJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8cCBkYW5nZXJvdXNseVNldElubmVySFRNTD17e19faHRtbDogaXRlbS5tZW1vfX0vPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXtzZXRCb29rLmJpbmQodGhpcywgaXRlbS5pZCwgMSl9PuyKueyduDwvYnV0dG9uPgogICAgICAgICAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXtzZXRCb29rLmJpbmQodGhpcywgaXRlbS5pZCwgMil9PuqxsOu2gDwvYnV0dG9uPgogICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgLyAgLyAgLyAgLyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8cCBkYW5nZXJvdXNseVNldElubmVySFRNTD17e19faHRtbDogaXRlbS5tZW1vfX0vPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNldHRpbmcgPSB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICBoZWFkZXJzOiB7CiAgICAgICAgIkFjY2VwdCI6ICJhcHBsaWNhdGlvbi9qc29uIiwKICAgICAgICAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iLAogICAgICB9LAogICAgICBib2R5OiBKU09OLnN0cmluZ2lmeShkYXRhKQogICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgLyAgLyAgLyAgLyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgIH0gPSB0aGlzLnN0YXRlOwogICAgY29uc3QgZGF0YSA9IHsKICAgIAogICAgfTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNldHRpbmcgPSB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICBoZWFkZXJzOiB7CiAgICAgICAgIkFjY2VwdCI6ICJhcHBsaWNhdGlvbi9qc29uIiwKICAgICAgICAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iLAogICAgICB9LAogICAgICBib2R5OiBKU09OLnN0cmluZ2lmeShkYXRhKQogICAgfTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgIH0gPSB0aGlzLnN0YXRlOwogICAgY29uc3QgZGF0YSA9IHsKICAgIAogICAgfTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
