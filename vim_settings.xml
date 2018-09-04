@@ -197,11 +197,11 @@
         <mark key="]" line="34" column="20" />
         <mark key="." line="34" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Home/styled.js" timestamp="1535965693565">
-        <mark key="[" line="259" column="29" />
-        <mark key="]" line="260" column="21" />
-        <mark key="^" line="260" column="21" />
-        <mark key="." line="260" column="21" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Home/styled.js" timestamp="1536023912813">
+        <mark key="[" line="371" column="21" />
+        <mark key="]" line="372" column="17" />
+        <mark key="." line="372" column="17" />
+        <mark key="^" line="372" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1531100861526">
         <mark key="[" line="22" column="0" />
@@ -465,6 +465,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/globalStyled.js" timestamp="1536022972933">
+        <mark key="[" line="96" column="5" />
+        <mark key="]" line="98" column="19" />
+        <mark key="^" line="98" column="19" />
+        <mark key="." line="98" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/webpack.config.js" timestamp="1531100120058">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="46" column="8" />
@@ -598,11 +604,11 @@
         <mark key="^" line="90" column="42" />
         <mark key="." line="90" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Home/index.js" timestamp="1535965429981">
-        <mark key="[" line="129" column="40" />
-        <mark key="]" line="129" column="40" />
-        <mark key="." line="129" column="40" />
-        <mark key="^" line="129" column="40" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Home/index.js" timestamp="1536023392494">
+        <mark key="[" line="148" column="72" />
+        <mark key="]" line="148" column="72" />
+        <mark key="." line="148" column="72" />
+        <mark key="^" line="148" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/portfolio/src/globalStyled.js" timestamp="1533358652885">
         <mark key="[" line="16" column="0" />
@@ -669,6 +675,12 @@
         <mark key="]" line="268" column="5" />
         <mark key="." line="268" column="5" />
         <mark key="^" line="268" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Home/Controller.js" timestamp="1536021983423">
+        <mark key="[" line="51" column="13" />
+        <mark key="]" line="51" column="17" />
+        <mark key="." line="51" column="17" />
+        <mark key="^" line="51" column="17" />
       </file>
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/build-utils/webpack.common.js" timestamp="1530256017498">
         <mark key="[" line="0" column="0" />
@@ -1386,44 +1398,44 @@
       <jump line="95" column="15" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Popup.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>${Blue}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgYm90dG9tOiAyMHB4OwogICAgICB0b3A6IDIwcHg7CiAgICAgIGxlZnQ6IDIwcHg7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>${Blue}</text>
+        <text>00000000</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUYWJMaXN0PgogICAgICAgICAgICAKICAgICAgICAgIDwvVGFiTGlzdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8YT48c3Bhbj4rPC9zcGFuPjwvYT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsK</text>
+        <text encoding="base64">ICAgICAgYm90dG9tOiAyMHB4OwogICAgICB0b3A6IDIwcHg7CiAgICAgIGxlZnQ6IDIwcHg7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA+IGRpdiB7CiAgCiAgfQo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbi17CiAgICAgIG1hcmdpbi10b3A6IDMwcHg7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA+IGFydGljbGUgewogICAgYm9yZGVyLXRvcDogMnB4IHNvbGlkICNjOGM4Yzg7CiAgICBib3JkZXItYm90dG9tOiAycHggc29saWQgI2M4YzhjODsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGltZyBjbGFzc05hbWU9ImQtbW9iIiBzcmM9Ii9pbWFnZXMvbWFpbi9tYWluX3RhbGt0YWxrX21vYi5wbmciIGFsdD0iIiAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA+IGRpdiB7CiAgICB2ZXJ0aWNhbC1hbGlnbjogYm90dG9tOwogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGltZyBjbGFzc05hbWU9ImQtbW9iIiBzcmM9Ii9pbWFnZXMvbWFpbi9tYWluX3Bob25lX21vYi5wbmciIGFsdD0iIiAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA+IGRpdiB7CiAgfQo=</text>
+        <text encoding="base64">ICBoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICY6bm90KDpsYXN0LWNoaWxkKSB7CiAgICAgIG1hcmdpbi1yaWdodDogCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbmFtZSA9IGV2dC50YXJnZXQuZ2V0QXR0cmlidXRlKCdkYXRhLW5hbWUnKSwKICAgICAgICB2YWx1ZSA9IGV2dC50YXJnZXQuZ2V0QXR0cmlidXRlKCdkYXRhLXZhbHVlJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPiBzcGFuIHsKICAgICAgICBtYXJnaW4tdG9wOiAxNXB4OwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdmVydGljYWwtYWxpZ246IG1pZGRsZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdmVydGljYWwtYWxpZ246IG1pZGRsZTsK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
