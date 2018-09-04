@@ -53,11 +53,12 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Board/Controller.js" timestamp="1536031915397">
-        <mark key="[" line="186" column="3" />
-        <mark key="]" line="186" column="3" />
-        <mark key="^" line="186" column="3" />
-        <mark key="." line="186" column="3" />
+      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Board/Controller.js" timestamp="1536037389851">
+        <mark key="'" line="10" column="31" />
+        <mark key="[" line="167" column="30" />
+        <mark key="]" line="167" column="34" />
+        <mark key="." line="167" column="34" />
+        <mark key="^" line="167" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Intro/index.js" timestamp="1535528879450">
         <mark key="[" line="11" column="10" />
@@ -591,7 +592,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536026983783">
+      <file name="/Dummy.txt" timestamp="1536038104210">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -944,6 +945,12 @@
         <mark key="." line="46" column="15" />
         <mark key="^" line="46" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Board/styled.js" timestamp="1536037810536">
+        <mark key="[" line="64" column="3" />
+        <mark key="]" line="66" column="24" />
+        <mark key="." line="66" column="24" />
+        <mark key="^" line="66" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/server/datasources.json" timestamp="1535530358922">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="25" />
@@ -1205,12 +1212,12 @@
         <mark key="^" line="16" column="41" />
         <mark key="." line="46" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Board/index.js" timestamp="1536031872152">
-        <mark key="'" line="91" column="53" />
-        <mark key="[" line="28" column="12" />
-        <mark key="]" line="28" column="16" />
-        <mark key="." line="28" column="16" />
-        <mark key="^" line="28" column="16" />
+      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Board/index.js" timestamp="1536037884677">
+        <mark key="'" line="86" column="21" />
+        <mark key="[" line="85" column="21" />
+        <mark key="]" line="85" column="24" />
+        <mark key="." line="85" column="24" />
+        <mark key="^" line="85" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Slider/EmptyInvest.js" timestamp="1529644091563">
         <mark key="[" line="19" column="47" />
@@ -1331,12 +1338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="380" column="39" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
-      <jump line="383" column="50" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
-      <jump line="384" column="37" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
-      <jump line="387" column="53" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
-      <jump line="388" column="40" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
-      <jump line="391" column="53" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
       <jump line="392" column="40" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
       <jump line="395" column="45" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
       <jump line="396" column="32" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
@@ -1431,13 +1432,19 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Popup.js" />
       <jump line="95" column="15" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Popup.js" />
       <jump line="91" column="53" filename="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Board/index.js" />
+      <jump line="82" column="18" filename="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Board/index.js" />
+      <jump line="158" column="98" filename="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Board/Controller.js" />
+      <jump line="87" column="8" filename="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Board/index.js" />
+      <jump line="112" column="0" filename="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Board/index.js" />
+      <jump line="10" column="31" filename="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Board/Controller.js" />
+      <jump line="85" column="21" filename="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Board/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>File</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>File</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
@@ -1446,31 +1453,31 @@
         <text encoding="base64">ICAgICAgY29uc3QgeyB5eXl5LCBtbSB9ID0gdGhpcy5zdGF0ZTsKICAgICAgaWYgKDQgPiB5eXl5Lmxlbmd0aCkgYWxlcnQgKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbmZpZz17ewogICAgICAgICAgICBmaWxlYnJvd3NlclVwbG9hZFVybDogYGh0dHA6Ly9sb2NhbGhvc3Q6MzAwMCR7RmV0Y2guQVBJfS9jb250YWluZXJzL21odWJob3NwaXRhbG5ld3MvdXBsb2FkYAogICAgICAgICAgfX0K</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMThweDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRmV0Y2ggfSBmcm9tICdAL1V0aWwnOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEMgZnJvbSAnLi9Db250cm9sbGVyJzsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJ1dHRvbiB7CiAgICAgIHBhZGRpbmc6IC42ZW0gMS4yZW07CiAgICAgIGJhY2tncm91bmQ6ICMwZDZmYjg7CiAgICAgIGNvbG9yOiAjZmZmOwogICAgfQogICAgCiAgICBsaSB7CiAgICAgIGxpc3Qtc3R5bGU6IG5vbmU7CiAgICAgIGZvbnQtc2l6ZTogMWVtOwogICAgICAmOmhvdmVyIHsKICAgICAgICBiYWNrZ3JvdW5kOiAjZWZlZmVmOwogICAgICB9CiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZWJyb3dzZXJVcGxvYWRVcmw6ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVzLm9rKSB7CiAgICAgICAgfQogIAo=</text>
+        <text encoding="base64">ICAgICAgaGVpZ2h0OiAzMHB4Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0b3JhZ2Uuc3RvcmFnZUNsZWFyKCk7CiAgICAgICAgICBoaXN0b3J5LnB1c2goJy8nKTsK</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6IDYwcHg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
