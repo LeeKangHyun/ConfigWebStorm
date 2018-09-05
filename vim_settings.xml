@@ -126,12 +126,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="46" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Diet/styled.js" timestamp="1536128659134">
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Diet/styled.js" timestamp="1536134689461">
         <mark key="'" line="111" column="8" />
-        <mark key="[" line="110" column="22" />
-        <mark key="]" line="110" column="22" />
-        <mark key="." line="110" column="22" />
-        <mark key="^" line="110" column="22" />
+        <mark key="[" line="210" column="9" />
+        <mark key="]" line="212" column="29" />
+        <mark key="." line="212" column="29" />
+        <mark key="^" line="212" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Slider/Carousel.js" timestamp="1529644469302">
         <mark key="[" line="25" column="10" />
@@ -220,11 +220,11 @@
         <mark key="." line="501" column="15" />
         <mark key="^" line="501" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Diet/Faster.js" timestamp="1536130643848">
-        <mark key="[" line="8" column="57" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="7" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Diet/Faster.js" timestamp="1536134584837">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="36" />
+        <mark key="^" line="21" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1531100861526">
         <mark key="[" line="22" column="0" />
@@ -1552,43 +1552,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;&quot;</text>
+        <text>30px</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text>30px</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;/images/sub/diet/sub3-3_subbanner.png&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgJjpudGgtY2hpbGQobiArIDQpIHsKICAgICAgICBtYXJnaW4tdG9wOiAzMHB4OwogICAgICB9CiAgICAgICY6bm90KDpudGgtY2hpbGQoM24pKSB7CiAgICAgICAgbWFyZ2luLXJpZ2h0OiAzMHB4OwogICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW46IDAgYXV0bzsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW46IDAgYXV0bzsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1vYj17Ii9pbWFnZXMvc3ViL2RpZXQvc3ViMy0xX3N1YmJhbm5lcl9tb2IucG5nIn0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luLXRvcDogCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAmOm5vdCg6bnRoLWNoaWxkKDNuKSkgewogICAgICAgICAgbWFyZ2luLXJpZ2h0OiAzMHB4OwogICAgICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHdpZHRoOiAwOwogICAgICAgICAgaGVpZ2h0OiAxMDAlOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIGhlaWdodDogMTAwJTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHdpZHRoOiAwOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiBuby1yZXBlYXQgY2VudGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2PjwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgID4gaW1nIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICA8cD4KICAgICAgICAg7J6Q7Jew66eI65SU7ZWc7J2Y7JuQIOq4ieyGjSDri6TsnbTslrTtirgg7ZSE66Gc6re4656o7J2AIOuztOyVvSDshLHrtoTsnLzroZwg7J2066Oo7Ja07KeEIOyekOyXsO2DleycvOuhnCDsi53sgqzrn4nsnYQg7KSE7J2064qUIOqzvOygleyXkOyEnCDrgpjtg4DrgpjripQg6rO167O16rCQLCDquLDroKXsoIDtlZgsIOynkeykkeugpeyggO2VmCwK7JiB7JaR67aA7KGxLCDslrTsp4Drn6zsm4Ag65Ox7J2YIOqwgeyihSDspp3shLjrk6TsnYQg7Zqo6rO87KCB7Jy866GcIOyZhO2ZlOyLnO2CpOupsCDssrTrgrQg64yA7IKs66W8IO2ZnOyEse2ZlCDsi5ztgqTqs6AsIOyytOyngOuwqSDrtoTtlbTrpbwg7LSJ7KeE7ZWY7JesIOuLqOyLnOqwhCDruaDrpbgg7LK07KSRIOqwkOufieyXkCDtgbAg64+E7JuA7J2ECuyjvOqzoCDsnojsirXri4jri6QuCiAgICAgICAgPC9wPgo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
