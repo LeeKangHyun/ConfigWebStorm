@@ -1385,12 +1385,12 @@
         <mark key="^" line="136" column="17" />
         <mark key="." line="136" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Popup.js" timestamp="1535620768903">
-        <mark key="'" line="96" column="15" />
-        <mark key="[" line="97" column="35" />
-        <mark key="]" line="97" column="40" />
-        <mark key="." line="97" column="40" />
-        <mark key="^" line="97" column="40" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Popup.js" timestamp="1536196085134">
+        <mark key="'" line="176" column="31" />
+        <mark key="[" line="33" column="25" />
+        <mark key="]" line="34" column="17" />
+        <mark key="." line="34" column="17" />
+        <mark key="^" line="34" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Health/index.js" timestamp="1534826780488">
         <mark key="[" line="31" column="16" />
@@ -1481,9 +1481,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="423" column="46" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
-      <jump line="424" column="33" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
-      <jump line="427" column="44" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
       <jump line="428" column="31" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
       <jump line="431" column="46" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
       <jump line="432" column="33" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
@@ -1581,19 +1578,22 @@
       <jump line="163" column="0" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Intro/styled.js" />
       <jump line="550" column="0" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Intro/styled.js" />
       <jump line="109" column="8" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Diet/styled.js" />
+      <jump line="1" column="19" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Popup.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Popup.js" />
+      <jump line="168" column="31" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Popup.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{ ...props }</text>
+        <text encoding="base64">b25DbGljaz17dGhpcy5vbkNsaWNrVG9UcmFuLmJpbmQodGhpcywgdXJsKX0g</text>
       </register>
       <register name="-" type="4">
-        <text>{ ...props }</text>
+        <text>link</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8UG9wdXAgey4uLmRhdGF9IGtleT17ZGF0YS5pZH0gLz4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">b25DbGljaz17dGhpcy5vbkNsaWNrVG9UcmFuLmJpbmQodGhpcywgdXJsKX0g</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
