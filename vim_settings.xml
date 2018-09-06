@@ -126,11 +126,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="46" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Diet/styled.js" timestamp="1536138247769">
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Diet/styled.js" timestamp="1536210185554">
         <mark key="'" line="111" column="8" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
+        <mark key="[" line="145" column="24" />
+        <mark key="]" line="145" column="24" />
+        <mark key="." line="145" column="25" />
+        <mark key="^" line="145" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Slider/Carousel.js" timestamp="1529644469302">
         <mark key="[" line="25" column="10" />
@@ -475,11 +476,11 @@
         <mark key="^" line="83" column="17" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Diet/Nature.js" timestamp="1536138363102">
-        <mark key="[" line="10" column="58" />
-        <mark key="]" line="10" column="59" />
-        <mark key="^" line="16" column="21" />
-        <mark key="." line="10" column="59" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Diet/Nature.js" timestamp="1536210130752">
+        <mark key="[" line="38" column="61" />
+        <mark key="]" line="38" column="68" />
+        <mark key="^" line="38" column="21" />
+        <mark key="." line="38" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Booking/styled.js" timestamp="1535533395262">
         <mark key="[" line="12" column="25" />
@@ -1591,44 +1592,44 @@
       <jump line="420" column="21" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxhYmVsOiAnNeGEjuGFs+GGvCDhhIvhhabhhrfhhJLhhaXhhIfhhbMg4YSP4YWh4YSR4YWm4YSQ4YWm4YSF4YW14YSL4YWhJywK</text>
+      <register name="&quot;" type="4">
+        <text>20</text>
       </register>
       <register name="-" type="4">
-        <text>;ㅡ,</text>
+        <text>20</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxhYmVsOiAnM+y4tSDqsbTqsJXqsoDsp4TshLzthLAg7KCR7IiYJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgIDx0ZD7rgpjruYTtmZg8L3RkPgogICAgICAgICAgICAgIDx0ZD7jhYHjhLQ8L3RkPgogICAgICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxhYmVsOiAnNeGEjuGFs+GGvCDhhIvhhabhhrfhhJLhhaXhhIfhhbMg4YSP4YWh4YSR4YWm4YSQ4YWm4YSF4YW14YSL4YWhJywK</text>
+        <text encoding="base64">CiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxhYmVsOiAnNeGEjuGFs+GGvCDhhIvhhabhhrfhhJLhhaXhhIfhhbMg4YSP4YWh4YSR4YWm4YSQ4YWm4YSF4YW14YSL4YWhJywK</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nLWxlZnQ6IDMwcHg7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxhYmVsOiAnNeGEjuGFs+GGvCDhhIvhhabhhrfhhJLhhaXhhIfhhbMg4YSP4YWh4YSR4YWm4YSQ4YWm4YSF4YW14YSL4YWhJywK</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZzogMjBweCAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxhYmVsOiAnNeGEjuGFs+GGvCDhhJHhhbXhhIfhha7hhIDhhaog4YSO4YWl4YSO4YW14YSJ4YW14YavJywK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxhYmVsOiAnNeGEjuGFs+GGvCDhhJHhhbXhhIfhha7hhIDhhaog4YSF4YWm4YSL4YW14YSM4YWn4YSJ4YW14YavJywK</text>
+        <text encoding="base64">ICBtaW4taGVpZ2h0OiAzNTBweDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxhYmVsOiAnNeGEjuGFs+GGvCDhhJHhhbXhhIfhha7hhIDhhaog4YSI4YWz4YSE4YW14YSJ4YW14YavJywK</text>
+        <text encoding="base64">6rCV66Cl7ZWcIOyngOuwqSDrtoTtlbQg67CPIOyLoOynhOuMgOyCrCDtmZzshLHtmZQg6riw64qlLCDsi53smpUg7Ja17KCc64qUIOuNpCEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxhYmVsOiAnNeGEjuGFs+GGvCDhhJHhhbXhhIfhha7hhIDhhaog4YSJ4YWh4Ya84YSD4YWh4Ya34YSJ4YW14YavJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxhYmVsOiAnNeGEjuGFs+GGvCDhhJHhhbXhhIfhha7hhIDhhaog4YSM4YW14Yar4YSF4YWt4YSJ4YW14YavJywK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxhYmVsOiAnNeGEjuGFs+GGvCDhhJHhhbXhhIfhha7hhIDhhaog4YSM4YWl4Ya44YSJ4YWuJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
