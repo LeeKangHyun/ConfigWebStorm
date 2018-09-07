@@ -7,6 +7,11 @@
     <option name="SECONDARY_FONT_FAMILY" value="Fira Code" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="JSX Harmony" value="true" />
+      </map>
+    </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
