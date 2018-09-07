@@ -457,9 +457,9 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Chuna/Knee.js" timestamp="1536303209494">
-        <mark key="[" line="44" column="20" />
-        <mark key="]" line="44" column="42" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Chuna/Knee.js" timestamp="1536307681066">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="56" column="21" />
         <mark key="." line="44" column="42" />
         <mark key="^" line="44" column="42" />
       </file>
@@ -555,11 +555,11 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Chuna/index.js" timestamp="1536302341757">
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="15" column="20" />
-        <mark key="^" line="15" column="20" />
-        <mark key="." line="15" column="20" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Chuna/index.js" timestamp="1536304798516">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="15" column="21" />
+        <mark key="^" line="15" column="21" />
+        <mark key="." line="15" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Home/styled.js" timestamp="1535010594515">
         <mark key="'" line="44" column="22" />
@@ -689,7 +689,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536302167585">
+      <file name="/Dummy.txt" timestamp="1536304559342">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1300,6 +1300,12 @@
         <mark key="." line="22" column="40" />
         <mark key="^" line="22" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Chuna/Neck.js" timestamp="1536307754056">
+        <mark key="[" line="49" column="13" />
+        <mark key="]" line="49" column="13" />
+        <mark key="." line="49" column="13" />
+        <mark key="^" line="49" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Mask.js" timestamp="1531358200166">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="12" />
@@ -1471,12 +1477,12 @@
         <mark key="." line="99" column="5" />
         <mark key="^" line="99" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Chuna/styled.js" timestamp="1536303268747">
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Chuna/styled.js" timestamp="1536308136541">
         <mark key="'" line="153" column="22" />
-        <mark key="[" line="531" column="7" />
-        <mark key="]" line="533" column="21" />
-        <mark key="^" line="533" column="21" />
-        <mark key="." line="533" column="21" />
+        <mark key="[" line="628" column="25" />
+        <mark key="]" line="630" column="28" />
+        <mark key="." line="630" column="28" />
+        <mark key="^" line="630" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Status.js" timestamp="1535528235424">
         <mark key="[" line="58" column="16" />
@@ -1652,43 +1658,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICDth7TtlonshLEg6rSA7KCI7Je87J20IOuwnOyDne2VmOuKlCDqt7zrs7jsoIHsnbgg7JuQ7J247J2AIOyXsOqzqOydmCDshpDsg4Eg65WM66y47J6F64uI64ukLiDrrLTrpo4g6rSA7KCI7JeQIO2VmOykkeydtCDsi6Trpqzqsowg65CY66m0IOyXsOqzqCDrv5Ag7JWE64uI6528IOyjvOuzgOydmCDqt7zsnKEsIOyduOuMgCDrk7Hsl5Drj4Qg7JWV67CV7J20CuqwgO2VtOyngOqyjCDrkJjripTrjbAsIOyekOyXsOuniOuUlO2VnOydmOybkOyXkOyEnOuKlCDrrLTrpo7snZgg6riw64qlIOydtOyDgSDrv5Ag7JWE64uI6528IOqzoOq0gOygiCDrsI8g67Cc7J2YIOq4sOuKpeydhCDqsJnsnbQg6rWQ7KCV7ZWY7JesIOustOumjuyXkCDqsIDtlbTsp4DripQg7JWV67CV7J2EIOykhOyXrOyjvOuKlCDqtZDsoJXsuZjro4zrpbwK7Iuc7ZaJ7ZWY6rOgIOyeiOyKteuLiOuLpC4K</text>
+        <text encoding="base64">ICAgICAgICBjb3VudGVyLXJlc2V0OiBudW1iZXI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>무릎 통증(퇴행성 관절염)의 치료</text>
+        <text>무릎 통증(퇴행성 관절염)의 원인</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIO2HtO2WieyEsSDqtIDsoIjsl7zsnYAg6rSA7KCIIOyXsOqzqOydmCDshpDsg4HsnLzroZwg6rSA7KCI7J2YIO2GteymneqzvCDquLDriqUg7J207IOB7J2EIOuztOyXrOyjvOuKlArqtIDsoIjsl7zsnoXri4jri6QuIOq0gOygiCDsl7Dqs6jsnbQg7IaQ7IOB65CY64qUIOybkOyduOycvOuhnOuKlCDssrTspJHqs7zri6QsIOq0gOygiOydmCDsmbjsg4EsIOyjvOychAog67yI7J2YIOyniO2ZmCwg6re87Jyh7J2YIOyVve2ZlCwg6rSA7KCI7J2YIOyLoOqyvSDshpDsg4Eg65Ox7J20IOyeiOyKteuLiOuLpC4g7J2067CW7JeQIOycoOyghOyggeyduArshozsnbjsl5Ag7J2Y7ZW07ISc64+EIOuwnOyDne2VoCDsiJgg7J6I7Iq164uI64ukLgo=</text>
+        <text encoding="base64">ICAgICAgICA8S25lZUFydGljbGUgY2xhc3NOYW1lPSJkLXRhYiBkLW1vYiI+CiAgICAgICAgICA8TGFiZWxUZXh0PgogICAgICAgICAgICA8bGFiZWw+CiAgICAgICAgICAgICDrrLTrpo4g7Ya17KadKO2HtO2WieyEsSDqtIDsoIjsl7wp7J2YIOybkOyduAogICAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgIO2HtO2WieyEsSDqtIDsoIjsl7zsnYAg6rSA7KCIIOyXsOqzqOydmCDshpDsg4HsnLzroZwg6rSA7KCI7J2YIO2GteymneqzvCDquLDriqUg7J207IOB7J2EIOuztOyXrOyjvOuKlArqtIDsoIjsl7zsnoXri4jri6QuIOq0gOygiCDsl7Dqs6jsnbQg7IaQ7IOB65CY64qUIOybkOyduOycvOuhnOuKlCDssrTspJHqs7zri6QsIOq0gOygiOydmCDsmbjsg4EsIOyjvOychAog67yI7J2YIOyniO2ZmCwg6re87Jyh7J2YIOyVve2ZlCwg6rSA7KCI7J2YIOyLoOqyvSDshpDsg4Eg65Ox7J20IOyeiOyKteuLiOuLpC4g7J2067CW7JeQIOycoOyghOyggeyduArshozsnbjsl5Ag7J2Y7ZW07ISc64+EIOuwnOyDne2VoCDsiJgg7J6I7Iq164uI64ukLgogICAgICAgICAgICA8L3A+CiAgICAgICAgICA8L0xhYmVsVGV4dD4KICAgICAgICA8L0tuZWVBcnRpY2xlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICDth7TtlonshLEg6rSA7KCI7Je87J20IOuwnOyDne2VmOuKlCDqt7zrs7jsoIHsnbgg7JuQ7J247J2AIOyXsOqzqOydmCDshpDsg4Eg65WM66y47J6F64uI64ukLiDrrLTrpo4g6rSA7KCI7JeQIO2VmOykkeydtCDsi6Trpqzqsowg65CY66m0IOyXsOqzqCDrv5Ag7JWE64uI6528IOyjvOuzgOydmCDqt7zsnKEsIOyduOuMgCDrk7Hsl5Drj4Qg7JWV67CV7J20CuqwgO2VtOyngOqyjCDrkJjripTrjbAsIOyekOyXsOuniOuUlO2VnOydmOybkOyXkOyEnOuKlCDrrLTrpo7snZgg6riw64qlIOydtOyDgSDrv5Ag7JWE64uI6528IOqzoOq0gOygiCDrsI8g67Cc7J2YIOq4sOuKpeydhCDqsJnsnbQg6rWQ7KCV7ZWY7JesIOustOumjuyXkCDqsIDtlbTsp4DripQg7JWV67CV7J2EIOykhOyXrOyjvOuKlCDqtZDsoJXsuZjro4zrpbwK7Iuc7ZaJ7ZWY6rOgIOyeiOyKteuLiOuLpC4K</text>
+        <text encoding="base64">ICAgICAgICBjb3VudGVyLXJlc2V0OiBudW1iZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIOustOumjuydtCDrtojtjrjtlZwg6rK97Jqw64qUIOuCmOydtOyXkCDsg4HqtIDsl4bsnbQg7J287Ja064Kp64uI64ukLiDsoIrsnYAg7Jew66C564yA7J2YIOqyveyasArrjIDrtoDrtoQg64yA7Ye06rOo6rO8IOqyveqzqOydmCDqsIHrj4TqsIAg64qY7Ja064KYIOyeiOuKlCDsg4Htmansl5DshJwg7Jik656YIOyEnOyeiOqxsOuCmCwg66y066aO7J2ECuqzvCDsgqzsmqntlZjsl6wg7IOd6riw64qUIOqyveyasOqwgCDrp47qs6AsIOuFuOuFhOy4teydmCDqsr3smrDsl5DripQg67yI7JmAIOu8iCDsgqzsnbTsnZgg7Jew6rOo7J20CuuLs+yVhOyEnCDsg53quLDripQg7Ye07ZaJ7ISxIOq0gOygiOyXvOydmCDqsr3smrDqsIAg66eO7Iq164uI64ukLiDrrLTrpo7qtIDsoIjsnZgg6riw64ql7J207IOB7J20CuyDneq4tCDqsr3smrAg7LaU64KY6rWQ7KCV7Jy866GcIOq4sOuKpeydhCDtmozrs7XtlZjripTrjbAg64+E7JuA7J20IOuQqeuLiOuLpC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIO2HtO2WieyEsSDqtIDsoIjsl7zsnYAg6rSA7KCIIOyXsOqzqOydmCDshpDsg4HsnLzroZwg6rSA7KCI7J2YIO2GteymneqzvCDquLDriqUg7J207IOB7J2EIOuztOyXrOyjvOuKlArqtIDsoIjsl7zsnoXri4jri6QuIOq0gOygiCDsl7Dqs6jsnbQg7IaQ7IOB65CY64qUIOybkOyduOycvOuhnOuKlCDssrTspJHqs7zri6QsIOq0gOygiOydmCDsmbjsg4EsIOyjvOychAog67yI7J2YIOyniO2ZmCwg6re87Jyh7J2YIOyVve2ZlCwg6rSA7KCI7J2YIOyLoOqyvSDshpDsg4Eg65Ox7J20IOyeiOyKteuLiOuLpC4g7J2067CW7JeQIOycoOyghOyggeyduArshozsnbjsl5Ag7J2Y7ZW07ISc64+EIOuwnOyDne2VoCDsiJgg7J6I7Iq164uI64ukLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgIOustOumjuydtCDslYTtjIzshJwg7Jm47Lac7ZWY6riw6rCAIO2emOuTnOyLoOqwgOyalD8gPGJyLz4K66y066aOIO2GteymneycvOuhnCDsg53tmZztlZjquLDqsIAg7Ja066Ck7Jqw7Iug6rCA7JqUPwogICAgICAgICAgICAgIDwvcD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDAgMjBweDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgICAgICAgICB3aWR0aDogMzBweDsKICAgICAgICAgICAgY29sb3I6ICR7Qmx1ZX07CiAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nLWxlZnQ6IC00MHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tbGVmdDogLTcwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudDogY291bnRlcihudW1iZXIpJyc7CiAgICAgICAgICAgIGNvdW50ZXItaW5jcmVtZW50OiBudW1iZXI7CiAgICAgICAgICAgIGRpc3BsYXk6IGlubGluZTsKICAgICAgICAgICAgbWFyZ2luLXJpZ2h0OiAwOwogICAgICAgICAgICBiYWNrZ3JvdW5kOiBub25lOwogICAgICAgICAgICBjb2xvcjogJHtCbHVlfTsKICAgICAgICAgICAgZm9udC1zaXplOiAxOHB4OwogICAgICAgICAgICBmb250LXdlaWdodDogYm9sZDsKICAgICAgICAgICAgbGluZS1oZWlnaHQ6IDEuNTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lLWhlaWdodDogMS41Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDMwcHg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
