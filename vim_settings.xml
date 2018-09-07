@@ -212,13 +212,13 @@
         <mark key="^" line="52" column="37" />
         <mark key="." line="52" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/const.js" timestamp="1536283471686">
-        <mark key="r" line="260" column="27" />
-        <mark key="'" line="313" column="7" />
-        <mark key="[" line="224" column="20" />
-        <mark key="]" line="224" column="20" />
-        <mark key="." line="224" column="20" />
-        <mark key="^" line="196" column="20" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/const.js" timestamp="1536284643580">
+        <mark key="r" line="277" column="27" />
+        <mark key="'" line="330" column="7" />
+        <mark key="[" line="240" column="55" />
+        <mark key="]" line="241" column="40" />
+        <mark key="." line="241" column="40" />
+        <mark key="^" line="241" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Home/styled.js" timestamp="1536027546305">
         <mark key="[" line="501" column="15" />
@@ -549,11 +549,11 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Chuna/index.js" timestamp="1536116663877">
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="5" column="5" />
-        <mark key="^" line="5" column="5" />
-        <mark key="." line="5" column="5" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Chuna/index.js" timestamp="1536285149787">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Home/styled.js" timestamp="1535010594515">
         <mark key="'" line="44" column="22" />
@@ -1042,6 +1042,12 @@
         <mark key="." line="46" column="54" />
         <mark key="^" line="35" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Chuna/Basic.js" timestamp="1536285188778">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/store/configureStroe.js" timestamp="1530776672770">
         <mark key="[" line="2" column="37" />
         <mark key="]" line="13" column="31" />
@@ -1238,11 +1244,11 @@
         <mark key="." line="996" column="4" />
         <mark key="^" line="996" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/index.js" timestamp="1536217908836">
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="18" column="12" />
-        <mark key="." line="18" column="12" />
-        <mark key="^" line="18" column="12" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/index.js" timestamp="1536284438086">
+        <mark key="[" line="50" column="14" />
+        <mark key="]" line="50" column="17" />
+        <mark key="." line="50" column="17" />
+        <mark key="^" line="50" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Accident/Symptom.js" timestamp="1536224941892">
         <mark key="'" line="24" column="27" />
@@ -1620,43 +1626,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>before</text>
+        <text>div</text>
       </register>
       <register name="-" type="4">
-        <text>before</text>
+        <text>div</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiZWZvcmU6IHRydWUsCiAgICAgICAgY2xhc3NOYW1lOiAiYmVmb3JlIiwK</text>
+      <register name="0" type="4">
+        <text>/images/sub/chuna/sub2-1_banner.png</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaW1nIHsKICAgICAgICBtYXgtd2lkdGg6IDEwMCU7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB3ZWI6ICcvaW1hZ2VzL3N1Yi9jaHVuYS9zdWIyLTFfYmFubmVyLnBuZycsCiAgICAgICAgdGFiOiAnL2ltYWdlcy9zdWIvY2h1bmEvc3ViMi0xX2Jhbm5lcl90YWIucG5nJywKICAgICAgICBtb2I6ICcvaW1hZ2VzL3N1Yi9jaHVuYS9zdWIyLTFfYmFubmVyX21vYi5wbmcnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBoZWlnaHQ6IDEyNXB4Owo=</text>
+        <text encoding="base64">ICAgIHdlYjogJy9pbWFnZXMvc3ViL2hlYWx0aC9oZWFsdGhfYmFubmVyX3dlYi5wbmcnLAogICAgdGFiOiAnL2ltYWdlcy9zdWIvaGVhbHRoL2hlYWx0aF9iYW5uZXJfdGFiLnBuZycsCiAgICBtb2I6ICcvaW1hZ2VzL3N1Yi9oZWFsdGgvaGVhbHRoX2Jhbm5lcl9tb2IucG5nJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaGVpZ2h0OiAxODBweDsK</text>
+        <text encoding="base64">ICAgICAgaW1nIHsKICAgICAgICBtYXgtd2lkdGg6IDEwMCU7CiAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJjpub3QoOmxhc3QtY2hpbGQpIHsKICAgICAgICBwYWRkaW5nLWJvdHRvbTogMjBweDsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBoZWlnaHQ6IDEyNXB4Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMjgwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgaGVpZ2h0OiAxODBweDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBibG9jazsK</text>
+        <text encoding="base64">ICAgICAgJjpub3QoOmxhc3QtY2hpbGQpIHsKICAgICAgICBwYWRkaW5nLWJvdHRvbTogMjBweDsKICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJjoK</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMjgwcHg7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvbnQK</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBibG9jazsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmVydGljYWwtYWxpZ246IG1pZGRsZTsK</text>
+        <text encoding="base64">ICAgICAgJjoK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
