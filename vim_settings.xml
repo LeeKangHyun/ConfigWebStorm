@@ -212,13 +212,13 @@
         <mark key="^" line="52" column="37" />
         <mark key="." line="52" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/const.js" timestamp="1536217029279">
-        <mark key="r" line="249" column="27" />
-        <mark key="'" line="302" column="7" />
-        <mark key="[" line="269" column="31" />
-        <mark key="]" line="269" column="31" />
-        <mark key="." line="269" column="31" />
-        <mark key="^" line="269" column="31" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/const.js" timestamp="1536283471686">
+        <mark key="r" line="260" column="27" />
+        <mark key="'" line="313" column="7" />
+        <mark key="[" line="224" column="20" />
+        <mark key="]" line="224" column="20" />
+        <mark key="." line="224" column="20" />
+        <mark key="^" line="196" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Home/styled.js" timestamp="1536027546305">
         <mark key="[" line="501" column="15" />
@@ -1619,17 +1619,17 @@
       <jump line="25" column="27" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Accident/Symptom.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaW1nIHsKICAgICAgICBtYXgtd2lkdGg6IDEwMCU7CiAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>before</text>
       </register>
       <register name="-" type="4">
-        <text>침</text>
+        <text>before</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhcnRpY2xlPgogICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgIDxpbWcgY2xhc3NOYW1lPSJkLXdlYiBkLXRhYiIgc3JjPSIvaW1hZ2VzL3N1Yi9hY2NpZGVudC9zdWI0LTNfaW1nMi5wbmciIGFsdD0iIiAvPgogICAgICAgICAgICAgIDxpbWcgY2xhc3NOYW1lPSJkLW1vYiIgc3JjPSIvaW1hZ2VzL3N1Yi9hY2NpZGVudC9zdWI0LTNfaW1nMl9tb2IucG5nIiBhbHQ9IiIgLz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgIDxsYWJlbD4KICAgICAgICAgICAgICAgICAgPHNwYW4+MTwvc3Bhbj7suagKICAgICAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgICAg6rWQ7Ya17IKs6rOg66GcIOyDneq4tCDshpDsg4HsnZgg7ZqM67O17J2EIOuPleqzoCDthrXspp3snYQg7JmE7ZmU7Iuc7LycIOykjeuLiOuLpC4KICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2FydGljbGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICBiZWZvcmU6IHRydWUsCiAgICAgICAgY2xhc3NOYW1lOiAiYmVmb3JlIiwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgaW1nIHsKICAgICAgICBtYXgtd2lkdGg6IDEwMCU7CiAgICAgIH0K</text>
