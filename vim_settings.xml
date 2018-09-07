@@ -689,7 +689,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536304559342">
+      <file name="/Dummy.txt" timestamp="1536308186231">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -719,11 +719,11 @@
         <mark key="^" line="90" column="42" />
         <mark key="." line="90" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Home/index.js" timestamp="1536193713607">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="40" />
-        <mark key="." line="148" column="72" />
-        <mark key="^" line="148" column="71" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Home/index.js" timestamp="1536309794184">
+        <mark key="[" line="164" column="70" />
+        <mark key="]" line="164" column="75" />
+        <mark key="." line="164" column="75" />
+        <mark key="^" line="164" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/portfolio/src/globalStyled.js" timestamp="1533358652885">
         <mark key="[" line="16" column="0" />
@@ -1657,17 +1657,17 @@
       <jump line="76" column="0" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Chuna/Waist.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudGVyLXJlc2V0OiBudW1iZXI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>doctor</text>
       </register>
       <register name="-" type="4">
-        <text>무릎 통증(퇴행성 관절염)의 원인</text>
+        <text>doctor</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8S25lZUFydGljbGUgY2xhc3NOYW1lPSJkLXRhYiBkLW1vYiI+CiAgICAgICAgICA8TGFiZWxUZXh0PgogICAgICAgICAgICA8bGFiZWw+CiAgICAgICAgICAgICDrrLTrpo4g7Ya17KadKO2HtO2WieyEsSDqtIDsoIjsl7wp7J2YIOybkOyduAogICAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgIO2HtO2WieyEsSDqtIDsoIjsl7zsnYAg6rSA7KCIIOyXsOqzqOydmCDshpDsg4HsnLzroZwg6rSA7KCI7J2YIO2GteymneqzvCDquLDriqUg7J207IOB7J2EIOuztOyXrOyjvOuKlArqtIDsoIjsl7zsnoXri4jri6QuIOq0gOygiCDsl7Dqs6jsnbQg7IaQ7IOB65CY64qUIOybkOyduOycvOuhnOuKlCDssrTspJHqs7zri6QsIOq0gOygiOydmCDsmbjsg4EsIOyjvOychAog67yI7J2YIOyniO2ZmCwg6re87Jyh7J2YIOyVve2ZlCwg6rSA7KCI7J2YIOyLoOqyvSDshpDsg4Eg65Ox7J20IOyeiOyKteuLiOuLpC4g7J2067CW7JeQIOycoOyghOyggeyduArshozsnbjsl5Ag7J2Y7ZW07ISc64+EIOuwnOyDne2VoCDsiJgg7J6I7Iq164uI64ukLgogICAgICAgICAgICA8L3A+CiAgICAgICAgICA8L0xhYmVsVGV4dD4KICAgICAgICA8L0tuZWVBcnRpY2xlPgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IG9uQ2xpY2s9e29uQ2hhbmdlVG9UcmFuLmJpbmQodGhpcywgJy9tZW51L2ludHJvL2RvY3RvcicpfQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb3VudGVyLXJlc2V0OiBudW1iZXI7Cg==</text>
