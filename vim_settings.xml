@@ -285,11 +285,11 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Booking/Controller.js" timestamp="1536566851328">
-        <mark key="[" line="121" column="5" />
-        <mark key="]" line="121" column="5" />
-        <mark key="." line="121" column="5" />
-        <mark key="^" line="121" column="5" />
+      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Booking/Controller.js" timestamp="1536570352493">
+        <mark key="[" line="113" column="16" />
+        <mark key="]" line="113" column="26" />
+        <mark key="." line="113" column="26" />
+        <mark key="^" line="113" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/configureStore.js" timestamp="1529568863496">
         <mark key="[" line="10" column="54" />
@@ -602,11 +602,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Booking/index.js" timestamp="1536566992467">
-        <mark key="[" line="92" column="18" />
-        <mark key="]" line="92" column="40" />
-        <mark key="^" line="92" column="40" />
-        <mark key="." line="92" column="40" />
+      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Booking/index.js" timestamp="1536570271535">
+        <mark key="[" line="164" column="78" />
+        <mark key="]" line="164" column="79" />
+        <mark key="^" line="189" column="34" />
+        <mark key="." line="164" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Router/index.js" timestamp="1531125801376">
         <mark key="[" line="30" column="0" />
@@ -644,7 +644,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536564515553">
+      <file name="/Dummy.txt" timestamp="1536570432064">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -894,11 +894,10 @@
         <mark key="." line="75" column="22" />
         <mark key="^" line="75" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Booking/styled.js" timestamp="1536565923678">
+      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Booking/styled.js" timestamp="1536569761150">
         <mark key="[" line="22" column="2" />
-        <mark key="]" line="22" column="3" />
-        <mark key="^" line="22" column="3" />
-        <mark key="." line="22" column="3" />
+        <mark key="]" line="22" column="2" />
+        <mark key="." line="22" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/Styled.js" timestamp="1531124329276">
         <mark key="[" line="3" column="18" />
@@ -1515,45 +1514,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZXhwb3J0IA==</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXhwb3J0IA==</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IERlcGFydG1lbnRCb29rID0gWwogIHsgaWQ6IDEsIGRlcGFydG1lbnRJZDogMSwgbGFiZWw6ICfri6jssrTsooXtlanqsoDsp4QnIH0sCiAgeyBpZDogMiwgZGVwYXJ0bWVudElkOiAxLCBsYWJlbDogJ+qwnOyduOyihe2VqeqygOynhCcgfSwKICB7IGlkOiAzLCBkZXBhcnRtZW50SWQ6IDEsIGxhYmVsOiAn7JiB7Jyg7JWE6rKA7KeEJyB9LAogIHsgaWQ6IDQsIGRlcGFydG1lbnRJZDogMiwgbGFiZWw6ICfsg4Hri7TsmIjslb0nIH0sCiAgeyBpZDogNSwgZGVwYXJ0bWVudElkOiAyLCBsYWJlbDogJ+yImOyIoOyYiOyVvScgfSwKICB7IGlkOiA2LCBkZXBhcnRtZW50SWQ6IDMsIGxhYmVsOiAn7IOB64u07JiI7JW9JyB9LAogIHsgaWQ6IDcsIGRlcGFydG1lbnRJZDogMywgbGFiZWw6ICfsiJjsiKDsmIjslb0nIH0sCiAgeyBpZDogOCwgZGVwYXJ0bWVudElkOiA0LCBsYWJlbDogJ+2UvOu2gOq0gOumrCcgfSwKICB7IGlkOiA5LCBkZXBhcnRtZW50SWQ6IDQsIGxhYmVsOiAn7IGY652g7Iuc7IigJyB9LAogIHsgaWQ6IDEwLCBkZXBhcnRtZW50SWQ6IDUsIGxhYmVsOiAn7JiB7Jyg7JWE6rKA7KeEJyB9LAogIHsgaWQ6IDExLCBkZXBhcnRtZW50SWQ6IDUsIGxhYmVsOiAn7ISx7J6l7YyQ6rKA7IKsJyB9LApdOwo=</text>
+        <text encoding="base64">ICAgICAgICBuYW1lLAogICAgICAgIHl5eXltbWRkLAogICAgICAgIGhobW0sCiAgICAgICAgSW5pdGlhbCwKICAgICAgICBmaXJzdE51bSwKICAgICAgICBzZXgsCiAgICAgICAgcGhvbmVOdW0sCiAgICAgICAgYmlydGhEYXRlLAogICAgICAgIG1lbW8sCiAgICAgICAgZGVwYXJ0bWVudElkLAogICAgICAgIGRlcGFydG1lbnRCb29rSWQsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbj48L29wdGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGU6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB7IHJlYyA6IOyghO2ZlOuyiO2YuCwgc21zdXNlcmlkIDog66mk67KESUR9Cg==</text>
+        <text encoding="base64">ICA+IGRpdiB7CiAgICAKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hlY2tlZAo=</text>
+        <text encoding="base64">ICAgICYsIGRpdiB7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZGF0YSA9IHsKICAgICAgICAKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgbWFyZ2luLWJvdHRvbTogMWVtOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-            this
-          }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICA+ICogewogICAgbWFyZ2luLWJvdHRvbTogCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
