@@ -1451,6 +1451,12 @@
         <mark key="." line="169" column="14" />
         <mark key="^" line="169" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/notify/event.js" timestamp="1536644646533">
+        <mark key="[" line="114" column="43" />
+        <mark key="]" line="114" column="44" />
+        <mark key="^" line="114" column="44" />
+        <mark key="." line="114" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Header/Hamburger/styled.js" timestamp="1534820067158">
         <mark key="[" line="105" column="13" />
         <mark key="]" line="105" column="15" />
@@ -1567,17 +1573,17 @@
       <jump line="282" column="17" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/styled.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8Um91dGUgcGF0aD0iLyIgY29tcG9uZW50PXtMYW5kaW5nfSAvPiovfQo=</text>
+      <register name="&quot;" type="4">
+        <text>post</text>
       </register>
       <register name="-" type="4">
-        <text>, CommonQuot</text>
+        <text>post</text>
       </register>
       <register name="/" type="4">
         <text>#0d</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IE1ha2luZyBmcm9tICdAL2NvbXBvbmVudHMvQ29tbW9uL01ha2luZyc7Cg==</text>
+      <register name="0" type="4">
+        <text>{post.iRank ? '진행중':post.id}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB7Lyo8Um91dGUgcGF0aD0iLyIgY29tcG9uZW50PXtMYW5kaW5nfSAvPiovfQo=</text>
