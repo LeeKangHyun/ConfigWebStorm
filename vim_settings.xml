@@ -462,11 +462,11 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/Controller.js" timestamp="1536556288041">
-        <mark key="[" line="21" column="40" />
-        <mark key="]" line="24" column="19" />
-        <mark key="." line="24" column="19" />
-        <mark key="^" line="24" column="19" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/Controller.js" timestamp="1536652685796">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="28" />
+        <mark key="." line="19" column="28" />
+        <mark key="^" line="19" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/saga/api/index.js" timestamp="1530777155498">
         <mark key="[" line="0" column="28" />
@@ -684,7 +684,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536646862443">
+      <file name="/Dummy.txt" timestamp="1536652743775">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1113,11 +1113,11 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Controller.js" timestamp="1536651060726">
-        <mark key="[" line="21" column="40" />
-        <mark key="]" line="22" column="24" />
-        <mark key="^" line="22" column="24" />
-        <mark key="." line="22" column="24" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Controller.js" timestamp="1536652866301">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="8" />
+        <mark key="." line="20" column="8" />
+        <mark key="^" line="20" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Intro/Controller.js" timestamp="1535094127853">
         <mark key="[" line="11" column="1" />
@@ -1520,7 +1520,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="5" filename="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Admin/index.js" />
       <jump line="62" column="10" filename="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Admin/index.js" />
       <jump line="88" column="0" filename="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Admin/index.js" />
       <jump line="20" column="17" filename="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Admin/Controller.js" />
@@ -1620,46 +1619,47 @@
       <jump line="212" column="33" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/styled.js" />
       <jump line="279" column="33" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/styled.js" />
       <jump line="282" column="17" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/styled.js" />
+      <jump line="45" column="13" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Controller.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/*</text>
+        <text>let</text>
       </register>
       <register name="-" type="4">
-        <text>/*</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text>#0d</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heExlbmd0aD17NH0K</text>
+        <text encoding="base64">ICAgIGlmICgiUE9QIiA9PT0gaGlzdG9yeS5hY3Rpb24gJiYgJycgPT09IGhpc3RvcnkubG9jYXRpb24uc2VhcmNoKSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgYm9hcmRObzogdW5kZWZpbmVkLAogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT17J0V2ZW50cycgPT09IHRhYiA/ICdhY3RpdmUnOicnfSBvbkNsaWNrPXtvbkNsaWNrVG9UYWIuYmluZCh0aGlzLCAnRXZlbnRzJyl9PgogICAgICAgICAg7J2067Kk7Yq4CiAgICAgICAgPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAKICBjb21wb25lbnREaWRVcGRhdGUocHJldlByb3BzLCBwcmV2U3RhdGUpIHsKICAgIGNvbnNvbGUubG9nKCdjZHUnKTsKICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsYWJlbD4KICAgICAgICAgICAg7KeE66OM6rO8IDxzcGFuPntEZXBhcnRtZW50W2RhdGEuZGVwYXJ0bWVudElkXS5sYWJlbH08L3NwYW4+CiAgICAgICAgICA8L2xhYmVsPgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgaGlzdG9yeSB9ID0gcHJldlByb3BzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJi5hbnN3ZXIuY29tcGxldGUgewogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmICghcHJldlN0YXRlLnNob3cgJiYgIlBPUCIgPT09IGhpc3RvcnkuYWN0aW9uKSB7CiAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgIGJvYXJkTm86IHVuZGVmaW5lZCwKICAgICAgICBzaG93OiB0cnVlLAogICAgICB9KQogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjZHUnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogJHtCbHVlfTsK</text>
+        <text encoding="base64">ICAKICBnZXRTbmFwc2hvdEJlZm9yZVVwZGF0ZShwcmV2UHJvcHMsIHByZXZTdGF0ZSkgewogICAgIAogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIDwvUHJvdmlkZXI+LAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdnZHNmcCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIDxQcm92aWRlciBzdG9yZT17c3RvcmV9Pgo=</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8Um91dGUgcGF0aD0iLyIgY29tcG9uZW50PXtMYW5kaW5nfSAvPiovfQo=</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT17J0V2ZW50cycgPT09IHRhYiA/ICdhY3RpdmUnOicnfSBvbkNsaWNrPXtvbkNsaWNrVG9UYWIuYmluZCh0aGlzLCAnRXZlbnRzJyl9PgogICAgICAgICAg7J2067Kk7Yq4CiAgICAgICAgPC9idXR0b24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IExhbmRpbmcgZnJvbSAnQC9wYWdlcy9MYW5kaW5nJzsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxsYWJlbD4KICAgICAgICAgICAg7KeE66OM6rO8IDxzcGFuPntEZXBhcnRtZW50W2RhdGEuZGVwYXJ0bWVudElkXS5sYWJlbH08L3NwYW4+CiAgICAgICAgICA8L2xhYmVsPgo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
