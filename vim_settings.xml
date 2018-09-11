@@ -1387,11 +1387,12 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Member/Controller.js" timestamp="1536564241688">
+      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Member/Controller.js" timestamp="1536630062616">
         <mark key="'" line="84" column="15" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="75" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/Surgery/Vasectomy.js" timestamp="1534817053766">
         <mark key="[" line="21" column="12" />
@@ -1522,7 +1523,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBtCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KHJlcy5lcnJvci5tZXNzYWdlKTsK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -1534,31 +1535,33 @@
         <text encoding="base64">ICAgICY6YmVmb3JlLCAmOmFmdGVyIHsKICAgICAgY29udGVudDogJyc7CiAgICAgIGNsZWFyOiBib3RoOwogICAgICBkaXNwbGF5OiBibG9jazsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KHJlcy5lcnJvci5tZXNzYWdlKTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="2" type="4">
+        <text>{
+            
+          }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7YWJsZUJvb2sgJiYgPGxhYmVsPgogICAgICAgICAg64Kg7KecCiAgICAgICAgICA8c2VsZWN0IHZhbHVlPXt5eXl5bW1kZH0gbmFtZT0ieXl5eW1tZGQiIG9uQ2hhbmdlPXtvbkNoYW5nZVRvU3RhdGV9PgogICAgICAgICAgICA8b3B0aW9uIHZhbHVlPXsnJ30+CiAgICAgICAgICAgICAg64Kg7Kec7ISg7YOdCiAgICAgICAgICAgIDwvb3B0aW9uPgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgT2JqZWN0LmtleXMoYWJsZUJvb2tbZGVwYXJ0bWVudElkXSkubWFwKChpdGVtLCBpZHgpID0+IHsKICAgICAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9e2l0ZW19IGtleT17aWR4fT4KICAgICAgICAgICAgICAgICAgICB7aXRlbX0KICAgICAgICAgICAgICAgICAgPC9vcHRpb24+CiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfQogICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgPC9sYWJlbD59CiAgICAgICAgewogICAgICAgICAgJycgIT09IHl5eXltbWRkICYmIDxsYWJlbD4KICAgICAgICAgICAg7Iuc6rCECiAgICAgICAgICAgIDxzZWxlY3QgdmFsdWU9e2hobW19IG5hbWU9ImhobW0iIG9uQ2hhbmdlPXtvbkNoYW5nZVRvU3RhdGV9PgogICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9eycnfT4KICAgICAgICAgICAgICAgIOyLnOqwhOyEoO2DnQogICAgICAgICAgICAgIDwvb3B0aW9uPgogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIE9iamVjdC5rZXlzKGFibGVCb29rW2RlcGFydG1lbnRJZF1beXl5eW1tZGRdKS5tYXAoKGl0ZW0sIGlkeCkgPT4gewogICAgICAgICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9e2l0ZW19IGtleT17aWR4fT4KICAgICAgICAgICAgICAgICAgICAgIHtpdGVtfQogICAgICAgICAgICAgICAgICAgIDwvb3B0aW9uPgogICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgICA8L2xhYmVsPgogICAgICAgIH0K</text>
+        <text encoding="base64">ICBtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICB7YWJsZUJvb2sgJiYgPGxhYmVsPgogICAgICAgICAg64Kg7KecCiAgICAgICAgICA8c2VsZWN0IHZhbHVlPXt5eXl5bW1kZH0gbmFtZT0ieXl5eW1tZGQiIG9uQ2hhbmdlPXtvbkNoYW5nZVRvU3RhdGV9PgogICAgICAgICAgICA8b3B0aW9uIHZhbHVlPXsnJ30+CiAgICAgICAgICAgICAg64Kg7Kec7ISg7YOdCiAgICAgICAgICAgIDwvb3B0aW9uPgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgT2JqZWN0LmtleXMoYWJsZUJvb2tbZGVwYXJ0bWVudElkXSkubWFwKChpdGVtLCBpZHgpID0+IHsKICAgICAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9e2l0ZW19IGtleT17aWR4fT4KICAgICAgICAgICAgICAgICAgICB7aXRlbX0KICAgICAgICAgICAgICAgICAgPC9vcHRpb24+CiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfQogICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgPC9sYWJlbD59CiAgICAgICAgewogICAgICAgICAgJycgIT09IHl5eXltbWRkICYmIDxsYWJlbD4KICAgICAgICAgICAg7Iuc6rCECiAgICAgICAgICAgIDxzZWxlY3QgdmFsdWU9e2hobW19IG5hbWU9ImhobW0iIG9uQ2hhbmdlPXtvbkNoYW5nZVRvU3RhdGV9PgogICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9eycnfT4KICAgICAgICAgICAgICAgIOyLnOqwhOyEoO2DnQogICAgICAgICAgICAgIDwvb3B0aW9uPgogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIE9iamVjdC5rZXlzKGFibGVCb29rW2RlcGFydG1lbnRJZF1beXl5eW1tZGRdKS5tYXAoKGl0ZW0sIGlkeCkgPT4gewogICAgICAgICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9e2l0ZW19IGtleT17aWR4fT4KICAgICAgICAgICAgICAgICAgICAgIHtpdGVtfQogICAgICAgICAgICAgICAgICAgIDwvb3B0aW9uPgogICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgICA8L2xhYmVsPgogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgQW5pID0ga2V5ZnJhbWVzYAogIGZyb20gewogICAgd2lkdGg6IDEwMCU7CiAgfQogIHRvIHsKICAgIHdpZHRoOiA3MCU7CiAgfQpgOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFuaW1hdGlvbjogJHtBbml9IDAuMnMgbGluZWFyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA3MCU7Cg==</text>
+        <text encoding="base64">Y29uc3QgQW5pID0ga2V5ZnJhbWVzYAogIGZyb20gewogICAgd2lkdGg6IDEwMCU7CiAgfQogIHRvIHsKICAgIHdpZHRoOiA3MCU7CiAgfQpgOwo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
