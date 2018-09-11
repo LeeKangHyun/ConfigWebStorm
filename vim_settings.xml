@@ -267,6 +267,12 @@
         <mark key="^" line="2" column="40" />
         <mark key="." line="2" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/DepartmentList.js" timestamp="1536625628302">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/public/manifest.json" timestamp="1530780127430">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="2" column="16" />
@@ -857,7 +863,7 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/const.js" timestamp="1536567055542">
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/const.js" timestamp="1536625614109">
         <mark key="'" line="420" column="21" />
         <mark key="[" line="686" column="0" />
         <mark key="]" line="698" column="1" />
@@ -1514,10 +1520,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text encoding="base64">RGVwYXJ0bWVudCwg</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">RGVwYXJ0bWVudCwg</text>
       </register>
       <register name="/" type="4">
         <text>.png</text>
