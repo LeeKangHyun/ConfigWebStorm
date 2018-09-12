@@ -122,6 +122,11 @@
         <mark key="^" line="30" column="82" />
         <mark key="." line="30" column="82" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/util/util.js" timestamp="1536725152239">
+        <mark key="[" line="382" column="0" />
+        <mark key="]" line="382" column="0" />
+        <mark key="." line="382" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Home/Controller.js" timestamp="1535013771455">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -723,7 +728,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536723794140">
+      <file name="/Dummy.txt" timestamp="1536723963089">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -776,6 +781,10 @@
         <mark key="]" line="1" column="31" />
         <mark key="^" line="8" column="14" />
         <mark key="." line="1" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/utils/index.js" timestamp="1536725124301">
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="206" column="115" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/index.js" timestamp="1535416556411">
         <mark key="[" line="35" column="15" />
@@ -1747,7 +1756,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc2V0Qm9vaywK</text>
+        <text encoding="base64">ICAgICAgcGxhdGZvcm1GZWU6IHRoaXNQbGF0Zm9ybVJhdGUK</text>
       </register>
       <register name="-" type="4">
         <text>444</text>
@@ -1756,34 +1765,34 @@
         <text>#0d</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlPXtvbkNsaWNrVG9Nb2RhbH0KICAgICAgICAgICAgdGV4dD17YOuzuOyduCDtmZXsnbjsnYQg7JyE7ZW0IOyVhOuemCDsoJXrs7Trpbwg7J6F66Cl7ZW07KO87IS47JqUYH0KICAgICAgICAgICAgb25DbGljaz17Z2V0Qm9hcmRXaXRoUGFzc3dvcmR9Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gY2FsY0RhaWx5SW50ZXJlc3QocHJpbmNpcGFsLCBpc0xvYW4sIGRheVJhdGUsIGRpZmZEYXlzLCBtZXRob2QsIG9ubHlJbnRlcmVzdCA9IGZhbHNlKSB7IC8vIO2VmOujqCDsm5DrpqzquIjqt6Drk7EsIOydtOyekCDqs4TsgrAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2V0Qm9vaywK</text>
+        <text encoding="base64">ICAgICAgcGxhdGZvcm1GZWU6IHRoaXNQbGF0Zm9ybVJhdGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwo=</text>
+        <text encoding="base64">ICAgIHRoaXNQbGF0Zm9ybVJhdGUgPSBVTkZVTkMocmVtYWluUHJpbmNpcGFsICogZGF5UGxhdGZvcm1SYXRlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luLXRvcDogMzBweDsK</text>
+        <text encoding="base64">ICAgIFVORlVOQyA9IE1hdGguZmxvb3I7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb250LXdlaWdodDogbm9ybWFsOwo=</text>
+        <text encoding="base64">ICB2YXIgVU5GVU5DID0gTWF0aC5jZWlsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb250LXdlaWdodDogbm9ybWFsOwo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gY2FsY0RhaWx5SW50ZXJlc3QocHJpbmNpcGFsLCBpc0xvYW4sIGRheVJhdGUsIGRpZmZEYXlzLCBtZXRob2QsIGRheVBsYXRmb3JtUmF0ZSA9IDAsIG9ubHlJbnRlcmVzdCA9IGZhbHNlKSB7IC8vIO2VmOujqCDsm5DrpqzquIjqt6Drk7EsIOydtOyekCDqs4TsgrAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgdGF4ID0gY2FsY1RheChpbnRlcmVzdCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZm9udC13ZWlnaHQ6IDMwMDsKICAgICAgZm9udC1zaXplOiAxOHB4OwogICAgICBsaW5lLWhlaWdodDogMS41OwogICAgICBsZXR0ZXItc3BhY2luZzogLTAuNXB4OwogICAgICBjb2xvcjogIzJhMmEyYTsK</text>
+        <text encoding="base64">ZnVuY3Rpb24gY2FsY1RheChpbnRlcmVzdCkgewogIHZhciB0YXggPSBNYXRoLmZsb29yKGludGVyZXN0ICogMC4yNSAvIDEwKSAqIDEwOwkvLyDsnbTsnpAg7IiY7J217J2YIDI1LiXsl5DshJwgMTDsm5Ag7J207ZWYIOygiOyCrCAo6rWt7IS4KQogIHRheCA9IHRheCArIE1hdGguZmxvb3IodGF4ICogMC4xIC8gMTApICogMTA7CS8vIOq1reyEuCArIOq1reyEuOydmCAxMCXsl5DshJwgMTDsm5Ag7J207ZWYIOygiOyCrCjsp4DrsKnshLgpID0g7IS46riICg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZm9udC13ZWlnaHQ6IDMwMDsKICAgICAgZm9udC1zaXplOiAxOHB4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDYwcHg7CiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
