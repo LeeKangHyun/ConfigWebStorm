@@ -762,7 +762,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536806978554">
+      <file name="/Dummy.txt" timestamp="1536817674179">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -880,9 +880,9 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Notice.js" timestamp="1536734957750">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="90" column="25" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Notice.js" timestamp="1536818428853">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="81" column="10" />
         <mark key="." line="49" column="56" />
         <mark key="^" line="49" column="55" />
       </file>
@@ -1237,9 +1237,9 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Controller.js" timestamp="1536806346602">
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="16" column="21" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Controller.js" timestamp="1536818471326">
+        <mark key="[" line="79" column="2" />
+        <mark key="]" line="79" column="14" />
         <mark key="." line="16" column="21" />
         <mark key="^" line="16" column="21" />
       </file>
@@ -1550,12 +1550,12 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/After.js" timestamp="1536800550084">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="45" column="34" />
-        <mark key="]" line="45" column="34" />
-        <mark key="." line="45" column="34" />
-        <mark key="^" line="47" column="35" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/After.js" timestamp="1536818481112">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="27" column="5" />
+        <mark key="." line="27" column="5" />
+        <mark key="^" line="27" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo.js" timestamp="1536804012561">
         <mark key="[" line="46" column="15" />
@@ -1818,8 +1818,8 @@
       <jump line="25" column="18" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo/PhotoWrap.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGQgewogICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>onClickToList</text>
       </register>
       <register name="-" type="4">
         <text>bold</text>
@@ -1828,34 +1828,34 @@
         <text>#0d</text>
       </register>
       <register name="0" type="4">
-        <text>동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리나라만세 무궁화 삼천리 화려강산 대한 사람 대한으로 길이 보전 하세</text>
+        <text>onClickToList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGQgewogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAmOm50aC1jaGlsZCgxKSB7CiAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGQgewogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZHRoOiAzMHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAmOm50aC1jaGlsZCgxKSB7CiAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZHRoOiAzMHB4Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvbnQtc2l6ZTogMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpZHRoOiA1MCU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZvbnQtc2l6ZTogMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICY6bGFzdC1jaGlsZCB7CiAgICAgICAgICAgIHRkIHsKICAgICAgICAgICAgICAmOm50aC1jaGlsZCgybikgewogICAgICAgICAgICAgICAgd2lkdGgKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIHdpZHRoOiA1MCU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDx0ZD7suZjro4zsooXro4zsnbw8L3RkPgogICAgICAgICAgICAgICAgICAgICAgPHRkPjwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICY6bGFzdC1jaGlsZCB7CiAgICAgICAgICAgIHRkIHsKICAgICAgICAgICAgICAmOm50aC1jaGlsZCgybikgewogICAgICAgICAgICAgICAgd2lkdGgKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDx0ZD7suZjro4zquLDqsIQ8L3RkPgogICAgICAgICAgICAgICAgICAgICAgPHRkPuyVvSAz6rCc7JuUPC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDx0ZD7suZjro4zsooXro4zsnbw8L3RkPgogICAgICAgICAgICAgICAgICAgICAgPHRkPjwvdGQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
