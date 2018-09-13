@@ -75,6 +75,12 @@
         <mark key="^" line="300" column="14" />
         <mark key="." line="296" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/redux/saga/api/index.js" timestamp="1536825096417">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="1" column="21" />
+      </file>
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/package.json" timestamp="1530256428797">
         <mark key="[" line="40" column="29" />
         <mark key="]" line="40" column="66" />
@@ -180,11 +186,10 @@
         <mark key="." line="68" column="19" />
         <mark key="^" line="68" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo/PhotoView.js" timestamp="1536808980885">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="7" />
-        <mark key="^" line="6" column="7" />
-        <mark key="." line="6" column="7" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo/PhotoView.js" timestamp="1536824607719">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="6" />
+        <mark key="." line="38" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/globalStyled.js" timestamp="1535165841226">
         <mark key="[" line="11" column="25" />
@@ -287,6 +292,12 @@
         <mark key="]" line="12" column="13" />
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/redux/saga/watchSign.js" timestamp="1536825085861">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="7" column="12" />
       </file>
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/webpack.config.production.js" timestamp="1530252248691">
         <mark key="[" line="63" column="7" />
@@ -666,11 +677,12 @@
         <mark key="." line="3" column="13" />
         <mark key="^" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo/Controller.js" timestamp="1536821102633">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="13" column="23" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo/Controller.js" timestamp="1536825702673">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="74" column="42" />
+        <mark key="]" line="75" column="42" />
+        <mark key="." line="75" column="42" />
+        <mark key="^" line="75" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/Utils/portal.js" timestamp="1531359436860">
         <mark key="[" line="10" column="51" />
@@ -702,11 +714,11 @@
         <mark key="^" line="74" column="17" />
         <mark key="." line="74" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/package.json" timestamp="1536820087947">
-        <mark key="[" line="96" column="28" />
-        <mark key="]" line="96" column="28" />
-        <mark key="^" line="96" column="32" />
-        <mark key="." line="96" column="28" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/package.json" timestamp="1536825494367">
+        <mark key="[" line="101" column="33" />
+        <mark key="]" line="101" column="33" />
+        <mark key="^" line="101" column="33" />
+        <mark key="." line="101" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/loan/ApplyDetail.js" timestamp="1533605606487">
         <mark key="[" line="177" column="69" />
@@ -774,7 +786,7 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536817674179">
+      <file name="/Dummy.txt" timestamp="1536825232670">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1043,11 +1055,16 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/redux/action/Sign.js" timestamp="1536819653295">
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="6" column="2" />
-        <mark key="^" line="6" column="2" />
-        <mark key="." line="6" column="2" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/redux/action/Sign.js" timestamp="1536825123124">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="14" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Customer/index.js" timestamp="1536715918977">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/board/action.js" timestamp="1530176314397">
         <mark key="[" line="5" column="29" />
@@ -1115,12 +1132,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo/index.js" timestamp="1536817259853">
-        <mark key="'" line="15" column="10" />
-        <mark key="[" line="53" column="33" />
-        <mark key="]" line="53" column="33" />
-        <mark key="." line="53" column="33" />
-        <mark key="^" line="53" column="33" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo/index.js" timestamp="1536825729546">
+        <mark key="'" line="7" column="14" />
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="23" />
+        <mark key="." line="15" column="23" />
+        <mark key="^" line="33" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/index.js" timestamp="1534826895037">
         <mark key="[" line="4" column="31" />
@@ -1206,6 +1223,12 @@
         <mark key="]" line="9" column="25" />
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/redux/saga/api/Sign.js" timestamp="1536827268432">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Footer/index.js" timestamp="1531451001850">
         <mark key="[" line="0" column="12" />
@@ -1310,6 +1333,12 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/redux/saga/index.js" timestamp="1536825047915">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client/.env" timestamp="1533260735331">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -1376,11 +1405,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/routes/sign.js" timestamp="1536823669956">
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="5" column="1" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="5" column="1" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/routes/sign.js" timestamp="1536827259200">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="8" />
+        <mark key="^" line="27" column="8" />
+        <mark key="." line="27" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/Arrow.js" timestamp="1531803280110">
         <mark key="[" line="10" column="55" />
@@ -1561,12 +1590,12 @@
         <mark key="." line="24" column="24" />
         <mark key="^" line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo/PhotoWrap.js" timestamp="1536809162656">
-        <mark key="'" line="25" column="18" />
-        <mark key="[" line="25" column="25" />
-        <mark key="]" line="25" column="27" />
-        <mark key="." line="25" column="27" />
-        <mark key="^" line="25" column="27" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo/PhotoWrap.js" timestamp="1536825868246">
+        <mark key="'" line="24" column="18" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="24" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Pages/Intro/styled.js" timestamp="1536647194757">
         <mark key="[" line="20" column="16" />
@@ -1587,11 +1616,11 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/app.js" timestamp="1536821172916">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="9" />
-        <mark key="^" line="10" column="9" />
-        <mark key="." line="10" column="9" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/app.js" timestamp="1536827311858">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo.js" timestamp="1536804012561">
         <mark key="[" line="46" column="15" />
@@ -1752,9 +1781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="18" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Editor.js" />
-      <jump line="17" column="13" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Booking.js" />
-      <jump line="33" column="34" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Booking.js" />
       <jump line="158" column="18" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Controller.js" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Controller.js" />
       <jump line="15" column="6" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Modal/Auth.js" />
@@ -1852,13 +1878,16 @@
       <jump line="66" column="20" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo/PhotoWrap.js" />
       <jump line="28" column="18" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo/PhotoWrap.js" />
       <jump line="25" column="18" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo/PhotoWrap.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo/Controller.js" />
+      <jump line="50" column="22" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo/index.js" />
+      <jump line="7" column="14" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gYm9hcmRObzogdW5kZWZpbmVkLAo=</text>
+        <text encoding="base64">Y29uc3QgTmF2ZXJTdHJhdGVneSA9IHJlcXVpcmUoJ3Bhc3Nwb3J0LW5hdmVyJykuU3RyYXRlZ3k7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>sign</text>
       </register>
       <register name="/" type="4">
         <text>#0d</text>
@@ -1867,31 +1896,31 @@
         <text>onClickToList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gYm9hcmRObzogdW5kZWZpbmVkLAo=</text>
+        <text encoding="base64">Y29uc3QgTmF2ZXJTdHJhdGVneSA9IHJlcXVpcmUoJ3Bhc3Nwb3J0LW5hdmVyJykuU3RyYXRlZ3k7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNhc2UgQk9BUkRfRkVUQ0hfQ0hBTkdFRDoKICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICAuLi5hY3Rpb24sCiAgICAgICAgaXNMb2FkaW5nOiB0cnVlLAogICAgICB9Owo=</text>
+        <text encoding="base64">CnBhc3Nwb3J0LnVzZShuZXcgTmF2ZXJTdHJhdGVneSh7CiAgICBjbGllbnRJRDogJzVoTU1kS0JOcGllUTZBaTdyRE0wJywKICAgIGNsaWVudFNlY3JldDogJ2pEMWhSRmVVcXYnLAogICAgY2FsbGJhY2tVUkw6ICcvc2lnbi9jYWxsYmFjaycKICB9LAogIGZ1bmN0aW9uIChhY2Nlc3NUb2tlbiwgcmVmcmVzaFRva2VuLCBwcm9maWxlLCBkb25lKSB7CiAgICBsZXQgX3Byb2ZpbGUgPSBwcm9maWxlLl9qc29uOwogICAgZG9uZShfcHJvZmlsZSk7CiAgfQopKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhc2UgX1NVQ0NFU1M6Cg==</text>
+        <text encoding="base64">CmFwcC5saXN0ZW4ocG9ydCwgKCkgPT4gewogIGNvbnNvbGUubG9nKGBMaXN0ZW5pbmcgb24gcG9ydCAke3BvcnR9YCk7Cn0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhc2UgQk9BUkRfRkVUQ0hfUkVRVUVTVDoK</text>
+        <text encoding="base64">CmFwcC5saXN0ZW4ocG9ydCwgKCkgPT4gewogIGNvbnNvbGUubG9nKGBMaXN0ZW5pbmcgb24gcG9ydCAke3BvcnR9YCk7Cn0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkYXRhOiBbXSwK</text>
+        <text encoding="base64">Y29uc3QgcGFzc3BvcnQgPSByZXF1aXJlKCdwYXNzcG9ydCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpdGVtOiB7fSwK</text>
+        <text encoding="base64">YXBwLnVzZShwYXNzcG9ydC5pbml0aWFsaXplKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBTSUdOX1NVQ0NFU1MsCg==</text>
+        <text encoding="base64">Y29uc3QgcGFzc3BvcnQgPSByZXF1aXJlKCdwYXNzcG9ydCcpOwpjb25zdCBOYXZlclN0cmF0ZWd5ID0gcmVxdWlyZSgncGFzc3BvcnQtbmF2ZXInKS5TdHJhdGVneTsKCi8q66Gc6re47J24IOyEseqzteyLnCDsgqzsmqnsnpAg7KCV67O066W8IFNlc3Npb27sl5Ag7KCA7J6l7ZWc64ukKi8KcGFzc3BvcnQuc2VyaWFsaXplVXNlcihmdW5jdGlvbiAodXNlciwgZG9uZSkgewogIGRvbmUobnVsbCwgdXNlcikKfSk7CgovKuyduOymnSDtm4QsIO2OmOydtOyngCDsoJHqt7zsi5wg66eI64ukIOyCrOyaqeyekCDsoJXrs7TrpbwgU2Vzc2lvbuyXkOyEnCDsnb3slrTsmLQuKi8KcGFzc3BvcnQuZGVzZXJpYWxpemVVc2VyKGZ1bmN0aW9uICh1c2VyLCBkb25lKSB7CiAgZG9uZShudWxsLCB1c2VyKTsKfSk7CgpwYXNzcG9ydC51c2UobmV3IE5hdmVyU3RyYXRlZ3koewogICAgY2xpZW50SUQ6ICc1aE1NZEtCTnBpZVE2QWk3ckRNMCcsCiAgICBjbGllbnRTZWNyZXQ6ICdqRDFoUkZlVXF2JywKICAgIGNhbGxiYWNrVVJMOiAnL3NpZ24vY2FsbGJhY2snCiAgfSwKICBmdW5jdGlvbiAoYWNjZXNzVG9rZW4sIHJlZnJlc2hUb2tlbiwgcHJvZmlsZSwgZG9uZSkgewogICAgbGV0IF9wcm9maWxlID0gcHJvZmlsZS5fanNvbjsKICAgIGRvbmUoX3Byb2ZpbGUpOwogIH0KKSk7Cgpyb3V0ZXIuZ2V0KAogICcvJywKICBwYXNzcG9ydC5hdXRoZW50aWNhdGUoJ25hdmVyJykKKTsKCnJvdXRlci5nZXQoCiAgJy9jYWxsYmFjaycsCiAgcGFzc3BvcnQuYXV0aGVudGljYXRlKCduYXZlcicsIHsKICAgIHN1Y2Nlc3NSZWRpcmVjdDogJy8nLAogICAgZmFpbHVyZVJlZGlyZWN0OiAnLycKICB9CikpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBCT0FSRF9GRVRDSF9SRVFVRVNULAogIEJPQVJEX0ZFVENIX0ZBSUxFRCwKICBCT0FSRF9GRVRDSF9TVUNDRVNTLAogIEJPQVJEX0ZFVENIX0NIQU5HRUQsCiAgQk9BUkRfRkVUQ0hfUE9TVCwK</text>
+        <text encoding="base64">Y29uc3QgTmF2ZXJTdHJhdGVneSA9IHJlcXVpcmUoJ3Bhc3Nwb3J0LW5hdmVyJykuU3RyYXRlZ3k7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
