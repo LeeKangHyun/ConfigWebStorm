@@ -666,10 +666,10 @@
         <mark key="." line="3" column="13" />
         <mark key="^" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo/Controller.js" timestamp="1536820346983">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="23" />
-        <mark key="." line="13" column="23" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo/Controller.js" timestamp="1536821102633">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/Utils/portal.js" timestamp="1531359436860">
@@ -1376,6 +1376,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="3" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/jayeon/routes/sign.js" timestamp="1536821327761">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/Arrow.js" timestamp="1531803280110">
         <mark key="[" line="10" column="55" />
         <mark key="]" line="10" column="70" />
@@ -1580,6 +1586,12 @@
         <mark key="]" line="27" column="5" />
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/jayeon/app.js" timestamp="1536821172916">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="9" />
+        <mark key="^" line="10" column="9" />
+        <mark key="." line="10" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo.js" timestamp="1536804012561">
         <mark key="[" line="46" column="15" />
@@ -1842,8 +1854,8 @@
       <jump line="25" column="18" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo/PhotoWrap.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy8gYm9hcmRObzogdW5kZWZpbmVkLAo=</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -1855,31 +1867,31 @@
         <text>onClickToList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhc2UgQk9BUkRfRkVUQ0hfQ0hBTkdFRDoKICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICAuLi5hY3Rpb24sCiAgICAgICAgaXNMb2FkaW5nOiB0cnVlLAogICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgLy8gYm9hcmRObzogdW5kZWZpbmVkLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNhc2UgX1NVQ0NFU1M6Cg==</text>
+        <text encoding="base64">ICAgIGNhc2UgQk9BUkRfRkVUQ0hfQ0hBTkdFRDoKICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICAuLi5hY3Rpb24sCiAgICAgICAgaXNMb2FkaW5nOiB0cnVlLAogICAgICB9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhc2UgQk9BUkRfRkVUQ0hfUkVRVUVTVDoK</text>
+        <text encoding="base64">ICAgIGNhc2UgX1NVQ0NFU1M6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkYXRhOiBbXSwK</text>
+        <text encoding="base64">ICAgIGNhc2UgQk9BUkRfRkVUQ0hfUkVRVUVTVDoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpdGVtOiB7fSwK</text>
+        <text encoding="base64">ICBkYXRhOiBbXSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBTSUdOX1NVQ0NFU1MsCg==</text>
+        <text encoding="base64">ICBpdGVtOiB7fSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBCT0FSRF9GRVRDSF9SRVFVRVNULAogIEJPQVJEX0ZFVENIX0ZBSUxFRCwKICBCT0FSRF9GRVRDSF9TVUNDRVNTLAogIEJPQVJEX0ZFVENIX0NIQU5HRUQsCiAgQk9BUkRfRkVUQ0hfUE9TVCwK</text>
+        <text encoding="base64">ICBTSUdOX1NVQ0NFU1MsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBCT0FSRF9GRVRDSF9SRVFVRVNULAogIEJPQVJEX0ZFVENIX0ZBSUxFRCwKICBCT0FSRF9GRVRDSF9TVUNDRVNTLAogIEJPQVJEX0ZFVENIX0NIQU5HRUQsCiAgQk9BUkRfRkVUQ0hfUE9TVCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGQgewogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
