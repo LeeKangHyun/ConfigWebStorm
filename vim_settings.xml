@@ -805,7 +805,7 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536908220207">
+      <file name="/Dummy.txt" timestamp="1536913641185">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1357,12 +1357,12 @@
         <mark key="^" line="170" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/server/middleware/LoopbackUrlNotFoundCatch.js" timestamp="1536633053470" />
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/After/Controller.js" timestamp="1536912464179">
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/After/Controller.js" timestamp="1536913631399">
         <mark key="'" line="123" column="0" />
         <mark key="[" line="89" column="28" />
-        <mark key="]" line="89" column="37" />
-        <mark key="." line="89" column="37" />
-        <mark key="^" line="89" column="37" />
+        <mark key="]" line="89" column="28" />
+        <mark key="." line="89" column="28" />
+        <mark key="^" line="89" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/board.js" timestamp="1529558734060">
         <mark key="[" line="3" column="2" />
@@ -1956,10 +1956,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://jayeonmadi.com</text>
+        <text encoding="base64">LCAuLi5wcm9wcyA=</text>
       </register>
       <register name="-" type="4">
-        <text>http://jayeonmadi.com</text>
+        <text encoding="base64">LCAuLi5wcm9wcyA=</text>
       </register>
       <register name="/" type="4">
         <text>#0d</text>
