@@ -1082,6 +1082,12 @@
         <mark key="^" line="72" column="51" />
         <mark key="." line="72" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/app.js" timestamp="1537235639186">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+        <mark key="^" line="22" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/package.json" timestamp="1531100167463">
         <mark key="[" line="5" column="61" />
         <mark key="]" line="5" column="61" />
@@ -2022,10 +2028,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgIH0=</text>
+        <text>err</text>
       </register>
       <register name="-" type="4">
-        <text>kanghyun</text>
+        <text>err</text>
       </register>
       <register name="/" type="4">
         <text>#0d</text>
