@@ -663,6 +663,12 @@
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/public/stylesheet/contents.css" timestamp="1537319324110">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Modal/Password.js" timestamp="1535522794905">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="31" />
@@ -688,11 +694,11 @@
         <mark key="^" line="15" column="21" />
         <mark key="." line="15" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Pages/Board/index.js" timestamp="1536895687919">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="47" />
-        <mark key="." line="47" column="13" />
-        <mark key="^" line="47" column="13" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Pages/Board/index.js" timestamp="1537319377262">
+        <mark key="[" line="103" column="51" />
+        <mark key="]" line="103" column="51" />
+        <mark key="." line="103" column="51" />
+        <mark key="^" line="103" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/contexts/index.js" timestamp="1536546123208">
         <mark key="[" line="18" column="4" />
@@ -761,8 +767,6 @@
         <mark key="." line="15" column="89" />
         <mark key="^" line="15" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Util/Fetch.js" timestamp="1537249862449" />
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin/webpack.config.js" timestamp="1537232085185" />
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Landing/Styled.js" timestamp="1530001945088">
         <mark key="[" line="14" column="37" />
         <mark key="]" line="15" column="20" />
@@ -1078,6 +1082,12 @@
         <mark key="]" line="9" column="22" />
         <mark key="." line="9" column="22" />
         <mark key="^" line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Pages/Popup/Controller.js" timestamp="1537318667155">
+        <mark key="[" line="110" column="29" />
+        <mark key="]" line="110" column="34" />
+        <mark key="." line="110" column="34" />
+        <mark key="^" line="110" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin/package.json" timestamp="1537234728667">
         <mark key="[" line="13" column="13" />
@@ -1483,7 +1493,6 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="/quill.js" timestamp="1537245671309" />
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client/.env" timestamp="1533260735331">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -1900,6 +1909,12 @@
         <mark key="." line="207" column="28" />
         <mark key="^" line="207" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Pages/Popup/PopupEditor.js" timestamp="1537319135749">
+        <mark key="[" line="135" column="20" />
+        <mark key="]" line="135" column="24" />
+        <mark key="^" line="135" column="24" />
+        <mark key="." line="135" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/popup/action.js" timestamp="1529660001581">
         <mark key="[" line="6" column="2" />
         <mark key="]" line="6" column="2" />
@@ -2078,44 +2093,62 @@
       <jump line="16" column="25" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">Y29udGVuICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text>#0d</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsaXBib2FyZDogewogICAgICAgICAgICBtYXRjaFZpc3VhbDogZmFsc2UKICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVzLmVycm9yKSB7CiAgICAgICAgICByZXR1cm5PYmogPSB1cGRhdGUocmV0dXJuT2JqLCB7ICRzZXQ6IHsgZXJyb3I6IHJlcy5lcnJvciB9IH0pOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICByZXR1cm5PYmpbJ3dlYiddID0KICAgICAgICAgICAgcmVzLnJlc3VsdC5maWxlcy5maWxlWycwJ10ucHJvdmlkZXJSZXNwb25zZS5sb2NhdGlvbjsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgd2hpdGUtc3BhY2U6IHByZS13cmFwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXNNID0gOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFjdGl2ZUNsYXNzPSJwLW5vIgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXMgPSA7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAucC1ubyB7CiAgICBwIHsKICAgICAgbWFyZ2luOiAwOwogICAgfQogIH0K</text>
+      <register name="4" type="4">
+        <text>Fetch.FileUpload(
+          `${Fetch.API}/containers/mhubhospitalpopup/upload`,
+          { file: fileM }
+        );
+        if (resM.error) {
+          returnObj = update(returnObj, { $set: { error: resM.error } });
+        } else {
+          returnObj['mob'] =
+            resM.result.files.file['0'].providerResponse.location;
+        }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHAgewogICAgICBtYXJnaW46IDA7Cg==</text>
+      <register name="5" type="4">
+        <text>= await Fetch.FileUpload(
+          `${Fetch.API}/containers/mhubhospitalpopup/upload`,
+          { file: file }
+        );
+        if (res.error) {
+          returnObj = update(returnObj, { $set: { error: res.error } });
+        } else {
+          returnObj['web'] =
+            res.result.files.file['0'].providerResponse.location;
+        }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm5PYmogPSB1cGRhdGUocmV0dXJuT2JqLCB7ICRzZXQ6IHsgZXJyb3I6IHJlcy5lcnJvciB9IH0pOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogMDsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQGltcG9ydCB1cmwoImh0dHBzOi8vY2tlZGl0b3IuY29tL2Fzc2V0cy9saWJzL2NrZWRpdG9yNC80LjEwLjEvY29udGVudHMuY3NzP3Q9SThDNyIpOwogICAgICBAaW1wb3J0IHVybCgiaHR0cDovL2Nkbi5ja2VkaXRvci5jb20vNC4xMC4wL2Z1bGwvc2tpbnMvbW9vbm8tbGlzYS9lZGl0b3IuY3NzP3Q9STYzQyIpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgaXNQcm9kdWN0aW9uID0gcHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdwcm9kdWN0aW9uJzsKY29uc3QgZG9tYWluID0gaXNQcm9kdWN0aW9uCiAgPyAnaHR0cDovLzEzLjIwOS4xMjkuMTkzOjMwMDAvYXBpJwogIDogJ2h0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9hcGknOwoK</text>
+        <text encoding="base64">ICAgICAgaWYgKHJlcy5lcnJvcikgewogICAgICAgIAogICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
