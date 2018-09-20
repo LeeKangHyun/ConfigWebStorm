@@ -330,6 +330,12 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/styled.js" timestamp="1537432815629">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="29" column="16" />
+        <mark key="." line="29" column="16" />
+        <mark key="^" line="29" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/build/main.js" timestamp="1530672241452">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="15" column="45" />
@@ -595,12 +601,12 @@
         <mark key="^" line="65" column="50" />
         <mark key="." line="65" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" timestamp="1537429502917">
-        <mark key="'" line="33" column="6" />
-        <mark key="[" line="58" column="41" />
-        <mark key="]" line="58" column="44" />
-        <mark key="." line="58" column="44" />
-        <mark key="^" line="58" column="44" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" timestamp="1537434771415">
+        <mark key="'" line="51" column="56" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="12" />
+        <mark key="." line="55" column="12" />
+        <mark key="^" line="47" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Pages/CureBeforeAfter/Controller.js" timestamp="1537166860667">
         <mark key="[" line="137" column="21" />
@@ -751,6 +757,11 @@
         <mark key="]" line="15" column="89" />
         <mark key="." line="15" column="89" />
         <mark key="^" line="15" column="89" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/globalStyled.js" timestamp="1537430835740">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Landing/Styled.js" timestamp="1530001945088">
         <mark key="[" line="14" column="37" />
@@ -983,11 +994,11 @@
         <mark key="." line="268" column="5" />
         <mark key="^" line="268" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/index.js" timestamp="1537420494825">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="6" column="20" />
-        <mark key="^" line="6" column="20" />
-        <mark key="." line="6" column="20" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/index.js" timestamp="1537430625000">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/components/Router/index.js" timestamp="1537335573384">
         <mark key="[" line="38" column="31" />
@@ -1495,9 +1506,6 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="29" column="30" />
       </file>
-      <file name="/fragment.js" timestamp="1537408958772">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/server/boot/root.js" timestamp="1533264108208">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="1" />
@@ -1946,13 +1954,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="550" column="0" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Intro/styled.js" />
-      <jump line="109" column="8" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Diet/styled.js" />
-      <jump line="1" column="19" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Popup.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Popup.js" />
-      <jump line="168" column="31" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Popup.js" />
-      <jump line="420" column="21" filename="$USER_HOME$/Documents/hnh/mhub/src/const.js" />
-      <jump line="25" column="27" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Accident/Symptom.js" />
       <jump line="74" column="22" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Chuna/styled.js" />
       <jump line="76" column="0" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Chuna/Waist.js" />
       <jump line="76" column="15" filename="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Member/Controller.js" />
@@ -2046,46 +2047,53 @@
       <jump line="1" column="19" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Home/Component/Popup.js" />
       <jump line="17" column="10" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" />
       <jump line="32" column="6" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" />
+      <jump line="50" column="17" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" />
+      <jump line="25" column="11" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" />
+      <jump line="127" column="11" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" />
+      <jump line="69" column="15" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" />
+      <jump line="1" column="19" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" />
+      <jump line="206" column="15" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" />
+      <jump line="42" column="56" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l16c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>l16c</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>#0d</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4KICAgICAgICDsg4HtmZjspJF7c3RlcDcwLmxlbmd0aH0KICAgICAgPC9kaXY+Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">PFR5cG9ncmFwaHkgdmFyaWFudD0ic3ViaGVhZGluZyIgY29tcG9uZW50PSJoMyI+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgIDx0ZD48L3RkPgogICAgICAgICAgICAgIDx0ZD48L3RkPgogICAgICAgICAgICAgIDx0ZD48L3RkPgogICAgICAgICAgICAgIDx0ZD48L3RkPgogICAgICAgICAgICAgIDx0ZD48L3RkPgogICAgICAgICAgICAgIDx0ZD48L3RkPgogICAgICAgICAgICAgIDx0ZD48L3RkPgogICAgICAgICAgICA8L3RyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8YnIvPgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxUeXBvZ3JhcGh5IHZhcmlhbnQ9ImhlYWRsaW5lIiBjb21wb25lbnQ9ImgzIj7sg4Htkogg6rSA66asPC9UeXBvZ3JhcGh5Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGVwNTApCg==</text>
+        <text encoding="base64">ICAgICAgICAg7IKs656MIHtDb21tb24ubnVtYmVyV2l0aENvbW1hKGNudC5hdXRoKX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVzID0+IHsKICAgIAogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgKX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBzdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAge2NudCAmJiAoCg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
