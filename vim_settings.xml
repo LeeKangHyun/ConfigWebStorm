@@ -589,20 +589,18 @@
         <mark key="." line="20" column="17" />
         <mark key="^" line="20" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/server/middleware.json" timestamp="1537408782370">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="49" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Diet/Nature.js" timestamp="1536213011013">
         <mark key="[" line="65" column="50" />
         <mark key="]" line="65" column="50" />
         <mark key="^" line="65" column="50" />
         <mark key="." line="65" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" timestamp="1537421857878">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" timestamp="1537427718149">
+        <mark key="'" line="20" column="10" />
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+        <mark key="^" line="8" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Pages/CureBeforeAfter/Controller.js" timestamp="1537166860667">
         <mark key="[" line="137" column="21" />
@@ -855,7 +853,7 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537426720435">
+      <file name="/Dummy.txt" timestamp="1537427926175">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1057,11 +1055,11 @@
         <mark key="." line="9" column="22" />
         <mark key="^" line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Pages/Popup/Controller.js" timestamp="1537318667155">
-        <mark key="[" line="110" column="29" />
-        <mark key="]" line="110" column="34" />
-        <mark key="." line="110" column="34" />
-        <mark key="^" line="110" column="34" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Pages/Popup/Controller.js" timestamp="1537427842031">
+        <mark key="[" line="73" column="18" />
+        <mark key="]" line="74" column="11" />
+        <mark key="." line="74" column="11" />
+        <mark key="^" line="74" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/Controller.js" timestamp="1537425871341">
         <mark key="[" line="11" column="12" />
@@ -1947,7 +1945,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="579" column="0" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Intro/styled.js" />
       <jump line="163" column="0" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Intro/styled.js" />
       <jump line="550" column="0" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Intro/styled.js" />
       <jump line="109" column="8" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Diet/styled.js" />
@@ -2047,13 +2044,14 @@
       <jump line="132" column="36" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Popup.js" />
       <jump line="16" column="25" filename="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Controller.js" />
       <jump line="1" column="19" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Home/Component/Popup.js" />
+      <jump line="17" column="10" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>const data =</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>const data =</text>
       </register>
       <register name="/" type="4">
         <text>#0d</text>
@@ -2061,34 +2059,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgaXNQcm9kdWN0aW9uID0gcHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdwcm9kdWN0aW9uJzsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAKICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICByZXR1cm4gcmVzID0+IHsKICAgIAogIH0K</text>
       </register>
-      <register name="2" type="4">
-        <text>{
-        
-      }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25zdCBzdGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBsZXQgcmVzcG9uc2UgPSBudWxsOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">PgogICAgICAgIA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KGVyci5tZXNzYWdlKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAKICAgICAgICA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCByZXNwb25zZSA9ICBhd2FpdCBheGlvcy5nZXQoZG9tYWluKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAocmVzcG9uc2UuZXJyb3IpIHsKICAgIHJldHVybiBhbGVydChyZXNwb25zZS5lcnJvci5tZXNzYWdlKTsKICB9IGVsc2UgewogICAgcmV0dXJuIHNlbmQocmVzcG9uc2UpOwogIH0K</text>
+        <text encoding="base64">ICAgICAgewogICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICDsmIjsuZjquIjslaEK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
