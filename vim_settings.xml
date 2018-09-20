@@ -571,6 +571,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/util/index.js" timestamp="1537423236615">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/index.js" timestamp="1534838517848">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="21" />
@@ -1056,11 +1062,11 @@
         <mark key="." line="110" column="34" />
         <mark key="^" line="110" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/Controller.js" timestamp="1537422740307">
-        <mark key="[" line="11" column="54" />
-        <mark key="]" line="11" column="55" />
-        <mark key="^" line="11" column="55" />
-        <mark key="." line="11" column="55" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/Controller.js" timestamp="1537423139322">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="7" column="34" />
+        <mark key="^" line="7" column="34" />
+        <mark key="." line="7" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin/package.json" timestamp="1537234728667">
         <mark key="[" line="13" column="13" />
@@ -1364,6 +1370,12 @@
         <mark key="]" line="11" column="26" />
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/util/Fetch.js" timestamp="1537423254167">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Intro/index.js" timestamp="1536114802696">
         <mark key="[" line="17" column="22" />
@@ -2032,10 +2044,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>#0d</text>
@@ -2043,32 +2055,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAiZmlsZXMiOiB7CiAgICAibG9vcGJhY2sjc3RhdGljIjogewogICAgICAicGFyYW1zIjogIiQhLi4vY2xpZW50IgogICAgfQogIH0sCiAgImZpbmFsIjogewogICAgIi4vbWlkZGxld2FyZS9VcmxOb3RGb3VuZENhdGNoIjoge30KICB9LAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGF4aW9zLmdldCgnJykK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgIAogICAgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF4aW9zLmdldCgnJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnR5cGUgUHJvcHMgewogIAp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CnR5cGUgUHJvcHMgewogIAp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPEZyYWdtZW50PgogICAgICAgIDxTd2l0Y2g+CiAgICAgICAgCiAgICAgICAgPC9Td2l0Y2g+CiAgICAgIDwvRnJhZ21lbnQ+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgPEZyYWdtZW50PgogICAgICAgIDxTd2l0Y2g+CiAgICAgICAgCiAgICAgICAgPC9Td2l0Y2g+CiAgICAgIDwvRnJhZ21lbnQ+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPFN3aXRjaD4KICAgICAgICAKICAgICAgPC9Td2l0Y2g+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICAKICB9CiAgCg==</text>
+        <text encoding="base64">ICAgICAgPFN3aXRjaD4KICAgICAgICAKICAgICAgPC9Td2l0Y2g+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
