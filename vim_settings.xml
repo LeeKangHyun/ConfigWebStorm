@@ -601,12 +601,12 @@
         <mark key="^" line="65" column="50" />
         <mark key="." line="65" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" timestamp="1537499318544">
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" timestamp="1537500127908">
         <mark key="'" line="120" column="19" />
-        <mark key="[" line="125" column="21" />
-        <mark key="]" line="125" column="45" />
-        <mark key="." line="125" column="45" />
-        <mark key="^" line="125" column="45" />
+        <mark key="[" line="129" column="23" />
+        <mark key="]" line="129" column="41" />
+        <mark key="." line="129" column="41" />
+        <mark key="^" line="129" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Pages/CureBeforeAfter/Controller.js" timestamp="1537166860667">
         <mark key="[" line="137" column="21" />
@@ -1080,11 +1080,11 @@
         <mark key="." line="74" column="11" />
         <mark key="^" line="74" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/Controller.js" timestamp="1537499240739">
-        <mark key="[" line="101" column="42" />
-        <mark key="]" line="102" column="44" />
-        <mark key="^" line="102" column="44" />
-        <mark key="." line="102" column="44" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/Controller.js" timestamp="1537500168967">
+        <mark key="[" line="65" column="19" />
+        <mark key="]" line="66" column="3" />
+        <mark key="^" line="66" column="3" />
+        <mark key="." line="66" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin/package.json" timestamp="1537234728667">
         <mark key="[" line="13" column="13" />
@@ -2098,43 +2098,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>''</text>
+        <text>: 0</text>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text>: 0</text>
       </register>
       <register name="/" type="4">
         <text>#0d</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2FuQmFsYW5jZTogcmVzLkxvYW5CYWxhbmNlLAogICAgICAgIGluaXREYXk6IHJlcy5pbml0RGF5LAogICAgICAgIGxvYW5QcmluY2lwYWw6IHJlcy5sb2FuUHJpbmNpcGFsLAogICAgICAgIGRlbGlucXVlbmN5UmF0ZTogcmVzLmRlbGlucXVlbmN5UmF0ZSwK</text>
+        <text encoding="base64">ICAgICAgTG9hbkJhbGFuY2U6IDAsCiAgICAgIGluaXREYXk6ICcnLAogICAgICBsb2FuUHJpbmNpcGFsOiAwLAogICAgICBkZWxpbnF1ZW5jeVJhdGU6IDAsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgTG9hbgo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9e29uQ2xpY2tUb0VkaXR9PuyImOyglTwvQnV0dG9uPgogICAgICAgICAgICAgIDxCdXR0b24+7KCA7J6lPC9CdXR0b24+Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgTG9hbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAuLi5wcm9wcwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
+        <text encoding="base64">ICAuLi5wcm9wcwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8aDM+67aA7IukPC9oMz4KICAgICAgICAgICAgICB7c3RlcDczLmxlbmd0aH0K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8aDM+7Jew7LK0PC9oMz4KICAgICAgICAgICAgICB7c3RlcDcyLmxlbmd0aH0K</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
