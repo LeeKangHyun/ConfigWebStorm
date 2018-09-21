@@ -601,12 +601,12 @@
         <mark key="^" line="65" column="50" />
         <mark key="." line="65" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" timestamp="1537500127908">
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" timestamp="1537504467586">
         <mark key="'" line="120" column="19" />
-        <mark key="[" line="129" column="23" />
-        <mark key="]" line="129" column="41" />
-        <mark key="." line="129" column="41" />
-        <mark key="^" line="129" column="41" />
+        <mark key="[" line="129" column="50" />
+        <mark key="]" line="129" column="56" />
+        <mark key="." line="129" column="56" />
+        <mark key="^" line="129" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Pages/CureBeforeAfter/Controller.js" timestamp="1537166860667">
         <mark key="[" line="137" column="21" />
@@ -2098,7 +2098,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>: 0</text>
+        <text encoding="base64">IHZhcmlhbnQ9Im91dGxpbmVkIg==</text>
       </register>
       <register name="-" type="4">
         <text>: 0</text>
@@ -2106,8 +2106,8 @@
       <register name="/" type="4">
         <text>#0d</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTG9hbkJhbGFuY2U6IDAsCiAgICAgIGluaXREYXk6ICcnLAogICAgICBsb2FuUHJpbmNpcGFsOiAwLAogICAgICBkZWxpbnF1ZW5jeVJhdGU6IDAsCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHZhcmlhbnQ9Im91dGxpbmVkIg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
