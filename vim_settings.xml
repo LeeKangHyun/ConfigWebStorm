@@ -680,11 +680,11 @@
         <mark key="." line="25" column="19" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Router/index.js" timestamp="1537492575215">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="21" column="0" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Router/index.js" timestamp="1538383413479">
+        <mark key="[" line="38" column="43" />
+        <mark key="]" line="38" column="46" />
+        <mark key="." line="38" column="46" />
+        <mark key="^" line="38" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Pages/Inquiry/Controller.js" timestamp="1535529302794">
         <mark key="[" line="26" column="0" />
@@ -1005,6 +1005,12 @@
         <mark key="]" line="51" column="37" />
         <mark key="^" line="51" column="37" />
         <mark key="." line="51" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Term/index.js" timestamp="1538383369724">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Board/component/BoardList.js" timestamp="1531125226335">
         <mark key="[" line="8" column="39" />
@@ -2028,11 +2034,11 @@
         <mark key="^" line="21" column="31" />
         <mark key="." line="21" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/index.js" timestamp="1537323347192">
-        <mark key="[" line="168" column="13" />
-        <mark key="]" line="169" column="14" />
-        <mark key="." line="169" column="14" />
-        <mark key="^" line="169" column="14" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/index.js" timestamp="1538383451849">
+        <mark key="[" line="84" column="10" />
+        <mark key="]" line="84" column="14" />
+        <mark key="." line="84" column="14" />
+        <mark key="^" line="84" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/notify/event.js" timestamp="1536645390029">
         <mark key="[" line="115" column="64" />
@@ -2174,11 +2180,11 @@
       <jump line="20" column="28" filename="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Booking/Controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkYXRlID0gaW5zdGFuY2UuZnVsbENhbGVuZGFyKCdnZXREYXRlJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>SubPage</text>
       </register>
       <register name="-" type="4">
-        <text>getDate</text>
+        <text>SubPage</text>
       </register>
       <register name="/" type="4">
         <text>#0d</text>
