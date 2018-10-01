@@ -473,11 +473,11 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="8" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Components/Nav/index.js" timestamp="1538353591844">
-        <mark key="[" line="43" column="8" />
-        <mark key="]" line="43" column="11" />
-        <mark key="." line="43" column="8" />
-        <mark key="^" line="58" column="36" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Components/Nav/index.js" timestamp="1538354786742">
+        <mark key="[" line="41" column="13" />
+        <mark key="]" line="41" column="15" />
+        <mark key="." line="41" column="15" />
+        <mark key="^" line="41" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/ViewBox.js" timestamp="1537253730444">
         <mark key="[" line="32" column="19" />
@@ -520,11 +520,11 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Pages/Admin/Controller.js" timestamp="1538353816858">
-        <mark key="[" line="162" column="25" />
-        <mark key="]" line="167" column="9" />
-        <mark key="^" line="167" column="9" />
-        <mark key="." line="167" column="9" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Pages/Admin/Controller.js" timestamp="1538354675953">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="165" column="9" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/saga/index.js" timestamp="1530777858565">
         <mark key="[" line="6" column="2" />
@@ -893,7 +893,7 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537516302114">
+      <file name="/Dummy.txt" timestamp="1538354930121">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2155,11 +2155,11 @@
       <jump line="59" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/List.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsYWJlbD4KICAgICAgICAgICAg6rO8IOuqqQogICAgICAgICAgICA8c2VsZWN0IGRlZmF1bHRWYWx1ZT17ZGVwYXJ0bWVudElkfSBuYW1lPSJkZXBhcnRtZW50SWQiIG9uQ2hhbmdlPXtvbkNoYW5nZVRvU3RhdGV9PgogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHN1YmplY3QubWFwKChpdGVtLCBpZHgpID0+ICgKICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT17aXRlbS5pZH0ga2V5PXtpZHh9PgogICAgICAgICAgICAgICAgICAgIHtpdGVtLmxhYmVsfQogICAgICAgICAgICAgICAgICA8L29wdGlvbj4KICAgICAgICAgICAgICAgICkpCiAgICAgICAgICAgICAgfQogICAgICAgICAgICA8L3NlbGVjdD4KICAgICAgICAgIDwvbGFiZWw+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>실장관리</text>
       </register>
       <register name="-" type="4">
-        <text>#0d6fb8</text>
+        <text>실장관리</text>
       </register>
       <register name="/" type="4">
         <text>#0d</text>
@@ -2168,31 +2168,31 @@
         <text encoding="base64">ICAgICAgICAgICAge3RpbWUucmVwbGFjZSgvKFtcZF17Mn0pKFtcZF17Mn0pLywgKG1hdGNoLCBwMSwgcDIpID0+IChbcDEsIHAyXS5qb2luKCc6JykpKX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsYWJlbD4KICAgICAgICAgICAg6rO8IOuqqQogICAgICAgICAgICA8c2VsZWN0IGRlZmF1bHRWYWx1ZT17ZGVwYXJ0bWVudElkfSBuYW1lPSJkZXBhcnRtZW50SWQiIG9uQ2hhbmdlPXtvbkNoYW5nZVRvU3RhdGV9PgogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHN1YmplY3QubWFwKChpdGVtLCBpZHgpID0+ICgKICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT17aXRlbS5pZH0ga2V5PXtpZHh9PgogICAgICAgICAgICAgICAgICAgIHtpdGVtLmxhYmVsfQogICAgICAgICAgICAgICAgICA8L29wdGlvbj4KICAgICAgICAgICAgICAgICkpCiAgICAgICAgICAgICAgfQogICAgICAgICAgICA8L3NlbGVjdD4KICAgICAgICAgIDwvbGFiZWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZXBhcnRtZW50SWQsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoPuqzvOuqqTwvdGg+Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZXBhcnRtZW50SWQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD57c3ViamVjdFsraXRlbS5kZXBhcnRtZW50SWQgLSAxXVsnbGFiZWwnXX08L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxsYWJlbD4KICAgICAgICAgICAg6rO8IOuqqQogICAgICAgICAgICA8c2VsZWN0IGRlZmF1bHRWYWx1ZT17ZGVwYXJ0bWVudElkfSBuYW1lPSJkZXBhcnRtZW50SWQiIG9uQ2hhbmdlPXtvbkNoYW5nZVRvU3RhdGV9PgogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHN1YmplY3QubWFwKChpdGVtLCBpZHgpID0+ICgKICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT17aXRlbS5pZH0ga2V5PXtpZHh9PgogICAgICAgICAgICAgICAgICAgIHtpdGVtLmxhYmVsfQogICAgICAgICAgICAgICAgICA8L29wdGlvbj4KICAgICAgICAgICAgICAgICkpCiAgICAgICAgICAgICAgfQogICAgICAgICAgICA8L3NlbGVjdD4KICAgICAgICAgIDwvbGFiZWw+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmNvbnN0IHN1YmplY3QgPSBbCiAge2lkOiAxLCBsYWJlbDogJ+qxtOqwleqygOynhCd9LAogIHtpZDogMiwgbGFiZWw6ICfruYTrh6jquLDqs7wo64Ko7ISxKSd9LAogIHtpZDogMywgbGFiZWw6ICfruYTrh6jquLDqs7wo7Jes7ISxKSd9LAogIHtpZDogNCwgbGFiZWw6ICftlLzrtoDqs7wnfSwKICB7aWQ6IDUsIGxhYmVsOiAn7IaM7JWE6rO8J30sCl07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRoPuqzvOuqqTwvdGg+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHVwZGF0ZSBmcm9tICdpbW11dGFiaWxpdHktaGVscGVyJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD57c3ViamVjdFsraXRlbS5kZXBhcnRtZW50SWQgLSAxXVsnbGFiZWwnXX08L3RkPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IElucHV0Cg==</text>
+        <text encoding="base64">CmNvbnN0IHN1YmplY3QgPSBbCiAge2lkOiAxLCBsYWJlbDogJ+qxtOqwleqygOynhCd9LAogIHtpZDogMiwgbGFiZWw6ICfruYTrh6jquLDqs7wo64Ko7ISxKSd9LAogIHtpZDogMywgbGFiZWw6ICfruYTrh6jquLDqs7wo7Jes7ISxKSd9LAogIHtpZDogNCwgbGFiZWw6ICftlLzrtoDqs7wnfSwKICB7aWQ6IDUsIGxhYmVsOiAn7IaM7JWE6rO8J30sCl07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgICdsaXN0JyAmJiBtYXRjaC5wYXJhbXMubW9kZSAmJiAKICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHVwZGF0ZSBmcm9tICdpbW11dGFiaWxpdHktaGVscGVyJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc2VhcmNoRm9ybSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IElucHV0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7dGltZX0KICAK</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgICdsaXN0JyAmJiBtYXRjaC5wYXJhbXMubW9kZSAmJiAKICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
