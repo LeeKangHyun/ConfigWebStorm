@@ -21,10 +21,6 @@
         <mark key="." line="20" column="34" />
         <mark key="^" line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Controller.js" timestamp="1538369964066">
-        <mark key="[" line="281" column="0" />
-        <mark key="]" line="305" column="6" />
-      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Mask/Controller.js" timestamp="1531358203986">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -511,6 +507,11 @@
         <mark key="." line="54" column="20" />
         <mark key="^" line="54" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/webpack.config.js" timestamp="1538461410610">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/index.js" timestamp="1537426643689">
         <mark key="[" line="223" column="20" />
         <mark key="]" line="223" column="20" />
@@ -909,7 +910,7 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538461109094">
+      <file name="/Dummy.txt" timestamp="1538461918601">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1510,6 +1511,11 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/webpack.test.config.js" timestamp="1538461358784">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Controller.js" timestamp="1536906028166">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="33" column="4" />
@@ -1668,6 +1674,12 @@
         <mark key="." line="37" column="30" />
         <mark key="^" line="37" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/app.js" timestamp="1538461737085">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Board/contents.css" timestamp="1537259862574">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="11" />
@@ -1686,6 +1698,7 @@
         <mark key="." line="996" column="4" />
         <mark key="^" line="996" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app.js" timestamp="1538461499281" />
       <file name="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Pages/Inquiry/Viewer.js" timestamp="1536890045387">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1806,6 +1819,11 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/webpack.dev.config.js" timestamp="1538461381192">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="13" />
+        <mark key="." line="24" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Member/CheckedBox.js" timestamp="1536561831310">
         <mark key="[" line="14" column="19" />
         <mark key="]" line="14" column="23" />
@@ -1882,6 +1900,11 @@
         <mark key="]" line="16" column="29" />
         <mark key="." line="16" column="29" />
         <mark key="^" line="16" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/webpack.prod.config.js" timestamp="1538461369825">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Pages/Intro/styled.js" timestamp="1536647194757">
         <mark key="[" line="20" column="16" />
@@ -2031,10 +2054,6 @@
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Calendar.js" timestamp="1538363744617">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="38" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Customer/Advice/index.js" timestamp="1536642701588">
         <mark key="[" line="49" column="17" />
@@ -2201,10 +2220,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaXNMb2dnZWQ6IHRoaXMucHJvcHMudmFsdWUuaXNMb2dnZWQsCg==</text>
+        <text encoding="base64">ICAgICAgJ2pzLXBvbHlmaWxscy9wb2x5ZmlsbC5taW4uanMnLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>isLogged: this.props.value.isLogged,</text>
+        <text encoding="base64">J2JhYmVsLXBvbHlmaWxsJywg</text>
       </register>
       <register name="/" type="4">
         <text>#0d</text>
@@ -2213,31 +2232,31 @@
         <text encoding="base64">ICAgICAgdGhpcy5tYWtlSW52ZXN0SXRlbSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaXNMb2dnZWQ6IHRoaXMucHJvcHMudmFsdWUuaXNMb2dnZWQsCg==</text>
+        <text encoding="base64">ICAgICAgJ2pzLXBvbHlmaWxscy9wb2x5ZmlsbC5taW4uanMnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuCg==</text>
+        <text encoding="base64">ICAgICAgJ2pzLXBvbHlmaWxscy9wb2x5ZmlsbC5taW4uanMnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMubWFrZUludmVzdEl0ZW0oKTsK</text>
+        <text encoding="base64">ICAgICAgJ2pzLXBvbHlmaWxscy9wb2x5ZmlsbC5taW4uanMnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgaXRlbSB9ID0gdGhpcy5zdGF0ZTsK</text>
+        <text encoding="base64">ICAgICAgJ2pzLXBvbHlmaWxscy9wb2x5ZmlsbC5taW4uanMnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChPYmplY3Qua2V5cyhpdGVtKS5sZW5ndGggIT09IDApIHsKICAgICAgcmV0dXJuIGZhbHNlOwogICAgfSBlbHNlIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHZlbmRvcjogWydiYWJlbC1wb2x5ZmlsbCcsICdyZWFjdCcsICdyZWFjdC1kb20nXSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5tYWtlSW52ZXN0SXRlbUFwaSgpLnRoZW4oKGRhdGEpID0+IHsKICAgICAgICBjb25zdCBpdGVtID0gdXBkYXRlKHt9LCB7JG1lcmdlOiB7Li4uaW52ZXN0Lmxpc3RbcGFyYW1zLnVpZF0sIC4uLmRhdGF9fSk7CiAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICBpdGVtOiB1cGRhdGUoe30sIHskc2V0OiBpdGVtfSkKICAgICAgICB9KQogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIHZlbmRvcjogWydiYWJlbC1wb2x5ZmlsbCcsICdyZWFjdCcsICdyZWFjdC1kb20nXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5tYWtlSW52ZXN0SXRlbSgpOwo=</text>
+        <text encoding="base64">ICAgIHZlbmRvcjogWydiYWJlbC1wb2x5ZmlsbCcsICdyZWFjdCcsICdyZWFjdC1kb20nXSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKE9iamVjdC5rZXlzKHByZXZTdGF0ZS5pdGVtKS5sZW5ndGggPT09IDApIHsKICAgICAgICB0aGlzLm1ha2VJbnZlc3RJdGVtKCk7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgJ2pzLXBvbHlmaWxscy9wb2x5ZmlsbC5taW4uanMnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChPYmplY3Qua2V5cyh0aGlzLnN0YXRlLml0ZW0pLmxlbmd0aCA9PT0gMCkgewogICAgICB0aGlzLm1ha2VJbnZlc3RJdGVtKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByb3h5OiB7CiAgICAgICIqKiI6ICJodHRwOi8vbG9jYWxob3N0OjMwMjMiCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
