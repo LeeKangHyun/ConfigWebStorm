@@ -274,12 +274,12 @@
         <mark key="." line="347" column="45" />
         <mark key="^" line="347" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/item/index.js" timestamp="1538452162361">
-        <mark key="'" line="105" column="6" />
-        <mark key="[" line="123" column="16" />
-        <mark key="]" line="123" column="19" />
-        <mark key="." line="123" column="19" />
-        <mark key="^" line="123" column="19" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/item/index.js" timestamp="1538456675337">
+        <mark key="'" line="118" column="6" />
+        <mark key="[" line="34" column="77" />
+        <mark key="]" line="35" column="24" />
+        <mark key="." line="35" column="24" />
+        <mark key="^" line="35" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Home/styled.js" timestamp="1537336065218">
         <mark key="[" line="498" column="25" />
@@ -2204,43 +2204,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.makeInvestItem()</text>
+        <text encoding="base64">ICYmIGl0ZW0uY29uc3RydWN0b3IgPT09IE9iamVjdA==</text>
       </register>
       <register name="-" type="4">
-        <text>this.makeInvestItem()</text>
+        <text encoding="base64">ICYmIGl0ZW0uY29uc3RydWN0b3IgPT09IE9iamVjdA==</text>
       </register>
       <register name="/" type="4">
         <text>#0d</text>
       </register>
-      <register name="0" type="4">
-        <text>await axios.get(domain);</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5tYWtlSW52ZXN0SXRlbSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IF9mZXRjaCBmcm9tICdpc29tb3JwaGljLWZldGNoJzsK</text>
+        <text encoding="base64">ICAgIGlmIChpdGVtKSB7CiAgICAgIAogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhd2FpdCBnZXRJbnZlc3RJdGVtKHBhcmFtcy51aWQpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5tYWtlSW52ZXN0SXRlbSgpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LnRoZW4oKGRhdGEpID0+IHsKICAgICAgICBkaXNwYXRjaChyZXNvbHZlKGRhdGEpKTsKICAgICAgfSkuY2F0Y2goZXJyID0+IHsKICAgICAgICByZWplY3QoZXJyKTsKICAgICAgfSk=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0SW52ZXN0SXRlbSwgfSBmcm9tICcuLi8uLi8uLi8uLi9yZWR1eC9pbnZlc3QvYWN0aW9uJzsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGdldEludmVzdEl0ZW0sCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZmV0Y2guZ2V0KGBJbnZlc3RzL2ludmVzdEl0ZW0vJHt1aWR9YCkudGhlbigoZGF0YSkgPT4gewogICAgICAgIGRpc3BhdGNoKHJlc29sdmUoZGF0YSkpOwogICAgICB9KS5jYXRjaChlcnIgPT4gewogICAgICAgIHJlamVjdChlcnIpOwogICAgICB9KQ==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvbHZlKGRpc3BhdGNoKGRhdGEpKTsK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5tYWtlSW52ZXN0SXRlbSgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgaXRlbQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgaXRlbSA9IHRoaXMubWFrZUludmVzdEl0ZW0oKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIGRhdGE7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGl0ZW0gPSB0aGlzLm1ha2VJbnZlc3RJdGVtKCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZldGNoLmdldChgSW52ZXN0cy9pbnZlc3RJdGVtLyR7dWlkfWApLnRoZW4oKGRhdGEpID0+IHsKICAgICAgZGlzcGF0Y2goZGF0YSkKICAgIH0pCg==</text>
+        <text encoding="base64">aW1wb3J0IF9mZXRjaCBmcm9tICdpc29tb3JwaGljLWZldGNoJzsK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
