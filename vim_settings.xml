@@ -1404,6 +1404,12 @@
         <mark key="^" line="99" column="27" />
         <mark key="." line="99" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/Info/index.js" timestamp="1538643127259">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="12" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Components/Router/index.js" timestamp="1535529049757">
         <mark key="[" line="25" column="82" />
         <mark key="]" line="25" column="82" />
@@ -2320,7 +2326,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>, Tab</text>
@@ -2332,31 +2338,31 @@
         <text encoding="base64">ICBmb250LXNpemU6IDE2cHg7CiAgZm9udC13ZWlnaHQ6IDMwMDsKICBjb2xvcjogIzJhMmEyYTsKICBsaW5lLWhlaWdodDogMS41ZW07CiAgd29yZC1icmVhazoga2VlcC1hbGw7CiAgQG1lZGlhIGFsbCBhbmQgKG1heC13aWR0aDogMTA3OXB4KSB7CiAgICBtYXJnaW4tdG9wOiA0MHB4OwogICAgZm9udC1zaXplOiAxM3B4OwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IENhbEZvcm0gPSBzdHlsZWQuYXJ0aWNsZWAKICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEluZm8gPSAoKSA9PiB7CiAgCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmb250LXdlaWdodDogMzAwOwo=</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlZCBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IENhbEZvcm0gPSBzdHlsZWQuYXJ0aWNsZWAKICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdlYjogLAogICAgdGFiOiAsCiAgICBtb2I6ICwK</text>
+        <text encoding="base64">ICBmb250LXdlaWdodDogMzAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlZCBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPFByaXZhY3kgLz4K</text>
+        <text encoding="base64">ICAgIHdlYjogLAogICAgdGFiOiAsCiAgICBtb2I6ICwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8VGFiIGNvdW50PXtJdGVtLnN1Yi5sZW5ndGh9IGlubmVyUmVmPXtpbm5lclJlZn0+CiAgICAgICAgICB7SXRlbS5zdWIubWFwKChkYXRhLCBpZHgpID0+ICgKICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgIGtleT17aWR4fQogICAgICAgICAgICAgIGNsYXNzTmFtZT17ZGF0YS50YWIgPT09IHN1YiA/ICdjbGlja2VkJyA6ICcnfQogICAgICAgICAgICAgIG9uQ2xpY2s9e2dvVHJhbi5iaW5kKHRoaXMsIGRhdGEudXJsKX0+CiAgICAgICAgICAgICAge2RhdGEubmFtZX0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICApKX0KICAgICAgICA8L1RhYj4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAge3JlbmRlcldpdGhQYWdlKHR5cGUsIHN1Yil9Cg==</text>
+        <text encoding="base64">ICAgICAgPFByaXZhY3kgLz4K</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
