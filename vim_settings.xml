@@ -484,7 +484,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538723046705">
+      <file name="/Dummy.txt" timestamp="1538723197575">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -889,6 +889,12 @@
         <mark key="]" line="25" column="23" />
         <mark key="." line="25" column="23" />
         <mark key="^" line="25" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/hnh/jayeon_admin/common/models/Inquiry.js" timestamp="1538723182481">
+        <mark key="[" line="57" column="64" />
+        <mark key="]" line="57" column="64" />
+        <mark key="." line="57" column="64" />
+        <mark key="^" line="57" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/popup/reducer.js" timestamp="1529659940479">
         <mark key="[" line="28" column="7" />
@@ -2365,10 +2371,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>today</text>
+        <text>data.departmentId</text>
       </register>
       <register name="-" type="4">
-        <text>today</text>
+        <text>data.departmentId</text>
       </register>
       <register name="/" type="4">
         <text>#0d</text>
