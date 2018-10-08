@@ -483,7 +483,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538976717119">
+      <file name="/Dummy.txt" timestamp="1538976987815">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -610,11 +610,11 @@
         <mark key="." line="22" column="14" />
         <mark key="^" line="22" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/company/styled.js" timestamp="1538974469717">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="14" />
-        <mark key="^" line="3" column="13" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/company/styled.js" timestamp="1538977835020">
+        <mark key="[" line="123" column="13" />
+        <mark key="]" line="123" column="14" />
+        <mark key="." line="123" column="14" />
+        <mark key="^" line="101" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/globalStyled.js" timestamp="1537258321635">
         <mark key="[" line="6" column="0" />
@@ -2382,11 +2382,11 @@
       <jump line="18" column="6" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/company/Company.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTA1MHB4OwogIG1hcmdpbjogMCBhdXRvOwogIEBtZWRpYSBhbGwgYW5kIChtaW4td2lkdGg6IDEyODBweCkgYW5kIChtYXgtd2lkdGg6IDE0MzlweCl7CiAgICB3aWR0aDogOTYwcHg7CiAgfQogIEBtZWRpYSBhbGwgYW5kIChtYXgtd2lkdGg6IDEyNzlweCkgewogICAgd2lkdGg6IDU4MHB4OwogIH0KICBAbWVkaWEgYWxsIGFuZCAobWF4LXdpZHRoOiA2NDBweCkgewogICAgd2lkdGg6IGNhbGMoMTAwJSAtIDQwcHgpOwogIH0K</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>24px</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
