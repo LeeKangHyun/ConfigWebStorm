@@ -348,11 +348,11 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Controller.js" timestamp="1539156121297">
-        <mark key="[" line="22" column="24" />
-        <mark key="]" line="22" column="27" />
-        <mark key="." line="22" column="27" />
-        <mark key="^" line="22" column="27" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Controller.js" timestamp="1539156866033">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="11" />
+        <mark key="." line="15" column="11" />
+        <mark key="^" line="15" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/util/index.js" timestamp="1539147763709">
         <mark key="[" line="4" column="77" />
@@ -360,12 +360,12 @@
         <mark key="." line="4" column="77" />
         <mark key="^" line="28" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/JudgeLoan.js" timestamp="1539156094650">
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/JudgeLoan.js" timestamp="1539157045909">
         <mark key="'" line="61" column="29" />
-        <mark key="[" line="61" column="18" />
-        <mark key="]" line="61" column="21" />
-        <mark key="^" line="61" column="21" />
-        <mark key="." line="61" column="21" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="80" column="45" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Diet/Nature.js" timestamp="1536213011013">
         <mark key="[" line="65" column="50" />
@@ -2387,11 +2387,11 @@
       <jump line="61" column="29" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/JudgeLoan.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAKICBnZXRTbmFwc2hvdEJlZm9yZVVwZGF0ZShwcmV2UHJvcHMsIHByZXZTdGF0ZSkgewogICAgIHJldHVybiBudWxsOwogIH0KICAKICBjb21wb25lbnREaWRVcGRhdGUocHJldlByb3BzLCBwcmV2U3RhdGUsIHNuYXBzaG90KSB7CiAgICBjb25zb2xlLmxvZyhwcmV2UHJvcHMsIHByZXZTdGF0ZSwgc25hcHNob3QpCiAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -2400,41 +2400,31 @@
         <text encoding="base64">IGNsYXNzTmFtZT17Y2xhc3Nlcy5idXR0b259</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKICBjb21wb25lbnRXaWxsVW5tb3VudCgpIHsKICAgIHRoaXMuc2V0U3RhdGUodGhpcy5pbml0aXNsU3RhdGUpCiAgfQo=</text>
+        <text encoding="base64">ICAKICBnZXRTbmFwc2hvdEJlZm9yZVVwZGF0ZShwcmV2UHJvcHMsIHByZXZTdGF0ZSkgewogICAgIHJldHVybiBudWxsOwogIH0KICAKICBjb21wb25lbnREaWRVcGRhdGUocHJldlByb3BzLCBwcmV2U3RhdGUsIHNuYXBzaG90KSB7CiAgICBjb25zb2xlLmxvZyhwcmV2UHJvcHMsIHByZXZTdGF0ZSwgc25hcHNob3QpCiAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChKU09OLnN0cmluZ2lmeShuZXh0UHJvcHMuZGF0YSkgIT09IEpTT04uc3RyaW5naWZ5KHByZXZTdGF0ZS5kYXRhKSkgewogICAgICByZXR1cm4gewogICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhOiBuZXh0UHJvcHMuZGF0YSwK</text>
+        <text encoding="base64">ICAKICBjb21wb25lbnRXaWxsVW5tb3VudCgpIHsKICAgIHRoaXMuc2V0U3RhdGUodGhpcy5pbml0aXNsU3RhdGUpCiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGlmIChKU09OLnN0cmluZ2lmeShuZXh0UHJvcHMuZGF0YSkgIT09IEpTT04uc3RyaW5naWZ5KHByZXZTdGF0ZS5kYXRhKSkgewogICAgICByZXR1cm4gewogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBkYXRhOiBuZXh0UHJvcHMuZGF0YSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGF0YSwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhOiBuZXh0UHJvcHMuZGF0YSwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgZGF0YSwK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBvblZ4Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>{
-      
-    }</text>
-      </register>
-      <register name="9" type="4">
-        <text>{
-      amount: '',
-      rate: '',
-      maturity: '',
-      method: 1,
-      kcb: 1,
-      payday: 1,
-      startDate: moment().format('YYYY-MM-DD'),
-    }</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
