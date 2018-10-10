@@ -121,11 +121,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/components/Common/Price/index.js" timestamp="1539131662786">
-        <mark key="[" line="51" column="36" />
-        <mark key="]" line="51" column="43" />
-        <mark key="." line="51" column="36" />
-        <mark key="^" line="51" column="30" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/components/Common/Price/index.js" timestamp="1539136720325">
+        <mark key="[" line="99" column="19" />
+        <mark key="]" line="99" column="33" />
+        <mark key="^" line="99" column="33" />
+        <mark key="." line="99" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Pages/Board/Controller.js" timestamp="1538716850487">
         <mark key="[" line="210" column="0" />
@@ -1584,11 +1584,11 @@
         <mark key="^" line="31" column="37" />
         <mark key="." line="31" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/jayeon/src/components/Common/Price/styled.js" timestamp="1539131955366">
-        <mark key="[" line="42" column="27" />
-        <mark key="]" line="42" column="39" />
-        <mark key="^" line="42" column="39" />
-        <mark key="." line="42" column="39" />
+      <file name="$USER_HOME$/Documents/hnh/jayeon/src/components/Common/Price/styled.js" timestamp="1539137528151">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/util/Fetch.js" timestamp="1537423254167">
         <mark key="[" line="0" column="0" />
@@ -2352,46 +2352,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.table</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>.table</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbGluZS1oZWlnaHQ6IDEuNTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGNsYXNzTmFtZT0ibm8tYmIi</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAbWVkaWEgYWxsIGFuZCAobWF4LXdpZHRoOiA3NjdweCkgewogICAgbWFyZ2luLXRvcDogMTBweDsKICAgIGZvbnQtc2l6ZTogMTJweDsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6IDE1cHg7CiAgd29yZC1icmVhazoga2VlcC1hbGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWlnaHQ6IDMwcHg7CiAgICAgICAgJjpmaXJzdC1jaGlsZCB7CiAgICAgICAgICB3aWR0aDogMTAwcHg7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJTsKICBtYXJnaW4tdG9wOiAxNXB4OwogIGJvcmRlci10b3A6IDJweCBzb2xpZCAke0JsdWV9OwogIGJvcmRlci1ib3R0b206IDJweCBzb2xpZCAke0JsdWV9Owo=</text>
+        <text encoding="base64">ICAgICYucm93LTEgewogICAgICBoZWlnaHQ6IDMwcHg7CiAgICAgICY6Zmlyc3QtY2hpbGQgewogICAgICAgIHdpZHRoOiAxMDBweDsKICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbGluZS1oZWlnaHQ6IDEuNTsK</text>
+        <text encoding="base64">ICAgICAgICB0ciB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD45MDAsMDAw7JuQPC90ZD4KICAgICAgICAgICAgICAgIDx0ZD44MTAsMDAw7JuQPC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgIHRkIHsKICAgICAgICAgICAgJjpmaXJzdC1jaGlsZCB7CiAgICAgICAgICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNjOGM4Yzg7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLm5vLWJiIHsKICAgICAgICBib3JkZXItYm90dG9tOiBub25lOwogICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0aCB7CiAgICBoZWlnaHQ6IDQwcHg7CiAgICBiYWNrZ3JvdW5kOiAjZWFmNGY3OwogICAgdmVydGljYWwtYWxpZ246IG1pZGRsZTsKICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgbGV0dGVyLXNwYWNpbmc6IC0wLjRweDsKICAgIGNvbG9yOiAjMmEyYTJhOwogIH0K</text>
+        <text encoding="base64">ICAgICAgPiB0ZCB7CiAgICAgICAgJgogICAgICB9Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="9" type="4">
+        <text>.no-bb {
+          border-bottom: none;
+        }</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -2399,7 +2401,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDx9XD4=</last-pattern>
       <last-replace>import &quot;</last-replace>
-      <last-substitute>#0d</last-substitute>
+      <last-substitute encoding="base64">XDx9XD4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -2427,8 +2429,6 @@
         <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>set nu</entry>
-        <entry>set nonu</entry>
         <entry>21</entry>
         <entry>set hls ic</entry>
         <entry>nohls</entry>
@@ -2445,6 +2445,10 @@
         <entry>%s/children/sub</entry>
         <entry>%s/require(/import &quot;</entry>
         <entry>actionlist</entry>
+        <entry>buffer</entry>
+        <entry>h buffer-list</entry>
+        <entry>split</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
