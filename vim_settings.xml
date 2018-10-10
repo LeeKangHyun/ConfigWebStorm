@@ -360,12 +360,12 @@
         <mark key="." line="4" column="77" />
         <mark key="^" line="28" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/JudgeLoan.js" timestamp="1539157045909">
-        <mark key="'" line="61" column="29" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="80" column="45" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/JudgeLoan.js" timestamp="1539159246618">
+        <mark key="'" line="130" column="34" />
+        <mark key="[" line="87" column="14" />
+        <mark key="]" line="87" column="14" />
+        <mark key="^" line="87" column="14" />
+        <mark key="." line="87" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Diet/Nature.js" timestamp="1536213011013">
         <mark key="[" line="65" column="50" />
@@ -469,7 +469,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539149313903">
+      <file name="/Dummy.txt" timestamp="1539159421262">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2285,7 +2285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="1" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/After/Controller.js" />
       <jump line="123" column="0" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/After/Controller.js" />
       <jump line="53" column="10" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/After/index.js" />
       <jump line="81" column="0" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/After/index.js" />
@@ -2385,46 +2384,47 @@
       <jump line="89" column="43" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/Info/index.js" />
       <jump line="103" column="16" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/Info/index.js" />
       <jump line="61" column="29" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/JudgeLoan.js" />
+      <jump line="130" column="34" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/JudgeLoan.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAKICBnZXRTbmFwc2hvdEJlZm9yZVVwZGF0ZShwcmV2UHJvcHMsIHByZXZTdGF0ZSkgewogICAgIHJldHVybiBudWxsOwogIH0KICAKICBjb21wb25lbnREaWRVcGRhdGUocHJldlByb3BzLCBwcmV2U3RhdGUsIHNuYXBzaG90KSB7CiAgICBjb25zb2xlLmxvZyhwcmV2UHJvcHMsIHByZXZTdGF0ZSwgc25hcHNob3QpCiAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IGNsYXNzTmFtZT17Y2xhc3Nlcy5idXR0b259</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgWzEsMiwzLDQsNSw2LDcsOCw5LDEwXS5tYXAoKGl0ZW0sIGlkeCkgPT4gKAogICAgICAgICAgICAgICAgICAgIDxNZW51SXRlbSB2YWx1ZT17aXRlbX0ga2V5PXtpZHh9PntpdGVtfTwvTWVudUl0ZW0+CiAgICAgICAgICAgICAgICAgICkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKICBnZXRTbmFwc2hvdEJlZm9yZVVwZGF0ZShwcmV2UHJvcHMsIHByZXZTdGF0ZSkgewogICAgIHJldHVybiBudWxsOwogIH0KICAKICBjb21wb25lbnREaWRVcGRhdGUocHJldlByb3BzLCBwcmV2U3RhdGUsIHNuYXBzaG90KSB7CiAgICBjb25zb2xlLmxvZyhwcmV2UHJvcHMsIHByZXZTdGF0ZSwgc25hcHNob3QpCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU9Im51bSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAKICBnZXRTbmFwc2hvdEJlZm9yZVVwZGF0ZShwcmV2UHJvcHMsIHByZXZTdGF0ZSkgewogICAgIHJldHVybiBudWxsOwogIH0KICAKICBjb21wb25lbnREaWRVcGRhdGUocHJldlByb3BzLCBwcmV2U3RhdGUsIHNuYXBzaG90KSB7CiAgICBjb25zb2xlLmxvZyhwcmV2UHJvcHMsIHByZXZTdGF0ZSwgc25hcHNob3QpCiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAKICBjb21wb25lbnRXaWxsVW5tb3VudCgpIHsKICAgIHRoaXMuc2V0U3RhdGUodGhpcy5pbml0aXNsU3RhdGUpCiAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChKU09OLnN0cmluZ2lmeShuZXh0UHJvcHMuZGF0YSkgIT09IEpTT04uc3RyaW5naWZ5KHByZXZTdGF0ZS5kYXRhKSkgewogICAgICByZXR1cm4gewogICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAKICBjb21wb25lbnRXaWxsVW5tb3VudCgpIHsKICAgIHRoaXMuc2V0U3RhdGUodGhpcy5pbml0aXNsU3RhdGUpCiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhOiBuZXh0UHJvcHMuZGF0YSwK</text>
+        <text encoding="base64">ICAgIGlmIChKU09OLnN0cmluZ2lmeShuZXh0UHJvcHMuZGF0YSkgIT09IEpTT04uc3RyaW5naWZ5KHByZXZTdGF0ZS5kYXRhKSkgewogICAgICByZXR1cm4gewogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBkYXRhOiBuZXh0UHJvcHMuZGF0YSwK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGF0YSwK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhOiBuZXh0UHJvcHMuZGF0YSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvblZ4Cg==</text>
+        <text encoding="base64">ICAgICAgZGF0YSwK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
