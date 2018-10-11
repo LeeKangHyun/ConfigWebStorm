@@ -151,11 +151,11 @@
         <mark key="." line="233" column="4" />
         <mark key="^" line="233" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/item/item.js" timestamp="1539225799257">
-        <mark key="[" line="168" column="45" />
-        <mark key="]" line="168" column="49" />
-        <mark key="^" line="168" column="49" />
-        <mark key="." line="168" column="49" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/item/item.js" timestamp="1539230142615">
+        <mark key="[" line="450" column="91" />
+        <mark key="]" line="450" column="97" />
+        <mark key="." line="450" column="97" />
+        <mark key="^" line="450" column="97" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/saga/api/Board.js" timestamp="1537257999152">
         <mark key="[" line="1" column="33" />
@@ -282,11 +282,11 @@
         <mark key="." line="347" column="45" />
         <mark key="^" line="347" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/item/index.js" timestamp="1539226194203">
-        <mark key="[" line="26" column="20" />
-        <mark key="]" line="29" column="26" />
-        <mark key="^" line="29" column="26" />
-        <mark key="." line="29" column="26" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/item/index.js" timestamp="1539229717781">
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="13" />
+        <mark key="^" line="132" column="61" />
+        <mark key="." line="23" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Home/styled.js" timestamp="1537336065218">
         <mark key="[" line="498" column="25" />
@@ -937,7 +937,7 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539225264189">
+      <file name="/Dummy.txt" timestamp="1539229721981">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2377,43 +2377,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">CiAgICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgICA8c3Bhbj7sooXtlanshLHrs5HqsoDsgqwsIOyduOycoOuRkOyiheuwlOydtOufrOyKpChIUFYpdHlwaW5n6rKA7IKsPC9zcGFuPgogICAgICAgICAgICAgICAgICA8c3Bhbj7rgqjshLHrtojsnoTqsoDsgqwo65SU7KeA7YS47KCV7JWh67aE7ISd6rKA7IKsKTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgPHNwYW4+64Ko7ISx7Zi466W066qs6rKA7IKsLCDsoITrpr3shKDtirnsnbTtla3sm5AoUFNBKSwg7ISx6riw64ql6rKA7IKsPC9zcGFuPgogICAgICAgICAgICAgICAgPC9wPgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHx8IDA=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9InBsLTIwIHRhLWwiPjwvdGQ+CiAgICAgICAgICAgIDwvdHI+Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9ImJiLW4gcGwtMjAgdGEtbCI+PC90ZD4KICAgICAgICAgICAgPC90cj4K</text>
+        <text encoding="base64">ICAgICAgICBwcmluY2lwYWw6IDEsCiAgICAgICAgbWF0dXJpdHk6IDMsCiAgICAgICAgaW52ZXN0ZWQ6IDEsCiAgICAgICAgYXV0b19pbnZlc3RlZDogMSwKICAgICAgICBjb21wYW55X2ludmVzdGVkOiAxLAogICAgICAgIGV4cGVydF9pbnZlc3RlZDogMSwKICAgICAgICBrY2I6IDQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9ImJiLW4gcGwtMjAgdGEtbCI+PC90ZD4KICAgICAgICAgICAgPC90cj4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAoaXRlbVtrZXldIC8gaXRlbS5wcmluY2lwYWwpICogMTAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIOqwhOq4sOuKpSzqsITsl7zqsoDsgqwoQe2YlSxC7ZiVQ+2YlSks64u564eoLOyLoOyepeq4sOuKpSzqs6Dsp4DtmIjspp0s7Ya17ZKNL+ulmOuniO2LsOymmCDqtIDroKjqsoDsgqwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9InBsLTIwIHRhLWwiPjwvdGQ+CiAgICAgICAgICAgIDwvdHI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC90cj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9ImJiLW4gcGwtMjAgdGEtbCI+PC90ZD4KICAgICAgICAgICAgPC90cj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9ImJiLW4gcGwtMjAgdGEtbCI+PC90ZD4KICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9InBsLTIwIHRhLWwiPjwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9ImJiLW4gcGwtMjAgdGEtbCI+PC90ZD4KICAgICAgICAgICAgPC90cj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIOyihe2VqeyEseuzkeqygOyCrCwg7J247Jyg65GQ7KKF67CU7J2065+s7IqkKEhQVil0eXBpbmfqsoDsgqwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIOqwhOq4sOuKpSzqsITsl7zqsoDsgqwoQe2YlSxC7ZiVQ+2YlSks64u564eoLOyLoOyepeq4sOuKpSzqs6Dsp4DtmIjspp0s7Ya17ZKNL+ulmOuniO2LsOymmCDqtIDroKjqsoDsgqwsCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
