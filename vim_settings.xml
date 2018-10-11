@@ -676,12 +676,12 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="27" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Price/Health.js" timestamp="1539243113031">
-        <mark key="'" line="118" column="10" />
-        <mark key="[" line="347" column="18" />
-        <mark key="]" line="347" column="19" />
-        <mark key="." line="347" column="19" />
-        <mark key="^" line="347" column="19" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Price/Health.js" timestamp="1539244958008">
+        <mark key="'" line="350" column="13" />
+        <mark key="[" line="375" column="18" />
+        <mark key="]" line="375" column="19" />
+        <mark key="." line="375" column="19" />
+        <mark key="^" line="375" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/server/datasources.json" timestamp="1539140804355">
         <mark key="[" line="9" column="26" />
@@ -1878,11 +1878,11 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/const.js" timestamp="1539243252860">
-        <mark key="[" line="724" column="12" />
-        <mark key="]" line="724" column="13" />
-        <mark key="^" line="723" column="37" />
-        <mark key="." line="724" column="13" />
+      <file name="$USER_HOME$/Documents/hnh/mhub/src/const.js" timestamp="1539244274101">
+        <mark key="[" line="804" column="1" />
+        <mark key="]" line="804" column="1" />
+        <mark key="^" line="804" column="1" />
+        <mark key="." line="804" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/index.js" timestamp="1529658983035">
         <mark key="[" line="6" column="8" />
@@ -2292,7 +2292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="0" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/After/index.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Util/Fetch.js" />
       <jump line="44" column="17" filename="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Pages/CureBeforeAfter/index.js" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Pages/CureReview/styled.js" />
@@ -2392,13 +2391,14 @@
       <jump line="130" column="34" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/JudgeLoan.js" />
       <jump line="151" column="46" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Price/Health.js" />
       <jump line="118" column="10" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Price/Health.js" />
+      <jump line="350" column="13" filename="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Price/Health.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>안티에이징</text>
+        <text>구분</text>
       </register>
       <register name="-" type="4">
-        <text>안티에이징</text>
+        <text>구분</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
