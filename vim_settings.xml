@@ -365,12 +365,12 @@
         <mark key="." line="4" column="77" />
         <mark key="^" line="28" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/JudgeLoan.js" timestamp="1539318027239">
-        <mark key="'" line="90" column="5" />
-        <mark key="[" line="228" column="28" />
-        <mark key="]" line="228" column="39" />
-        <mark key="^" line="228" column="39" />
-        <mark key="." line="228" column="39" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/JudgeLoan.js" timestamp="1539322547325">
+        <mark key="'" line="123" column="13" />
+        <mark key="[" line="105" column="9" />
+        <mark key="]" line="106" column="28" />
+        <mark key="." line="106" column="28" />
+        <mark key="^" line="106" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Diet/Nature.js" timestamp="1536213011013">
         <mark key="[" line="65" column="50" />
@@ -524,6 +524,12 @@
         <mark key="." line="3" column="32" />
         <mark key="^" line="20" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/redux/saga/watchModal.js" timestamp="1539320897303">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/common/models/post-notice.json" timestamp="1533265022327">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="14" />
@@ -571,18 +577,19 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/redux/saga/watchAuth.js" timestamp="1538632074833">
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="17" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/redux/saga/watchAuth.js" timestamp="1539319592577">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="86" />
         <mark key="." line="31" column="17" />
         <mark key="^" line="31" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/redux/reducer/Modal.js" timestamp="1539312499683">
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/redux/reducer/Modal.js" timestamp="1539320624543">
         <mark key="'" line="20" column="17" />
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="19" column="13" />
-        <mark key="^" line="19" column="13" />
-        <mark key="." line="19" column="13" />
+        <mark key="[" line="31" column="2" />
+        <mark key="]" line="31" column="1" />
+        <mark key="." line="31" column="1" />
+        <mark key="^" line="31" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/loan/loanApply.js" timestamp="1534129971434">
         <mark key="[" line="43" column="17" />
@@ -1082,12 +1089,12 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Alert.js" timestamp="1539317630369">
-        <mark key="'" line="11" column="46" />
-        <mark key="[" line="69" column="3" />
-        <mark key="]" line="70" column="12" />
-        <mark key="^" line="70" column="12" />
-        <mark key="." line="70" column="12" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Alert.js" timestamp="1539322811541">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="97" column="1" />
+        <mark key="]" line="97" column="15" />
+        <mark key="^" line="97" column="15" />
+        <mark key="." line="97" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/app.js" timestamp="1536829759523">
         <mark key="[" line="3" column="0" />
@@ -1667,11 +1674,11 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/redux/action/Modal.js" timestamp="1539313260354">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="25" />
-        <mark key="." line="4" column="25" />
-        <mark key="^" line="3" column="18" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/redux/action/Modal.js" timestamp="1539320352913">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="2" />
+        <mark key="^" line="11" column="2" />
+        <mark key="." line="11" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/action/Board.js" timestamp="1534233485417">
         <mark key="[" line="14" column="1" />
@@ -2227,11 +2234,10 @@
         <mark key="." line="16" column="29" />
         <mark key="^" line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/redux/saga/index.js" timestamp="1538622945357">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="17" />
-        <mark key="." line="6" column="17" />
-        <mark key="^" line="6" column="17" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/redux/saga/index.js" timestamp="1539320385617">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/firebase.js" timestamp="1537496030832">
         <mark key="[" line="0" column="34" />
@@ -2319,13 +2325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="10" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" />
-      <jump line="32" column="6" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" />
-      <jump line="50" column="17" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" />
-      <jump line="25" column="11" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" />
-      <jump line="127" column="11" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" />
-      <jump line="69" column="15" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" />
-      <jump line="206" column="15" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" />
       <jump line="42" column="56" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" />
       <jump line="7" column="22" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/Controller.js" />
       <jump line="120" column="19" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" />
@@ -2419,46 +2418,53 @@
       <jump line="92" column="3" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/JudgeLoan.js" />
       <jump line="237" column="9" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/JudgeLoan.js" />
       <jump line="89" column="5" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/JudgeLoan.js" />
+      <jump line="2" column="35" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/JudgeLoan.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/redux/saga/watchAuth.js" />
+      <jump line="117" column="13" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/JudgeLoan.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Alert.js" />
+      <jump line="21" column="17" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Alert.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Alert.js" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Alert.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEFsZXJ0IGZyb20gJy4uL01vZGFsL0FsZXJ0JzsK</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>numberWithCommas</text>
+        <text>modal.on</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>this._onClose</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHsgU0lHTl9TVUNDRVNTLCBTSUdOX1JFUVVFU1QsIFNJR05fRkFJTEVELCBTSUdOX0NIQU5HRUQgfSBmcm9tICcuLi9hY3Rpb24vQXV0aCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEFsZXJ0IGZyb20gJy4uL01vZGFsL0FsZXJ0JzsK</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxBbGVydCAvPgo=</text>
+        <text encoding="base64">ICAKICBzaG91bGRDb21wb25lbnRVcGRhdGUobmV4dFByb3BzLCBuZXh0U3RhdGUpIHsKICAgIHJldHVybiBKU09OLnN0cmluZ2lmeShuZXh0UHJvcHMubW9kYWwpICE9PSBKU09OLnN0cmluZ2lmeSh0aGlzLnByb3BzLm1vZGFsKTsKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsKICAgICAgaXNPcGVuCiAgICB9ID0gdGhpcy5zdGF0ZTsK</text>
+        <text encoding="base64">ICAgICAgaXNPcGVuLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwogICAgCiAgICB0aGlzLnN0YXRlID0gewogICAgICBpc09wZW46IGZhbHNlLAogICAgfQogIH0KICAKICBzdGF0aWMgZ2V0RGVyaXZlZFN0YXRlRnJvbVByb3BzKG5leHRQcm9wcywgcHJldlN0YXRlKSB7CiAgICByZXR1cm4gbnVsbDsKICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IENvbnRyb2xsZXIgZnJvbSAnLi9Db250cm9sbGVyV2l0aFJlZHV4JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICBDb250cm9sbGVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChuZXh0UHJvcHMubW9kYWwuYWxlcnQub24gIT09IHByZXZTdGF0ZS5pc09wZW4pIHsKICAgICAgcmV0dXJuIHsKICAgICAgICBpc09wZW46IG5leHRQcm9wcy5tb2RhbC5hbGVydC5vbiwKICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMucHJvcHMuYWxlcnQodHJ1ZSwgW10pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbW9kYWwsCg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgYWxlcnQsCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxKdWRnZVdyYXBwZXIgLz4K</text>
+        <text encoding="base64">ICAgIHlpZWxkIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
