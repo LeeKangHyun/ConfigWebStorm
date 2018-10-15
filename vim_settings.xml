@@ -1306,12 +1306,12 @@
         <mark key="." line="22" column="8" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Account.js" timestamp="1539570655307">
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Account.js" timestamp="1539580684155">
         <mark key="'" line="61" column="33" />
-        <mark key="[" line="59" column="25" />
-        <mark key="]" line="59" column="25" />
-        <mark key="." line="59" column="25" />
-        <mark key="^" line="59" column="25" />
+        <mark key="[" line="33" column="18" />
+        <mark key="]" line="33" column="18" />
+        <mark key="." line="33" column="18" />
+        <mark key="^" line="112" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Term/styled.js" timestamp="1538638090975">
         <mark key="[" line="5" column="0" />
@@ -1737,11 +1737,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/Info/Buttons.js" timestamp="1539568060998">
-        <mark key="[" line="147" column="121" />
-        <mark key="]" line="147" column="121" />
-        <mark key="." line="147" column="121" />
-        <mark key="^" line="147" column="121" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/Info/Buttons.js" timestamp="1539579954643">
+        <mark key="[" line="146" column="110" />
+        <mark key="]" line="146" column="110" />
+        <mark key="." line="146" column="110" />
+        <mark key="^" line="146" column="121" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/index.js" timestamp="1535416556411">
         <mark key="[" line="35" column="15" />
@@ -2438,11 +2438,11 @@
       <jump line="61" column="33" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Account.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLnJlYWxCYW5rQ29kZS5sZW5ndGggPT09IDApIHsKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -2451,31 +2451,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPE1lbnVJdGVtIHZhbHVlPXtrZXl9IGtleT17Z3VpZCgpfT57Y29kZVtrZXldfTwvTWVudUl0ZW0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLnJlYWxCYW5rQ29kZS5sZW5ndGggPT09IDApIHsKICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgYmFua19jb2RlIGFzIGNvZGUgfSBmcm9tICcjL2NvbnN0JzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5nZXRSZWFsQmFuaygpOwo=</text>
+        <text encoding="base64">ICAKICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIHRoaXMuZ2V0UmVhbEJhbmsoKTsKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAKICBzaG91bGRDb21wb25lbnRVcGRhdGUobmV4dFByb3BzLCBuZXh0U3RhdGUpIHsKICAgIGNvbnNvbGUubG9nKG5leHRQcm9wcywgbmV4dFN0YXRlKTsKICAgIHJldHVybiB0cnVlOwogIH0K</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLnJlYWxCYW5rQ29kZS5sZW5ndGggPT09IDApIHsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5nZXRSZWFsQmFuaygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0UmVhbEJhbmsoKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCByZWFsQmFua0NEID0gewogICIwMjAiOiAgIuyasOumrOydgO2WiSIsCiAgIjAwNCI6ICAi6rWt66+87J2A7ZaJIiwKICAiMDAzIjogICLquLDsl4XsnYDtlokiLAogICIwMTAiOiAgIuuGje2YkSIsCiAgIjA4OCI6ICAi7Iug7ZWc7J2A7ZaJIiwKICAiMDAyIjogICLsgrDsl4XsnYDtlokiLAogICIwMDUiOiAgIktFQu2VmOuCmOydgO2WiSjqtawu7Jm47ZmYKSIsCiAgIjAwNyI6ICAi7IiY7ZiR7KSR7JWZ7ZqMIiwKICAiMDIzIjogICJTQ+ydgO2WiSIsCiAgIjAyNyI6ICAi7ZWc6rWt7JSo7Yuw7J2A7ZaJIiwKICAiMDMxIjogICLrjIDqtazsnYDtlokiLAogICIwMzIiOiAgIuu2gOyCsOydgO2WiSIsCiAgIjAzNCI6ICAi6rSR7KO87J2A7ZaJIiwKICAiMDM1IjogICLsoJzso7zsnYDtlokiLAogICIwMzciOiAgIuyghOu2geydgO2WiSIsCiAgIjAzOSI6ICAi6rK964Ko7J2A7ZaJIiwKICAiMDQ1IjogICLsg4jrp4jsnYTquIjqs6DspJHslZntmowiLAogICIwNDgiOiAgIuyLoO2YkeykkeyVme2ajCIsCiAgIjA1MCI6ICAi7IOB7Zi47KCA7LaV7J2A7ZaJIiwKICAiMDU0IjogICJIU0JD7J2A7ZaJIiwKICAiMDcxIjogICLsmrDssrTqta0iLAogICIwODEiOiAgIktFQu2VmOuCmOydgO2WiSIsCiAgIjAwMSI6ICAi7ZWc6rWt7J2A7ZaJIiwKICAiMDA4IjogICLsiJjstpzsnoXsnYDtlokiLAogICIwMTEiOiAgIuuGje2YkeykkeyVme2ajCIsCiAgIjAxMiI6ICAi7KeA7Jet64aN7LaV7ZiRIiwKICAiMDU1IjogICLrj4TsnbTsuZjsnYDtlokiLAogICIwNjEiOiAgIuu5hOyXlO2UvO2MjOumrOuwlOydgO2WiSIsCiAgIjA2MiI6ICAi7KSR6rWt6rO17IOB7J2A7ZaJIiwKICAiMDYzIjogICLspJHqta3snYDtlokiLAogICIwNjQiOiAgIuyCsOumvOyhsO2VqeykkeyVme2ajCIsCiAgIjA2NSI6ICAi64yA7ZmU7J2A7ZaJIiwKICAiMDkzIjogICLtlZzqta3so7ztg53snYzsnLXqs7XsgqwiLAogICIwOTQiOiAgIuyEnOyauOuztOymneuztO2XmCIsCiAgIjA5NSI6ICAi6rK97LCw7LKtIiwKICAiMDk2IjogICLtlZzqta3soITsnpDquIjsnLUo7KO8KSIsCiAgIjA5OSI6ICAi6riI7Jy16rKw7KCc7JuQIiwKICAiMDk3IjogICLth7Tsp4Hsl7DquIgiLAogICIyMDkiOiAgIuycoOyViO2DgOymneq2jCIsCiAgIjIxOCI6ICAi7ZiE64yA7Kad6raMIiwKICAiMjI2IjogICJLQu2IrOyekOymneq2jCIsCiAgIjIzOCI6ICAi66+4656Y7JeQ7IWL64yA7Jqw7Kad6raMIiwKICAiMjQwIjogICLsgrzshLHspp3qtowiLAogICIyNDMiOiAgIu2VnOq1re2IrOyekOymneq2jCIsCiAgIjI0NyI6ICAiTkjtiKzsnpDspp3qtowiLAogICIyNjEiOiAgIuq1kOuztOymneq2jCIsCiAgIjI2MiI6ICAi7ZWY7J207Yis7J6Q7Kad6raMIiwKICAiMjYzIjogICLsl5DsnbTsuZjsl6DslKjtiKzsnpDspp3qtowiLAogICIyNjQiOiAgIu2CpOybgOymneq2jCIsCiAgIjI2NSI6ICAi7J2067Kg7J207Yq47Yis7J6Q7Kad6raMIiwKICAiMjY2IjogICLsl5DsiqTsvIDsnbTspp3qtowiLAogICIyNjciOiAgIuuMgOyLoOymneq2jCIsCiAgIjI2OSI6ICAi7ZWc7ZmU7Kad6raMIiwKICAiMjcwIjogICLtlZjrgpjquIjsnLXtiKzsnpAiLAogICIyNzgiOiAgIuq1v+uqqOuLneyLoO2VnOymneq2jCIsCiAgIjI3OSI6ICAi64+Z67aA7Kad6raMIiwKICAiMjgwIjogICLsnKDsp4TtiKzsnpDspp3qtowiLAogICIyODciOiAgIuuplOumrOy4oOymneq2jCIsCiAgIjI5MCI6ICAi67aA6rWt7Kad6raMIiwKICAiMjkxIjogICLsi6DsmIHspp3qtowiLAogICIyOTIiOiAgIkxJRyDspp3qtowiLAogICIyOTQiOiAgIu2OgOuTnOyYqOudvOyduOy9lOumrOyVhCIsCiAgIjQ4MSI6ICAi7ZaJ7KCV7JWI7KCE67aAIiwKfTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuZ2V0UmVhbEJhbmsoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8TWVudUl0ZW0gdmFsdWU9Jycga2V5PXtndWlkKCl9PuydgO2WiTwvTWVudUl0ZW0+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjZG0nKQo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICA=</text>
+        <text encoding="base64">CiAgICAgICAgfQ==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICA=</text>
+        <text encoding="base64">ewogICAgICAgICAgaXNBY2NvdW50ICYmIA==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
