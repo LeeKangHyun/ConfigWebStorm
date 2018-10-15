@@ -413,6 +413,13 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Repay.js" timestamp="1539594041857">
+        <mark key="'" line="93" column="33" />
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="8" />
+        <mark key="." line="37" column="8" />
+        <mark key="^" line="37" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Components/Router/index.js" timestamp="1538617493871">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="33" column="14" />
@@ -472,7 +479,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539587274949">
+      <file name="/Dummy.txt" timestamp="1539593811142">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1314,10 +1321,10 @@
         <mark key="." line="22" column="8" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Account.js" timestamp="1539583097999">
-        <mark key="'" line="61" column="33" />
-        <mark key="[" line="89" column="8" />
-        <mark key="]" line="89" column="8" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Account.js" timestamp="1539591546277">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="218" column="29" />
         <mark key="." line="89" column="8" />
         <mark key="^" line="89" column="8" />
       </file>
@@ -2265,6 +2272,13 @@
         <mark key="." line="8" column="18" />
         <mark key="^" line="8" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/Info/Repay.js" timestamp="1539593432453">
+        <mark key="'" line="77" column="26" />
+        <mark key="[" line="77" column="116" />
+        <mark key="]" line="77" column="128" />
+        <mark key="." line="77" column="128" />
+        <mark key="^" line="77" column="128" />
+      </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/firebase.js" timestamp="1537496030832">
         <mark key="[" line="0" column="34" />
         <mark key="]" line="0" column="33" />
@@ -2351,13 +2365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Nav/index.js" />
-      <jump line="44" column="13" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Nav/index.js" />
-      <jump line="106" column="15" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Nav/index.js" />
-      <jump line="58" column="31" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Nav/index.js" />
-      <jump line="24" column="3" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/Controller.js" />
-      <jump line="2" column="16" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Home/index.js" />
-      <jump line="11" column="25" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/Controller.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/Controller.js" />
       <jump line="37" column="15" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/List.js" />
@@ -2451,46 +2458,53 @@
       <jump line="23" column="18" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/InvestedThrow.js" />
       <jump line="47" column="5" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/InvestedThrow.js" />
       <jump line="3" column="11" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/Info/Buttons.js" />
+      <jump line="79" column="3" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Account.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Account.js" />
+      <jump line="22" column="10" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Repay.js" />
+      <jump line="21" column="6" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/Info/Repay.js" />
+      <jump line="76" column="26" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/Info/Repay.js" />
+      <jump line="80" column="20" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Repay.js" />
+      <jump line="87" column="33" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Repay.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>setAccount</text>
+        <text encoding="base64">ID09PSAw</text>
       </register>
       <register name="-" type="4">
-        <text>setAccount</text>
+        <text encoding="base64">ID09PSAw</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgYmFua19udW0sIGJhbmtfY29kZSwgbmFtZSwgdXBkYXRlIH0gPSB0aGlzLnN0YXRlOwo=</text>
+      <register name="0" type="4">
+        <text>{numberWithCommas(plan.amount)}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgaXRlbSB9ID0gdGhpcy5wcm9wczsKICAgIGNvbnN0IHsgdGF4IH0gPSB0aGlzLnN0YXRlOwo=</text>
+        <text encoding="base64">ICAgICAgaXRlbSwK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGl0ZW06IHsKICAgICAgbG9hblBsYW5Sb3dzOiBbXSwKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEF4aW9zLnBvc3QoYGApCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgfSA9IHRoaXMucHJvcHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPFRhYmxlUm93PgogICAgICAgICAgICAgICAgICAgIDxUYWJsZUNlbGw+PC9UYWJsZUNlbGw+CiAgICAgICAgICAgICAgICAgICAgPFRhYmxlQ2VsbD48L1RhYmxlQ2VsbD4KICAgICAgICAgICAgICAgICAgICA8VGFibGVDZWxsPjwvVGFibGVDZWxsPgogICAgICAgICAgICAgICAgICAgIDxUYWJsZUNlbGw+PC9UYWJsZUNlbGw+CiAgICAgICAgICAgICAgICAgICAgPFRhYmxlQ2VsbD48L1RhYmxlQ2VsbD4KICAgICAgICAgICAgICAgICAgICA8VGFibGVDZWxsPjwvVGFibGVDZWxsPgogICAgICAgICAgICAgICAgICAgIDxUYWJsZUNlbGw+PC9UYWJsZUNlbGw+CiAgICAgICAgICAgICAgICAgICAgPFRhYmxlQ2VsbD48L1RhYmxlQ2VsbD4KICAgICAgICAgICAgICAgICAgICA8VGFibGVDZWxsPjwvVGFibGVDZWxsPgogICAgICAgICAgICAgICAgICAgIDxUYWJsZUNlbGw+PC9UYWJsZUNlbGw+CiAgICAgICAgICAgICAgICAgICAgPFRhYmxlQ2VsbD48L1RhYmxlQ2VsbD4KICAgICAgICAgICAgICAgICAgPC9UYWJsZVJvdz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAKICBzdGF0aWMgZ2V0RGVyaXZlZFN0YXRlRnJvbVByb3BzKG5leHRQcm9wcywgcHJldlN0YXRlKSB7CiAgICByZXR1cm4gbnVsbDsKICB9CiAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGF4OiAwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8VGFibGVSb3c+CiAgICAgICAgICAgICAgICA8VGFibGVDZWxsPjwvVGFibGVDZWxsPgogICAgICAgICAgICAgICAgPFRhYmxlQ2VsbD48L1RhYmxlQ2VsbD4KICAgICAgICAgICAgICAgIDxUYWJsZUNlbGw+PC9UYWJsZUNlbGw+CiAgICAgICAgICAgICAgICA8VGFibGVDZWxsPjwvVGFibGVDZWxsPgogICAgICAgICAgICAgICAgPFRhYmxlQ2VsbD48L1RhYmxlQ2VsbD4KICAgICAgICAgICAgICAgIDxUYWJsZUNlbGw+PC9UYWJsZUNlbGw+CiAgICAgICAgICAgICAgICA8VGFibGVDZWxsPjwvVGFibGVDZWxsPgogICAgICAgICAgICAgICAgPFRhYmxlQ2VsbD48L1RhYmxlQ2VsbD4KICAgICAgICAgICAgICAgIDxUYWJsZUNlbGw+PC9UYWJsZUNlbGw+CiAgICAgICAgICAgICAgICA8VGFibGVDZWxsPjwvVGFibGVDZWxsPgogICAgICAgICAgICAgICAgPFRhYmxlQ2VsbD48L1RhYmxlQ2VsbD4KICAgICAgICAgICAgICA8L1RhYmxlUm93Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YWx1ZT17YmFua19udW19Cg==</text>
+        <text encoding="base64">aW1wb3J0IFBhcGVyIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL1BhcGVyJzsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFNlbGVjdCBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9TZWxlY3QvU2VsZWN0JzsKaW1wb3J0IE1lbnVJdGVtIGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL01lbnVJdGVtL01lbnVJdGVtJzsKaW1wb3J0IElucHV0TGFiZWwgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvSW5wdXRMYWJlbC9JbnB1dExhYmVsJzsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">KCk9PnsKICAgICAgICAgICAgICB0aGlzLnJlcGF5KHRydWUpCiAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzYWJsZWQK</text>
+      <register name="9" type="4">
+        <text encoding="base64">KCk9PnsKICAgICAgICAgICAgICAoZmFsc2UsIGl0ZW0ubG9hblBsYW4uY3VycmVudCkKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
