@@ -1658,6 +1658,12 @@
         <mark key="." line="13" column="22" />
         <mark key="^" line="13" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/contract.json" timestamp="1539659674611">
+        <mark key="[" line="63" column="15" />
+        <mark key="]" line="63" column="23" />
+        <mark key="^" line="63" column="23" />
+        <mark key="." line="63" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Intro/Doctor.js" timestamp="1537326174952">
         <mark key="[" line="15" column="87" />
         <mark key="]" line="15" column="89" />
@@ -2484,11 +2490,11 @@
       <jump line="173" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/List.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>hasMany</text>
       </register>
       <register name="-" type="4">
-        <text>, numberWithCommas</text>
+        <text>hasMany</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
