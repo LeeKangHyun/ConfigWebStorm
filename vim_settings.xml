@@ -1324,11 +1324,11 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539740187270">
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="21" />
-        <mark key="." line="21" column="21" />
-        <mark key="^" line="21" column="21" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539741786773">
+        <mark key="[" line="26" column="52" />
+        <mark key="]" line="26" column="52" />
+        <mark key="." line="26" column="52" />
+        <mark key="^" line="26" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1531100861526">
         <mark key="[" line="22" column="0" />
@@ -2473,10 +2473,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ONE</text>
+        <text>14</text>
       </register>
       <register name="-" type="4">
-        <text>ONE</text>
+        <text>14</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -2484,10 +2484,16 @@
       <register name="0" type="4">
         <text encoding="base64">LmNhdGNoKGVyciA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGVycik7CiAgICAgIGlmIChnZXRUeCkgewogICAgICAgIGdldFR4LnJvbGxiYWNrKGZ1bmN0aW9uICh0eEVycikgewogICAgICAgICAgY2FsbGJhY2soZXJyLCB0eEVycik7CiAgICAgICAgfSk7CiAgICAgIH0KICAgICAgZWxzZSB7CiAgICAgICAgY2FsbGJhY2soZXJyKTsKICAgICAgfQogICAgfSk7</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgKiDtj6zsnbjtirgg67m86rOgIOyYrOudvOqwgOqyjCDshKTsoJUK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwp2YXIgYXBwID0gcmVxdWlyZSgnLi4vLi4vc2VydmVyL3NlcnZlcicpOwo=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAgIA==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>/*
     * data = { contractId }
     * myPromise.find(Market, {where: {contractId: data.contractId}})
@@ -2501,26 +2507,20 @@
     * 포인트 빼고 올라가게 설정
     */</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuIG15UHJvbWlzZS5GSU5ET05FKE1lbWJlciwgeyB3aGVyZTogeyBwYXNzcG9ydElkOiB1c2VyLnVzZXJJZCB9LCBpbmNsdWRlOiAiYWdyZWVtZW50cyIgfSkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICog7Iuc7J6R7J28IOuwjyDsooXro4zsnbwg7ISk7KCVCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICogY3JlYXRlIO2VoCDrlYwgc3RlcCDsnYAgZGVmYXVsdCAxMAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICogCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAvLyBAcGFyYW0ge30K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBjaGVjawo=</text>
+        <text encoding="base64">ICAgICogCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
