@@ -908,7 +908,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="29" column="30" />
       </file>
-      <file name="/fragment.js" timestamp="1539746925538">
+      <file name="/fragment.js" timestamp="1539753872136">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/server/boot/root.js" timestamp="1533264108208">
@@ -1324,11 +1324,11 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539752547364">
-        <mark key="[" line="47" column="101" />
-        <mark key="]" line="47" column="117" />
-        <mark key="." line="47" column="117" />
-        <mark key="^" line="47" column="117" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539754633059">
+        <mark key="[" line="40" column="95" />
+        <mark key="]" line="40" column="103" />
+        <mark key="." line="40" column="103" />
+        <mark key="^" line="40" column="103" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1531100861526">
         <mark key="[" line="22" column="0" />
@@ -2474,16 +2474,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.format('YYYYMMDD')</text>
+        <text>__proto__.</text>
       </register>
       <register name="-" type="4">
-        <text>.format('YYYYMMDD')</text>
+        <text>__proto__.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoJ0FjY2VzcyBUb2tlbiBFcnJvcicpCg==</text>
+        <text encoding="base64">ICAgICAgbWVtYmVyID0gcmVzOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbXlQcm9taXNlLkZJTkRCWUlEKGFwcC5tb2RlbHMuQ29udHJhY3QsIGRhdGEuY29udHJhY3RJZCwge2luY2x1ZGU6IFsnaW52ZXN0UGxhbiddIH0sIG9wdGlvbikK</text>
