@@ -1324,12 +1324,11 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539739074143">
-        <mark key="'" line="10" column="38" />
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="21" />
-        <mark key="." line="12" column="21" />
-        <mark key="^" line="12" column="21" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539740187270">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="21" column="21" />
+        <mark key="." line="21" column="21" />
+        <mark key="^" line="21" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1531100861526">
         <mark key="[" line="22" column="0" />
@@ -1435,6 +1434,10 @@
         <mark key="]" line="10" column="54" />
         <mark key="^" line="10" column="54" />
         <mark key="." line="10" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member/loan.js" timestamp="1539740100154">
+        <mark key="[" line="124" column="6" />
+        <mark key="]" line="134" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Popup/PopupEditor.js" timestamp="1536197771777">
         <mark key="[" line="137" column="0" />
@@ -2470,43 +2473,54 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nvest</text>
+        <text>ONE</text>
       </register>
       <register name="-" type="4">
-        <text>nvest</text>
+        <text>ONE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dmFyIGFwcCA9IHJlcXVpcmUoJy4uLy4uLy4uL3NlcnZlci9zZXJ2ZXInKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">LmNhdGNoKGVyciA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGVycik7CiAgICAgIGlmIChnZXRUeCkgewogICAgICAgIGdldFR4LnJvbGxiYWNrKGZ1bmN0aW9uICh0eEVycikgewogICAgICAgICAgY2FsbGJhY2soZXJyLCB0eEVycik7CiAgICAgICAgfSk7CiAgICAgIH0KICAgICAgZWxzZSB7CiAgICAgICAgY2FsbGJhY2soZXJyKTsKICAgICAgfQogICAgfSk7</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICogCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgIA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAvLyBAcGFyYW0ge30K</text>
+      <register name="2" type="4">
+        <text>/*
+    * data = { contractId }
+    * myPromise.find(Market, {where: {contractId: data.contractId}})
+    * 기존에 상품 있으면 create 불가
+    * contractId 통해서 myPromise.findId(app.models.Contract, data.contractId)
+    * contract.amount 를 통해 새로운 상품의 금액을 정한다.
+    * myPromise.create
+    * 시작일 및 종료일 설정
+    * 고려사항
+    * invested 최대 설정?
+    * 포인트 빼고 올라가게 설정
+    */</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBjaGVjawo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG15UHJvbWlzZS5GSU5ET05FKE1lbWJlciwgeyB3aGVyZTogeyBwYXNzcG9ydElkOiB1c2VyLnVzZXJJZCB9LCBpbmNsdWRlOiAiYWdyZWVtZW50cyIgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICog7Y+s7J247Yq4IOu5vOqzoCDsmKzrnbzqsIDqsowg7ISk7KCVCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAKICBmdW5jdGlvbiAK</text>
+        <text encoding="base64">ICAgICog7Iuc7J6R7J28IOuwjyDsooXro4zsnbwg7ISk7KCVCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gQFRPRE8g64+Z7J287LCo7KO8IO2VnOuPhCDqsoDsgqwg7ZWo7IiYCmZ1bmN0aW9uIGxpbWl0QW1vdW50KCkgewoKfQo=</text>
+        <text encoding="base64">ICAgICogY3JlYXRlIO2VoCDrlYwgc3RlcCDsnYAgZGVmYXVsdCAxMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBvYmouCg==</text>
+        <text encoding="base64">ICAvLyBAcGFyYW0ge30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCiAgICB9CiAgICAiZ2V0TG9hbkxpc3QiOiB7Cg==</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBjaGVjawo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
