@@ -908,7 +908,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="29" column="30" />
       </file>
-      <file name="/fragment.js" timestamp="1539743111835">
+      <file name="/fragment.js" timestamp="1539746925538">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/server/boot/root.js" timestamp="1533264108208">
@@ -1324,11 +1324,11 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539743231383">
-        <mark key="[" line="35" column="6" />
-        <mark key="]" line="35" column="7" />
-        <mark key="." line="35" column="7" />
-        <mark key="^" line="35" column="7" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539746953228">
+        <mark key="[" line="47" column="101" />
+        <mark key="]" line="47" column="101" />
+        <mark key="." line="47" column="101" />
+        <mark key="^" line="47" column="101" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1531100861526">
         <mark key="[" line="22" column="0" />
@@ -1435,9 +1435,10 @@
         <mark key="^" line="10" column="54" />
         <mark key="." line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member/loan.js" timestamp="1539742752896">
-        <mark key="[" line="37" column="6" />
-        <mark key="]" line="37" column="100" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member/loan.js" timestamp="1539743657018">
+        <mark key="'" line="110" column="23" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Popup/PopupEditor.js" timestamp="1536197771777">
         <mark key="[" line="137" column="0" />
@@ -2370,7 +2371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="6" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/company/Company.js" />
       <jump line="114" column="25" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/List.js" />
       <jump line="68" column="20" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/Info/Request.js" />
       <jump line="51" column="6" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/Info/Request.js" />
@@ -2470,57 +2470,47 @@
       <jump line="77" column="16" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Invest/List/index.js" />
       <jump line="173" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/List.js" />
       <jump line="7" column="38" filename="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" />
+      <jump line="110" column="23" filename="$USER_HOME$/Documents/mouda/mouda_back/common/models/member/loan.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyAK</text>
+      <register name="&quot;" type="4">
+        <text>.format('YYYYMMDD')</text>
       </register>
       <register name="-" type="4">
-        <text>@TODO 마켓 채권 생성</text>
+        <text>.format('YYYYMMDD')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>return myPromise.FINDONE(Member, { where: { passportId: user.userId }, include: &quot;agreements&quot; })</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoJ0FjY2VzcyBUb2tlbiBFcnJvcicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbXlQcm9taXNlLkZJTkRCWUlEKGFwcC5tb2RlbHMuQ29udHJhY3QsIGRhdGEuY29udHJhY3RJZCwge2luY2x1ZGU6IFsnaW52ZXN0UGxhbiddIH0sIG9wdGlvbikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLyoKICAgICAgKiBkYXRhID0geyBjb250cmFjdElkIH0KICAgICAgKiBteVByb21pc2UuRklORChNYXJrZXQsIHt3aGVyZToge2NvbnRyYWN0SWQ6IGRhdGEuY29udHJhY3RJZH19KQogICAgICAqIOq4sOyhtOyXkCDsg4Htkogg7J6I7Jy866m0IGNyZWF0ZSDrtojqsIAKICAgICAgKiBjb250cmFjdElkIO2Gte2VtOyEnCBteVByb21pc2UuRklOREJZSUQoYXBwLm1vZGVscy5Db250cmFjdCwgZGF0YS5jb250cmFjdElkKQogICAgICAqIGNvbnRyYWN0LmFtb3VudCDrpbwg7Ya17ZW0IOyDiOuhnOyatCDsg4HtkojsnZgg6riI7JWh7J2EIOygle2VnOuLpC4KICAgICAgKiBtb21lbnQoRGF0ZS5ub3cpLCBtb21lbnQoRGF0ZS5ub3cpLmFkZCgnZCcsIDc/KQogICAgICAqIG15UHJvbWlzZS5DUkVBVEUoTWFya2V0LCB7Y29udHJhY3RJZDogZGF0YS5jb250cmFjdElkLCBwcmluY2lwYWw6IGNvbnRyYWN0LmFtb3VudCwgZGF0ZVN0YXJ0LCBkYXRlRW5kIH0pCiAgICAgICog7Iuc7J6R7J28IOuwjyDsooXro4zsnbwg7ISk7KCVCiAgICAgICog6rOg66Ck7IKs7ZWtCiAgICAgICogaW52ZXN0ZWQg7LWc64yAIOyEpOyglT8KICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoJ0FjY2VzcyBUb2tlbiBFcnJvcicpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgKiDtj6zsnbjtirgg67m86rOgIOyYrOudvOqwgOqyjCDshKTsoJUK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnRyYWN0SWQ6IGRhdGEuY29udHJhY3RJZCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwp2YXIgYXBwID0gcmVxdWlyZSgnLi4vLi4vc2VydmVyL3NlcnZlcicpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbXlQcm9taXNlLkZJTkQoYXBwLm1vZGVscy4pCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>/*
-    * data = { contractId }
-    * myPromise.find(Market, {where: {contractId: data.contractId}})
-    * 기존에 상품 있으면 create 불가
-    * contractId 통해서 myPromise.findId(app.models.Contract, data.contractId)
-    * contract.amount 를 통해 새로운 상품의 금액을 정한다.
-    * myPromise.create
-    * 시작일 및 종료일 설정
-    * 고려사항
-    * invested 최대 설정?
-    * 포인트 빼고 올라가게 설정
-    */</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoJ+yeheugpSDquIjslaHsnbQg7Yis7J6Q6riI7J2EIOuEmOyXiOyKteuLiOuLpC4nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG15UHJvbWlzZS5GSU5ET05FKE1lbWJlciwgeyB3aGVyZTogeyBwYXNzcG9ydElkOiB1c2VyLnVzZXJJZCB9LCBpbmNsdWRlOiAiYWdyZWVtZW50cyIgfSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICog7Iuc7J6R7J28IOuwjyDsooXro4zsnbwg7ISk7KCVCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbXlQcm9taXNlLkNPTU1JVChnZXRUeCk7IAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
