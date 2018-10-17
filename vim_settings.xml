@@ -489,7 +489,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539676860879">
+      <file name="/Dummy.txt" timestamp="1539741809927">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -908,7 +908,7 @@
         <mark key="^" line="29" column="29" />
         <mark key="." line="29" column="30" />
       </file>
-      <file name="/fragment.js" timestamp="1539735777562">
+      <file name="/fragment.js" timestamp="1539743111835">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/server/boot/root.js" timestamp="1533264108208">
@@ -1324,11 +1324,11 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539741786773">
-        <mark key="[" line="26" column="52" />
-        <mark key="]" line="26" column="52" />
-        <mark key="." line="26" column="52" />
-        <mark key="^" line="26" column="52" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539743231383">
+        <mark key="[" line="35" column="6" />
+        <mark key="]" line="35" column="7" />
+        <mark key="." line="35" column="7" />
+        <mark key="^" line="35" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1531100861526">
         <mark key="[" line="22" column="0" />
@@ -1435,9 +1435,9 @@
         <mark key="^" line="10" column="54" />
         <mark key="." line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member/loan.js" timestamp="1539740100154">
-        <mark key="[" line="124" column="6" />
-        <mark key="]" line="134" column="6" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member/loan.js" timestamp="1539742752896">
+        <mark key="[" line="37" column="6" />
+        <mark key="]" line="37" column="100" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Popup/PopupEditor.js" timestamp="1536197771777">
         <mark key="[" line="137" column="0" />
@@ -2472,28 +2472,34 @@
       <jump line="7" column="38" filename="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>14</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyAK</text>
       </register>
       <register name="-" type="4">
-        <text>14</text>
+        <text>@TODO 마켓 채권 생성</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">LmNhdGNoKGVyciA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGVycik7CiAgICAgIGlmIChnZXRUeCkgewogICAgICAgIGdldFR4LnJvbGxiYWNrKGZ1bmN0aW9uICh0eEVycikgewogICAgICAgICAgY2FsbGJhY2soZXJyLCB0eEVycik7CiAgICAgICAgfSk7CiAgICAgIH0KICAgICAgZWxzZSB7CiAgICAgICAgY2FsbGJhY2soZXJyKTsKICAgICAgfQogICAgfSk7</text>
+        <text>return myPromise.FINDONE(Member, { where: { passportId: user.userId }, include: &quot;agreements&quot; })</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKiDtj6zsnbjtirgg67m86rOgIOyYrOudvOqwgOqyjCDshKTsoJUK</text>
+        <text encoding="base64">ICAvLyAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLyoKICAgICAgKiBkYXRhID0geyBjb250cmFjdElkIH0KICAgICAgKiBteVByb21pc2UuRklORChNYXJrZXQsIHt3aGVyZToge2NvbnRyYWN0SWQ6IGRhdGEuY29udHJhY3RJZH19KQogICAgICAqIOq4sOyhtOyXkCDsg4Htkogg7J6I7Jy866m0IGNyZWF0ZSDrtojqsIAKICAgICAgKiBjb250cmFjdElkIO2Gte2VtOyEnCBteVByb21pc2UuRklOREJZSUQoYXBwLm1vZGVscy5Db250cmFjdCwgZGF0YS5jb250cmFjdElkKQogICAgICAqIGNvbnRyYWN0LmFtb3VudCDrpbwg7Ya17ZW0IOyDiOuhnOyatCDsg4HtkojsnZgg6riI7JWh7J2EIOygle2VnOuLpC4KICAgICAgKiBtb21lbnQoRGF0ZS5ub3cpLCBtb21lbnQoRGF0ZS5ub3cpLmFkZCgnZCcsIDc/KQogICAgICAqIG15UHJvbWlzZS5DUkVBVEUoTWFya2V0LCB7Y29udHJhY3RJZDogZGF0YS5jb250cmFjdElkLCBwcmluY2lwYWw6IGNvbnRyYWN0LmFtb3VudCwgZGF0ZVN0YXJ0LCBkYXRlRW5kIH0pCiAgICAgICog7Iuc7J6R7J28IOuwjyDsooXro4zsnbwg7ISk7KCVCiAgICAgICog6rOg66Ck7IKs7ZWtCiAgICAgICogaW52ZXN0ZWQg7LWc64yAIOyEpOyglT8KICAgICAgKi8K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgKiDtj6zsnbjtirgg67m86rOgIOyYrOudvOqwgOqyjCDshKTsoJUK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">J3VzZSBzdHJpY3QnOwp2YXIgYXBwID0gcmVxdWlyZSgnLi4vLi4vc2VydmVyL3NlcnZlcicpOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgIA==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>/*
     * data = { contractId }
     * myPromise.find(Market, {where: {contractId: data.contractId}})
@@ -2507,20 +2513,14 @@
     * 포인트 빼고 올라가게 설정
     */</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuIG15UHJvbWlzZS5GSU5ET05FKE1lbWJlciwgeyB3aGVyZTogeyBwYXNzcG9ydElkOiB1c2VyLnVzZXJJZCB9LCBpbmNsdWRlOiAiYWdyZWVtZW50cyIgfSkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICog7Iuc7J6R7J28IOuwjyDsooXro4zsnbwg7ISk7KCVCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICogY3JlYXRlIO2VoCDrlYwgc3RlcCDsnYAgZGVmYXVsdCAxMAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICogCg==</text>
+        <text encoding="base64">ICAgICog7Iuc7J6R7J28IOuwjyDsooXro4zsnbwg7ISk7KCVCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
