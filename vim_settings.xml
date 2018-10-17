@@ -642,12 +642,12 @@
         <mark key="^" line="47" column="54" />
         <mark key="." line="47" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.json" timestamp="1539670799299">
-        <mark key="j" line="55" column="28" />
-        <mark key="[" line="48" column="19" />
-        <mark key="]" line="48" column="21" />
-        <mark key="." line="48" column="21" />
-        <mark key="^" line="48" column="21" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.json" timestamp="1539756159789">
+        <mark key="j" line="54" column="28" />
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/styled.js" timestamp="1532941542995">
         <mark key="[" line="319" column="22" />
@@ -1324,11 +1324,11 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539754633059">
-        <mark key="[" line="40" column="95" />
-        <mark key="]" line="40" column="103" />
-        <mark key="." line="40" column="103" />
-        <mark key="^" line="40" column="103" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539756246902">
+        <mark key="[" line="40" column="77" />
+        <mark key="]" line="40" column="77" />
+        <mark key="." line="40" column="77" />
+        <mark key="^" line="40" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1531100861526">
         <mark key="[" line="22" column="0" />
@@ -2473,11 +2473,11 @@
       <jump line="110" column="23" filename="$USER_HOME$/Documents/mouda/mouda_back/common/models/member/loan.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>__proto__.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgInJlcXVpcmVkIjogdHJ1ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>__proto__.</text>
+        <text>contract</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -2486,31 +2486,31 @@
         <text encoding="base64">ICAgICAgbWVtYmVyID0gcmVzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbXlQcm9taXNlLkZJTkRCWUlEKGFwcC5tb2RlbHMuQ29udHJhY3QsIGRhdGEuY29udHJhY3RJZCwge2luY2x1ZGU6IFsnaW52ZXN0UGxhbiddIH0sIG9wdGlvbikK</text>
+        <text encoding="base64">ICAgICAgInJlcXVpcmVkIjogdHJ1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoJ0FjY2VzcyBUb2tlbiBFcnJvcicpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnRyYWN0SWQ6IGRhdGEuY29udHJhY3RJZCwK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG15UHJvbWlzZS5GSU5EQllJRChhcHAubW9kZWxzLkNvbnRyYWN0LCBkYXRhLmNvbnRyYWN0SWQsIHtpbmNsdWRlOiBbJ2ludmVzdFBsYW4nXSB9LCBvcHRpb24pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbXlQcm9taXNlLkZJTkQoYXBwLm1vZGVscy4pCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG15UHJvbWlzZS5GSU5EQllJRChhcHAubW9kZWxzLkNvbnRyYWN0LCBkYXRhLmNvbnRyYWN0SWQsIHtpbmNsdWRlOiBbJ2ludmVzdFBsYW4nXSB9LCBvcHRpb24pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbXlQcm9taXNlLkZJTkRCWUlEKGFwcC5tb2RlbHMuQ29udHJhY3QsIGRhdGEuY29udHJhY3RJZCwge2luY2x1ZGU6IFsnaW52ZXN0UGxhbiddIH0sIG9wdGlvbikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoJ+yeheugpSDquIjslaHsnbQg7Yis7J6Q6riI7J2EIOuEmOyXiOyKteuLiOuLpC4nKTsK</text>
+        <text encoding="base64">ICAgICJjb250cmFjdElkIjogewogICAgICAidHlwZSI6ICJudW1iZXIiLAogICAgICAicmVxdWlyZWQiOiB0cnVlCiAgICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbXlQcm9taXNlLkZJTkRCWUlEKGFwcC5tb2RlbHMuQ29udHJhY3QsIGRhdGEuY29udHJhY3RJZCwge2luY2x1ZGU6IFsnaW52ZXN0UGxhbiddIH0sIG9wdGlvbikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoJ0FjY2VzcyBUb2tlbiBFcnJvcicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbXlQcm9taXNlLkNPTU1JVChnZXRUeCk7IAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnRyYWN0SWQ6IGRhdGEuY29udHJhY3RJZCwK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
