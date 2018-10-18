@@ -439,10 +439,10 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539840182832">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="18" />
-        <mark key="." line="1" column="18" />
+      <file name="/Dummy.txt" timestamp="1539841355592">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Pages/Popup/styled.js" timestamp="1536647784875">
@@ -584,12 +584,12 @@
         <mark key="^" line="47" column="54" />
         <mark key="." line="47" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.json" timestamp="1539839776998">
-        <mark key="j" line="54" column="28" />
-        <mark key="[" line="32" column="21" />
-        <mark key="]" line="32" column="30" />
-        <mark key="." line="32" column="30" />
-        <mark key="^" line="32" column="30" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.json" timestamp="1539841550913">
+        <mark key="j" line="61" column="28" />
+        <mark key="[" line="127" column="30" />
+        <mark key="]" line="127" column="35" />
+        <mark key="." line="127" column="35" />
+        <mark key="^" line="127" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/styled.js" timestamp="1532941542995">
         <mark key="[" line="319" column="22" />
@@ -1210,11 +1210,11 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539840173126">
-        <mark key="[" line="107" column="13" />
-        <mark key="]" line="107" column="13" />
-        <mark key="." line="107" column="13" />
-        <mark key="^" line="111" column="15" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539841483581">
+        <mark key="[" line="137" column="4" />
+        <mark key="]" line="137" column="3" />
+        <mark key="." line="137" column="3" />
+        <mark key="^" line="137" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1531100861526">
         <mark key="[" line="22" column="0" />
@@ -2298,48 +2298,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>createItem</text>
+        <text>create</text>
       </register>
       <register name="-" type="4">
-        <text>createItem</text>
+        <text>create</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-          relation: 'borrowerInfo',
-          scope: {
-            order: ['fType ASC', 'orderby ASC'],
-          }
-        }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgImFjY2Vzc1R5cGUiOiAiRVhFQ1VURSIsCiAgICAgICJwcmluY2lwYWxUeXBlIjogIlJPTEUiLAogICAgICAicHJpbmNpcGFsSWQiOiAiJGV2ZXJ5b25lIiwKICAgICAgInBlcm1pc3Npb24iOiAiQUxMT1ciLAogICAgICAicHJvcGVydHkiOiAiY3JlYXRlSXRlbSIKICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJ29yZGVyJzogJ2lkIGRlc2MnLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgKiBzdGVwIOuzhCDrtoTquLDtlbTshJwg67O064K06riwCg==</text>
+        <text encoding="base64">ICAvKgogICogZGF0YSA9IHsgY29udHJhY3RJZCwgYW1vdW50LCBtZW1iZXJJZCB9CiAgKiBteVByb21pc2UuRklORChNYXJrZXQsIHt3aGVyZToge2NvbnRyYWN0SWQ6IGRhdGEuY29udHJhY3RJZH19KQogICog6riw7KG07JeQIOyDge2SiCDsnojsnLzrqbQgY3JlYXRlIOu2iOqwgAogICogY29udHJhY3RJZCDthrXtlbTshJwgbXlQcm9taXNlLkZJTkRCWUlEKGFwcC5tb2RlbHMuQ29udHJhY3QsIGRhdGEuY29udHJhY3RJZCkKICAqIGNvbnRyYWN0LmFtb3VudCDrpbwg7Ya17ZW0IOyDiOuhnOyatCDsg4HtkojsnZgg6riI7JWh7J2EIOygle2VnOuLpC4KICAqIG1vbWVudChEYXRlLm5vdyksIG1vbWVudChEYXRlLm5vdykuYWRkKCdkJywgNz8pCiAgKiBteVByb21pc2UuQ1JFQVRFKE1hcmtldCwge2NvbnRyYWN0SWQ6IGRhdGEuY29udHJhY3RJZCwgcHJpbmNpcGFsOiBjb250cmFjdC5hbW91bnQsIGRhdGVTdGFydCwgZGF0ZUVuZCB9KQogICog7Iuc7J6R7J28IOuwjyDsooXro4zsnbwg7ISk7KCVCiAgKiBmaXJlYmFzZSDsl5Ag7Jis66as6riwCiAgKiDqs6DroKTsgqztla0KICAqIGludmVzdGVkIOy1nOuMgCDshKTsoJU/CiAgKi8K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpZWxkczogW2BpbnZlc3RgXSwK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAKICAgIA==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgCiAgICAgICAgICAg</text>
+        <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">OwogICAg</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">bGV0IGRhdGFiYXNlID0gZmlyZWJhc2UuZGF0YWJhc2UoKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBkYjsK</text>
+        <text encoding="base64">ICAgICAgLyoKICAgICAgKiDqs6DroKTsgqztla0KICAgICAgKgogICAgICAqIOyXsOqysOuQnCDtiKzsnpDsg4Htkogg7KCV67O066W8IOychO2VtCBpbnZlc3QudWlkIOq5jOyngCDrs7TrgrTquLAKICAgICAgKiBmcm9udCDsl5DshJwg66qo7KeR7KSRLCDrqqjsp5HsmYTro4wg6rWs67aE7ZW07IScIOuztOyXrOyjvOq4sCDsnITtlbQKICAgICAgKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgLyoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
