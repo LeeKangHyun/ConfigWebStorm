@@ -1210,11 +1210,11 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539845658273">
-        <mark key="[" line="154" column="7" />
-        <mark key="]" line="154" column="7" />
-        <mark key="." line="154" column="7" />
-        <mark key="^" line="154" column="7" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539847190899">
+        <mark key="[" line="152" column="66" />
+        <mark key="]" line="152" column="70" />
+        <mark key="." line="152" column="70" />
+        <mark key="^" line="152" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1531100861526">
         <mark key="[" line="22" column="0" />
@@ -2297,11 +2297,11 @@
       <jump line="338" column="32" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Home/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbmV3T2JqID0gOwo=</text>
+      <register name="&quot;" type="4">
+        <text>.__data</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.__data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -2310,21 +2310,21 @@
         <text encoding="base64">ICAgIC50aGVuKChyZXMpID0+IHsKICAgICAgcmV0dXJuIAogICAgICBjYWxsYmFjayhudWxsLCAxKTsKICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbmV3T2JqID0gOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgbmV3T2JqID0gOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
         invested: Number(market.invested) + Number(data.amount)
       }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAuLi5kYXRhLAo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">CiAgICA=</text>
