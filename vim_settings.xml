@@ -1206,11 +1206,11 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539827451244">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="13" column="1" />
-        <mark key="." line="13" column="1" />
-        <mark key="^" line="13" column="1" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539828575276">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="32" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1531100861526">
         <mark key="[" line="22" column="0" />
@@ -2294,10 +2294,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICogCg==</text>
+        <text encoding="base64">ICAgIGxldCBkYjsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>db</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -2306,45 +2306,31 @@
         <text encoding="base64">ICBMb2FuLm9ic2VydmUoJ2FmdGVyIHNhdmUnLCAoY3R4LCBuZXh0KSA9PiB7CiAgICB2YXIgbG9hbiA9IGN0eC5pbnN0YW5jZTsKICAgIG5leHQoKTsKICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICogCg==</text>
+        <text encoding="base64">ICAgIGxldCBkYjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBsb2FuID0gY3R4Lmluc3RhbmNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text>, {
-                relation: 'contracts',
-                scope: {
-                  where: { canceled: false },
-                  include: [{
-                    'investPlan': {
-                      relation: 'investPlanRows',
-                      scope: {
-                        order: 'order ASC'
-                      }
-                    }
-                  },
-                    &quot;member&quot;]
-                }
-              }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGxldCBkYiA9IGZpcmViYXNlLmRhdGFiYXNlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAibG9hblBsYW4iOiB7CiAgICAgICAgICAgIHJlbGF0aW9uOiAnbG9hblBsYW5Sb3dzJywKICAgICAgICAgICAgc2NvcGU6IHsKICAgICAgICAgICAgICBvcmRlcjogJ29yZGVyIEFTQycKICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgIH0KICAgICAgICAsICJtZW1iZXIiCiAgICAgICAgLCAibG9hblJlcXVlc3QiCiAgICAgICAgLCAibG9hbkluZm9Xb3JrZXIiCiAgICAgICAgLCAibG9hbkluZm9CaXoiCiAgICAgICAgLCAibG9hbkluZm9TZWN1cml0eSIKICAgICAgICAsICJsb2FuSW5mb0RvY3RvciIKICAgICAgICAsICJsb2FuQXBwcm92YWwiCg==</text>
+        <text encoding="base64">ICAgIGxldCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAqIOyXsOqysOuQnCDtiKzsnpDsg4Htkogg7KCV67O066W8IOychO2VtCBpbnZlc3QudWlkIOq5jOyngCDrs7TrgrTquLAKICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICBkYiA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICogCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhbGxiYWNrKG51bGwsIHt9KTsK</text>
+        <text encoding="base64">ICAgIHZhciBsb2FuID0gY3R4Lmluc3RhbmNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
