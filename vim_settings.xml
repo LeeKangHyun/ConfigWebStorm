@@ -1210,11 +1210,11 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539847190899">
-        <mark key="[" line="152" column="66" />
-        <mark key="]" line="152" column="70" />
-        <mark key="." line="152" column="70" />
-        <mark key="^" line="152" column="70" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539849830170">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="64" />
+        <mark key="." line="173" column="0" />
+        <mark key="^" line="155" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1531100861526">
         <mark key="[" line="22" column="0" />
@@ -2297,46 +2297,44 @@
       <jump line="338" column="32" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Home/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.__data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbXlQcm9taXNlLlVQREFURUFUVFJJQlVURVMobWFya2V0LCBuZXdPYmosIG9wdGlvbik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.__data</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC50aGVuKChyZXMpID0+IHsKICAgICAgcmV0dXJuIAogICAgICBjYWxsYmFjayhudWxsLCAxKTsKICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbXlQcm9taXNlLlVQREFURUFUVFJJQlVURVMobWFya2V0LCBuZXdPYmosIG9wdGlvbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0pLnRoZW4oKCkgPT4gewogICAgICByZXR1cm4gdXBkYXRlREIoZmJEYXRhKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbmV3T2JqID0gOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKGRhdGEuc3RlcCkgewogICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobWVtYmVyLmlkICE9PSBtZW1iZXJJZCkgcmV0dXJuIFByb21pc2UucmVqZWN0KCfrs7jsnbjsnbQg7JWE64uZ64uI64ukLicpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-        invested: Number(market.invested) + Number(data.amount)
-      }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgaWYgKG1hcmtldC5wcmluY2lwYWwgPCBuZXdPYmouaW52ZXN0ZWQpIHsKICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoJ+2IrOyekOq4iCDstIjqs7wnKTsKICAgICAgfSBlbHNlIHsKICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5kYXRhLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbXlQcm9taXNlLlVQREFURUFUVFJJQlVURVMobWFya2V0LCBuZXdPYmosIG9wdGlvbik7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICA=</text>
+        <text encoding="base64">CiAgICAgIA==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICA=</text>
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICA=</text>
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBpbnZlc3RlZDogTnVtYmVyKG1hcmtldC5pbnZlc3RlZCkgKyBOdW1iZXIoZGF0YS5pbnZlc3RlZCB8fCAwKSwKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
