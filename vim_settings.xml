@@ -435,7 +435,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539824309522">
+      <file name="/Dummy.txt" timestamp="1539831563918">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -821,7 +821,7 @@
         <mark key="." line="25" column="50" />
         <mark key="^" line="25" column="49" />
       </file>
-      <file name="/fragment.js" timestamp="1539756964200">
+      <file name="/fragment.js" timestamp="1539830304643">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/server/boot/root.js" timestamp="1533264108208">
@@ -1206,11 +1206,11 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539828575276">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="32" column="22" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539831013917">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="32" />
+        <mark key="^" line="10" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1531100861526">
         <mark key="[" line="22" column="0" />
@@ -2293,11 +2293,11 @@
       <jump line="338" column="32" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Home/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCBkYjsK</text>
+      <register name="&quot;" type="4">
+        <text>res</text>
       </register>
       <register name="-" type="4">
-        <text>db</text>
+        <text>res</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -2306,31 +2306,31 @@
         <text encoding="base64">ICBMb2FuLm9ic2VydmUoJ2FmdGVyIHNhdmUnLCAoY3R4LCBuZXh0KSA9PiB7CiAgICB2YXIgbG9hbiA9IGN0eC5pbnN0YW5jZTsKICAgIG5leHQoKTsKICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBkYjsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">bGV0IGRhdGFiYXNlID0gZmlyZWJhc2UuZGF0YWJhc2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgIGxldCBkYjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBkYiA9IGZpcmViYXNlLmRhdGFiYXNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYiA9IAo=</text>
+        <text encoding="base64">ICAgIGxldCBkYiA9IGZpcmViYXNlLmRhdGFiYXNlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICogCg==</text>
+        <text encoding="base64">ICAgIGxldCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBsb2FuID0gY3R4Lmluc3RhbmNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBkYiA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
