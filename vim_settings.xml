@@ -1210,11 +1210,11 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539844695086">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
-        <mark key="^" line="152" column="23" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539845658273">
+        <mark key="[" line="154" column="7" />
+        <mark key="]" line="154" column="7" />
+        <mark key="." line="154" column="7" />
+        <mark key="^" line="154" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1531100861526">
         <mark key="[" line="22" column="0" />
@@ -2298,10 +2298,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5kYXRhLAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbmV3T2JqID0gOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>{},</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -2310,31 +2310,33 @@
         <text encoding="base64">ICAgIC50aGVuKChyZXMpID0+IHsKICAgICAgcmV0dXJuIAogICAgICBjYWxsYmFjayhudWxsLCAxKTsKICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5kYXRhLAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbmV3T2JqID0gOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbGV0IAo=</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="3" type="4">
+        <text>{
+        invested: Number(market.invested) + Number(data.amount)
+      }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG15UHJvbWlzZS5VUERBVEVBVFRSSUJVVEVTKG1hcmtldCwge30sIG9wdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAuLi5kYXRhLAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pCiAgICAudGhlbigoKSA9PiB7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2FsbGJhY2sobnVsbCwgMSk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
