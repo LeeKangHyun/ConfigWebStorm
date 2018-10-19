@@ -805,11 +805,11 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member/invest.js" timestamp="1539851679994">
-        <mark key="[" line="337" column="12" />
-        <mark key="]" line="337" column="18" />
-        <mark key="." line="337" column="18" />
-        <mark key="^" line="337" column="18" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member/invest.js" timestamp="1539914226182">
+        <mark key="[" line="327" column="58" />
+        <mark key="]" line="328" column="31" />
+        <mark key="^" line="328" column="31" />
+        <mark key="." line="328" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/Controller.js" timestamp="1531793229673">
         <mark key="[" line="11" column="2" />
@@ -1019,10 +1019,11 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member.js" timestamp="1539910908631">
-        <mark key="[" line="222" column="16" />
-        <mark key="]" line="222" column="16" />
-        <mark key="." line="222" column="16" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member.js" timestamp="1539911853498">
+        <mark key="[" line="168" column="4" />
+        <mark key="]" line="167" column="3" />
+        <mark key="." line="167" column="3" />
+        <mark key="^" line="167" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/redux/saga/api/Board.js" timestamp="1536715315630">
         <mark key="[" line="3" column="0" />
@@ -1334,11 +1335,11 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539851230180">
-        <mark key="[" line="177" column="19" />
-        <mark key="]" line="178" column="29" />
-        <mark key="." line="178" column="29" />
-        <mark key="^" line="178" column="29" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1539914038223">
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="42" />
+        <mark key="." line="22" column="42" />
+        <mark key="^" line="22" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1531100861526">
         <mark key="[" line="22" column="0" />
@@ -2486,48 +2487,46 @@
       <jump line="338" column="32" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Home/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{
-                  relation: []
-                }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICogYXBwLm1vZGVscy5UcmFuc2FjdGlvbiDrho3tmJEg6rCA7IOB6rOE7KKM7JeQ7IScIOuPiCDrubzquLAK</text>
       </register>
       <register name="-" type="4">
-        <text>'market'</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbXlQcm9taXNlLlVQREFURUFUVFJJQlVURVMobWFya2V0LCBuZXdPYmosIG9wdGlvbik7Cg==</text>
+      <register name="0" type="4">
+        <text>(</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICogYXBwLm1vZGVscy5UcmFuc2FjdGlvbiDrho3tmJEg6rCA7IOB6rOE7KKM7JeQ7IScIOuPiCDrubzquLAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICogYXBwLm1vZGVscy5Db250cmFjdCBjcmVhdGUKICAgICogYXBwLm1vZGVscy5Db250cmFjdCB1cGRhdGVJdGVtCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAKICAvLyBAVE9ETwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAKICAvLyBAVE9ETyBGaXJlYmFzZSDsl5Ag7LaU6rCAIOyLnO2CrCDtlajsiJgKICBmdW5jdGlvbiB1cGRhdGVGaXJlKCkgewogICAgLyoKICAgICog6riI7JWhIOy2lOqwgCDtlajsiJgKICAgICovCiAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICogCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICog6riICg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGxldCBhbW91bnQgPSBsaW1pdEFtb3VudCgpOwo=</text>
+      </register>
+      <register name="8" type="4">
         <text>{
                   relation: []
                 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly9AVE9ETyArLSDsg4HqtIDsl4bsnbQg7ZWgIOqygywg67aA7KGxIO2VmOuNlOudvOuPhCDrqqjsp5Eg64GdCi8vQFRPRE8gKy0g7IOB6rSA7JeG7J20IO2VoCDqsoMsIOu2gOyhsSDtlZjrjZTrnbzrj4Qg66qo7KeRIOuBnQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pLnRoZW4oKCkgPT4gewogICAgICByZXR1cm4gdXBkYXRlREIoZmJEYXRhKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGRhdGEuc3RlcCkgewogICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobWVtYmVyLmlkICE9PSBtZW1iZXJJZCkgcmV0dXJuIFByb21pc2UucmVqZWN0KCfrs7jsnbjsnbQg7JWE64uZ64uI64ukLicpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG1hcmtldC5wcmluY2lwYWwgPCBuZXdPYmouaW52ZXN0ZWQpIHsKICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoJ+2IrOyekOq4iCDstIjqs7wnKTsKICAgICAgfSBlbHNlIHsKICAgICAgfQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbXlQcm9taXNlLlVQREFURUFUVFJJQlVURVMobWFya2V0LCBuZXdPYmosIG9wdGlvbik7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
