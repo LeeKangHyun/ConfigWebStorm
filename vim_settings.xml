@@ -238,11 +238,11 @@
         <mark key="." line="49" column="18" />
         <mark key="^" line="49" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/contract.js" timestamp="1540272566864">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="56" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="73" column="5" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/contract.js" timestamp="1540274603723">
+        <mark key="[" line="86" column="8" />
+        <mark key="]" line="86" column="24" />
+        <mark key="." line="86" column="8" />
+        <mark key="^" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/webpack.config.production.js" timestamp="1530252248691">
         <mark key="[" line="63" column="7" />
@@ -2508,7 +2508,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ATTRIBUTES</text>
+        <text encoding="base64">Y3R4Lmluc3RhbmNlICYmIA==</text>
       </register>
       <register name="-" type="4">
         <text>ATTRIBUTES</text>
@@ -2516,8 +2516,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdHguaW5zdGFuY2UudGltZSA9IE1hdGguZmxvb3IoRGF0ZS5ub3coKSAvIDEwMDApOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">Y3R4Lmluc3RhbmNlICYmIA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICoK</text>
