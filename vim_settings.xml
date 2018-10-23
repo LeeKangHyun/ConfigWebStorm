@@ -1066,6 +1066,11 @@
         <mark key="." line="106" column="21" />
         <mark key="^" line="106" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/item/onlyInvestor.js" timestamp="1540255726193">
+        <mark key="[" line="38" column="110" />
+        <mark key="]" line="38" column="110" />
+        <mark key="." line="38" column="110" />
+      </file>
       <file name="$USER_HOME$/Documents/DEVKH/devKangTo/src/pages/Board/index.js" timestamp="1530001171824">
         <mark key="[" line="25" column="39" />
         <mark key="]" line="25" column="44" />
@@ -2489,10 +2494,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>__proto__.</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>__proto__.</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -2528,7 +2533,7 @@
         <text encoding="base64">LnRoZW4oKCkgPT4gewogICAgICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSgpOwogICAgICAgIH0p</text>
       </register>
       <register name=":" type="4">
-        <text>vsplit</text>
+        <text>split</text>
       </register>
     </registers>
     <search>
@@ -2579,11 +2584,11 @@
         <entry>actionlist</entry>
         <entry>buffer</entry>
         <entry>h buffer-list</entry>
-        <entry>split</entry>
         <entry>q</entry>
-        <entry>vsplit</entry>
         <entry>file</entry>
         <entry>market.js</entry>
+        <entry>vsplit</entry>
+        <entry>split</entry>
       </history-cmd>
       <history-expr />
       <history-input />
