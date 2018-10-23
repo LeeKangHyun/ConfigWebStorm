@@ -238,11 +238,11 @@
         <mark key="." line="49" column="18" />
         <mark key="^" line="49" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/contract.js" timestamp="1540264903673">
-        <mark key="[" line="72" column="5" />
-        <mark key="]" line="72" column="5" />
-        <mark key="." line="72" column="5" />
-        <mark key="^" line="72" column="5" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/contract.js" timestamp="1540272566864">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="56" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="73" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/WebDevelop/react-boilerplate/webpack.config.production.js" timestamp="1530252248691">
         <mark key="[" line="63" column="7" />
@@ -641,7 +641,7 @@
         <mark key="^" line="47" column="54" />
         <mark key="." line="47" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.json" timestamp="1540261070591">
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.json" timestamp="1540272508317">
         <mark key="j" line="66" column="28" />
         <mark key="[" line="32" column="21" />
         <mark key="]" line="32" column="20" />
@@ -802,11 +802,11 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member/invest.js" timestamp="1540264817487">
-        <mark key="[" line="380" column="0" />
-        <mark key="]" line="380" column="0" />
-        <mark key="^" line="383" column="45" />
-        <mark key="." line="380" column="0" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member/invest.js" timestamp="1540272640813">
+        <mark key="[" line="334" column="20" />
+        <mark key="]" line="335" column="5" />
+        <mark key="^" line="335" column="5" />
+        <mark key="." line="335" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/Controller.js" timestamp="1531793229673">
         <mark key="[" line="11" column="2" />
@@ -2507,8 +2507,8 @@
       <jump line="338" column="32" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Home/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICoK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;content&quot;</text>
@@ -2517,13 +2517,13 @@
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UE9TVCBodHRwczovL2h0dHBiaW4ub3JnL3Bvc3QKQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uCgp7CiAgImlkIjogOTk5LAogICJ2YWx1ZSI6ICJjb250ZW50Igp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdHguaW5zdGFuY2UudGltZSA9IE1hdGguZmxvb3IoRGF0ZS5ub3coKSAvIDEwMDApOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICoK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICogZGIg7Yq4656c7J6t7IWYIGNvbW1pdAo=</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">CiAgICA=</text>
@@ -2531,20 +2531,20 @@
       <register name="4" type="4">
         <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcG9pbnQ6IGRhdGEucG9pbnQsCiAgICAgICAgICAgIC8vIG1hcmtldElkOiBkYXRhLm1hcmtldElkLAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ki8qCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcG9pbnQ6IGRhdGEucG9pbnQsCiAgICAgICAgICAgIC8vIG1hcmtldElkOiBkYXRhLm1hcmtldElkLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UE9TVCBodHRwczovL2h0dHBiaW4ub3JnL3Bvc3QK</text>
+        <text encoding="base64">Ki8qCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
