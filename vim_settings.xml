@@ -803,11 +803,11 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member/invest.js" timestamp="1540363401512">
-        <mark key="[" line="549" column="9" />
-        <mark key="]" line="549" column="34" />
-        <mark key="^" line="549" column="33" />
-        <mark key="." line="549" column="33" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member/invest.js" timestamp="1540364520547">
+        <mark key="[" line="493" column="47" />
+        <mark key="]" line="493" column="52" />
+        <mark key="^" line="493" column="52" />
+        <mark key="." line="493" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/Controller.js" timestamp="1531793229673">
         <mark key="[" line="11" column="2" />
@@ -2506,10 +2506,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>seller</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>seller</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -2517,32 +2517,32 @@
       <register name="0" type="4">
         <text>+amount * (+percent / 100)</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHsKICAKfSk=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0pLnRoZW4oKCkgPT4gewogICAgICAgICAgICBjb25zdCBpbnZlc3QgPSBtYXJrZXQuX19kYXRhLmNvbnRyYWN0Ll9fZGF0YS5pbnZlc3QudG9PYmplY3QoKTsKICAgICAgICAgICAgY29uc3QgcGxhbiA9IG1ha2VQbGFuQ3VycnkoaW52ZXN0LCBzZWxsZXIudG9PYmplY3QoKSwgZGF0YS5hbW91bnQpOwogICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY29udHJhY3RzID0gewogICAgICAgICAgICAgIGFtb3VudDogZGF0YS5hbW91bnQsCiAgICAgICAgICAgICAgaW52ZXN0SWQ6IGRhdGEuaW52ZXN0SWQsCiAgICAgICAgICAgICAgbWVtYmVySWQ6IG1lbWJlci5pZCwKICAgICAgICAgICAgfTsKICAgICAgICAgICAgcmV0dXJuIG15UHJvbWlzZS5DUkVBVEUobWFya2V0LmZyb21Db250cmFjdCwgY29udHJhY3RzLCBvcHRpb24pOwogICAgICAgICAgfSkudGhlbihmcm9tQ29udHJhY3QgPT4gewogICAgICAgICAgICBjb25zdCBjcmVhdGVKc29uID0gewogICAgICAgICAgICAgIHR5cGU6IDAsCiAgICAgICAgICAgICAgY29kZTogMSwKICAgICAgICAgICAgICBhbW91bnQ6IGRhdGEuYW1vdW50LAogICAgICAgICAgICAgIHBvaW50QW1vdW50OiAwLAogICAgICAgICAgICAgIGluZm86IGBgLAogICAgICAgICAgICAgIGFjY291bnRJZDogbWVtYmVyLl9fZGF0YS5hY2NvdW50cy5fX2RhdGEuaWQsCiAgICAgICAgICAgIH07CiAgICAgICAgICAgIHJldHVybiBteVByb21pc2UuQ1JFQVRFKAogICAgICAgICAgICAgIGZyb21Db250cmFjdC50cmFuc2FjdGlvbnMsCiAgICAgICAgICAgICAgY3JlYXRlSnNvbiwKICAgICAgICAgICAgICBvcHRpb24KICAgICAgICAgICAgKTsKICAgICAgICAgIH0pLnRoZW4oKCkgPT4gewo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IHsKICAKfSk=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiA=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBsZXQgbm9UYXgsIG5vUGxhdEZlZWoK</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAg</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgIA==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
