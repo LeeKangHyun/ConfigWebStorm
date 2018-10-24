@@ -803,12 +803,12 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member/invest.js" timestamp="1540366590343">
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member/invest.js" timestamp="1540368671144">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="416" column="22" />
-        <mark key="]" line="416" column="23" />
-        <mark key="^" line="416" column="23" />
-        <mark key="." line="416" column="23" />
+        <mark key="[" line="476" column="45" />
+        <mark key="]" line="476" column="45" />
+        <mark key="^" line="560" column="36" />
+        <mark key="." line="476" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/Controller.js" timestamp="1531793229673">
         <mark key="[" line="11" column="2" />
@@ -2508,10 +2508,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>invest.date_to_start.substring(0, 8)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -2519,32 +2519,32 @@
       <register name="0" type="4">
         <text>+amount * (+percent / 100)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAg</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pLnRoZW4oKCkgPT4gewogICAgICAgICAgICBjb25zdCBpbnZlc3QgPSBtYXJrZXQuX19kYXRhLmNvbnRyYWN0Ll9fZGF0YS5pbnZlc3QudG9PYmplY3QoKTsKICAgICAgICAgICAgY29uc3QgcGxhbiA9IG1ha2VQbGFuQ3VycnkoaW52ZXN0LCBzZWxsZXIudG9PYmplY3QoKSwgZGF0YS5hbW91bnQpOwogICAgICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY29udHJhY3RzID0gewogICAgICAgICAgICAgIGFtb3VudDogZGF0YS5hbW91bnQsCiAgICAgICAgICAgICAgaW52ZXN0SWQ6IGRhdGEuaW52ZXN0SWQsCiAgICAgICAgICAgICAgbWVtYmVySWQ6IG1lbWJlci5pZCwKICAgICAgICAgICAgfTsKICAgICAgICAgICAgcmV0dXJuIG15UHJvbWlzZS5DUkVBVEUobWFya2V0LmZyb21Db250cmFjdCwgY29udHJhY3RzLCBvcHRpb24pOwogICAgICAgICAgfSkudGhlbihmcm9tQ29udHJhY3QgPT4gewogICAgICAgICAgICBjb25zdCBjcmVhdGVKc29uID0gewogICAgICAgICAgICAgIHR5cGU6IDAsCiAgICAgICAgICAgICAgY29kZTogMSwKICAgICAgICAgICAgICBhbW91bnQ6IGRhdGEuYW1vdW50LAogICAgICAgICAgICAgIHBvaW50QW1vdW50OiAwLAogICAgICAgICAgICAgIGluZm86IGBgLAogICAgICAgICAgICAgIGFjY291bnRJZDogbWVtYmVyLl9fZGF0YS5hY2NvdW50cy5fX2RhdGEuaWQsCiAgICAgICAgICAgIH07CiAgICAgICAgICAgIHJldHVybiBteVByb21pc2UuQ1JFQVRFKAogICAgICAgICAgICAgIGZyb21Db250cmFjdC50cmFuc2FjdGlvbnMsCiAgICAgICAgICAgICAgY3JlYXRlSnNvbiwKICAgICAgICAgICAgICBvcHRpb24KICAgICAgICAgICAgKTsKICAgICAgICAgIH0pLnRoZW4oKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0pLnRoZW4oKCkgPT4gewogICAgICAgICAgICBjb25zdCBpbnZlc3QgPSBtYXJrZXQuX19kYXRhLmNvbnRyYWN0Ll9fZGF0YS5pbnZlc3QudG9PYmplY3QoKTsKICAgICAgICAgICAgY29uc3QgcGxhbiA9IG1ha2VQbGFuQ3VycnkoaW52ZXN0LCBzZWxsZXIudG9PYmplY3QoKSwgZGF0YS5hbW91bnQpOwogICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IHsKICAKfSk=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY29udHJhY3RzID0gewogICAgICAgICAgICAgIGFtb3VudDogZGF0YS5hbW91bnQsCiAgICAgICAgICAgICAgaW52ZXN0SWQ6IGRhdGEuaW52ZXN0SWQsCiAgICAgICAgICAgICAgbWVtYmVySWQ6IG1lbWJlci5pZCwKICAgICAgICAgICAgfTsKICAgICAgICAgICAgcmV0dXJuIG15UHJvbWlzZS5DUkVBVEUobWFya2V0LmZyb21Db250cmFjdCwgY29udHJhY3RzLCBvcHRpb24pOwogICAgICAgICAgfSkudGhlbihmcm9tQ29udHJhY3QgPT4gewogICAgICAgICAgICBjb25zdCBjcmVhdGVKc29uID0gewogICAgICAgICAgICAgIHR5cGU6IDAsCiAgICAgICAgICAgICAgY29kZTogMSwKICAgICAgICAgICAgICBhbW91bnQ6IGRhdGEuYW1vdW50LAogICAgICAgICAgICAgIHBvaW50QW1vdW50OiAwLAogICAgICAgICAgICAgIGluZm86IGBgLAogICAgICAgICAgICAgIGFjY291bnRJZDogbWVtYmVyLl9fZGF0YS5hY2NvdW50cy5fX2RhdGEuaWQsCiAgICAgICAgICAgIH07CiAgICAgICAgICAgIHJldHVybiBteVByb21pc2UuQ1JFQVRFKAogICAgICAgICAgICAgIGZyb21Db250cmFjdC50cmFuc2FjdGlvbnMsCiAgICAgICAgICAgICAgY3JlYXRlSnNvbiwKICAgICAgICAgICAgICBvcHRpb24KICAgICAgICAgICAgKTsKICAgICAgICAgIH0pLnRoZW4oKCkgPT4gewo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiA=</text>
+        <text encoding="base64">IHsKICAKfSk=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgbm9UYXgsIG5vUGxhdEZlZWoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+        <text encoding="base64">CiA=</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
