@@ -368,7 +368,11 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/intro/startinvest.js" timestamp="1540343741399" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/intro/startinvest.js" timestamp="1540454580994">
+        <mark key="[" line="100" column="38" />
+        <mark key="]" line="100" column="38" />
+        <mark key="." line="100" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Controller.js" timestamp="1539156866033">
         <mark key="[" line="15" column="10" />
         <mark key="]" line="15" column="11" />
@@ -2514,10 +2518,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>contract.amount + contract.point</text>
+        <text encoding="base64">7IKs64K067OA7Zi47IKsLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>contract.amount + contract.point</text>
+        <text encoding="base64">7IKs64K067OA7Zi47IKsLCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
