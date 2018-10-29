@@ -169,11 +169,11 @@
         <mark key="." line="121" column="8" />
         <mark key="^" line="140" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Controller.js" timestamp="1540784093592">
-        <mark key="[" line="33" column="9" />
-        <mark key="]" line="34" column="22" />
-        <mark key="." line="34" column="22" />
-        <mark key="^" line="34" column="22" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Controller.js" timestamp="1540788674538">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="27" column="10" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/Utils/index.js" timestamp="1537257643157">
         <mark key="[" line="5" column="12" />
@@ -2560,45 +2560,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLihfLmNvbmNhdCgpKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy5zdGF0ZS5pdGVtLCA=</text>
+        <text>this.iScroll</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAubm8gewogICAgd2lkdGg6IDExMHB4OwogIH0KICAubmFtZSB7CiAgICB3aWR0aDogNDIwcHg7CiAgICB0ZXh0LWFsaWduOiBsZWZ0OwogIH0KICAucmF0ZSB7CiAgICB3aWR0aDogMTAwcHg7CiAgfQogIC5hbW91bnQgewogICAgd2lkdGg6IDE0MHB4OwogIH0KICAubWF0dXJpdHksIC5wYXlkYXkgewogICAgd2lkdGg6IDEzMHB4OwogIH0KICAucmVzZXQgewogICAgd2lkdGg6IDUwcHg7Cg==</text>
+      <register name="0" type="4">
+        <text>, this._onScroll</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLihfLmNvbmNhdCgpKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKHRoaXMuaVNjcm9sCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5fb25Mb2FkSXRlbSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaVNjcm9sbCA9IGNyZWF0ZVJlZigpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgaXRlbSB9ID0gdGhpcy5zdGF0ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICB9CiAgCg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmlTY3JvbGwuc2Nyb2xsVG9wICsgdGhpcy5pU2Nyb2xsLmNsaWVudEhlaWdodCA+PSB0aGlzLmlTY3JvbGwuc2Nyb2xsSGVpZ2h0KSB7CiAgICAgIHRoaXMuX29uTG9hZEl0ZW0oKTsKICAgIH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAKICAgIH0pCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">KCkgPT4gewogICAgICBpZiAodGhpcy5pU2Nyb2xsLnNjcm9sbFRvcCArIHRoaXMuaVNjcm9sbC5jbGllbnRIZWlnaHQgPj0gdGhpcy5pU2Nyb2xsLnNjcm9sbEhlaWdodCkgewogICAgICAgIHRoaXMuX29uTG9hZEl0ZW0oKTsKICAgICAgfQogICAgfQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAKICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIAogIH0K</text>
+      <register name="6" type="4">
+        <text encoding="base64">KCkgPT4gewogICAgfQ==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEl0ZW0gZGF0YT17e319Lz4K</text>
+        <text encoding="base64">ICAgICAgaWYgKHRoaXMuaVNjcm9sbC5zY3JvbGxUb3AgKyB0aGlzLmlTY3JvbGwuY2xpZW50SGVpZ2h0ID49IHRoaXMuaVNjcm9sbC5zY3JvbGxIZWlnaHQpIHsKICAgICAgICB0aGlzLl9vbkxvYWRJdGVtKCk7CiAgICAgIH0K</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-                
-              }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
