@@ -169,11 +169,11 @@
         <mark key="." line="121" column="8" />
         <mark key="^" line="140" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Controller.js" timestamp="1540791975258">
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="24" column="14" />
-        <mark key="." line="24" column="14" />
-        <mark key="^" line="24" column="14" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Controller.js" timestamp="1540793648455">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="11" column="5" />
+        <mark key="^" line="11" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/Utils/index.js" timestamp="1537257643157">
         <mark key="[" line="5" column="12" />
@@ -1554,12 +1554,12 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/List/index.js" timestamp="1540791621558">
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/List/index.js" timestamp="1540793344840">
         <mark key="'" line="58" column="14" />
-        <mark key="[" line="14" column="2" />
-        <mark key="]" line="14" column="4" />
-        <mark key="." line="14" column="4" />
-        <mark key="^" line="14" column="4" />
+        <mark key="[" line="58" column="35" />
+        <mark key="]" line="58" column="37" />
+        <mark key="." line="58" column="37" />
+        <mark key="^" line="58" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Price/Dermatology.js" timestamp="1539307272989">
         <mark key="[" line="0" column="12" />
@@ -2560,10 +2560,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -2572,29 +2572,29 @@
         <text encoding="base64">ICAgIGNvbnN0IHsgaXNMb2FkaW5nIH0gPSB0aGlzLnN0YXRlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKICBfb25TY3JvbGwgPSAoKSA9PiB7CiAgICBjb25zdCB7IGlzTG9hZGluZyB9ID0gdGhpcy5zdGF0ZTsKICAgIGlmICgod2luZG93LmlubmVySGVpZ2h0ICsgd2luZG93LnNjcm9sbFkpID49IChkb2N1bWVudC5ib2R5Lm9mZnNldEhlaWdodCAtIDUwMCkpIHsKICAgICAgaWYgKGlzTG9hZGluZykgcmV0dXJuOwogICAgICB0aGlzLl9vbkxvYWRJdGVtKCk7CiAgICB9CiAgfTsK</text>
+        <text encoding="base64">ICAgICAgdG90YWw6IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdfb25sb2FkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgdG90YWw6IDIwLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5zdGF0ZS5kYXRhWyAnaGFzLW1vcmUnIF0pIHsKICAgICAgICAgIHRoaXMuZ2V0UHJvZHVjdExpc3QodGhpcy5zdGF0ZS5kYXRhLnBhZ2UpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAKICBfb25TY3JvbGwgPSAoKSA9PiB7CiAgICBjb25zdCB7IGlzTG9hZGluZyB9ID0gdGhpcy5zdGF0ZTsKICAgIGlmICgod2luZG93LmlubmVySGVpZ2h0ICsgd2luZG93LnNjcm9sbFkpID49IChkb2N1bWVudC5ib2R5Lm9mZnNldEhlaWdodCAtIDUwMCkpIHsKICAgICAgaWYgKGlzTG9hZGluZykgcmV0dXJuOwogICAgICB0aGlzLl9vbkxvYWRJdGVtKCk7CiAgICB9CiAgfTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdfb25sb2FkJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVSZWY9eyhyZWYpID0+IHt0aGlzLmlTY3JvbGwgPSByZWZ9fQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5zdGF0ZS5kYXRhWyAnaGFzLW1vcmUnIF0pIHsKICAgICAgICAgIHRoaXMuZ2V0UHJvZHVjdExpc3QodGhpcy5zdGF0ZS5kYXRhLnBhZ2UpOwogICAgICAgIH0K</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-      }</text>
-      </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9vbkxvYWRJdGVtKCk7Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjcmVhdGVSZWY9eyhyZWYpID0+IHt0aGlzLmlTY3JvbGwgPSByZWZ9fQo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>{
+      }</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAK</text>
