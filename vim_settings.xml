@@ -445,6 +445,7 @@
         <mark key="." line="96" column="54" />
         <mark key="^" line="96" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/intro/faq.js" timestamp="1540866323043" />
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/loan/ApplyDetail.js" timestamp="1533605606487">
         <mark key="[" line="177" column="69" />
         <mark key="]" line="177" column="69" />
@@ -674,11 +675,11 @@
         <mark key="^" line="99" column="27" />
         <mark key="." line="99" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/List/Item.js" timestamp="1540794382183">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="6" />
-        <mark key="." line="3" column="6" />
-        <mark key="^" line="3" column="6" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/List/Item.js" timestamp="1540866713408">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/util/util.js" timestamp="1538720901507">
         <mark key="[" line="0" column="0" />
@@ -2386,11 +2387,11 @@
       <jump line="332" column="3" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/item/item.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEl0ZW0gZnJvbSAnLi9MaXN0L0l0ZW0nOwo=</text>
+      <register name="&quot;" type="4">
+        <text>item.uid</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEM=</text>
+        <text>item.uid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -2399,31 +2400,31 @@
         <text encoding="base64">ICAoewogICAgaW52ZXN0LAogICAgdXNlcgogIH0pID0+ICh7CiAgICBpbnZlc3QsCiAgICB1c2VyCiAgfSksCiAgZGlzcGF0Y2ggPT4gYmluZEFjdGlvbkNyZWF0b3JzKHsKICAgIGFsZXJ0X21vZGFsLAogICAgc2V0QXV0b0ludmVzdCwKICB9LCBkaXNwYXRjaCkK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IEl0ZW0gZnJvbSAnLi9MaXN0L0l0ZW0nOwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgIA==</text>
-      </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAgIAogICAgICA=</text>
+        <text encoding="base64">CiAgICAgIA==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">LAogICAg</text>
+        <text encoding="base64">CiAgICAgIAogICAgICA=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgIA==</text>
-      </register>
-      <register name="7" type="4">
         <text encoding="base64">LAogICAg</text>
       </register>
-      <register name="8" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgIA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdXNlcgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">LAogICAg</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
