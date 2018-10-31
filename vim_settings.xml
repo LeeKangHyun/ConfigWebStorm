@@ -15,11 +15,11 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/Invest/styled.js" timestamp="1540975512448">
-        <mark key="[" line="32" column="19" />
-        <mark key="]" line="33" column="21" />
-        <mark key="." line="33" column="21" />
-        <mark key="^" line="33" column="21" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/Invest/styled.js" timestamp="1540976921681">
+        <mark key="[" line="74" column="18" />
+        <mark key="]" line="75" column="21" />
+        <mark key="." line="75" column="21" />
+        <mark key="^" line="75" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Board/Controller.js" timestamp="1537256738952">
         <mark key="[" line="161" column="0" />
@@ -358,11 +358,11 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/Invest/index.js" timestamp="1540975385495">
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="16" column="34" />
-        <mark key="^" line="16" column="34" />
-        <mark key="." line="16" column="34" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/Invest/index.js" timestamp="1540976850955">
+        <mark key="[" line="39" column="31" />
+        <mark key="]" line="39" column="34" />
+        <mark key="^" line="39" column="34" />
+        <mark key="." line="39" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Annual/index.js" timestamp="1532996766786">
         <mark key="[" line="3" column="2" />
@@ -2411,17 +2411,17 @@
       <jump line="317" column="8" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/ItemInfo/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>nextDay</text>
       </register>
       <register name="-" type="4">
-        <text>일반투자</text>
+        <text>nextDay</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8c3Bhbj7sg4Htkogg6rWs66ek6rCA64qlIOydvOyLnOuKlCA8bGFiZWw+MeydvCA27Iuc6rCEPC9sYWJlbD4sIDwvc3Bhbj4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGNsYXNzTmFtZT0ibmV4dERheSI=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
