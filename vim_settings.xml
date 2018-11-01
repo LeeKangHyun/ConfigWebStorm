@@ -15,11 +15,11 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/Invest/styled.js" timestamp="1541053468571">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="1" />
-        <mark key="^" line="68" column="1" />
-        <mark key="." line="68" column="1" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/Invest/styled.js" timestamp="1541056063571">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="74" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Board/Controller.js" timestamp="1537256738952">
         <mark key="[" line="161" column="0" />
@@ -483,11 +483,12 @@
         <mark key="." line="55" column="22" />
         <mark key="^" line="55" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/Invest/BasicInvest/index.js" timestamp="1541053466249">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="7" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/Invest/BasicInvest/index.js" timestamp="1541056078237">
+        <mark key="'" line="8" column="9" />
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="9" />
+        <mark key="^" line="14" column="9" />
+        <mark key="." line="14" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/index.js" timestamp="1534817257818">
         <mark key="[" line="16" column="24" />
@@ -2327,7 +2328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="10" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Alert.js" />
       <jump line="0" column="19" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Alert.js" />
       <jump line="75" column="3" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Alert.js" />
       <jump line="106" column="19" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/JudgeLoan.js" />
@@ -2427,46 +2427,47 @@
       <jump line="517" column="48" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/dashboard.js" />
       <jump line="8" column="9" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/dashboard.js" />
       <jump line="28" column="9" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/Invest/TabList.js" />
+      <jump line="8" column="9" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/Invest/BasicInvest/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TableWrapper, Tbody,</text>
+        <text>Table</text>
       </register>
       <register name="-" type="4">
-        <text>TableWrapper, Tbody,</text>
+        <text>Table</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPFRhYkNvbXBvbmVudCAKICAgICAgICBpbml0PXt0eXBlfQogICAgICAgIHR5cGU9ImludmVzdCIKICAgICAgICBsYWJlbD0i7J2867CY7Yis7J6QIgogICAgICAgIG9uQ2xpY2s9e19vbkNsaWNrVGFifQogICAgICAvPgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGNsYXNzTmFtZT0ic3RlcCI=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGhlYWQgfSBmcm9tICcuLi8uLi9NYWluL01hcmtldC9MaXN0L3N0eWxlZCc7Cg==</text>
+        <text encoding="base64">ICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkaXY+CiAgICAKICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICA8aW1nIHNyYz17fQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUYWJsZVdyYXBwZXI+CiAgICAgICAgICAgIDxUaGVhZD4KICAgICAgICAgICAgCiAgICAgICAgICAgIDwvVGhlYWQ+CiAgICAgICAgICAgIDxUYm9keT4KICAgICAgICAgICAgCiAgICAgICAgICAgIDwvVGJvZHk+CiAgICAgICAgICA8L1RhYmxlV3JhcHBlcj4K</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJTsKICBwYWRkaW5nOiAwIDIwcHg7CmA7Cg==</text>
+        <text encoding="base64">ICAgICAgdHJhbnNmb3JtOiByb3RhdGUoMTgwZGVnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFRhYmxlID0gc3R5bGVkLmFydGljbGVgCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgVGhlYWQgfSBmcm9tICcuLi8uLi9NYWluL01hcmtldC9MaXN0L3N0eWxlZCc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBUYWJsZSwKICBUaGVhZCwK</text>
+        <text encoding="base64">ICAgIDxkaXY+CiAgICAKICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">7J6Q64+Z67aE7IKw7Yis7J6QIOydtOyKiCDsiJjsoJUK</text>
+        <text encoding="base64">ICAgICAgICAgIDxUYWJsZVdyYXBwZXI+CiAgICAgICAgICAgIDxUaGVhZD4KICAgICAgICAgICAgCiAgICAgICAgICAgIDwvVGhlYWQ+CiAgICAgICAgICAgIDxUYm9keT4KICAgICAgICAgICAgCiAgICAgICAgICAgIDwvVGJvZHk+CiAgICAgICAgICA8L1RhYmxlV3JhcHBlcj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICY6bm90KDpmaXJzdC1vZi10eXBlKSB7CiAgICAgIG1hcmdpbi1sZWZ0OiAxNXB4OwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
