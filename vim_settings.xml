@@ -440,12 +440,12 @@
         <mark key="." line="37" column="29" />
         <mark key="^" line="37" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/dashboard.js" timestamp="1541038233265">
-        <mark key="'" line="485" column="48" />
-        <mark key="[" line="976" column="25" />
-        <mark key="]" line="976" column="25" />
-        <mark key="^" line="976" column="25" />
-        <mark key="." line="976" column="25" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/dashboard.js" timestamp="1541040598994">
+        <mark key="'" line="483" column="48" />
+        <mark key="[" line="396" column="4" />
+        <mark key="]" line="396" column="8" />
+        <mark key="^" line="396" column="8" />
+        <mark key="." line="396" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/globalStyled.js" timestamp="1537335684781">
         <mark key="[" line="23" column="17" />
@@ -706,11 +706,11 @@
         <mark key="^" line="7" column="33" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/user/action.js" timestamp="1541033134886">
-        <mark key="[" line="427" column="0" />
-        <mark key="]" line="427" column="0" />
-        <mark key="." line="427" column="0" />
-        <mark key="^" line="428" column="30" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/user/action.js" timestamp="1541039902634">
+        <mark key="[" line="426" column="39" />
+        <mark key="]" line="426" column="39" />
+        <mark key="." line="426" column="39" />
+        <mark key="^" line="426" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/index.js" timestamp="1534826895037">
         <mark key="[" line="4" column="31" />
@@ -2411,11 +2411,11 @@
       <jump line="517" column="48" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/dashboard.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMucmVuZGVyREkoKQogICAgLy8gcmVuZGVyREkoKSB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>let</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID8gdHJ1ZSA6IGZhbHNl</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -2424,13 +2424,15 @@
         <text encoding="base64">IGNsYXNzTmFtZT0ibmV4dERheSI=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMucmVuZGVyREkoKQogICAgLy8gcmVuZGVyREkoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBkaXNhYmxlZD17J+uPmeydmO2VqCcgIT09IGFncmVlfQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+      <register name="2" type="4">
+        <text>{
+      // alert(&quot;작성란에 '동의함' 이라고 정확하게 작성해주세요.&quot;)
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMucmVuZGVyREkoKQogICAgLy8gcmVuZGVyREkoKSB7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBicmVhazsK</text>
