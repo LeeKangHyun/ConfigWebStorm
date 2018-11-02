@@ -490,7 +490,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541146428720">
+      <file name="/Dummy.txt" timestamp="1541150714309">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1379,12 +1379,12 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="8" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/QuickLoan/Controller.js" timestamp="1541148139253">
-        <mark key="'" line="75" column="49" />
-        <mark key="[" line="82" column="10" />
-        <mark key="]" line="83" column="42" />
-        <mark key="." line="83" column="42" />
-        <mark key="^" line="83" column="42" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/QuickLoan/Controller.js" timestamp="1541150667511">
+        <mark key="'" line="72" column="35" />
+        <mark key="[" line="72" column="187" />
+        <mark key="]" line="72" column="188" />
+        <mark key="." line="72" column="188" />
+        <mark key="^" line="72" column="188" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/ViewBox.js" timestamp="1537253730444">
         <mark key="[" line="32" column="19" />
@@ -1608,6 +1608,10 @@
         <mark key="." line="15" column="89" />
         <mark key="^" line="15" column="89" />
       </file>
+      <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Util/Fetch.js" timestamp="1541148225890">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="46" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/globalStyled.js" timestamp="1539651560515">
         <mark key="[" line="42" column="9" />
         <mark key="]" line="43" column="20" />
@@ -1704,12 +1708,12 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="27" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/QuickLoan/index.js" timestamp="1541146852077">
-        <mark key="'" line="49" column="6" />
-        <mark key="[" line="230" column="21" />
-        <mark key="]" line="230" column="34" />
-        <mark key="." line="230" column="34" />
-        <mark key="^" line="230" column="34" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/QuickLoan/index.js" timestamp="1541150068625">
+        <mark key="'" line="212" column="23" />
+        <mark key="[" line="118" column="41" />
+        <mark key="]" line="118" column="46" />
+        <mark key="." line="118" column="46" />
+        <mark key="^" line="118" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Intro/Around/styled.js" timestamp="1536200767545">
         <mark key="[" line="133" column="0" />
@@ -2108,11 +2112,10 @@
         <mark key="." line="207" column="50" />
         <mark key="^" line="207" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Header/index.js" timestamp="1541125266134">
-        <mark key="[" line="71" column="30" />
-        <mark key="]" line="71" column="38" />
-        <mark key="." line="71" column="38" />
-        <mark key="^" line="71" column="38" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Header/index.js" timestamp="1541150385279">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Subject/styled.js" timestamp="1533864031581">
         <mark key="[" line="217" column="21" />
@@ -2192,11 +2195,11 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/config/routes.js" timestamp="1541122609851">
-        <mark key="[" line="95" column="43" />
-        <mark key="]" line="95" column="51" />
-        <mark key="^" line="95" column="51" />
-        <mark key="." line="95" column="51" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/config/routes.js" timestamp="1541150530484">
+        <mark key="[" line="100" column="54" />
+        <mark key="]" line="100" column="54" />
+        <mark key="^" line="100" column="74" />
+        <mark key="." line="100" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/public/index.html" timestamp="1531704265610">
         <mark key="[" line="28" column="26" />
@@ -2344,8 +2347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="27" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Alert.js" />
-      <jump line="76" column="12" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Alert.js" />
       <jump line="43" column="13" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/index.js" />
       <jump line="25" column="19" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/index.js" />
       <jump line="59" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/index.js" />
@@ -2444,49 +2445,51 @@
       <jump line="11" column="29" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/QuickLoan/styled.js" />
       <jump line="49" column="6" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/QuickLoan/index.js" />
       <jump line="75" column="49" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/QuickLoan/Controller.js" />
+      <jump line="72" column="35" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/QuickLoan/Controller.js" />
+      <jump line="211" column="23" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/QuickLoan/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">LnRoZW4ocmVzID0+IHJlcy5qc29uKCkpOw==</text>
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LnRoZW4ocmVzID0+IHJlcy5qc29uKCkpOw==</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>'application/json, text/html, text/plain, */*'</text>
+        <text encoding="base64">XGDsnbTrpoRcYCA9PiAke25hbWV9XG4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBfZmV0Y2goCiAgICAgICAgJ2h0dHBzOi8vaG9va3Muc2xhY2suY29tL3NlcnZpY2VzL1QyN0pDMUhLOS9CRFRHQkJOQ1IvTFdMQWk1djRsVThZZmN0cXlxc0dWZm9RJywKICAgICAgICB7CiAgICAgICAgICBtZXRob2Q6ICdQT1NUJywKICAgICAgICAgIGhlYWRlcnM6IHsKICAgICAgICAgICAgJ0NvbnRlbnQtdHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uLCB0ZXh0L2h0bWwsIHRleHQvcGxhaW4sICovKicsCiAgICAgICAgICAgICdBY2NlcHQnOiAnYXBwbGljYXRpb24vanNvbiwgdGV4dC9odG1sLCB0ZXh0L3BsYWluLCAqLyonLAogICAgICAgICAgfSwKICAgICAgICAgIGJvZHk6IGRhdGEKICAgICAgICB9CiAgICAgICkudGhlbihyZXMgPT4gcmVzLmpzb24oKSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVzcG9uc2U7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGF3YWl0IHJlc3BvbnNlLmpzb24oKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYm9keSA9IHJlc3BvbnNlCg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzKTsKICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgICAgc3VjY2VzczogdHJ1ZSwKICAgICAgICAgICAgfSkK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgYnJvd3Nlckhpc3RvcnkucHVzaCh1cmwpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmICh1c2VyICYmIHRydWUgPT09IHVzZXIubG9nZ2VkKSB7CiAgICB9CiAgICBlbHNlIHsKICAgICAgdGhpcy5wcm9wcy5zbGlkZXJQdXNoKCIvc2lnbkluIik7CiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5zbGlkZXJQdXNoKCIvcXVpY2tsb2FuIik7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgfQ==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
