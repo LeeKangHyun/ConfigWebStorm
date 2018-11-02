@@ -423,7 +423,10 @@
         <mark key="^" line="48" column="61" />
         <mark key="." line="48" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/components/modal/profile.js" timestamp="1541135236754" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/components/modal/profile.js" timestamp="1541137203000">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="123" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon_admin/package.json" timestamp="1536646291811">
         <mark key="[" line="37" column="18" />
         <mark key="]" line="37" column="29" />
@@ -487,7 +490,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541121134052">
+      <file name="/Dummy.txt" timestamp="1541138417036">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2095,11 +2098,12 @@
         <mark key="^" line="91" column="55" />
         <mark key="." line="91" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/components/transaction.js" timestamp="1541137109362">
-        <mark key="[" line="140" column="18" />
-        <mark key="]" line="140" column="19" />
-        <mark key="." line="140" column="19" />
-        <mark key="^" line="140" column="19" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/components/transaction.js" timestamp="1541138171185">
+        <mark key="'" line="74" column="19" />
+        <mark key="[" line="76" column="29" />
+        <mark key="]" line="77" column="20" />
+        <mark key="." line="77" column="20" />
+        <mark key="^" line="77" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Header/index.js" timestamp="1541125266134">
         <mark key="[" line="71" column="30" />
@@ -2337,8 +2341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/JudgeLoan.js" />
-      <jump line="253" column="10" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/JudgeLoan.js" />
       <jump line="245" column="2" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/JudgeLoan.js" />
       <jump line="58" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/JudgeLoan.js" />
       <jump line="18" column="12" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Alert.js" />
@@ -2437,52 +2439,54 @@
       <jump line="89" column="55" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/QuickLoan/index.js" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/loan/ApplyDetail.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/loan/ApplyDetail.js" />
+      <jump line="167" column="21" filename="$USER_HOME$/Documents/mouda/mouda_admin/app/components/transaction.js" />
+      <jump line="72" column="19" filename="$USER_HOME$/Documents/mouda/mouda_admin/app/components/transaction.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>상태</text>
+        <text>99</text>
       </register>
       <register name="-" type="4">
-        <text>상태</text>
+        <text>99</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGh0bWxGb3I9IkNCb2ZmZXIi</text>
+        <text encoding="base64">IG9uQ2xpY2s9e3RoaXMud2l0aGRyYXdlZC5iaW5kKHRoaXMsIGxpc3QuaWQsIDk5KX0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWQ9Im9mZmVyIgo=</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5jb25maQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">LmNhdGNoKGVyciA9PiB7CiAgICAgICAgdGhpcy5wcm9wcy5hbGVydF9tb2RhbChlcnIpOwogICAgICB9KQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZldGNoLnB1dCgnVHJhbnNhY3Rpb25zLycraWQsIHtzdGF0ZTogMX0pLnRoZW4ocmVzID0+IHsKICAgICAgdGhpcy5wcm9wcy5hbGVydF9tb2RhbCgn7KCV7IOBIOyymOumrOuQmOyXiOyKteuLiOuLpC4nKTsKICAgIH0pLmNhdGNoKGVyciA9PiB7CiAgICAgIHRoaXMucHJvcHMuYWxlcnRfbW9kYWwoZXJyKTsKICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Cg==</text>
+        <text encoding="base64">ICAKICB3aXRoRHJhd0FQSSA9IGFzeW5jICgpID0+IHsKICAgIHJldHVybiBhd2FpdCAKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxLjU7Cg==</text>
+        <text encoding="base64">ICAgIGxldCB1c2VyID0gdGhpcy5wcm9wcy5wcm9maWxlLm1lbWJlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBtYXJnaW4tdG9wOiAyMnB4Owo=</text>
+        <text encoding="base64">ICAgICAgZmV0Y2guZ2V0KCdNZW1iZXJzL3Byb2ZpbGUvJyArIHVzZXIuaWQpLnRoZW4ocHJvZmlsZSA9PiB7CiAgICAgICAgdGhpcy5wcm9wcy5wcm9maWxlX21vZGFsKHRydWUsIHByb2ZpbGUpOwogICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0ZXh0LWFsaWduOiByaWdodDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWQ9Im9mZmVyIgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>10</text>
+        <text>vsplit</text>
       </register>
     </registers>
     <search>
@@ -2536,8 +2540,8 @@
         <entry>file</entry>
         <entry>market.js</entry>
         <entry>split</entry>
-        <entry>vsplit</entry>
         <entry>10</entry>
+        <entry>vsplit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
