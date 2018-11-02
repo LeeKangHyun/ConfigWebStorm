@@ -430,10 +430,6 @@
         <mark key="^" line="48" column="61" />
         <mark key="." line="48" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/stylesheets/common/color-variable.scss" timestamp="1540956685828">
-        <mark key="[" line="49" column="7" />
-        <mark key="]" line="49" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon_admin/package.json" timestamp="1536646291811">
         <mark key="[" line="37" column="18" />
         <mark key="]" line="37" column="29" />
@@ -496,7 +492,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541051748758">
+      <file name="/Dummy.txt" timestamp="1541121134052">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1192,6 +1188,12 @@
         <mark key="." line="16" column="2" />
         <mark key="^" line="16" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/QuickLoan/styled.js" timestamp="1541123818918">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Styled.js" timestamp="1531101746022">
         <mark key="[" line="39" column="22" />
         <mark key="]" line="40" column="22" />
@@ -1388,6 +1390,12 @@
         <mark key="]" line="8" column="2" />
         <mark key="." line="8" column="2" />
         <mark key="^" line="8" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/QuickLoan/Controller.js" timestamp="1541122456213">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/ViewBox.js" timestamp="1537253730444">
         <mark key="[" line="32" column="19" />
@@ -1718,6 +1726,12 @@
         <mark key="]" line="27" column="25" />
         <mark key="^" line="27" column="25" />
         <mark key="." line="27" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/QuickLoan/index.js" timestamp="1541123776601">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="14" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Intro/Around/styled.js" timestamp="1536200767545">
         <mark key="[" line="133" column="0" />
@@ -2181,11 +2195,11 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/config/routes.js" timestamp="1540973723493">
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="22" column="33" />
-        <mark key="^" line="22" column="33" />
-        <mark key="." line="22" column="33" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/config/routes.js" timestamp="1541122609851">
+        <mark key="[" line="95" column="43" />
+        <mark key="]" line="95" column="51" />
+        <mark key="^" line="95" column="51" />
+        <mark key="." line="95" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/public/index.html" timestamp="1531704265610">
         <mark key="[" line="28" column="26" />
@@ -2435,11 +2449,14 @@
       <jump line="8" column="9" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/Invest/BasicInvest/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiAzMDA7Cg==</text>
+      <register name="a" type="4">
+        <text />
+      </register>
+      <register name="&quot;" type="4">
+        <text>div</text>
       </register>
       <register name="-" type="4">
-        <text>market</text>
+        <text>div</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -2447,35 +2464,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHt1dGlsLm51bWJlcldpdGhDb21tYShpdGVtLmludmVzdFBsYW4ucHJpbmNpcGFsKX0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiAzMDA7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGJsb2NrOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIOyDge2ZmOq4iAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzZXJ2ZXJEYXRhLAo=</text>
+        <text encoding="base64">ICAgIGRpc3BhdGNoID0+IGJpbmRBY3Rpb25DcmVhdG9ycyh7CiAgICAgIAogICAgfSwgZGlzcGF0Y2gpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3RhdGUsIE5hdmlnYXRpb24sIH0gZnJvbSAncmVhY3Qtcm91dGVyJzsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ZGl2PgogICAgICAgIAogICAgICA8L2Rpdg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW52ZXN0bWVudHMpOwo=</text>
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiAzMDA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgTXlJbnZlc3RNb2RhbCwgZmV0Y2hNZW1iZXJJbmZvCg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGJsb2NrOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmV4cG9ydCBkZWZhdWx0IGNvbm5lY3QoCiAgc3RhdGUgPT4gKHsgaW52ZXN0bWVudHM6IHN0YXRlLnVzZXIuaW52ZXN0bWVudHMsIHNlcnZlckRhdGE6IHN0YXRlLnNlcnZlckluZm8uZGF0YSwgdXNlcjogc3RhdGUudXNlciB9KSwKICBkaXNwYXRjaCA9PiBiaW5kQWN0aW9uQ3JlYXRvcnMoewogICAgTXlJbnZlc3RNb2RhbCwgZmV0Y2hNZW1iZXJJbmZvCiAgfSwgZGlzcGF0Y2gpCikoSW52ZXN0bWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIOyDge2ZmOq4iAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8QmFzaWNMaXN0IGNsYXNzTmFtZT0iY29udGVudCI+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibmFtZSI+7Yis7J6Q7IOB7ZKIPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3RlcCI+7IOB7YOcPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibmV4dFBheWRheSI+7LCo6riw7IOB7ZmY7J28PC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYW1vdW50Ij7tiKzsnpDtlanqs4Q8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwcmluY2lwYWwiPuybkOq4iOyelOyVoTwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im5leHRQYXltZW50Ij7sg4HtmZjquIg8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyYXRlIj7sl7DsiJjsnbXrpaA8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJkZXRhaWwiPuyDgeyEuDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNlbGwiPu2MkOunpO2VmOq4sDwvZGl2PgogICAgICAgIDwvQmFzaWNMaXN0PgogICAgICAgIDxCYXNpY0xpc3QgY2xhc3NOYW1lPSJjb250ZW50Ij4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJuYW1lIj7tiKzsnpDsg4Htkog8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzdGVwIj7sg4Htg5w8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJuZXh0UGF5ZGF5Ij7ssKjquLDsg4HtmZjsnbw8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhbW91bnQiPu2IrOyekO2VqeqzhDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InByaW5jaXBhbCI+7JuQ6riI7J6U7JWhPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibmV4dFBheW1lbnQiPuyDge2ZmOq4iDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJhdGUiPuyXsOyImOydteuloDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImRldGFpbCI+7IOB7IS4PC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic2VsbCI+7YyQ66ek7ZWY6riwPC9kaXY+CiAgICAgICAgPC9CYXNpY0xpc3Q+Cg==</text>
+        <text encoding="base64">ICBzZXJ2ZXJEYXRhLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>vsplit</text>
+        <text>10</text>
       </register>
     </registers>
     <search>
@@ -2511,7 +2528,6 @@
         <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>s/li/Li/g</entry>
         <entry>s/li/Li</entry>
         <entry>%s/li/Li/g</entry>
@@ -2531,6 +2547,7 @@
         <entry>market.js</entry>
         <entry>split</entry>
         <entry>vsplit</entry>
+        <entry>10</entry>
       </history-cmd>
       <history-expr />
       <history-input />
