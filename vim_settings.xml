@@ -1174,11 +1174,11 @@
         <mark key="." line="16" column="2" />
         <mark key="^" line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/QuickLoan/styled.js" timestamp="1541128602880">
-        <mark key="[" line="92" column="21" />
-        <mark key="]" line="93" column="21" />
-        <mark key="^" line="93" column="21" />
-        <mark key="." line="93" column="21" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/QuickLoan/styled.js" timestamp="1541134704909">
+        <mark key="[" line="107" column="12" />
+        <mark key="]" line="107" column="21" />
+        <mark key="^" line="107" column="21" />
+        <mark key="." line="107" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/Styled.js" timestamp="1531101746022">
         <mark key="[" line="39" column="22" />
@@ -1377,11 +1377,11 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="8" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/QuickLoan/Controller.js" timestamp="1541125369666">
-        <mark key="[" line="13" column="24" />
-        <mark key="]" line="13" column="24" />
-        <mark key="^" line="13" column="24" />
-        <mark key="." line="13" column="24" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/QuickLoan/Controller.js" timestamp="1541133690298">
+        <mark key="[" line="22" column="6" />
+        <mark key="]" line="25" column="5" />
+        <mark key="^" line="25" column="5" />
+        <mark key="." line="25" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/ViewBox.js" timestamp="1537253730444">
         <mark key="[" line="32" column="19" />
@@ -1706,11 +1706,11 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="27" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/QuickLoan/index.js" timestamp="1541128506747">
-        <mark key="[" line="36" column="23" />
-        <mark key="]" line="36" column="41" />
-        <mark key="." line="36" column="41" />
-        <mark key="^" line="36" column="41" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/QuickLoan/index.js" timestamp="1541134203518">
+        <mark key="[" line="75" column="15" />
+        <mark key="]" line="75" column="16" />
+        <mark key="." line="75" column="16" />
+        <mark key="^" line="75" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Intro/Around/styled.js" timestamp="1536200767545">
         <mark key="[" line="133" column="0" />
@@ -2443,44 +2443,44 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNvdW50PXszfQ==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAmOmFmdGVyLCAmOmJlZm9yZSB7CiAgICBjb250ZW50OiAnJzsKICAgIGNsZWFyOiBib3RoOwogICAgZGlzcGxheTogYmxvY2s7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPExhYmVsQnV0dG9uPgogICAgICAgICAgICAgIDxGb3JtTGFiZWw+7KeB7JeFPC9Gb3JtTGFiZWw+CiAgICAgICAgICAgICAgPHRhYmxlPgogICAgICAgICAgICAgICAgPHRib2R5PgogICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgPHRkCiAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2pvYiA9PT0gJ2RvY3RvcicgPyAnY2hlY2tlZCc6Jyd9CiAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXtfb25DbGlja0pvYignZG9jdG9yJyl9CiAgICAgICAgICAgICAgICAgICAgPuydmOyCrDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkCiAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2pvYiA9PT0gJ2RlbnRpc3QnID8gJ2NoZWNrZWQnOicnfQogICAgICAgICAgICAgICAgICAgICAgb25DbGljaz17X29uQ2xpY2tKb2IoJ2RlbnRpc3QnKX0KICAgICAgICAgICAgICAgICAgICA+7LmY6rO87J2Y7IKsPC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQKICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17am9iID09PSAnb3JpZW50YWwnID8gJ2NoZWNrZWQnOicnfQogICAgICAgICAgICAgICAgICAgICAgb25DbGljaz17X29uQ2xpY2tKb2IoJ29yaWVudGFsJyl9CiAgICAgICAgICAgICAgICAgICAgPu2VnOydmOyCrDwvdGQ+CiAgICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICA8L3Rib2R5PgogICAgICAgICAgICAgIDwvdGFibGU+CiAgICAgICAgICAgIDwvTGFiZWxCdXR0b24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGhlaWdodDogMXB4Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJvcgo=</text>
+        <text encoding="base64">ICAgIGJvcmRlci1jb2xvcjogI2M4YzhjODsKICAgIGJhY2tncm91bmQ6ICNjOGM4Yzg7CiAgICBjb2xvcjogI2M4YzhjODsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdgo=</text>
+        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiA0MHB4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2Pgo=</text>
+        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiA0MHB4Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDw+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIChkaXNwYXRjaCkgPT4gKHsKICAgICAgCiAgICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3aWR0aDogMzkwcHgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQKICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17am9iID09PSAnb3JpZW50YWwnID8gJ2NoZWNrZWQnOicnfQogICAgICAgICAgICAgICAgICAgICAgb25DbGljaz17X29uQ2xpY2tKb2IoJ29yaWVudGFsJyl9CiAgICAgICAgICAgICAgICAgICAgPu2VnOydmOyCrDwvdGQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAmOmFmdGVyLCAmOmJlZm9yZSB7CiAgICBjb250ZW50OiAnJzsKICAgIGNsZWFyOiBib3RoOwogICAgZGlzcGxheTogYmxvY2s7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxHb0J1dHRvbiBvbkNsaWNrPXtfb25DbGlja1RyYW4oJy9sb2FuYXBwbHknKX0+CiAgICAgICAgICAgIOydvOuwmCDrjIDstpwg7Iug7LKtIDxpbWcgc3JjPSIvaW1hZ2VzL2dvX2ljb24uc3ZnIiBhbHQ9Ij0+IiAvPgogICAgICAgICAgPC9Hb0J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17fQo=</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
