@@ -2117,10 +2117,11 @@
         <mark key="." line="207" column="50" />
         <mark key="^" line="207" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Header/index.js" timestamp="1541150385279">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Header/index.js" timestamp="1541378434171">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="23" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Subject/styled.js" timestamp="1533864031581">
         <mark key="[" line="217" column="21" />
@@ -2457,8 +2458,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>startloan</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>startloan</text>
@@ -2470,31 +2471,31 @@
         <text encoding="base64">XGDsnbTrpoRcYCA9PiAke25hbWV9XG4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb21wb25lbnRXaWxsVW5tb3VudCgpIHsKICAgIHdpbmRvdy5yZW1vdmVFdmVudExpc3RlbmVyKCdzY3JvbGwnLCB0aGlzLnByb3BzLmhhbmRsZVNjcm9sbCk7CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYnJvd3Nlckhpc3RvcnkucHVzaCh1cmwpCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICh1c2VyICYmIHRydWUgPT09IHVzZXIubG9nZ2VkKSB7CiAgICB9CiAgICBlbHNlIHsKICAgICAgdGhpcy5wcm9wcy5zbGlkZXJQdXNoKCIvc2lnbkluIik7CiAgICB9Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgY29tcG9uZW50V2lsbFVubW91bnQoKSB7IHdpbmRvdy5yZW1vdmVFdmVudExpc3RlbmVyKCdzY3JvbGwnLCB0aGlzLnByb3BzLmhhbmRsZVNjcm9sbCk7Cj09PT09PT0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5zbGlkZXJQdXNoKCIvcXVpY2tsb2FuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgYnJvd3Nlckhpc3RvcnkucHVzaCh1cmwpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmICh1c2VyICYmIHRydWUgPT09IHVzZXIubG9nZ2VkKSB7CiAgICB9CiAgICBlbHNlIHsKICAgICAgdGhpcy5wcm9wcy5zbGlkZXJQdXNoKCIvc2lnbkluIik7CiAgICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5zbGlkZXJQdXNoKCIvcXVpY2tsb2FuIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
