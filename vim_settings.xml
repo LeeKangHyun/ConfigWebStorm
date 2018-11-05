@@ -15,11 +15,11 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/Invest/styled.js" timestamp="1541388537480">
-        <mark key="[" line="250" column="22" />
-        <mark key="]" line="250" column="32" />
-        <mark key="." line="250" column="32" />
-        <mark key="^" line="250" column="32" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/Invest/styled.js" timestamp="1541392880109">
+        <mark key="[" line="218" column="27" />
+        <mark key="]" line="221" column="21" />
+        <mark key="." line="221" column="21" />
+        <mark key="^" line="221" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Board/Controller.js" timestamp="1537256738952">
         <mark key="[" line="161" column="0" />
@@ -477,12 +477,12 @@
         <mark key="." line="55" column="22" />
         <mark key="^" line="55" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/Invest/BasicInvest/index.js" timestamp="1541384568828">
-        <mark key="'" line="96" column="0" />
-        <mark key="[" line="70" column="17" />
-        <mark key="]" line="71" column="36" />
-        <mark key="^" line="71" column="36" />
-        <mark key="." line="71" column="36" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/Invest/BasicInvest/index.js" timestamp="1541392892215">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="94" column="26" />
+        <mark key="]" line="94" column="25" />
+        <mark key="^" line="94" column="25" />
+        <mark key="." line="94" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/index.js" timestamp="1534817257818">
         <mark key="[" line="16" column="24" />
@@ -2465,10 +2465,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>보기</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>보기</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -2477,31 +2477,31 @@
         <text encoding="base64">ICBtYXJnaW4tdG9wOiAxNXB4Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtYXJnaW4tdG9wOiAxNXB4Owo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IO2MqOuUqTIwIC0gMTcwLSAxMjAgLSAxMDAgLTExMCAtMTIwIC0xMTAgLTEwMCAtIDcwIC04MCAtIO2MqOuUqTIwIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDIwcHggMzBweDsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBtYXJnaW4tdG9wOiAxNXB4Owo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHlsZT17eyBjdXJzb3I6ICdwb2ludGVyJywgdmVydGljYWxBbGlnbjogJ21pZGRsZScgfX0K</text>
+        <text encoding="base64">IO2MqOuUqTIwIC0gMTcwLSAxMjAgLSAxMDAgLTExMCAtMTIwIC0xMTAgLTEwMCAtIDcwIC04MCAtIO2MqOuUqTIwIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgaWQ9ImludmVzdENhbmNlbCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHlsZT17eyBjdXJzb3I6ICdwb2ludGVyJywgdmVydGljYWxBbGlnbjogJ21pZGRsZScgfX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgZGF0YS1pZD17ZWFjaEluZm8uaWR9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgaWQ9ImludmVzdENhbmNlbCIK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
