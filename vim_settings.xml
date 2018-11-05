@@ -477,12 +477,12 @@
         <mark key="." line="55" column="22" />
         <mark key="^" line="55" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/Invest/BasicInvest/index.js" timestamp="1541382225541">
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/Invest/BasicInvest/index.js" timestamp="1541382923160">
         <mark key="'" line="96" column="0" />
-        <mark key="[" line="75" column="50" />
-        <mark key="]" line="75" column="53" />
+        <mark key="[" line="75" column="31" />
+        <mark key="]" line="75" column="31" />
         <mark key="^" line="75" column="53" />
-        <mark key="." line="75" column="53" />
+        <mark key="." line="75" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/index.js" timestamp="1534817257818">
         <mark key="[" line="16" column="24" />
@@ -2459,10 +2459,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>eachInfo</text>
+        <text>this.</text>
       </register>
       <register name="-" type="4">
-        <text>eachInfo</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
