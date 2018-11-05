@@ -592,6 +592,12 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Header/slideMenu.js" timestamp="1541377597901">
+        <mark key="[" line="56" column="90" />
+        <mark key="]" line="56" column="98" />
+        <mark key="." line="56" column="98" />
+        <mark key="^" line="56" column="98" />
+      </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/redux/reducer/Modal.js" timestamp="1539324258600">
         <mark key="[" line="31" column="19" />
         <mark key="]" line="32" column="24" />
@@ -1199,7 +1205,6 @@
         <mark key="." line="20" column="34" />
         <mark key="^" line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Booking/Controller.js" timestamp="1541147077985" />
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Mask/Controller.js" timestamp="1531358203986">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -2453,10 +2458,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>startloan</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>startloan</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
