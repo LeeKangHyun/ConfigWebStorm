@@ -491,7 +491,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541403583295">
+      <file name="/Dummy.txt" timestamp="1541406108452">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -503,11 +503,11 @@
         <mark key="." line="28" column="24" />
         <mark key="^" line="28" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/stylesheets/Mypage/loan.scss" timestamp="1541383924622">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="299" column="40" />
-        <mark key="." line="0" column="9" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/stylesheets/Mypage/loan.scss" timestamp="1541406061715">
+        <mark key="[" line="299" column="36" />
+        <mark key="]" line="299" column="36" />
+        <mark key="^" line="299" column="36" />
+        <mark key="." line="299" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Customer/Booking/BookingList.js" timestamp="1536720962286">
         <mark key="[" line="85" column="12" />
@@ -2248,6 +2248,12 @@
         <mark key="." line="25" column="15" />
         <mark key="^" line="25" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/index.js" timestamp="1541406310037">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="5" column="5" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/index.js" timestamp="1534986328334">
         <mark key="[" line="46" column="37" />
         <mark key="]" line="46" column="38" />
@@ -2476,16 +2482,16 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>market</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>market</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJi5uYW1lIHsKICAgICAgICB3aWR0aDogMTgwcHg7CiAgICAgIH0KICAgICAgJi5zdGVwIHsKICAgICAgICB3aWR0aDogMTIwcHg7CiAgICAgIH0KICAgICAgJi5uZXh0UGF5ZGF5IHsKICAgICAgICB3aWR0aDogMTAwcHg7CiAgICAgIH0KICAgICAgJi5hbW91bnQgewogICAgICAgIHdpZHRoOiAxMjBweDsKICAgICAgfQogICAgICAmLnByaW5jaXBhbCB7CiAgICAgICAgd2lkdGg6IDEyMHB4OwogICAgICB9CiAgICAgICYubmV4dFBheW1lbnQgewogICAgICAgIHdpZHRoOiAxMjBweDsKICAgICAgfQogICAgICAmLnJhdGUgewogICAgICAgIHdpZHRoOiAxMjBweDsKICAgICAgfQogICAgICAmLmRldGFpbCB7CiAgICAgICAgd2lkdGg6IDEwMHB4OwogICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>$cellDetail</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBCYXNpY0xpc3QsCg==</text>
