@@ -473,7 +473,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541406108452">
+      <file name="/Dummy.txt" timestamp="1541484359357">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -1473,11 +1473,11 @@
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/styled.js" timestamp="1541483789201">
-        <mark key="[" line="308" column="20" />
-        <mark key="]" line="308" column="21" />
-        <mark key="." line="308" column="21" />
-        <mark key="^" line="308" column="24" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/styled.js" timestamp="1541485234457">
+        <mark key="[" line="161" column="7" />
+        <mark key="]" line="165" column="28" />
+        <mark key="." line="165" column="28" />
+        <mark key="^" line="165" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/index.js" timestamp="1538623861380">
         <mark key="[" line="11" column="0" />
@@ -2458,11 +2458,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICM1MTVkN2Q7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>first</text>
       </register>
       <register name="-" type="4">
-        <text>200px;</text>
+        <text>first</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
