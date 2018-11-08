@@ -148,11 +148,11 @@
         <mark key="." line="34" column="70" />
         <mark key="^" line="34" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/index.js" timestamp="1541407090716">
-        <mark key="[" line="14" column="28" />
-        <mark key="]" line="14" column="32" />
-        <mark key="." line="14" column="32" />
-        <mark key="^" line="14" column="32" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/index.js" timestamp="1541577933806">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+        <mark key="^" line="17" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/globalStyled.js" timestamp="1535165841226">
         <mark key="[" line="11" column="25" />
@@ -298,6 +298,15 @@
         <mark key="." line="56" column="50" />
         <mark key="^" line="56" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/stylesheets/container/modal/common.scss" timestamp="1541579754887">
+        <mark key="'" line="345" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/modal/styled.js" timestamp="1541640180799">
+        <mark key="[" line="92" column="26" />
+        <mark key="]" line="94" column="27" />
+        <mark key="^" line="94" column="27" />
+        <mark key="." line="94" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/public/index.html" timestamp="1537250013552">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="89" />
@@ -413,11 +422,18 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="2" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Investor/index.js" timestamp="1540948476039">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="38" />
-        <mark key="^" line="26" column="9" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/modal/MarketRegist.js" timestamp="1541577423692">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="101" column="73" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="21" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Investor/index.js" timestamp="1541578381854">
+        <mark key="[" line="23" column="37" />
+        <mark key="]" line="23" column="49" />
+        <mark key="^" line="23" column="49" />
+        <mark key="." line="23" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/redux/reducer/index.js" timestamp="1538622856090">
         <mark key="[" line="0" column="0" />
@@ -480,7 +496,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541568476669">
+      <file name="/Dummy.txt" timestamp="1541582918177">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -624,6 +640,13 @@
         <mark key="." line="77" column="32" />
         <mark key="^" line="77" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/modal/MarketApply.js" timestamp="1541582893217">
+        <mark key="'" line="9" column="37" />
+        <mark key="[" line="56" column="7" />
+        <mark key="]" line="58" column="24" />
+        <mark key="." line="58" column="24" />
+        <mark key="^" line="58" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/index.js" timestamp="1538637789903">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="59" column="14" />
@@ -709,6 +732,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="18" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/stylesheets/container/modal/market.scss" timestamp="1541582470462">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="38" />
+        <mark key="^" line="8" column="38" />
+        <mark key="." line="8" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/index.js" timestamp="1534826895037">
         <mark key="[" line="4" column="31" />
         <mark key="]" line="4" column="31" />
@@ -732,6 +761,13 @@
         <mark key="]" line="26" column="76" />
         <mark key="." line="26" column="76" />
         <mark key="^" line="26" column="76" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/modal/reducer.js" timestamp="1541578273281">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="203" column="24" />
+        <mark key="]" line="204" column="35" />
+        <mark key="^" line="204" column="35" />
+        <mark key="." line="204" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/redux/user/action.js" timestamp="1538470276443">
         <mark key="[" line="69" column="0" />
@@ -829,11 +865,11 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/Success.js" timestamp="1541551903744">
-        <mark key="[" line="1" column="45" />
-        <mark key="]" line="1" column="45" />
-        <mark key="^" line="11" column="15" />
-        <mark key="." line="1" column="45" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/Success.js" timestamp="1541576358701">
+        <mark key="[" line="13" column="42" />
+        <mark key="]" line="13" column="45" />
+        <mark key="^" line="13" column="45" />
+        <mark key="." line="13" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/redux/saga/api/board.js" timestamp="1529558734060">
         <mark key="[" line="3" column="2" />
@@ -1021,7 +1057,8 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/ItemInfo/index.js" timestamp="1540968301943">
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/ItemInfo/index.js" timestamp="1541577897909">
+        <mark key="'" line="457" column="0" />
         <mark key="[" line="231" column="40" />
         <mark key="]" line="231" column="40" />
         <mark key="." line="231" column="40" />
@@ -1063,12 +1100,12 @@
         <mark key="." line="20" column="22" />
         <mark key="^" line="20" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/Invest.js" timestamp="1541551938683">
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/Invest.js" timestamp="1541579246767">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="22" column="15" />
-        <mark key="." line="22" column="15" />
-        <mark key="^" line="22" column="15" />
+        <mark key="[" line="62" column="43" />
+        <mark key="]" line="62" column="43" />
+        <mark key="." line="62" column="43" />
+        <mark key="^" line="62" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/index.js" timestamp="1537511023261">
         <mark key="[" line="16" column="25" />
@@ -1099,6 +1136,9 @@
         <mark key="]" line="12" column="18" />
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/Invest/Seller/index.js" timestamp="1541403473575">
+        <mark key="'" line="110" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/index.js" timestamp="1535013601862">
         <mark key="[" line="19" column="20" />
@@ -1348,12 +1388,6 @@
         <mark key="." line="52" column="32" />
         <mark key="^" line="52" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/investment.js" timestamp="1541571096584">
-        <mark key="'" line="358" column="0" />
-        <mark key="[" line="354" column="0" />
-        <mark key="]" line="358" column="3" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Community/Photo/Photo.js" timestamp="1536807273051">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="6" column="20" />
@@ -1487,11 +1521,11 @@
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/styled.js" timestamp="1541553948309">
-        <mark key="[" line="496" column="21" />
-        <mark key="]" line="496" column="22" />
-        <mark key="^" line="496" column="22" />
-        <mark key="." line="496" column="22" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/styled.js" timestamp="1541576614841">
+        <mark key="[" line="407" column="7" />
+        <mark key="]" line="408" column="22" />
+        <mark key="^" line="408" column="22" />
+        <mark key="." line="408" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/index.js" timestamp="1538623861380">
         <mark key="[" line="11" column="0" />
@@ -1686,7 +1720,6 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/loan.js" timestamp="1541566402066" />
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/redux/action/Modal.js" timestamp="1539324081943">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -2114,6 +2147,13 @@
         <mark key="." line="16" column="21" />
         <mark key="^" line="16" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/modal/action.js" timestamp="1541578251194">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="248" column="30" />
+        <mark key="]" line="248" column="39" />
+        <mark key="^" line="248" column="39" />
+        <mark key="." line="248" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/Router/upload.js" timestamp="1531205528188">
         <mark key="[" line="4" column="2" />
         <mark key="]" line="4" column="2" />
@@ -2180,11 +2220,11 @@
         <mark key="." line="28" column="36" />
         <mark key="^" line="28" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Investor/Controller.js" timestamp="1540948406292">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="13" column="25" />
-        <mark key="^" line="13" column="25" />
-        <mark key="." line="13" column="25" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Investor/Controller.js" timestamp="1541578474654">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Nav/index.js" timestamp="1539653683329">
         <mark key="[" line="72" column="0" />
@@ -2222,17 +2262,18 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/config/routes.js" timestamp="1541556348002">
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/config/routes.js" timestamp="1541577861430">
+        <mark key="'" line="153" column="0" />
         <mark key="[" line="127" column="14" />
         <mark key="]" line="127" column="49" />
         <mark key="^" line="127" column="49" />
         <mark key="." line="127" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/Controller.js" timestamp="1541473376481">
-        <mark key="[" line="21" column="23" />
-        <mark key="]" line="23" column="38" />
-        <mark key="^" line="23" column="38" />
-        <mark key="." line="23" column="38" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/Controller.js" timestamp="1541579339792">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="19" />
+        <mark key="^" line="24" column="19" />
+        <mark key="." line="24" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/public/index.html" timestamp="1531704265610">
         <mark key="[" line="28" column="26" />
@@ -2258,12 +2299,12 @@
         <mark key="." line="25" column="15" />
         <mark key="^" line="25" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/index.js" timestamp="1541488006415">
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/index.js" timestamp="1541578980548">
         <mark key="'" line="3" column="19" />
-        <mark key="[" line="18" column="14" />
-        <mark key="]" line="18" column="14" />
-        <mark key="." line="18" column="14" />
-        <mark key="^" line="18" column="14" />
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="27" />
+        <mark key="." line="21" column="27" />
+        <mark key="^" line="21" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/index.js" timestamp="1534986328334">
         <mark key="[" line="46" column="37" />
@@ -2387,40 +2428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/InvestedThrow.js" />
-      <jump line="23" column="18" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/InvestedThrow.js" />
-      <jump line="47" column="5" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/InvestedThrow.js" />
-      <jump line="3" column="11" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/Info/Buttons.js" />
-      <jump line="79" column="3" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Account.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Account.js" />
-      <jump line="22" column="10" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Repay.js" />
-      <jump line="21" column="6" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/Info/Repay.js" />
-      <jump line="76" column="26" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/Info/Repay.js" />
-      <jump line="80" column="20" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Repay.js" />
-      <jump line="87" column="33" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Modal/Repay.js" />
-      <jump line="22" column="5" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Invest/List/index.js" />
-      <jump line="27" column="14" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Invest/List/index.js" />
-      <jump line="76" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Invest/List/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Invest/List/index.js" />
-      <jump line="15" column="2" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/List.js" />
-      <jump line="77" column="16" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Invest/List/index.js" />
-      <jump line="173" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Loan/List.js" />
-      <jump line="7" column="38" filename="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" />
-      <jump line="110" column="23" filename="$USER_HOME$/Documents/mouda/mouda_back/common/models/member/loan.js" />
-      <jump line="338" column="32" filename="$USER_HOME$/Documents/hnh/jayeon/src/pages/Home/index.js" />
-      <jump line="561" column="4" filename="$USER_HOME$/Documents/mouda/mouda_back/common/models/member/invest.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/mouda/mouda_back/common/models/member/invest.js" />
-      <jump line="70" column="32" filename="$USER_HOME$/Documents/mouda/mouda_back/utils/index.js" />
-      <jump line="398" column="19" filename="$USER_HOME$/Documents/mouda/mouda_back/common/models/member/invest.js" />
-      <jump line="470" column="55" filename="$USER_HOME$/Documents/mouda/mouda_back/common/models/member/invest.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/config/routes.js" />
-      <jump line="15" column="26" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Header/index.js" />
-      <jump line="36" column="2" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/List/styled.js" />
-      <jump line="53" column="16" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/List/styled.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/List/styled.js" />
-      <jump line="19" column="9" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/List/index.js" />
-      <jump line="58" column="14" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/List/index.js" />
-      <jump line="25" column="7" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/List/index.js" />
       <jump line="53" column="14" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/List/index.js" />
       <jump line="20" column="16" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/List/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/List/index.js" />
@@ -2469,7 +2476,6 @@
       <jump line="43" column="22" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/index.js" />
       <jump line="3" column="19" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/index.js" />
       <jump line="13" column="6" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/Invest.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/Invest.js" />
       <jump line="65" column="84" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/WithSign/index.js" />
       <jump line="94" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/WithSign/index.js" />
       <jump line="77" column="14" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/WithSign/index.js" />
@@ -2487,51 +2493,84 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/WithSign/index.js" />
       <jump line="32" column="35" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/user/action.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/user/action.js" />
+      <jump line="21" column="6" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/modal/MarketRegist.js" />
+      <jump line="30" column="1" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/modal/MarketRegist.js" />
+      <jump line="95" column="2" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/modal/MarketRegist.js" />
+      <jump line="246" column="1" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/modal/action.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/modal/action.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/modal/action.js" />
+      <jump line="102" column="13" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/modal/reducer.js" />
+      <jump line="40" column="4" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/modal/reducer.js" />
+      <jump line="199" column="18" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/modal/reducer.js" />
+      <jump line="67" column="7" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/modal/MarketRegist.js" />
+      <jump line="3" column="15" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/modal/reducer.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/modal/MarketRegist.js" />
+      <jump line="101" column="66" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/modal/MarketApply.js" />
+      <jump line="20" column="16" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/modal/MarketApply.js" />
+      <jump line="79" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/modal/MarketApply.js" />
+      <jump line="27" column="15" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/modal/MarketApply.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/modal/MarketApply.js" />
+      <jump line="13" column="11" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/modal/MarketApply.js" />
+      <jump line="9" column="37" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/modal/MarketApply.js" />
+      <jump line="121" column="47" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/config/routes.js" />
+      <jump line="153" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/config/routes.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/ItemInfo/index.js" />
+      <jump line="457" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/ItemInfo/index.js" />
+      <jump line="202" column="20" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/modal/reducer.js" />
+      <jump line="67" column="2" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/modal/reducer.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/modal/reducer.js" />
+      <jump line="41" column="23" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/Invest.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/Invest.js" />
+      <jump line="67" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/Invest.js" />
+      <jump line="2" column="20" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/Invest.js" />
+      <jump line="61" column="17" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/Invest.js" />
+      <jump line="14" column="18" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/Invest.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/Invest.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/stylesheets/container/modal/common.scss" />
+      <jump line="345" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/stylesheets/container/modal/common.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgICAK</text>
+        <text encoding="base64">ICB3aWR0aDogNjQwcHg7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>signIn(email, password)</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFiSW5kZXg9ezF9Cg==</text>
+        <text encoding="base64">ICBAbWVkaWEgYWxsIGFuZCAobWF4LXdpZHRoOiA2NDBweCkgewogICAgd2lkdGg6IGNhbGMoMTAwJSAtIDIwcHgpOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgICAK</text>
+        <text encoding="base64">ICB3aWR0aDogNjQwcHg7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBAbWVkaWEgYWxsIGFuZCAobWF4LXdpZHRoOiA2NDBweCkgewogICAgd2lkdGg6IGNhbGMoMTAwJSAtIDIwcHgpOwogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYWxlcnRfbW9kYWwgfSBmcm9tICcuLi8uLi9yZWR1eC9tb2RhbC9hY3Rpb24nOwo=</text>
+        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiAzOHB4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCB7CiAgICBlbWFpbCwKICAgIHBhc3N3b3JkLAogIH0gPSBkYXRhOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-        email, password
-      }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBmb250LXdlaWdodDogMzAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICghdXNlKSByZXR1cm4gYWxlcnRfbW9kYWwoJycpOwo=</text>
+        <text encoding="base64">ICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0X21vZGFsKCdhc2RmJykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjMTcyNzUyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYWxlcnRfbW9kYWwgfSBmcm9tICcuLi8uLi9yZWR1eC9tb2RhbC9hY3Rpb24nOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgb24gfSA9IHRoaXMucHJvcHMubW9kYWwubWFya2V0QXBwbHk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
