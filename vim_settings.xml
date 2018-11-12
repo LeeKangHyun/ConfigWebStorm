@@ -2225,11 +2225,12 @@
         <mark key="." line="28" column="36" />
         <mark key="^" line="28" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Investor/Controller.js" timestamp="1542010759413">
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Investor/Controller.js" timestamp="1542013578078">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+        <mark key="[" line="70" column="42" />
+        <mark key="]" line="70" column="45" />
+        <mark key="." line="70" column="45" />
+        <mark key="^" line="70" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Nav/index.js" timestamp="1539653683329">
         <mark key="[" line="72" column="0" />
@@ -2545,10 +2546,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>res</text>
+        <text>market</text>
       </register>
       <register name="-" type="4">
-        <text>res</text>
+        <text>market</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -2557,34 +2558,31 @@
         <text encoding="base64">ICAgIGJyb3dzZXJIaXN0b3J5LnB1c2goewogICAgICBwYXRobmFtZTogJy9tYXJrZXQvYXBwbHknLAogICAgICBzdGF0ZTogewogICAgICAgIHNlbGxlcjogdHJ1ZSwKICAgICAgICBzdWNjZXNzOiB0cnVlLAogICAgICAgIGl0ZW0sCiAgICAgICAgZGF0YSwKICAgICAgfQogICAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJyb3dzZXJIaXN0b3J5LnB1c2goewogICAgICBwYXRobmFtZTogJy9tYXJrZXQvYXBwbHknLAogICAgICBzdGF0ZTogewogICAgICAgIHNlbGxlcjogdHJ1ZSwKICAgICAgICBzdWNjZXNzOiB0cnVlLAogICAgICAgIGl0ZW0sCiAgICAgICAgZGF0YSwKICAgICAgfQogICAgfSkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1hcmtldCA9IGRhdGEuZmluZCgoaW5mbykgPT4gewogICAgICBpZiAoaW5mby5pZCA9PT0gK21hcmtldElkKSByZXR1cm4gaW5mbzsKICAgIH0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYnJvd3Nlckhpc3RvcnkucHVzaCh7CiAgICAgICAgcGF0aG5hbWU6ICcvbWFya2V0L2FwcGx5JywKICAgICAgICBzdGF0ZTogewogICAgICAgICAgc2VsbGVyOiB0cnVlLAogICAgICAgICAgc3VjY2VzczogdHJ1ZSwKICAgICAgICAgIGl0ZW0KICAgICAgICB9CiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIGJyb3dzZXJIaXN0b3J5LnB1c2goewogICAgICBwYXRobmFtZTogJy9tYXJrZXQvYXBwbHknLAogICAgICBzdGF0ZTogewogICAgICAgIHNlbGxlcjogdHJ1ZSwKICAgICAgICBzdWNjZXNzOiB0cnVlLAogICAgICAgIGl0ZW0sCiAgICAgICAgZGF0YSwKICAgICAgfQogICAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgYnJvd3Nlckhpc3RvcnkucHVzaCh7CiAgICAgICAgcGF0aG5hbWU6ICcvbWFya2V0L2FwcGx5JywKICAgICAgICBzdGF0ZTogewogICAgICAgICAgc2VsbGVyOiB0cnVlLAogICAgICAgICAgc3VjY2VzczogdHJ1ZSwKICAgICAgICAgIGl0ZW0KICAgICAgICB9CiAgICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzZWxsZXIsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAuLi5wcm9wcwo=</text>
+        <text encoding="base64">ICBzZWxsZXIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbnZlc3RvciwKICBzdWNjZXNzLAogIHNlbGxlciwK</text>
+        <text encoding="base64">ICAuLi5wcm9wcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
+        <text encoding="base64">ICBpbnZlc3RvciwKICBzdWNjZXNzLAogIHNlbGxlciwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdWNjZXNzOiBsb2NhdGlvbi5zdGF0ZS5zdWNjZXNzLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-        success: location.state.success,
-        investor: location.state.investor,
-      }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzdWNjZXNzOiBsb2NhdGlvbi5zdGF0ZS5zdWNjZXNzLAo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
