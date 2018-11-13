@@ -196,9 +196,9 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/apply/index.js" timestamp="1542077052204">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="115" column="4" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/apply/index.js" timestamp="1542077761041">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="135" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client/package.json" timestamp="1533265125269">
         <mark key="[" line="52" column="37" />
@@ -2240,12 +2240,12 @@
         <mark key="." line="28" column="36" />
         <mark key="^" line="28" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Investor/Controller.js" timestamp="1542077402355">
-        <mark key="'" line="142" column="23" />
-        <mark key="[" line="78" column="53" />
-        <mark key="]" line="79" column="14" />
-        <mark key="." line="79" column="14" />
-        <mark key="^" line="79" column="14" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Investor/Controller.js" timestamp="1542079759384">
+        <mark key="'" line="166" column="23" />
+        <mark key="[" line="87" column="76" />
+        <mark key="]" line="87" column="76" />
+        <mark key="." line="87" column="76" />
+        <mark key="^" line="87" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Components/Nav/index.js" timestamp="1539653683329">
         <mark key="[" line="72" column="0" />
@@ -2560,43 +2560,43 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>list</text>
+        <text>limitSum 한도, flag 부동산</text>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>limitSum 한도, flag 부동산</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzYW1lTW9uZXkgPSBpdGVtID0+IHsKICAgIGNvbnN0IHsgdXNlciB9ID0gdGhpcy5wcm9wczsKICAgIGxldCBzYW1lQW1vdW50ID0gMCwKICAgICAgc2FtZVBvaW50ID0gMDsKICAgIGZvciAobGV0IGludmVzdCBpbiB1c2VyLmludmVzdG1lbnRzLnJldmVyc2UoKSkgewogICAgICBpZiAodXNlci5pbnZlc3RtZW50cy5oYXNPd25Qcm9wZXJ0eShpbnZlc3QpKSB7CiAgICAgICAgbGV0IGRhdGEgPSB1c2VyLmludmVzdG1lbnRzW2ludmVzdF07CiAgICAgICAgaWYgKGRhdGEuaW52ZXN0LmxvYW5bJ21lbWJlcklkJ10gPT09IGl0ZW1bJ2xvYW5NaWQnXSkgewogICAgICAgICAgaWYgKCcyMDE3MDUyOScgPD0gbW9tZW50LnVuaXgoZGF0YS50aW1lKS5mb3JtYXQoJ1lZWVlNTUREJykpIHsKICAgICAgICAgICAgbGV0IHJldHVyblN1bSA9IDA7CiAgICAgICAgICAgIGlmIChkYXRhLmludmVzdC5zdGVwIDwgODApIHsKICAgICAgICAgICAgICBpZiAoZGF0YS5pbnZlc3RQbGFuICYmIGRhdGEuaW52ZXN0UGxhbi5pbnZlc3RQbGFuUm93cykgewogICAgICAgICAgICAgICAgZm9yIChsZXQga2V5IGluIGRhdGEuaW52ZXN0UGxhbi5pbnZlc3RQbGFuUm93cykgewogICAgICAgICAgICAgICAgICBsZXQgcm93ID0gZGF0YS5pbnZlc3RQbGFuLmludmVzdFBsYW5Sb3dzW2tleV07CiAgICAgICAgICAgICAgICAgIGlmICgzMCA9PT0gcm93LnN0YXRlKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuU3VtICs9IHJvdy5wcmluY2lwYWw7CiAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHNhbWVBbW91bnQgKz0gZGF0YS5pbnZlc3RQbGFuLnByaW5jaXBhbCAtIHJldHVyblN1bTsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0KICAgIH0KICAgIHJldHVybiB7CiAgICAgIHNhbWVBbW91bnQsCiAgICAgIHNhbWVQb2ludCwKICAgIH07CiAgfTsKCiAgbWFrZUd1aWRlU3VtID0gbGlzdCA9PiB7CiAgICBsZXQgZmxhZyA9IGZhbHNlLAogICAgICBsaW1pdFN1bSA9IDA7CiAgICBmb3IgKGxldCBrZXkgaW4gbGlzdCkgewogICAgICBpZiAobGlzdC5oYXNPd25Qcm9wZXJ0eShrZXkpKSB7CiAgICAgICAgbGV0IGVhY2ggPSBsaXN0W2tleV07CiAgICAgICAgbGV0IGFtb3VudCA9IGVhY2guYW1vdW50ICsgZWFjaC5wb2ludDsKICAgICAgICBsZXQgaW52ZXN0UGxhbiA9IGVhY2hbJ2ludmVzdFBsYW4nXTsKICAgICAgICBpZiAoaW52ZXN0UGxhbiAmJiBpbnZlc3RQbGFuWydpbnZlc3RQbGFuUm93cyddKSB7CiAgICAgICAgICBpZiAoMzAgIT09IGludmVzdFBsYW4uc3RhdGUpIHsKICAgICAgICAgICAgaWYgKCcyMDE3MDUyOScgPD0gbW9tZW50LnVuaXgoZWFjaC50aW1lKS5mb3JtYXQoJ1lZWVlNTUREJykpIHsKICAgICAgICAgICAgICBpZiAoMzAgPT09IGVhY2guaW52ZXN0LnR5cGUpIHsKICAgICAgICAgICAgICAgIGZsYWcgPSB0cnVlOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgICBsaW1pdFN1bSArPSBhbW91bnQgLSBpbnZlc3RQbGFuLnByaW5jaXBhbFBheWVkOwogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9CiAgICB9CgogICAgcmV0dXJuIHsKICAgICAgbGltaXRTdW0sCiAgICAgIGZsYWcsCiAgICB9OwogIH07Cg==</text>
+        <text encoding="base64">ICAvKgogICogQHJldHVybnMge09iamVjdH0gbGltaXRTdW0g7ZWc64+ELCBmbGFnIOu2gOuPmeyCsAogICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIHJlZGlyZWN0OiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFtb3VudCA9IGxpc3RbaXRlbS51aWRdOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZWRpcmVjdCwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHhNb25leSA9IGdldFhBbW91bnQoaXRlbS51aWQpOyAvLyDquLDsobQg7Yis7J6QCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAge3JlZGlyZWN0ICYmIDxzcGFuPnt9PC9zcGFuPn0K</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgcmVkaXJlY3Q6IHRydWUsCiAgICAgIH0pCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">LCAoKSA9PiB7CiAgICB9</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgeyBsaW1pdCwgaW52ZXN0ZWQsIGludmVzdGVkMzAsIGlkOiBjbGFzc0lkIH0gPSB1c2VyLmluZm8uaW52ZXN0b3JDbGFzczsKICAgICAgY29uc3QgeyBzYW1lQW1vdW50LCBzYW1lUG9pbnQgfSA9IHRoaXMuc2FtZU1vbmV5KGRhdGEuY29udHJhY3QubWVtYmVySWQpOwogICAgICBjb25zdCB7IGxpbWl0U3VtLCBmbGFnIH0gPSB0aGlzLm1ha2VHdWlkZVN1bSgpOwogIAogICAgICBpZiAoMSA9PT0gY2xhc3NJZCB8fCAyID09PSBjbGFzc0lkKSB7CiAgICAgICAgaWYgKGZsYWcgfHwgMzAgPT09IGl0ZW0udHlwZSkgewogICAgICAgICAgaG93SW52ZXN0ZWQgPSBpbnZlc3RlZDMwIC0gbGltaXRTdW07CiAgICAgICAgfQogICAgICB9CiAgICAgIAogICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJyb3dzZXJIaXN0b3J5LnB1c2goewogICAgICBwYXRobmFtZTogJy9tYXJrZXQvYXBwbHknLAogICAgICBzdGF0ZTogewogICAgICAgIGludmVzdG9yOiB0cnVlLAogICAgICAgIGl0ZW06IG9yaWdpbmFsLAogICAgICAgIGRhdGE6IHsKICAgICAgICAgIC4uLmRhdGEsCiAgICAgICAgICBhbW91bnQ6IDAsCiAgICAgICAgfSwKICAgICAgICBsaW1pdDogMCwKICAgICAgfQogICAgfSkK</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIHJlZGlyZWN0OiBmYWxzZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICByZWRpcmVjdCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAge3JlZGlyZWN0ICYmIDxzcGFuPnt9PC9zcGFuPn0K</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
