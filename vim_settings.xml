@@ -1485,11 +1485,11 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/WebDevelop/React/test_hook/src/components/counter.js" timestamp="1542285484114">
-        <mark key="[" line="8" column="87" />
-        <mark key="]" line="8" column="87" />
-        <mark key="." line="8" column="87" />
-        <mark key="^" line="8" column="87" />
+      <file name="$USER_HOME$/Dropbox/WebDevelop/React/test_hook/src/components/counter.js" timestamp="1542286219960">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="44" />
+        <mark key="." line="11" column="44" />
+        <mark key="^" line="11" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Term.js" timestamp="1534842743546">
         <mark key="[" line="1" column="31" />
@@ -2602,11 +2602,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -2615,33 +2615,33 @@
         <text>&quot;^16.7.0-alpha.0&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0IHR5cGU9InRleHQiIHZhbHVlPXtjb3VudDJ9IG9uQ2hhbmdlPXsoZSkgPT4ge3NldENvdW50MihlLnRhcmdldC52YWx1ZSl9fSAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgewogICAgICAgIHRvZG9zLm1hcCgodG9kbywgaWR4KSA9PiB7CiAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgCiAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICApCiAgICAgICAgfSkKICAgICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPGlucHV0IHR5cGU9InRleHQiIHZhbHVlPXtjb3VudH0gb25DaGFuZ2U9eyhlKSA9PiB7c2V0Q291bnQoU3RyaW5nKGUudGFyZ2V0LnZhbHVlKS5yZXBsYWNlKC9cRC8sJycpKX19IC8+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zdCBbIGNvdW50LCBzZXRDb3VudCBdID0gdXNlU3RhdGUoJycpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zdCBjb3VudCA9IG51bWJlclswXTsKICBjb25zdCBzZXRDb3VudCA9IG51bWJlclsxXTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgPGlucHV0IHR5cGU9InRleHQiIHZhbHVlPXtjb3VudDJ9IG9uQ2hhbmdlPXsoZSkgPT4ge3NldENvdW50MihlLnRhcmdldC52YWx1ZSl9fSAvPgo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBjb25zdCBbIGNvdW50Miwgc2V0Q291bnQyIF0gPSB1c2VTdGF0ZSgwKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>{
   
 }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">R2xvYmFsU3R5bGVkKCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiA1MDA7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgICB3aWR0aDogNTIwcHg7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
