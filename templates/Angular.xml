@@ -240,4 +240,16 @@
     <variable name="property" expression="" defaultValue="&quot;property&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="a-preload-strategy" value="import { PreloadingStrategy, Route } from '@angular/router';&#10;import { Observable, of } from 'rxjs';&#10;&#10;export class PreloadSelectedModulesList implements PreloadingStrategy {&#10; preload(route: Route, load: Function): Observable&lt;any&gt; {&#10;  return route.data &amp;&amp; route.data['$preload$'] ? load() : of(null);&#10; }&#10;}&#10;$END$" description="Angular custom preload strategy" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="preload" expression="" defaultValue="&quot;preload&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="a-rxjs-import" value="import { $Observable$ } from 'rxjs';&#10;$END$" description="RxJs import" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="Observable" expression="" defaultValue="&quot;Observable&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="a-rxjs-operator-import" value="import { $map$ } from 'rxjs/operators';&#10;$END$" description="RxJs import" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="map" expression="" defaultValue="&quot;map&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
