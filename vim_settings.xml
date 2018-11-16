@@ -521,7 +521,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542248131824">
+      <file name="/Dummy.txt" timestamp="1542335557847">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -2011,6 +2011,12 @@
         <mark key="." line="39" column="21" />
         <mark key="^" line="39" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/WithSign/index.js" timestamp="1542335722543">
+        <mark key="[" line="42" column="14" />
+        <mark key="]" line="47" column="26" />
+        <mark key="." line="47" column="26" />
+        <mark key="^" line="47" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/styled.js" timestamp="1542181517181">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
@@ -2604,11 +2610,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBpZiAoIWlzQXJyYXkoaXRlcmF0ZWVzKSkgewogICAgaXRlcmF0ZWVzID0gaXRlcmF0ZWVzID09IG51bGwgPyBbXSA6IFtpdGVyYXRlZXNdOwogIH0K</text>
+      <register name="&quot;" type="4">
+        <text>고객선호도 1위 보험사</text>
       </register>
       <register name="-" type="4">
-        <text>rate</text>
+        <text>고객선호도 1위 보험사</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
