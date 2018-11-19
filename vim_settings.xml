@@ -94,11 +94,6 @@
         <mark key="^" line="37" column="6" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/WebDevelop/React/test_hook/src/index.js" timestamp="1542284523997">
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Header/styled.js" timestamp="1540882346793">
         <mark key="[" line="96" column="21" />
         <mark key="]" line="97" column="22" />
@@ -2146,6 +2141,12 @@
         <mark key="." line="19" column="31" />
         <mark key="^" line="19" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/Page/Invest/List/index.js" timestamp="1542597709834">
+        <mark key="[" line="97" column="31" />
+        <mark key="]" line="98" column="21" />
+        <mark key="." line="98" column="21" />
+        <mark key="^" line="98" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/src/Components/Router/index.js" timestamp="1535529049757">
         <mark key="[" line="25" column="82" />
         <mark key="]" line="25" column="82" />
@@ -2636,11 +2637,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>Rate</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -2648,32 +2649,32 @@
       <register name="0" type="4">
         <text>_onClickToFilter</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYCR7ZGF0YS5hbW91bnQgKyBkYXRhLnBvaW50fWApOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGEsIGIpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYCR7ZGF0YS5hbW91bnQgKyBkYXRhLnBvaW50fWApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAKICAgIF9vbkNsaWNrVG9GaWx0ZXIgPSAoKSA9PiB7CiAgICAgIHRoaXMuc2V0U3RhdGUoKHN0YXRlKSA9PiAoewogICAgICAgIHRhYmxldEZpbHRlcjogIXN0YXRlLnRhYmxldEZpbHRlcgogICAgICB9KSk7CiAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGEsIGIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBfb25DbGlja1RvRmlsdGVyLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0YWJsZUZpbHRlciwK</text>
+        <text encoding="base64">ICAKICAgIF9vbkNsaWNrVG9GaWx0ZXIgPSAoKSA9PiB7CiAgICAgIHRoaXMuc2V0U3RhdGUoKHN0YXRlKSA9PiAoewogICAgICAgIHRhYmxldEZpbHRlcjogIXN0YXRlLnRhYmxldEZpbHRlcgogICAgICB9KSk7CiAgICB9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8RmlsdGVyV3JhcHBlcj4KICAgICAgICAgIDxGaWx0ZXI+CiAgICAgICAgICAgIOygleugrAogICAgICAgICAgICA8aW1nIGNsYXNzTmFtZT0iaV9maWx0ZXJfaWNvbiIgc3JjPSIvaW1hZ2VzL2Ryb3Auc3ZnIiAvPgogICAgICAgICAgPC9GaWx0ZXI+CiAgICAgICAgICA8VGFibGVTb3J0IC8+CiAgICAgICAgPC9GaWx0ZXJXcmFwcGVyPgo=</text>
+        <text encoding="base64">ICBfb25DbGlja1RvRmlsdGVyLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8RmlsdGVyV3JhcHBlcj4KICAgICAgICAgIDxGaWx0ZXI+CiAgICAgICAgICAgIOygleugrAogICAgICAgICAgICA8aW1nIGNsYXNzTmFtZT0iaV9maWx0ZXJfaWNvbiIgc3JjPSIvaW1hZ2VzL2Ryb3Auc3ZnIiAvPgogICAgICAgICAgPC9GaWx0ZXI+CiAgICAgICAgICA8VGFibGVTb3J0IC8+CiAgICAgICAgPC9GaWx0ZXJXcmFwcGVyPgo=</text>
+        <text encoding="base64">ICB0YWJsZUZpbHRlciwK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
