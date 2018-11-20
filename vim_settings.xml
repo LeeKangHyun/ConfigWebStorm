@@ -2199,11 +2199,10 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/components/board/board.js" timestamp="1542703502758">
-        <mark key="[" line="72" column="49" />
-        <mark key="]" line="72" column="49" />
-        <mark key="." line="72" column="49" />
-        <mark key="^" line="72" column="49" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/components/board/board.js" timestamp="1542704202819">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Controller.js" timestamp="1531467759806">
         <mark key="[" line="55" column="3" />
@@ -2671,11 +2670,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIChyQXJyLmxlbmd0aCA+IDApIHsKICAgICAgb2JqID0gdXBkYXRlKG9iaiwgeyRtZXJnZTogfSkKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -2684,31 +2683,31 @@
         <text>no-restricted-globals</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHR5cGUgPT09ICJ0b3AiID8K</text>
+        <text encoding="base64">ICAgIGlmIChyQXJyLmxlbmd0aCA+IDApIHsKICAgICAgb2JqID0gdXBkYXRlKG9iaiwgeyRtZXJnZTogfSkKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHR5cGUgPT09ICJ0b3AiID8K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
-      </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgIA==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgIA==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>334</text>
