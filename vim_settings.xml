@@ -2199,11 +2199,11 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/components/board/board.js" timestamp="1542699964243">
-        <mark key="[" line="64" column="46" />
-        <mark key="]" line="64" column="48" />
-        <mark key="^" line="64" column="48" />
-        <mark key="." line="64" column="48" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/components/board/board.js" timestamp="1542703502758">
+        <mark key="[" line="72" column="49" />
+        <mark key="]" line="72" column="49" />
+        <mark key="." line="72" column="49" />
+        <mark key="^" line="72" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Controller.js" timestamp="1531467759806">
         <mark key="[" line="55" column="3" />
@@ -2672,10 +2672,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>merge</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>merge</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -2684,19 +2684,19 @@
         <text>no-restricted-globals</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIHR5cGUgPT09ICJ0b3AiID8K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
-      </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgIA==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
