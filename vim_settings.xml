@@ -842,6 +842,12 @@
         <mark key="." line="46" column="54" />
         <mark key="^" line="35" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/List/Controller.js" timestamp="1542770189675">
+        <mark key="[" line="15" column="6" />
+        <mark key="]" line="15" column="25" />
+        <mark key="^" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Chuna/Basic.js" timestamp="1536295685384">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="42" column="15" />
@@ -2441,6 +2447,12 @@
         <mark key="." line="21" column="20" />
         <mark key="^" line="21" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/List/index.js" timestamp="1542770318112">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="36" />
+        <mark key="^" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/index.js" timestamp="1534986328334">
         <mark key="[" line="46" column="37" />
         <mark key="]" line="46" column="38" />
@@ -2679,11 +2691,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gY29uc3QgZG9tYWluID0gImh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9hcGkvIjsK</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>getList(this.props.type)</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -2691,32 +2703,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgckFycjogW10sCiAgICAgIH0sIGdldExpc3QodGhpcy5wcm9wcy50eXBlKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gY29uc3QgZG9tYWluID0gImh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9hcGkvIjsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">PgogICAgICAgIAogICAgICA8L1dyYXBwZXI=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Ly8gY29uc3QgZG9tYWluID0gImh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9hcGkvIjsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">OwogICAgICA=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgIA==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">KCkgPT4gewogICAgICAgIAogICAgICB9</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBsZXQgdmFsOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgb2JqID0gdXBkYXRlKHt9LCB7JHNldDogey4uLm9iaiwgfX0pCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEFwcCBmcm9tICdWeCcK</text>
+        <text encoding="base64">ICAgICAgb2JqID0gdXBkYXRlKHt9LCB7JHNldDogey4uLm9iaiwgfX0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>334</text>
