@@ -539,7 +539,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542697873223">
+      <file name="/Dummy.txt" timestamp="1542767922986">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -1319,10 +1319,10 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/util/fetch.js" timestamp="1542765453672">
-        <mark key="[" line="2" column="120" />
-        <mark key="]" line="3" column="43" />
-        <mark key="." line="3" column="43" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/util/fetch.js" timestamp="1542767932044">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Mask/Controller.js" timestamp="1531358203986">
@@ -2203,10 +2203,10 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/components/board/board.js" timestamp="1542763291037">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/components/board/board.js" timestamp="1542767340535">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Controller.js" timestamp="1531467759806">
         <mark key="[" line="55" column="3" />
@@ -2680,43 +2680,43 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEFwcCBmcm9tICdWeCcK</text>
+        <text encoding="base64">Ly8gY29uc3QgZG9tYWluID0gImh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9hcGkvIjsK</text>
       </register>
       <register name="-" type="4">
-        <text>res</text>
+        <text>getList(this.props.type)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>no-restricted-globals</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgckFycjogW10sCiAgICAgIH0sIGdldExpc3QodGhpcy5wcm9wcy50eXBlKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEFwcCBmcm9tICdWeCcK</text>
+        <text encoding="base64">Ly8gY29uc3QgZG9tYWluID0gImh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9hcGkvIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IFJlYWN0RE9NIGZyb20gJ3JlYWN0LWRvbSc7CmltcG9ydCBBcHAgZnJvbSAnLi9hcHAvYXBwJzsKClJlYWN0RE9NLnJlbmRlcigKICA8QXBwIC8+LAogIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdhcHAnKQopCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">OwogICAgICA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHVwZGF0ZSBmcm9tICdpbW11dGFiaWxpdHktaGVscGVyJzsKCmNvbnN0IHJlbW92ZUxpc3QgPSAodHlwZSwgbGlzdCkgPT4gewogIGNvbnN0IF93aGljaCA9IHRoaXMuc3RhdGVbdHlwZV0uaW5kZXhPZihsaXN0KTsKICBjb25zdCBhcnIgPSBbCiAgICAuLi50aGlzLnN0YXRlW3R5cGVdLnNsaWNlKDAsIF93aGljaCksCiAgICAuLi50aGlzLnN0YXRlW3R5cGVdLnNsaWNlKF93aGljaCArIDEpCiAgXTsKICBjb25zdCBuZXdBcnIgPSB1cGRhdGUodGhpcy5zdGF0ZVt0eXBlXSwgeyRzZXQ6IFsuLi5hcnJdfSk7CiAgY29uc3QgbmV3UmFyciA9IHVwZGF0ZSgKICAgIHRoaXMuc3RhdGUuckFyciwKICAgIHskcHVzaDogWwogICAgICAgIHsKICAgICAgICAgIC4uLmxpc3QsCiAgICAgICAgICBpUmFuazogdHlwZSA9PT0gInRvcCIgPyBudWxsOmxpc3QuaVJhbmssCiAgICAgICAgICBZTm1haW46IHR5cGUgPT09ICJtYWluIiA/IDA6bGlzdC5ZTm1haW4sCiAgICAgICAgfQogICAgICBdfQogICk7CiAgY29uc3QgaW5kZXggPSAidG9wIiA9PT0gdHlwZSA/ICd0b3BJbmRleCc6J21haW5JbmRleCc7CiAgdGhpcy5zZXRTdGF0ZSh7CiAgICBbdHlwZV06IG5ld0FyciwKICAgIHJBcnI6IG5ld1JhcnIsCiAgICBbaW5kZXhdOiBudWxsCiAgfSk7Cn07Cgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgIA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICogZnJvbSAnJzsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">KCkgPT4gewogICAgICAgIAogICAgICB9</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgdmFsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVzZXJzOiB1c2VyLmxpc3QK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgUDJQSW5xdWlyZSwgVlJsb2FkaW5nLCBQYWdlTm8sIH0gPSB0aGlzLnN0YXRlOwo=</text>
+        <text encoding="base64">ICAgICAgb2JqID0gdXBkYXRlKHt9LCB7JHNldDogey4uLm9iaiwgfX0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5hbGVydF9tb2RhbCgn7KCV7IOBIOyymOumrOuQmOyXiOyKteuLiOuLpC4nKTsK</text>
+        <text encoding="base64">aW1wb3J0IEFwcCBmcm9tICdWeCcK</text>
       </register>
       <register name=":" type="4">
         <text>334</text>
