@@ -1272,9 +1272,9 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/investList.js" timestamp="1542776347028">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="95" column="4" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/investList.js" timestamp="1542776997111">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="109" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Customer/Advice/index.js" timestamp="1536642701588">
         <mark key="[" line="49" column="17" />
@@ -2452,12 +2452,10 @@
         <mark key="." line="21" column="20" />
         <mark key="^" line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/List/index.js" timestamp="1542776096096">
-        <mark key="'" line="16" column="13" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="28" column="33" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/List/index.js" timestamp="1542777016807">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/index.js" timestamp="1534986328334">
         <mark key="[" line="46" column="37" />
@@ -2698,34 +2696,34 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Y29uc3QgewogIGxpc3QsCiAgbG9hZGluZywKfSA9IHRoaXMucHJvcHMuaW52ZXN0Owpjb25zdCB7CiAgbGltaXRQYWdlLAogIGVuZGludmVzdGVkLAogIGVuZHBheSwKICB3YW50bGlzdCwKICByZXBheUl0ZW0sCiAgZW5kSXRlbSwKfSA9IHRoaXMuc3RhdGU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, bindActionCreators</text>
+        <text>::this.changePaging</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgY2hhbmdlUGFnaW5nID0gKHR5cGUsIGRhdGEpID0+IHsKICAgIHRoaXMuc2V0U3RhdGUoe1t0eXBlXTogZGF0YX0pOwogIH07Cg==</text>
+        <text encoding="base64">ICBsaW1pdFBhZ2UsCiAgZW5kaW52ZXN0ZWQsCiAgZW5kcGF5LAogIHdhbnRsaXN0LAogIHJlcGF5SXRlbSwKICBlbmRJdGVtLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Y29uc3QgewogIGxpc3QsCiAgbG9hZGluZywKfSA9IHRoaXMucHJvcHMuaW52ZXN0Owpjb25zdCB7CiAgbGltaXRQYWdlLAogIGVuZGludmVzdGVkLAogIGVuZHBheSwKICB3YW50bGlzdCwKICByZXBheUl0ZW0sCiAgZW5kSXRlbSwKfSA9IHRoaXMuc3RhdGU7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAogICAgCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IHsgYnJvd3Nlckhpc3RvcnkgfSBmcm9tICdyZWFjdC1yb3V0ZXInOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LAogICAg</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgIA==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgIA==</text>
-      </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICA=</text>
+        <text encoding="base64">LAogICAg</text>
       </register>
       <register name="7" type="4">
         <text encoding="base64">CiAgICAgIA==</text>
@@ -2733,8 +2731,8 @@
       <register name="8" type="4">
         <text encoding="base64">CiAgICAgIA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICh7dXNlcn0pID0+ICh7dXNlcn0pLAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
