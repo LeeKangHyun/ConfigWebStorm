@@ -6,6 +6,7 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="80" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="HTML_KEEP_WHITESPACES" value="true" />
   <option name="HTML_ALIGN_TEXT" value="true" />
   <option name="HTML_SPACE_AROUND_EQUALITY_IN_ATTRINUTE" value="true" />
