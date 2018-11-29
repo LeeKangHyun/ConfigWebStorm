@@ -769,12 +769,12 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="27" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/sign/signInput.js" timestamp="1543475090747">
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/sign/signInput.js" timestamp="1543476635753">
         <mark key="'" line="116" column="38" />
-        <mark key="[" line="119" column="27" />
-        <mark key="]" line="120" column="30" />
-        <mark key="." line="120" column="30" />
-        <mark key="^" line="120" column="30" />
+        <mark key="[" line="117" column="25" />
+        <mark key="]" line="117" column="30" />
+        <mark key="." line="117" column="30" />
+        <mark key="^" line="117" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/Advice/Editor.js" timestamp="1536107230797">
         <mark key="[" line="98" column="42" />
@@ -1636,6 +1636,10 @@
         <mark key="^" line="408" column="22" />
         <mark key="." line="408" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/investor/ApplyDetail.js" timestamp="1543476285699">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="91" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/index.js" timestamp="1538623861380">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="15" column="23" />
@@ -2230,11 +2234,11 @@
         <mark key="^" line="65" column="56" />
         <mark key="." line="21" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/sign/signup.js" timestamp="1543475132911">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="144" column="24" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/sign/signup.js" timestamp="1543476821379">
+        <mark key="[" line="88" column="40" />
+        <mark key="]" line="89" column="3" />
+        <mark key="." line="89" column="3" />
+        <mark key="^" line="89" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Intro/index.js" timestamp="1536114802696">
         <mark key="[" line="17" column="22" />
@@ -2662,52 +2666,46 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxvY2F0aW9uKTsK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>location.</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYKICAgICAgICAgICAgY2xhc3NOYW1lPSJJbnB1dEFkZE9uU2lnbiIKICAgICAgICAgICAgb25Gb2N1cz17dGhpcy5fb25Gb2N1c30KICAgICAgICAgICAgb25CbHVyPXt0aGlzLl9vbkJsdXJ9CiAgICAgICAgICA+Cg==</text>
+        <text encoding="base64">ICAgICAgZmV0Y2guZ2V0KCdNZW1iZXJzL2ZpbmRGaXNoZXJWMicsIGAmbW91ZGFfa2V5PSR7ZGF0YS5maXNoZXJ9YCkudGhlbihyZXMgPT4gewogICAgICAgIGhhbmRsZUNoYW5nZSh7ZmlzaGVySWQ6IHJlcy5pZCwgZmlzaGVyTmFtZTogcmVzLm5hbWUsIGZpc2hlckNoZWNrOiB0cnVlfSk7CiAgICAgICAgYWxlcnQoYOy2lOyynOyduCDsoJXrs7Q6ICR7cmVzLm5hbWV9YCk7CiAgICAgIH0pLmNhdGNoKGVyciA9PiB7CiAgICAgICAgY29uc29sZS5sb2coZXJyKTsKICAgICAgICBhbGVydCgn7KG07J6s7ZWY7KeAIOyViuuKlCDstpTsspzsnbgg7J6F64uI64ukLicpOwogICAgICB9KQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxvY2F0aW9uKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvbktleVByZXNzPXtvbktleVByZXNzUHd9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgdG9nZ2xlQ2hhbmdlUGVyc29uYWwgPSAoKSA9PiB7CiAgICB0aGlzLnNldFN0YXRlKChzdGF0ZSkgPT4gewogICAgICByZXR1cm4gewogICAgICAgIGlzQ2hlY2tlZFBlcnNvbmFsOiAhc3RhdGUuaXNDaGVja2VkUGVyc29uYWwsCiAgICAgIH0KICAgIH0pOwogIH07Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgogIHRvZ2dsZUNoYW5nZVBvbGljeSA9ICgpID0+IHsKICAgIHRoaXMuc2V0U3RhdGUoKHN0YXRlKSA9PiB7CiAgICAgIHJldHVybiB7CiAgICAgICAgaXNDaGVja2VkUG9saWN5OiAhc3RhdGUuaXNDaGVja2VkUG9saWN5LAogICAgICB9CiAgICB9KTsKICB9Ow==</text>
-      </register>
-      <register name="5" type="4">
-        <text>state = {
-      
+      <register name="1" type="4">
+        <text>{
+      email, password
     }</text>
       </register>
-      <register name="6" type="4">
-        <text>state = {
-    email: &quot;&quot;,
-    password: &quot;&quot;,
-    msgBoxText : &quot;&quot;,
-    isCheckedPolicy: false,
-    isCheckedPersonal: false,
-  }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgYWxlcnQoYOy2lOyynOyduCDsoJXrs7Q6ICR7cmVzLm5hbWV9YCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnNpZ25VcEFwaSgpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5zaWduVXBBcGkoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoZWlnaHQgOiA0MHB4Owo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgc2lnbkluIH0gPSB0aGlzLnByb3BzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBoZWlnaHQgOiA0MHB4Owo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgZW1haWwsIHBhc3N3b3JkIH0gPSB0aGlzLnN0YXRlOwogICAgY29uc3QgeyBzaWduSW4gfSA9IHRoaXMucHJvcHM7CiAgICBsZXQgbXNnID0gIiI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAmOmZvY3VzIHsKICAgICAgICAgIG91dGxpbmU6IG5vbmU7CiAgICAgICAgICBib3JkZXI6IDFweCBzb2xpZCAjYmUxZDJjOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
