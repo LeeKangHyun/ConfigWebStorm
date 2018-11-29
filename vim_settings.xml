@@ -539,7 +539,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543293124157">
+      <file name="/Dummy.txt" timestamp="1543466886932">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -943,6 +943,12 @@
         <mark key="." line="18" column="22" />
         <mark key="^" line="13" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/myinfo.js" timestamp="1543468280977">
+        <mark key="[" line="371" column="47" />
+        <mark key="]" line="372" column="1" />
+        <mark key="." line="372" column="1" />
+        <mark key="^" line="372" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/TelBox.js" timestamp="1534826475328">
         <mark key="[" line="15" column="18" />
         <mark key="]" line="15" column="36" />
@@ -1105,6 +1111,12 @@
         <mark key="]" line="375" column="19" />
         <mark key="." line="375" column="19" />
         <mark key="^" line="375" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/stylesheets/Mypage/index.scss" timestamp="1543467988534">
+        <mark key="[" line="51" column="19" />
+        <mark key="]" line="51" column="19" />
+        <mark key="." line="51" column="19" />
+        <mark key="^" line="275" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client/public/index.html" timestamp="1535004170707">
         <mark key="[" line="1" column="13" />
@@ -2649,46 +2661,45 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>var</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>: state.user</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>isPlatfromFee</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iaW5saW5lIj4KICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJpbmxpbmVMZWZ0Ij7stpTsspzsnbjsvZTrk5w8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJpbmxpbmVSaWdodCI+e2luZm8ubW91ZGFrZXl9PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGF0Y2goZ2V0TG9hbnMoKSk7CiAgICAgIGRpc3BhdGNoKGdldEludmVzdG1lbnRzKCkpOwogICAgICBkaXNwYXRjaChnZXRVc2VycygpKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="4" type="4">
+        <text>{
+  return</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZ2V0TG9hbnMoKTsKICAgICAgZ2V0SW52ZXN0bWVudHMoKTsKICAgICAgZ2V0VXNlcnMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGJvcmRlciA6IDFweCBzb2xpZCAjY2ZjZmNmOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdDogbm9uZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBmbG9hdCA6IHJpZ2h0Owo=</text>
       </register>
-      <register name="8" type="8">
-        <text>dispatch(
-dispatch(
-dispatch(</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmMgPSAiL2ltYWdlcy9teXBhZ2UvY2hhbmdlMTIweDM1LnN2ZyIgLz4K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
