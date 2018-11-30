@@ -2122,6 +2122,12 @@
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/modal/okinvest.js" timestamp="1543564350069">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Booking/styled.js" timestamp="1538719414767">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="49" column="2" />
@@ -2657,11 +2663,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBudW1JbnZlc3RtZW50czogMCwK</text>
+      <register name="&quot;" type="4">
+        <text>, listenInvestments,</text>
       </register>
       <register name="-" type="4">
-        <text>손실 실현 여부: 채권 매각 후 최종적으로 손실 발생한 경우</text>
+        <text>, listenInvestments,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -2670,31 +2676,31 @@
         <text encoding="base64">ICAgIGNvbnN0IHsgbG9jYXRpb24gfSA9IHRoaXMucHJvcHM7CiAgICBpZiAoT2JqZWN0LmtleXMobG9jYXRpb24ucXVlcnkpLmxlbmd0aCA+IDApIHsKICAgICAgaWYgKGxvY2F0aW9uLnF1ZXJ5LmZyb20pIHsKICAgICAgICB1dGlsLnNldENvb2tpZSgnZnJvbScsIGxvY2F0aW9uLnF1ZXJ5LmZyb20sIDEpOwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBudW1JbnZlc3RtZW50czogMCwK</text>
+        <text encoding="base64">ICAgIGxpc3RlbkludmVzdG1lbnRzLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBudW1JbnZlc3RvcnM6IDAsCg==</text>
+        <text encoding="base64">ICBudW1JbnZlc3RtZW50czogMCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBudW1JbnZlc3RtZW50czogbGlzdF9rZXlzLmxlbmd0aCwK</text>
+        <text encoding="base64">ICBudW1JbnZlc3RvcnM6IDAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBudW1JbnZlc3RvcnM6IGxpc3Rfa2V5cy5yZWR1Y2UoKGEsIGIpID0+IGEgKyAobGlzdFtiXS5udW1JbnZlc3RvcnMgfHwgMCksIDApLAo=</text>
+        <text encoding="base64">ICAgICAgICBudW1JbnZlc3RtZW50czogbGlzdF9rZXlzLmxlbmd0aCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDEpIDxici8+CiAgICAgICAgICAgICAgICAyKSA8YnIvPgogICAgICAgICAgICAgICAgMykgPGJyLz4KICAgICAgICAgICAgICAgIDQpIDxici8+CiAgICAgICAgICAgICAgICA1KSA8YnIvPgo=</text>
+        <text encoding="base64">ICAgICAgICBudW1JbnZlc3RvcnM6IGxpc3Rfa2V5cy5yZWR1Y2UoKGEsIGIpID0+IGEgKyAobGlzdFtiXS5udW1JbnZlc3RvcnMgfHwgMCksIDApLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDEpIDxici8+CiAgICAgICAgICAgICAgICAyKSA8YnIvPgogICAgICAgICAgICAgICAgMykgPGJyLz4KICAgICAgICAgICAgICAgIDQpIDxici8+CiAgICAgICAgICAgICAgICA1KSA8YnIvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIOyDge2ZmOydvOuhnOu2gO2EsCA5MOydvCDsnbTsg4Eg7J6l6riwIOyXsOyytOuQmOuKlCDtmITsg4E8YnIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYCR7ZGF0YS5hbW91bnQgKyBkYXRhLnBvaW50fWApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIOyDge2ZmOydvOuhnOu2gO2EsCA5MOydvCDsnbTsg4Eg7J6l6riwIOyXsOyytOuQmOuKlCDtmITsg4E8YnIgLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGZldGNoIGZyb20gJy4uLy4uLy4uLy4uL3V0aWwvZmV0Y2gnOwppbXBvcnQgdXRpbCBmcm9tICcuLi8uLi8uLi8uLi91dGlsL3V0aWwnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYCR7ZGF0YS5hbW91bnQgKyBkYXRhLnBvaW50fWApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
