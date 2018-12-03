@@ -2204,12 +2204,12 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Controller.js" timestamp="1543803318848">
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Controller.js" timestamp="1543804229150">
         <mark key="'" line="8" column="49" />
-        <mark key="[" line="46" column="18" />
-        <mark key="]" line="46" column="28" />
-        <mark key="." line="46" column="28" />
-        <mark key="^" line="46" column="28" />
+        <mark key="[" line="167" column="17" />
+        <mark key="]" line="167" column="25" />
+        <mark key="." line="167" column="25" />
+        <mark key="^" line="167" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1540262133768">
         <mark key="[" line="7" column="12" />
@@ -2688,11 +2688,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5wcm9wcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KSA=</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
