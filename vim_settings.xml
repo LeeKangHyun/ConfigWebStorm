@@ -15,6 +15,7 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/configureStore.js" timestamp="1543805048870" />
       <file name="$USER_HOME$/Documents/hnh/mhub_admin/client_src/src/Pages/Board/Controller.js" timestamp="1537256738952">
         <mark key="[" line="161" column="0" />
         <mark key="]" line="161" column="0" />
@@ -965,12 +966,10 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/invest/action.js" timestamp="1543800839602">
-        <mark key="'" line="39" column="3" />
-        <mark key="[" line="24" column="90" />
-        <mark key="]" line="24" column="91" />
-        <mark key="." line="24" column="91" />
-        <mark key="^" line="49" column="8" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/invest/action.js" timestamp="1543805371780">
+        <mark key="[" line="37" column="48" />
+        <mark key="]" line="37" column="48" />
+        <mark key="." line="37" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client/.env" timestamp="1533260735331">
         <mark key="[" line="0" column="0" />
@@ -2204,12 +2203,11 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Controller.js" timestamp="1543804229150">
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Controller.js" timestamp="1543805794056">
         <mark key="'" line="8" column="49" />
-        <mark key="[" line="167" column="17" />
-        <mark key="]" line="167" column="25" />
-        <mark key="." line="167" column="25" />
-        <mark key="^" line="167" column="25" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1540262133768">
         <mark key="[" line="7" column="12" />
@@ -2688,44 +2686,44 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2xvYWRpbmcnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5wcm9wcyk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLnRpbWUoJ2xpc3RlbiBJbnZlc3RtZW50cycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2xvYWRpbmcnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS50aW1lRW5kKCdsaXN0ZW4gSW52ZXN0bWVudHMnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBjb25zb2xlLnRpbWUoJ2xpc3RlbiBJbnZlc3RtZW50cycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyogICAgICByZXR1cm4gaW52ZXN0LmxvYWRpbmcgPyAoCiAgICAgICAgPFdyYXBwZXIKICAgICAgICAgIHsuLi50aGlzLnN0YXRlfQogICAgICAgICAgey4uLnRoaXMucHJvcHN9CiAgICAgICAgICBvbkNoYW5nZVRvU3RhdGVOdW1iZXI9e3RoaXMub25DaGFuZ2VUb1N0YXRlTnVtYmVyfQogICAgICAgICAgb25DaGFuZ2VUb1N0YXRlQ2hlY2s9e3RoaXMub25DaGFuZ2VUb1N0YXRlQ2hlY2t9CiAgICAgICAgICBtYWtlU2xpZGVyPXt0aGlzLm1ha2VTbGlkZXJ9CiAgICAgICAgICBtYWtlR29JbnZlc3Q9e3RoaXMubWFrZUdvSW52ZXN0fQogICAgICAgICAgZ2V0UG9zdD17dGhpcy5nZXRQb3N0fQogICAgICAgICAgYWRkTmV3cz17dGhpcy5hZGROZXdzfQogICAgICAgICAgdHJhblVybD17dGhpcy50cmFuVXJsfQogICAgICAgICAgc2hvd01vZGFsPXt0aGlzLnNob3dNb2RhbH0KICAgICAgICAvPgogICAgICApIDogKAogICAgICAgIDxkaXY+e3RoaXMubG9hZGluZ0ltYWdlKCl9PC9kaXY+CiAgICAgICk7CiAgICB9Ki8K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV4dFByb3BzLCB0aGlzLnByb3BzKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">aW52ZXN0LmxvYWRpbmcgPyAoCiAgICAgICAgCiAgICAgICkgOiAoCiAgICAgICAgPGRpdj57dGhpcy5sb2FkaW5nSW1hZ2UoKX08L2Rpdj4KICAgICAgKTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PFdyYXBwZXIKICAgICAgICAgIHsuLi50aGlzLnN0YXRlfQogICAgICAgICAgey4uLnRoaXMucHJvcHN9CiAgICAgICAgICBvbkNoYW5nZVRvU3RhdGVOdW1iZXI9e3RoaXMub25DaGFuZ2VUb1N0YXRlTnVtYmVyfQogICAgICAgICAgb25DaGFuZ2VUb1N0YXRlQ2hlY2s9e3RoaXMub25DaGFuZ2VUb1N0YXRlQ2hlY2t9CiAgICAgICAgICBtYWtlU2xpZGVyPXt0aGlzLm1ha2VTbGlkZXJ9CiAgICAgICAgICBtYWtlR29JbnZlc3Q9e3RoaXMubWFrZUdvSW52ZXN0fQogICAgICAgICAgZ2V0UG9zdD17dGhpcy5nZXRQb3N0fQogICAgICAgICAgYWRkTmV3cz17dGhpcy5hZGROZXdzfQogICAgICAgICAgdHJhblVybD17dGhpcy50cmFuVXJsfQogICAgICAgICAgc2hvd01vZGFsPXt0aGlzLnNob3dNb2RhbH0KICAgICAgICAvPg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5wcm9wcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgaXRlbS5zdGVwID49IDgwICYmCiAgICAgICAgICAgIDxkaXY+e2xvYW5fc3RlcFtpdGVtLnN0ZXBdfTwvZGl2PgogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7CiAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
