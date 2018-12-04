@@ -549,7 +549,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543906219936">
+      <file name="/Dummy.txt" timestamp="1543910203424">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -963,10 +963,10 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/invest/action.js" timestamp="1543805371780">
-        <mark key="[" line="37" column="48" />
-        <mark key="]" line="37" column="48" />
-        <mark key="." line="37" column="48" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/invest/action.js" timestamp="1543910738184">
+        <mark key="[" line="23" column="90" />
+        <mark key="]" line="23" column="91" />
+        <mark key="." line="23" column="91" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client/.env" timestamp="1533260735331">
         <mark key="[" line="0" column="0" />
@@ -1395,10 +1395,10 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/List/components/Body.js" timestamp="1543799905718">
-        <mark key="[" line="56" column="22" />
-        <mark key="]" line="56" column="22" />
-        <mark key="." line="56" column="22" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/List/components/Body.js" timestamp="1543910694064">
+        <mark key="[" line="56" column="24" />
+        <mark key="]" line="56" column="25" />
+        <mark key="." line="56" column="25" />
         <mark key="^" line="56" column="22" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.es6" timestamp="1543902119414">
@@ -2700,10 +2700,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>process.env.NODE_ENV</text>
+        <text encoding="base64">IT09IDcwICYmIGl0ZW0uc3RlcCAhPQ==</text>
       </register>
       <register name="-" type="4">
-        <text>process.env.NODE_ENV</text>
+        <text encoding="base64">IT09IDcwICYmIGl0ZW0uc3RlcCAhPQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -2712,13 +2712,13 @@
         <text>Inquiries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgaXRlbS5zdGVwID49IDgwICYmCiAgICAgICAgICAgIDxkaXY+e2xvYW5fc3RlcFtpdGVtLnN0ZXBdfTwvZGl2PgogICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
@@ -2730,13 +2730,13 @@
         <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjc3JmOiBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgndG9rZW4nKSwK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBob3N0ID0gZG9tYWluICsgcGF0aDsK</text>
+        <text encoding="base64">ICAgICAgICBjc3JmOiBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgndG9rZW4nKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
+        <text encoding="base64">ICAgIGxldCBob3N0ID0gZG9tYWluICsgcGF0aDsK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
