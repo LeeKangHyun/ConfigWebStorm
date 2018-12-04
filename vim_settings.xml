@@ -2386,11 +2386,11 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/item/Controller.js" timestamp="1543885575724">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="10" />
-        <mark key="." line="4" column="10" />
-        <mark key="^" line="4" column="10" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/item/Controller.js" timestamp="1543893267679">
+        <mark key="[" line="75" column="46" />
+        <mark key="]" line="75" column="46" />
+        <mark key="." line="75" column="46" />
+        <mark key="^" line="73" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/modal/components/List.js" timestamp="1541646255381">
         <mark key="[" line="3" column="23" />
@@ -2692,11 +2692,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>this.props.</text>
       </register>
       <register name="-" type="4">
-        <text>Inquiries</text>
+        <text>this.props.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
