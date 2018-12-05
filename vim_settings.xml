@@ -1401,11 +1401,11 @@
         <mark key="." line="56" column="25" />
         <mark key="^" line="56" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.es6" timestamp="1543902119414">
-        <mark key="[" line="6" column="117" />
-        <mark key="]" line="7" column="4" />
-        <mark key="^" line="7" column="4" />
-        <mark key="." line="7" column="4" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.es6" timestamp="1543973440615">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Term/PrivacyStatement.js" timestamp="1533882968196">
         <mark key="[" line="197" column="0" />
@@ -2699,11 +2699,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IT09IDcwICYmIGl0ZW0uc3RlcCAhPQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IT09IDcwICYmIGl0ZW0uc3RlcCAhPQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -2712,31 +2712,33 @@
         <text>Inquiries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgaXRlbS5zdGVwID49IDgwICYmCiAgICAgICAgICAgIDxkaXY+e2xvYW5fc3RlcFtpdGVtLnN0ZXBdfTwvZGl2PgogICAgICAgICAgfQo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text>{
+  return</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+      <register name="4" type="4">
+        <text>{
+  return</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">CmNvbnN0IGRlYyA9IChzdHIgPSAnJykgPT4gewogIHJldHVybiBkZWNyeXB0ZXIuZGVjcnlwdChzdHIsICd1dGY4Jyk7Cn07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjc3JmOiBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgndG9rZW4nKSwK</text>
+        <text encoding="base64">IGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBob3N0ID0gZG9tYWluICsgcGF0aDsK</text>
+        <text encoding="base64">ZGVjcnlwdGVyLmRlY3J5cHQoJycsICd1dGY4Jyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
