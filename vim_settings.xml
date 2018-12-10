@@ -570,7 +570,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544419154538">
+      <file name="/Dummy.txt" timestamp="1544424420696">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1119,10 +1119,11 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member.js" timestamp="1544417949350">
-        <mark key="[" line="840" column="0" />
-        <mark key="]" line="840" column="0" />
-        <mark key="." line="840" column="0" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member.js" timestamp="1544424391143">
+        <mark key="[" line="840" column="16" />
+        <mark key="]" line="840" column="16" />
+        <mark key="." line="840" column="16" />
+        <mark key="^" line="840" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/redux/saga/api/Board.js" timestamp="1536715315630">
         <mark key="[" line="3" column="0" />
@@ -2753,10 +2754,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>.orderByChild('step').startAt(40).endAt(50).limitToLast(3)</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>.orderByChild('step').startAt(40).endAt(50).limitToLast(3)</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>Profile</text>
