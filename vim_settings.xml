@@ -985,10 +985,10 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/invest/action.js" timestamp="1543910738184">
-        <mark key="[" line="23" column="90" />
-        <mark key="]" line="23" column="91" />
-        <mark key="." line="23" column="91" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/invest/action.js" timestamp="1544423116173">
+        <mark key="[" line="37" column="50" />
+        <mark key="]" line="37" column="50" />
+        <mark key="." line="37" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client/.env" timestamp="1533260735331">
         <mark key="[" line="0" column="0" />
@@ -2752,17 +2752,17 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbXS5yZWR1Y2UoKGFjYywgaXRlbSkgPT4gewo=</text>
+      <register name="&quot;" type="4">
+        <text>.orderByChild('step').startAt(40).endAt(50).limitToLast(3)</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>.orderByChild('step').startAt(40).endAt(50).limitToLast(3)</text>
       </register>
       <register name="/" type="4">
         <text>Profile</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUkVTT0xWRSh7CiAgICAgICAgICAgICAgYmFsYW5jZTogMCwKICAgICAgICAgICAgfSkK</text>
+      <register name="0" type="4">
+        <text>.orderByChild('step').startAt(40).endAt(50)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJldHVybiBbXS5yZWR1Y2UoKGFjYywgaXRlbSkgPT4gewo=</text>
