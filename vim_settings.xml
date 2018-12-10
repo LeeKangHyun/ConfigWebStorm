@@ -985,10 +985,10 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/invest/action.js" timestamp="1544423116173">
-        <mark key="[" line="37" column="50" />
-        <mark key="]" line="37" column="50" />
-        <mark key="." line="37" column="50" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/invest/action.js" timestamp="1544425738085">
+        <mark key="[" line="37" column="90" />
+        <mark key="]" line="37" column="91" />
+        <mark key="." line="37" column="91" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client/.env" timestamp="1533260735331">
         <mark key="[" line="0" column="0" />
@@ -2754,7 +2754,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>.orderByChild('step').startAt(40).endAt(50)</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
