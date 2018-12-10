@@ -570,7 +570,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544171720248">
+      <file name="/Dummy.txt" timestamp="1544411248312">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1688,6 +1688,7 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/util/myPromise.js" timestamp="1544410705560" />
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Intro/Come.js" timestamp="1536199954457">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="65" column="10" />
@@ -1700,7 +1701,7 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/util/nhblockchain.js" timestamp="1544408867916">
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/util/nhblockchain.js" timestamp="1544411350664">
         <mark key="[" line="27" column="55" />
         <mark key="]" line="27" column="55" />
         <mark key="^" line="27" column="55" />
@@ -2409,6 +2410,12 @@
         <mark key="." line="996" column="4" />
         <mark key="^" line="996" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/nhBlockchain.js" timestamp="1544411704323">
+        <mark key="[" line="52" column="75" />
+        <mark key="]" line="52" column="75" />
+        <mark key="." line="52" column="75" />
+        <mark key="^" line="52" column="60" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/index.js" timestamp="1537335029644">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="67" column="14" />
@@ -2535,7 +2542,7 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="/JavaScript Console" timestamp="1544409360910">
+      <file name="/JavaScript Console" timestamp="1544411680200">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Slider/EmptyInvest.js" timestamp="1529644091563">
@@ -2748,10 +2755,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text encoding="base64">ICsgIiDqsJzsm5Qi</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">ICsgIiDqsJzsm5Qi</text>
       </register>
       <register name="/" type="4">
         <text>Profile</text>
