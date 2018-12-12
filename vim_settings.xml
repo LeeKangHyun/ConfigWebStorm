@@ -555,7 +555,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544579281214">
+      <file name="/Dummy.txt" timestamp="1544585521250">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1004,7 +1004,7 @@
         <mark key="." line="41" column="13" />
         <mark key="^" line="41" column="13" />
       </file>
-      <file name="/fragment.js" timestamp="1544497056192">
+      <file name="/fragment.js" timestamp="1544585100158">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/server/boot/root.js" timestamp="1533264108208">
@@ -1127,11 +1127,11 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member.js" timestamp="1544583866224">
-        <mark key="[" line="847" column="46" />
-        <mark key="]" line="847" column="56" />
-        <mark key="." line="847" column="56" />
-        <mark key="^" line="847" column="56" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member.js" timestamp="1544585508843">
+        <mark key="[" line="846" column="62" />
+        <mark key="]" line="846" column="62" />
+        <mark key="^" line="846" column="62" />
+        <mark key="." line="846" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/redux/saga/api/Board.js" timestamp="1536715315630">
         <mark key="[" line="3" column="0" />
@@ -2552,7 +2552,7 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="/JavaScript Console" timestamp="1544582373556">
+      <file name="/JavaScript Console" timestamp="1544585133886">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Slider/EmptyInvest.js" timestamp="1529644091563">
@@ -2764,11 +2764,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">OwogICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>acc</text>
+        <text>onst flag =</text>
       </register>
       <register name="/" type="4">
         <text>Profile</text>
@@ -2776,32 +2776,32 @@
       <register name="0" type="4">
         <text>.orderByChild('step').startAt(40).endAt(50)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">OwogICAgICA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGFjYzsK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">OwogICAgIA==</text>
-      </register>
-      <register name="5" type="4">
+      <register name="2" type="4">
         <text encoding="base64">CiAgICAgICA=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBmbGFnOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZmFsc2U7CiAgICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIGFjYzsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGFjY291bnQK</text>
+      <register name="8" type="4">
+        <text encoding="base64">OwogICAgIA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxpbWl0ID0gZGF0YS5yZWR1Y2UoKGFjYywgaXRlbSkgPT4gewogICAgICByZXR1cm4gYWNjICsgaXRlbS5fX2RhdGEuYW1vdW50OwogICAgfSwgMCk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
