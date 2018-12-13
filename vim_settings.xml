@@ -979,12 +979,12 @@
         <mark key="]" line="37" column="91" />
         <mark key="." line="37" column="91" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/components/common/FileUploader/index.js" timestamp="1544667724728">
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/components/common/FileUploader/index.js" timestamp="1544668548564">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="10" />
-        <mark key="." line="30" column="10" />
-        <mark key="^" line="37" column="28" />
+        <mark key="[" line="46" column="32" />
+        <mark key="]" line="46" column="33" />
+        <mark key="^" line="46" column="33" />
+        <mark key="." line="46" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client/.env" timestamp="1533260735331">
         <mark key="[" line="0" column="0" />
@@ -1272,11 +1272,11 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/util/ApiCall.js" timestamp="1544498081964">
-        <mark key="[" line="15" column="26" />
-        <mark key="]" line="15" column="26" />
-        <mark key="." line="15" column="26" />
-        <mark key="^" line="15" column="50" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/util/ApiCall.js" timestamp="1544668746471">
+        <mark key="[" line="69" column="6" />
+        <mark key="]" line="69" column="43" />
+        <mark key="." line="69" column="43" />
+        <mark key="^" line="69" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Chuna/Shoulder.js" timestamp="1536302490755">
         <mark key="[" line="19" column="25" />
@@ -1672,11 +1672,11 @@
         <mark key="." line="28" column="3" />
         <mark key="^" line="28" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/components/common/FileUploader/Controller.js" timestamp="1544667588982">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="17" column="19" />
-        <mark key="." line="17" column="19" />
-        <mark key="^" line="17" column="19" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/components/common/FileUploader/Controller.js" timestamp="1544668619281">
+        <mark key="[" line="53" column="4" />
+        <mark key="]" line="53" column="3" />
+        <mark key="." line="53" column="3" />
+        <mark key="^" line="53" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Community/Controller.js" timestamp="1536652685796">
         <mark key="[" line="19" column="20" />
@@ -2770,11 +2770,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIGZpbGVMaXN0Lmxlbmd0aCA+IDAgJiYKICAgICAgICBmaWxlTGlzdC5tYXAoKGl0ZW0pID0+IHsKICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgIDxsaSBrZXk9e3V0aWwuZ3VpZCgpfT4KICAgICAgICAgICAgCiAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICApCiAgICAgICAgfSkKICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>공통사진</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Profile</text>
@@ -2783,31 +2783,31 @@
         <text encoding="base64">KGRpZmYpID0+IHsKICAgICAgcmV0dXJuIGRpZmYgIT09IG5hbWU7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIGZpbGVMaXN0Lmxlbmd0aCA+IDAgJiYKICAgICAgICBmaWxlTGlzdC5tYXAoKGl0ZW0pID0+IHsKICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgIDxsaSBrZXk9e3V0aWwuZ3VpZCgpfT4KICAgICAgICAgICAgCiAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICApCiAgICAgICAgfSkKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICB0ZW1wTGlzdC5sZW5ndGggPiAwICYmCiAgICAgICAgICB0ZW1wTGlzdC5tYXAoKGxpc3QsIGlkeCkgPT4gewogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgIDxsaSBrZXk9e2lkeH0+e2xpc3R9PC9saT4KICAgICAgICAgICAgKQogICAgICAgICAgfSkKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKICBfb25DaGFuZ2UgPSAoZXZlbnQpID0+IHsKICAgIGNvbnN0IHsgZmlsZXMgfSA9IGV2ZW50LnRhcmdldDsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBmaWxlcwogICAgfSwgKCkgPT4gewogICAgICBpZiAodGhpcy5zdGF0ZS5maWxlcy5sZW5ndGggPiAwKSB7CiAgICAgICAgdGhpcy5tYWtlVGVtcExpc3QoKQogICAgICB9CiAgICB9KTsKICB9Owo=</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIGZpbGVMaXN0Lmxlbmd0aCA+IDAgJiYKICAgICAgICBmaWxlTGlzdC5tYXAoKGl0ZW0pID0+IHsKICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgIDxsaSBrZXk9e3V0aWwuZ3VpZCgpfT4KICAgICAgICAgICAgCiAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICApCiAgICAgICAgfSkKICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAKICBfb25DaGFuZ2UgPSAoZXZlbnQpID0+IHsKICAgIGNvbnN0IHsgZmlsZXMgfSA9IGV2ZW50LnRhcmdldDsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBmaWxlcwogICAgfSwgKCkgPT4gewogICAgICBpZiAodGhpcy5zdGF0ZS5maWxlcy5sZW5ndGggPiAwKSB7CiAgICAgICAgdGhpcy5tYWtlVGVtcExpc3QoKQogICAgICB9CiAgICB9KTsKICB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPHNlbGVjdD4KICAgICAgICA8b3B0aW9uPu2IrOyekOyDge2SiDwvb3B0aW9uPgogICAgICAgIDxvcHRpb24+6rO17Ya17IKs7KeEPC9vcHRpb24+CiAgICAgIDwvc2VsZWN0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgPHNlbGVjdD4KICAgICAgICA8b3B0aW9uPu2IrOyekOyDge2SiDwvb3B0aW9uPgogICAgICAgIDxvcHRpb24+6rO17Ya17IKs7KeEPC9vcHRpb24+CiAgICAgIDwvc2VsZWN0Pgo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAKICByZW1vdmVMaXN0ID0gKGlkeCkgPT4gewogICAgY29uc3QgeyBmaWxlcywgdGVtcExpc3QgfSA9IHRoaXMuc3RhdGU7CiAgICAKICAgIGNvbnN0IG5ld0ZpbGUgPSB7CiAgICAgIC4uLmZpbGVzLnNsaWNlKDAsIGlkeCksCiAgICAgIC4uLmZpbGVzLnNsaWNlKGlkeCArIDEpCiAgICB9OwogICAgY29uc3QgbmV3VGVtcCA9IFsKICAgICAgLi4udGVtcExpc3Quc2xpY2UoMCwgaWR4KSwKICAgICAgLi4udGVtcExpc3Quc2xpY2UoaWR4ICsgMSkKICAgIF07CiAgICAKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBmaWxlczogdXBkYXRlKHRoaXMuc3RhdGUuZmlsZXMsIHskc2V0OiB9KQogICAgfSkKICB9OwogIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgLi4uQm9ycm93ZXJIaXN0b3J5LmV0Yy5zbGljZSgwLCBpbmRleCksCiAgLi4uQm9ycm93ZXJIaXN0b3J5LmV0Yy5zbGljZShpbmRleCArIDEpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5ld1RlbXAgPSBfLnJlbW92ZSh0ZW1wTGlzdCwgKGRpZmYpID0+IHsKICAgICAgcmV0dXJuIGRpZmYgIT09IG5hbWU7CiAgICB9KQo=</text>
+        <text encoding="base64">CiAgLi4uQm9ycm93ZXJIaXN0b3J5LmV0Yy5zbGljZSgwLCBpbmRleCksCiAgLi4uQm9ycm93ZXJIaXN0b3J5LmV0Yy5zbGljZShpbmRleCArIDEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
