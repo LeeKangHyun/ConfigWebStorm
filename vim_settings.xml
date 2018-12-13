@@ -226,11 +226,10 @@
         <mark key="^" line="97" column="22" />
         <mark key="." line="97" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" timestamp="1543501142395">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="6" column="1" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" timestamp="1544701625757">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon_admin/client_src/src/Pages/Popup/Controller.js" timestamp="1537427842031">
         <mark key="[" line="73" column="18" />
@@ -749,12 +748,6 @@
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http" timestamp="1540262092810">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="7" column="1" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/redux/saga/api/Auth.js" timestamp="1538631317212">
         <mark key="[" line="7" column="47" />
         <mark key="]" line="7" column="47" />
@@ -1036,6 +1029,12 @@
         <mark key="]" line="4" column="2" />
         <mark key="^" line="4" column="2" />
         <mark key="." line="4" column="2" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http" timestamp="1540262092810">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/investor/ApplyDetail.js" timestamp="1543476285699">
         <mark key="[" line="85" column="0" />
@@ -2657,7 +2656,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>err</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IFJlYWN0RE9NIGZyb20gJ3JlYWN0LWRvbSc7CgpSZWFjdERPTS5yZW5kZXIoCiAgPEFwcCAvPiwKICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgpCik7Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>err</text>
@@ -2669,33 +2668,33 @@
         <text encoding="base64">ICAgICAgZmV0Y2guZ2V0KCdNZW1iZXJzL2ZpbmRGaXNoZXJWMicsIGAmbW91ZGFfa2V5PSR7ZGF0YS5maXNoZXJ9YCkudGhlbihyZXMgPT4gewogICAgICAgIGhhbmRsZUNoYW5nZSh7ZmlzaGVySWQ6IHJlcy5pZCwgZmlzaGVyTmFtZTogcmVzLm5hbWUsIGZpc2hlckNoZWNrOiB0cnVlfSk7CiAgICAgICAgYWxlcnQoYOy2lOyynOyduCDsoJXrs7Q6ICR7cmVzLm5hbWV9YCk7CiAgICAgIH0pLmNhdGNoKGVyciA9PiB7CiAgICAgICAgY29uc29sZS5sb2coZXJyKTsKICAgICAgICBhbGVydCgn7KG07J6s7ZWY7KeAIOyViuuKlCDstpTsspzsnbgg7J6F64uI64ukLicpOwogICAgICB9KQo=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IFJlYWN0RE9NIGZyb20gJ3JlYWN0LWRvbSc7CgpSZWFjdERPTS5yZW5kZXIoCiAgPEFwcCAvPiwKICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgpCik7Cgo=</text>
+      </register>
+      <register name="2" type="4">
         <text>;
       }</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ewogICAgICAgIA==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgIA==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>;
                           }</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
