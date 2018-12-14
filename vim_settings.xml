@@ -686,6 +686,12 @@
         <mark key="^" line="43" column="21" />
         <mark key="." line="43" column="21" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.es6" timestamp="1544765374171">
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="6" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/app.js" timestamp="1543807690082">
         <mark key="[" line="22" column="22" />
         <mark key="]" line="22" column="33" />
@@ -999,7 +1005,7 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="29" column="13" />
       </file>
-      <file name="/fragment.js" timestamp="1544670542053">
+      <file name="/fragment.js" timestamp="1544764772213">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/server/boot/root.js" timestamp="1533264108208">
@@ -1928,7 +1934,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/utils/index.js" timestamp="1544763551826">
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/utils/index.js" timestamp="1544764421172">
         <mark key="[" line="591" column="5" />
         <mark key="]" line="591" column="5" />
         <mark key="." line="591" column="5" />
@@ -2751,11 +2757,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBsZXQgZGF0YSA9IDsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICRbMV0=</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text encoding="base64">ICRbMV0=</text>
       </register>
       <register name="/" type="4">
         <text>Profile</text>
