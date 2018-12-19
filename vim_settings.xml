@@ -1137,11 +1137,11 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member.js" timestamp="1545022651793">
-        <mark key="[" line="876" column="3" />
-        <mark key="]" line="876" column="3" />
-        <mark key="." line="876" column="3" />
-        <mark key="^" line="876" column="3" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member.js" timestamp="1545209552492">
+        <mark key="[" line="899" column="12" />
+        <mark key="]" line="899" column="16" />
+        <mark key="." line="899" column="16" />
+        <mark key="^" line="899" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/redux/saga/api/Board.js" timestamp="1536715315630">
         <mark key="[" line="3" column="0" />
@@ -2777,11 +2777,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gQFRPRE8g7Iqk7LyA7KW0IOuzgOqyvSDrsI8g7LaU6rCA7ZWgIOuVjCDtmZXsnbgK</text>
+      <register name="&quot;" type="4">
+        <text>Recent</text>
       </register>
       <register name="-" type="4">
-        <text>platformFee</text>
+        <text>Recent</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -2790,31 +2790,31 @@
         <text encoding="base64">ICAgICAgLy8gQFRPRE8g7Iqk7LyA7KW0IOuzgOqyvSDrsI8g7LaU6rCA7ZWgIOuVjCDtmZXsnbgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAVE9ETyDsiqTsvIDspbQg67OA6rK9IOuwjyDstpTqsIDtlaAg65WMIO2ZleyduAo=</text>
+        <text encoding="base64">ICAgICAgVHJhbjNEYXlzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gQFRPRE8g7Iqk7LyA7KW0IOuzgOqyvSDrsI8g7LaU6rCA7ZWgIOuVjCDtmZXsnbgK</text>
+        <text encoding="base64">ICAgICAgICAvLyBAVE9ETyDsiqTsvIDspbQg67OA6rK9IOuwjyDstpTqsIDtlaAg65WMIO2ZleyduAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gQFRPRE8g7Iqk7LyA7KW0IOuzgOqyvSDrsI8g7LaU6rCA7ZWgIOuVjCDtmZXsnbgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIG5leHRQYXltZW50ID0gYXJyW2N1cnJlbnQrMV1bJ3BheW1lbnQnXTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy9AVE9ETwo=</text>
+        <text encoding="base64">ICAgIC8vIG5leHRQYXltZW50ID0gYXJyW2N1cnJlbnQrMV1bJ3BheW1lbnQnXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIG15UHJvbWlzZS5VUFNFUlQoZ2V0SW52ZXN0Ll9fY2FjaGVkUmVsYXRpb25zLmxvYW4uX19jYWNoZWRSZWxhdGlvbnMubG9hblBsYW4ubG9hblBsYW5Sb3dzLCBsb2FuUGxhblJvd3MsIG9wdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgLy9AVE9ETwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gbXlQcm9taXNlLlVQU0VSVChjb250cmFjdC5fX2NhY2hlZFJlbGF0aW9ucy5pbnZlc3RQbGFuLmludmVzdFBsYW5Sb3dzLCBkaWZmUGxhblJvd3MsIG9wdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIG15UHJvbWlzZS5VUFNFUlQoZ2V0SW52ZXN0Ll9fY2FjaGVkUmVsYXRpb25zLmxvYW4uX19jYWNoZWRSZWxhdGlvbnMubG9hblBsYW4ubG9hblBsYW5Sb3dzLCBsb2FuUGxhblJvd3MsIG9wdGlvbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gbXlQcm9taXNlLlVQU0VSVChjb250cmFjdC5fX2NhY2hlZFJlbGF0aW9ucy5pbnZlc3RQbGFuLmludmVzdFBsYW5Sb3dzLCBkaWZmUGxhblJvd3MsIG9wdGlvbik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
