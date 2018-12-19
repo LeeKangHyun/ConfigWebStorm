@@ -2265,10 +2265,10 @@
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/utils/plan30.js" timestamp="1545203370173">
-        <mark key="[" line="172" column="40" />
-        <mark key="]" line="172" column="41" />
-        <mark key="." line="172" column="41" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/utils/plan30.js" timestamp="1545204870233">
+        <mark key="[" line="179" column="19" />
+        <mark key="]" line="179" column="30" />
+        <mark key="." line="179" column="19" />
         <mark key="^" line="172" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/SetPopup.js" timestamp="1531198800629">
@@ -2559,7 +2559,7 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="/JavaScript Console" timestamp="1545203234514">
+      <file name="/JavaScript Console" timestamp="1545204802595">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Slider/EmptyInvest.js" timestamp="1529644091563">
@@ -2778,16 +2778,16 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>diffPrincipal + diffInterest</text>
+        <text>platformFee</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>platformFee</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="4">
-        <text>diffPrincipal + diffInterest</text>
+        <text>platformFee</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyBAVE9ETyDsiqTsvIDspbQg67OA6rK9IOuwjyDstpTqsIDtlaAg65WMIO2ZleyduAo=</text>
