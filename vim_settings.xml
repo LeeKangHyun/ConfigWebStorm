@@ -1137,11 +1137,11 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member.js" timestamp="1545209552492">
-        <mark key="[" line="899" column="12" />
-        <mark key="]" line="899" column="16" />
-        <mark key="." line="899" column="16" />
-        <mark key="^" line="899" column="16" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member.js" timestamp="1545210373273">
+        <mark key="[" line="859" column="55" />
+        <mark key="]" line="859" column="54" />
+        <mark key="." line="859" column="54" />
+        <mark key="^" line="859" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/redux/saga/api/Board.js" timestamp="1536715315630">
         <mark key="[" line="3" column="0" />
@@ -2277,11 +2277,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1544408689785">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-        <mark key="^" line="0" column="16" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1545210698509">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+        <mark key="^" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/header/action.js" timestamp="1541125517440">
         <mark key="[" line="6" column="11" />
@@ -2559,7 +2559,7 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="/JavaScript Console" timestamp="1545209173898">
+      <file name="/JavaScript Console" timestamp="1545210313814">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Slider/EmptyInvest.js" timestamp="1529644091563">
@@ -2778,10 +2778,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>Recent</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>Recent</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -2913,6 +2913,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
