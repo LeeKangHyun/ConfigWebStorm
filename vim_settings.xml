@@ -563,7 +563,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545268907132">
+      <file name="/Dummy.txt" timestamp="1545271418898">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1137,11 +1137,11 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member.js" timestamp="1545268901588">
-        <mark key="[" line="872" column="0" />
-        <mark key="]" line="872" column="0" />
-        <mark key="." line="872" column="0" />
-        <mark key="^" line="845" column="18" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member.js" timestamp="1545272661719">
+        <mark key="[" line="852" column="59" />
+        <mark key="]" line="852" column="59" />
+        <mark key="." line="852" column="59" />
+        <mark key="^" line="852" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/redux/saga/api/Board.js" timestamp="1536715315630">
         <mark key="[" line="3" column="0" />
@@ -2277,11 +2277,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1545268793902">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-        <mark key="^" line="2" column="60" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1545272597976">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="8" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/header/action.js" timestamp="1541125517440">
         <mark key="[" line="6" column="11" />
@@ -2773,44 +2773,44 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAVE9ETyDsiqTsvIDspbQg67OA6rK9IOuwjyDstpTqsIDtlaAg65WMIO2ZleyduAo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>ays</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHRyYW5EaWZmID4gMykgewogICAgICAgIG5vd0RyYXcgPSB0cnVlOwogICAgICAgIGJyZWFrOwo=</text>
+      <register name="0" type="4">
+        <text>moment(1545052070000)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAVE9ETyDsiqTsvIDspbQg67OA6rK9IOuwjyDstpTqsIDtlaAg65WMIO2ZleyduAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRpZmZUaW1lID0gNzIgKiA2MCAqIDYwICogMTAwMDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gbGV0IHVwZGF0ZUludmVzdCA9IHsKICAgICAgLy8gICBkYXRlX3RvX3N0YXJ0OiBgJHtkYXRlfTAwMDAwMGAKICAgICAgLy8gfTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBAVE9ETyDsiqTsvIDspbQg67OA6rK9IOuwjyDstpTqsIDtlaAg65WMIO2ZleyduAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gQFRPRE8g7Iqk7LyA7KW0IOuzgOqyvSDrsI8g7LaU6rCA7ZWgIOuVjCDtmZXsnbgK</text>
+        <text encoding="base64">ICAgICAgLy8gbGV0IHVwZGF0ZUludmVzdCA9IHsKICAgICAgLy8gICBkYXRlX3RvX3N0YXJ0OiBgJHtkYXRlfTAwMDAwMGAKICAgICAgLy8gfTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUcmFuM0RheXMoaWQpLnRoZW4oKHJlcykgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgLy8gQFRPRE8g7Iqk7LyA7KW0IOuzgOqyvSDrsI8g7LaU6rCA7ZWgIOuVjCDtmZXsnbgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qcmV0dXJuIHRyYW5zYWN0aW9ucy5yZWR1Y2UoKGFjYywgZGF0YSkgPT4gewogICAgICBjb25zdCB0cmFuRGlmZiA9IHRvZGF5LmRpZmYobW9tZW50KGRhdGEuY3JlYXRlZCksICdkYXlzJyk7CiAgICAgIGlmICh0cmFuRGlmZiA+IDMpIHsgcmV0dXJuIHRydWUgfQogICAgICBlbHNlIHsgcmV0dXJuIHRyYW0gPD0gKGJhbGFuY2UgLSBkYXRhLmFtb3VudCkgPyAhYWNjOmFjYyB9CiAgICB9LCBmYWxzZSk7Ki8K</text>
+        <text encoding="base64">ICAgICAgICAvLyBUcmFuM0RheXMoaWQpLnRoZW4oKHJlcykgPT4gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBub3dEcmF3ID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgIC8qcmV0dXJuIHRyYW5zYWN0aW9ucy5yZWR1Y2UoKGFjYywgZGF0YSkgPT4gewogICAgICBjb25zdCB0cmFuRGlmZiA9IHRvZGF5LmRpZmYobW9tZW50KGRhdGEuY3JlYXRlZCksICdkYXlzJyk7CiAgICAgIGlmICh0cmFuRGlmZiA+IDMpIHsgcmV0dXJuIHRydWUgfQogICAgICBlbHNlIHsgcmV0dXJuIHRyYW0gPD0gKGJhbGFuY2UgLSBkYXRhLmFtb3VudCkgPyAhYWNjOmFjYyB9CiAgICB9LCBmYWxzZSk7Ki8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0gCg==</text>
+        <text encoding="base64">ICAgIGxldCBub3dEcmF3ID0gZmFsc2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICh0cmFuc2FjdGlvbnMubGVuZ3RoID4gMCkgewo=</text>
+        <text encoding="base64">ICAgIH0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGlmICh0cmFuc2FjdGlvbnMubGVuZ3RoID4gMCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
