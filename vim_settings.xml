@@ -2463,11 +2463,11 @@
         <mark key="^" line="91" column="55" />
         <mark key="." line="91" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Header/index.js" timestamp="1545370112761">
-        <mark key="[" line="103" column="104" />
-        <mark key="]" line="103" column="104" />
-        <mark key="." line="103" column="104" />
-        <mark key="^" line="103" column="104" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Header/index.js" timestamp="1545382514597">
+        <mark key="[" line="62" column="74" />
+        <mark key="]" line="62" column="81" />
+        <mark key="." line="62" column="81" />
+        <mark key="^" line="62" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Subject/styled.js" timestamp="1533864031581">
         <mark key="[" line="217" column="21" />
@@ -2633,7 +2633,7 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="/JavaScript Console" timestamp="1545377569129">
+      <file name="/JavaScript Console" timestamp="1545380371100">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Slider/EmptyInvest.js" timestamp="1529644091563">
@@ -2846,11 +2846,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>signIn/signup</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y3R4Lmluc3RhbmNlLnR5cGUgPT09IDAgJiYg</text>
+        <text>signIn/signup</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
