@@ -998,13 +998,6 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/components/common/FileUploader/index.js" timestamp="1544671478417">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="23" column="7" />
-        <mark key="]" line="23" column="21" />
-        <mark key="^" line="23" column="21" />
-        <mark key="." line="23" column="21" />
-      </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client/.env" timestamp="1533260735331">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -1904,6 +1897,7 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Mypage/loan.js" timestamp="1545279171009" />
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/redux/action/Modal.js" timestamp="1539324081943">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -2792,43 +2786,43 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PC9wPgogICAgICAgIDxwPg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>메디컬전문 P2P금융</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="4">
-        <text>moment(1545052070000)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB7Lyo8cD7rqZTrlJTsu6zsoITrrLggUDJQ6riI7Jy1PC9wPiovfQogICAgICAgIHsvKjxwPuuqqOyasOuLpOyXkCDsmKTsi6DqsoPsnYQg7ZmY7JiB7ZWp64uI64ukLjwvcD4qL30K</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">PC9wPgogICAgICAgIDxwPg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">Y29ubmVjdCgKICBudWxsLAogIGRpc3BhdGNoID0+IGJpbmRBY3Rpb25DcmVhdG9ycyh7CiAgICBmYWNlQm9va0J0biwgc2lnbkluLCBzbGlkZXJQdXNoLCBjb2RlX21vZGFsCiAgfSwgZGlzcGF0Y2gpCik=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGRpZmZUaW1lID0gNzIgKiA2MCAqIDYwICogMTAwMDsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAvLyBAVE9ETyDsiqTsvIDspbQg67OA6rK9IOuwjyDstpTqsIDtlaAg65WMIO2ZleyduAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgLy8gbGV0IHVwZGF0ZUludmVzdCA9IHsKICAgICAgLy8gICBkYXRlX3RvX3N0YXJ0OiBgJHtkYXRlfTAwMDAwMGAKICAgICAgLy8gfTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgLy8gQFRPRE8g7Iqk7LyA7KW0IOuzgOqyvSDrsI8g7LaU6rCA7ZWgIOuVjCDtmZXsnbgK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUcmFuM0RheXMoaWQpLnRoZW4oKHJlcykgPT4gewo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC8qcmV0dXJuIHRyYW5zYWN0aW9ucy5yZWR1Y2UoKGFjYywgZGF0YSkgPT4gewogICAgICBjb25zdCB0cmFuRGlmZiA9IHRvZGF5LmRpZmYobW9tZW50KGRhdGEuY3JlYXRlZCksICdkYXlzJyk7CiAgICAgIGlmICh0cmFuRGlmZiA+IDMpIHsgcmV0dXJuIHRydWUgfQogICAgICBlbHNlIHsgcmV0dXJuIHRyYW0gPD0gKGJhbGFuY2UgLSBkYXRhLmFtb3VudCkgPyAhYWNjOmFjYyB9CiAgICB9LCBmYWxzZSk7Ki8K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBub3dEcmF3ID0gZmFsc2U7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0gCg==</text>
+        <text encoding="base64">ICAgIGxldCBub3dEcmF3ID0gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
