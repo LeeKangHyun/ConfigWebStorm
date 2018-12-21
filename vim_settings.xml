@@ -280,11 +280,12 @@
         <mark key="." line="106" column="18" />
         <mark key="^" line="106" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/easySign/Component/SignUp.js" timestamp="1545360337079">
-        <mark key="[" line="50" column="36" />
-        <mark key="]" line="51" column="21" />
-        <mark key="^" line="51" column="21" />
-        <mark key="." line="51" column="21" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/easySign/Component/SignUp.js" timestamp="1545362743939">
+        <mark key="'" line="82" column="16" />
+        <mark key="[" line="49" column="26" />
+        <mark key="]" line="49" column="31" />
+        <mark key="^" line="49" column="31" />
+        <mark key="." line="49" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/build/main.js" timestamp="1530672241452">
         <mark key="[" line="4" column="15" />
@@ -1297,12 +1298,12 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/easySign/Controller.js" timestamp="1545359718610">
-        <mark key="'" line="246" column="24" />
-        <mark key="[" line="14" column="6" />
-        <mark key="]" line="14" column="14" />
-        <mark key="." line="14" column="14" />
-        <mark key="^" line="14" column="14" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/easySign/Controller.js" timestamp="1545362673851">
+        <mark key="'" line="95" column="23" />
+        <mark key="[" line="91" column="6" />
+        <mark key="]" line="91" column="12" />
+        <mark key="." line="91" column="12" />
+        <mark key="^" line="91" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/util/ApiCall.js" timestamp="1544670671256">
         <mark key="[" line="71" column="27" />
@@ -1903,11 +1904,12 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/easySign/Index.js" timestamp="1545360187614">
-        <mark key="'" line="5" column="8" />
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="24" />
-        <mark key="." line="23" column="24" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/easySign/Index.js" timestamp="1545361459170">
+        <mark key="'" line="61" column="18" />
+        <mark key="[" line="62" column="18" />
+        <mark key="]" line="62" column="18" />
+        <mark key="." line="62" column="18" />
+        <mark key="^" line="62" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/public/index.html" timestamp="1537492566463">
         <mark key="[" line="1" column="12" />
@@ -2372,10 +2374,10 @@
         <mark key="^" line="65" column="56" />
         <mark key="." line="21" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/sign/signup.js" timestamp="1545359498433">
-        <mark key="'" line="253" column="5" />
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="255" column="2" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/sign/signup.js" timestamp="1545361854753">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="81" column="4" />
         <mark key="^" line="249" column="12" />
         <mark key="." line="255" column="2" />
       </file>
@@ -2710,11 +2712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="11" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Controller.js" />
-      <jump line="163" column="17" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/item/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/item/index.js" />
-      <jump line="54" column="30" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/item/index.js" />
-      <jump line="7" column="33" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/item/index.js" />
       <jump line="617" column="38" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/item/item.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/item/item.js" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/invest/action.js" />
@@ -2810,54 +2807,57 @@
       <jump line="46" column="1" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/easySign/Index.js" />
       <jump line="5" column="8" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/easySign/Index.js" />
       <jump line="253" column="5" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/sign/signup.js" />
+      <jump line="90" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/sign/signup.js" />
+      <jump line="82" column="16" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/easySign/Component/SignUp.js" />
+      <jump line="61" column="18" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/easySign/Index.js" />
+      <jump line="94" column="20" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/easySign/Controller.js" />
+      <jump line="95" column="23" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/easySign/Controller.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY2hlY2tNb3VkYSwK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ICYmICFjaGVja01vdWRh</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8SW5wdXQKICAgICAgICAgIHBsYWNlaG9sZGVyPSLruYTrsIDrsojtmLgiCiAgICAgICAgICB0eXBlPSJwYXNzd29yZCIKICAgICAgICAgIG5hbWU9InBhc3N3b3JkIgogICAgICAgICAgdmFsdWU9e3Bhc3N3b3JkfQogICAgICAgICAgb25DaGFuZ2U9e29uQ2hhbmdlVG9TdGF0ZX0KICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICBfZGVueSA9ICgpID0+IHsKICAgIGNvbnN0IHsgY29kZV9tb2RhbCB9ID0gdGhpcy5wcm9wczsKICAgIGlmICghdGhpcy5pc01vdW50KSByZXR1cm47CiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgYWxyZWFkeTogZmFsc2UsCiAgICB9LCAoKSA9PiBjb2RlX21vZGFsKGZhbHNlKSk7CiAgfTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-  ...</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY2hlY2tNb3VkYSwK</text>
       </register>
-      <register name="2" type="4">
-        <text>,
-}</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwYXJhbXM6IHsgdHlwZSB9Cg==</text>
+        <text encoding="base64">ICAgICAgY2hlY2tNb3VkYSwK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ewogICAgICAgICAgdHlwZSA9PT0gJ3Jlc3VsdCcgPwogICAgICAgICAgOjxwPuuplOuUlOy7rOyghOusuCBQMlDquIjsnLU8L3A+CiAgICAgICAgfQ==</text>
+        <text encoding="base64">LCAoKSA9PiB7CiAgICAgIGlmICAoISF0aGlzLnN0YXRlLm1vdWRhX2tleSkgewogICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgY2hlY2tNb3VkYTogdHJ1ZSwKICAgICAgICB9KQogICAgICB9IGVsc2UgewogICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgY2hlY2tNb3VkYTogZmFsc2UsCiAgICAgICAgfSkKICAgICAgfQogICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwYXJhbXMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmICghIWZpc2hlcikgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgIHJldHVybiA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgYWxyZWFkeTogZmFsc2UsCiAgICAgIH0sICgpID0+IGFsZXJ0KCfsobTsnqztlZjsp4Ag7JWK64qUIOy2lOyynOyduCDsnoXri4jri6QuJykpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Y29ubmVjdCgKICAoewogICAgdXNlciwKICAgIHNlcnZlckluZm8sCiAgfSkgPT4gewogICAgcmV0dXJuIHsKICAgICAgdXNlciwKICAgICAgc2VydmVySW5mbywKICAgIH0KICB9LAogIGRpc3BhdGNoID0+IHsKICAgIHJldHVybiBiaW5kQWN0aW9uQ3JlYXRvcnMoewogICAgICBzaWduVXAsCiAgICAgIHNpZ25JbiwKICAgICAgYWxlcnRfbW9kYWwsCiAgICAgIHJlcXVlc3RBdXRoLAogICAgICBhY2NvdW50QXV0aCwKICAgICAgYXBwbHlJbnZlc3RvciwKICAgIH0sIGRpc3BhdGNoKQogIH0KKQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhbHJlYWR5OiB0cnVlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsKaW1wb3J0IHsgYmluZEFjdGlvbkNyZWF0b3JzIH0gZnJvbSAncmVkdXgnOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>vsplit</text>
       </register>
     </registers>
     <search>
@@ -2910,9 +2910,9 @@
         <entry>market.js</entry>
         <entry>10</entry>
         <entry>334</entry>
-        <entry>vsplit</entry>
         <entry>split</entry>
         <entry>q</entry>
+        <entry>vsplit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
