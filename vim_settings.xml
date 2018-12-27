@@ -1986,7 +1986,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/utils/index.js" timestamp="1545880911740" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/utils/index.js" timestamp="1545895249821" />
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/index.js" timestamp="1535416556411">
         <mark key="[" line="35" column="15" />
         <mark key="]" line="35" column="34" />
@@ -2287,10 +2287,10 @@
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/utils/plan30.js" timestamp="1545894880721">
-        <mark key="[" line="76" column="34" />
-        <mark key="]" line="76" column="35" />
-        <mark key="." line="76" column="35" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/utils/plan30.js" timestamp="1545896686121">
+        <mark key="[" line="72" column="37" />
+        <mark key="]" line="72" column="58" />
+        <mark key="." line="72" column="37" />
         <mark key="^" line="76" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Admin/Edit/SetPopup.js" timestamp="1531198800629">
@@ -2589,7 +2589,7 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="/JavaScript Console" timestamp="1545894853645">
+      <file name="/JavaScript Console" timestamp="1545896469298">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Slider/EmptyInvest.js" timestamp="1529644091563">
@@ -2802,16 +2802,16 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>Tax</text>
+        <text>arr[current+1]['tax']</text>
       </register>
       <register name="-" type="4">
-        <text>Tax</text>
+        <text>(isNaN(diffTax) ? 0:diffTax)</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJbY3VycmVudCsxXVsncGF5bWVudCddIC09IChpc05hTihkaWZmVGF4KSA/IDA6ZGlmZlRheCk7Cg==</text>
+      <register name="0" type="4">
+        <text>arr[current+1]['tax']</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG5leHRQYXltZW50ID0gYXJyW2N1cnJlbnQrMV1bJ3BheW1lbnQnXTsK</text>
