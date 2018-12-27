@@ -1498,6 +1498,13 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1545904200634">
+        <mark key="'" line="48" column="7" />
+        <mark key="[" line="54" column="14" />
+        <mark key="]" line="54" column="14" />
+        <mark key="^" line="54" column="14" />
+        <mark key="." line="54" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1531100861526">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="8" />
@@ -2299,11 +2306,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1545893679612">
-        <mark key="[" line="1" column="37" />
-        <mark key="]" line="1" column="37" />
-        <mark key="^" line="21" column="20" />
-        <mark key="." line="1" column="37" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1545904255596">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="26" />
+        <mark key="^" line="24" column="26" />
+        <mark key="." line="24" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/header/action.js" timestamp="1541125517440">
         <mark key="[" line="6" column="11" />
@@ -2697,7 +2704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Controller.js" />
       <jump line="9" column="24" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Controller.js" />
       <jump line="199" column="20" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Controller.js" />
       <jump line="34" column="27" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Controller.js" />
@@ -2797,16 +2803,17 @@
       <jump line="9" column="23" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Seller/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Seller/index.js" />
       <jump line="6" column="23" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/index.js" />
+      <jump line="48" column="7" filename="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">66qo7KeR7JmE66OM7IucIOy3qOyGjCDrtojqsIAgaWbrrLgg7LaU6rCACg==</text>
+      <register name="&quot;" type="4">
+        <text>hh</text>
       </register>
       <register name="-" type="4">
-        <text>(isNaN(diffTax) ? 0:diffTax)</text>
+        <text>hh</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
