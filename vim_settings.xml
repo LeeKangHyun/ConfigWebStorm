@@ -1594,11 +1594,11 @@
         <mark key="^" line="2" column="40" />
         <mark key="." line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/util/fetch.js" timestamp="1542156423142">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="34" />
-        <mark key="." line="3" column="34" />
-        <mark key="^" line="3" column="34" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/util/fetch.js" timestamp="1545966106611">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+        <mark key="^" line="4" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/public/manifest.json" timestamp="1530780127430">
         <mark key="[" line="13" column="31" />
@@ -1636,6 +1636,7 @@
         <mark key="^" line="10" column="54" />
         <mark key="." line="10" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member/loan.js" timestamp="1545966278946" />
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Page/Controller.js" timestamp="1531716942810">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="8" column="2" />
@@ -2610,7 +2611,7 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="/JavaScript Console" timestamp="1545899415914">
+      <file name="/JavaScript Console" timestamp="1545966081634">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Component/Slider/EmptyInvest.js" timestamp="1529644091563">
@@ -2822,11 +2823,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb3BzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>192.168.0.16</text>
       </register>
       <register name="-" type="4">
-        <text>hh</text>
+        <text>192.168.0.16</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
