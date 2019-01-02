@@ -764,6 +764,12 @@
         <mark key="^" line="14" column="55" />
         <mark key="." line="14" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/views/include/rules/rule_service.pug" timestamp="1546406383791">
+        <mark key="[" line="452" column="36" />
+        <mark key="]" line="452" column="37" />
+        <mark key="." line="452" column="37" />
+        <mark key="^" line="452" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/components/Common/Price/index.js" timestamp="1539306946646">
         <mark key="[" line="53" column="37" />
         <mark key="]" line="53" column="47" />
@@ -1976,6 +1982,12 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/views/include/rules/rule_invester.pug" timestamp="1546406474181">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="145" />
+        <mark key="." line="34" column="145" />
+        <mark key="^" line="34" column="145" />
+      </file>
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Urology/Highman.js" timestamp="1533275010522">
         <mark key="[" line="51" column="36" />
         <mark key="]" line="52" column="18" />
@@ -2828,16 +2840,16 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>1000</text>
+        <text>급</text>
       </register>
       <register name="-" type="4">
-        <text>1000</text>
+        <text>급</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAVE9ETyDstZzstIgg7Yis7J6Q7J6QIOuTseuhneyLnCAx66eMIO2PrOyduO2KuCDspIwK</text>
+        <text encoding="base64">ICAgIGJyCiAgICB8ICAgICAgICAgICAgIOKRpCDqt7gg7Jm47J2YIOyCrO2VreydgCDtiKzsnpDsnbTsmqnslb3qtIAsIOyXrOyLoOqxsOuemOq4sOuzuOyVveq0gCDrk7Hsl5DshJwg7KCV7ZWY64qUIOuwlOyXkCDrlLDrpoXri4jri6QuCiAgICBicgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZW5jcnlwdGVyLmVuY3J5cHQoJzMwMTAyMzc5MDk0NjEnLCAnYmFzZTY0Jyk7IC8qID8gKi8KCiLrjIDsmrTsnbjrsqDsiqTtirjrqLztirgg7KO8Ii5zdWJzdHIoMCwgNik7IC8qID8gKi8KCnVybGVuY29kZWQoIuuMgOyatOyduOuyoOyKpO2KuCIpOyAvKiA/ICovCgptb21lbnQoKS5mb3JtYXQoJ1lZWVlNTURESEhtbXNzJyk7IC8qID8gKi8K</text>
