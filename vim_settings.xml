@@ -584,7 +584,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546246970235">
+      <file name="/Dummy.txt" timestamp="1546404778025">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1169,11 +1169,11 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member.js" timestamp="1546398609272">
-        <mark key="[" line="300" column="0" />
-        <mark key="]" line="300" column="36" />
-        <mark key="." line="300" column="0" />
-        <mark key="^" line="403" column="35" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/member.js" timestamp="1546404399776">
+        <mark key="[" line="305" column="17" />
+        <mark key="]" line="305" column="20" />
+        <mark key="." line="305" column="20" />
+        <mark key="^" line="305" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/redux/saga/api/Board.js" timestamp="1536715315630">
         <mark key="[" line="3" column="0" />
@@ -1520,12 +1520,12 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1546244297601">
+      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" timestamp="1546404773847">
         <mark key="'" line="48" column="7" />
-        <mark key="[" line="54" column="24" />
-        <mark key="]" line="54" column="25" />
+        <mark key="[" line="55" column="38" />
+        <mark key="]" line="55" column="39" />
         <mark key="^" line="54" column="14" />
-        <mark key="." line="54" column="25" />
+        <mark key="." line="55" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/hongplastic/src/App/Component/Popup/index.js" timestamp="1531100861526">
         <mark key="[" line="22" column="0" />
@@ -2827,11 +2827,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAVE9ETyDstZzstIgg7Yis7J6Q7J6QIOuTseuhneyLnCAx66eMIO2PrOyduO2KuCDspIwK</text>
+      <register name="&quot;" type="4">
+        <text>1000</text>
       </register>
       <register name="-" type="4">
-        <text>encrypter</text>
+        <text>1000</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
