@@ -1430,12 +1430,12 @@
         <mark key="." line="21" column="22" />
         <mark key="^" line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/doctorReady/components/Sign/index.js" timestamp="1546486038734">
-        <mark key="'" line="25" column="1" />
-        <mark key="[" line="122" column="22" />
-        <mark key="]" line="122" column="22" />
-        <mark key="." line="122" column="22" />
-        <mark key="^" line="122" column="22" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/doctorReady/components/Sign/index.js" timestamp="1546491160704">
+        <mark key="'" line="18" column="14" />
+        <mark key="[" line="133" column="17" />
+        <mark key="]" line="134" column="12" />
+        <mark key="." line="134" column="12" />
+        <mark key="^" line="134" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/server/middleware.development.json" timestamp="1537408789216">
         <mark key="[" line="16" column="4" />
@@ -1965,12 +1965,12 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/doctorReady/components/Sign/Controller.js" timestamp="1546486125954">
-        <mark key="'" line="88" column="22" />
-        <mark key="[" line="98" column="21" />
-        <mark key="]" line="98" column="21" />
-        <mark key="." line="98" column="21" />
-        <mark key="^" line="98" column="21" />
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/doctorReady/components/Sign/Controller.js" timestamp="1546491139409">
+        <mark key="'" line="96" column="22" />
+        <mark key="[" line="97" column="18" />
+        <mark key="]" line="97" column="18" />
+        <mark key="." line="97" column="18" />
+        <mark key="^" line="146" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin_v2/client_src/src/redux/action/Modal.js" timestamp="1539324081943">
         <mark key="[" line="2" column="0" />
@@ -2415,10 +2415,10 @@
         <mark key="^" line="65" column="56" />
         <mark key="." line="21" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/sign/signup.js" timestamp="1546486108112">
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/sign/signup.js" timestamp="1546486271940">
         <mark key="'" line="249" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="80" column="32" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="146" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/doctorReady/index.js" timestamp="1546484839713">
         <mark key="[" line="17" column="34" />
@@ -2775,9 +2775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="49" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/home2/Controller.js" />
-      <jump line="38" column="31" filename="$USER_HOME$/Documents/mouda/mouda_admin/app/util/ApiCall.js" />
-      <jump line="5" column="22" filename="$USER_HOME$/Documents/mouda/mouda_admin/app/components/invest/investList.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin/app/components/invest/investList.js" />
       <jump line="205" column="9" filename="$USER_HOME$/Documents/mouda/mouda_admin/app/components/invest/investList.js" />
       <jump line="531" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin/app/components/modal/Profile/index.js" />
@@ -2875,49 +2872,52 @@
       <jump line="15" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/sign/signup.js" />
       <jump line="249" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/sign/signup.js" />
       <jump line="88" column="22" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/doctorReady/components/Sign/Controller.js" />
+      <jump line="96" column="22" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/doctorReady/components/Sign/Controller.js" />
+      <jump line="120" column="19" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/doctorReady/components/Sign/index.js" />
+      <jump line="18" column="14" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/doctorReady/components/Sign/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBhbHJlYWR5OiBmYWxzZSwKICAgIH0sICgpID0+ICk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>code_modal</text>
       </register>
       <register name="-" type="4">
-        <text>code_modal(false)</text>
+        <text>code_modal</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgY29kZV9tb2RhbCB9ID0gdGhpcy5wcm9wczsKICAgIGlmICghdGhpcy5pc01vdW50KSByZXR1cm47CiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgYWxyZWFkeTogZmFsc2UsCiAgICB9LCAoKSA9PiBjb2RlX21vZGFsKGZhbHNlKSk7Cg==</text>
+        <text encoding="base64">ICBzaWduVXBBcGkgPSAoKSA9PiB7CiAgICBjb25zdCB7IHNpZ25JbiwgcmV0dXJuVXJsLCBjb2RlX21vZGFsIH0gPSB0aGlzLnByb3BzOwogICAgY29uc3QgeyBlbWFpbCwgcGFzc3dvcmQsIGNvZGVJZCwgfSA9IHRoaXMuc3RhdGU7CiAgICBsZXQgbXNnID0gIiI7CiAgICAKICAgIGNvbnN0IGJvZHkgPSB7CiAgICAgIGVtYWlsLAogICAgICBwYXNzd29yZCwKICAgIH07CiAgICBpZiAoY29kZUlkKSBib2R5WydmaXNoZXInXSA9IGNvZGVJZDsKICAgIAogICAgZmV0Y2gucG9zdEpzb24oJ1Bhc3Nwb3J0cy9zaWduVXAnLCBib2R5KS50aGVuKGJvZHkgPT4gewogICAgICBpZiAoYm9keSkgewogICAgICAgIG1zZyA9ICLtmozsm5DqsIDsnoXsl5Ag7ISx6rO17ZaI7Iq164uI64ukLiI7CiAgICAgICAgc2lnbkluKGVtYWlsLCBwYXNzd29yZCwgZmFsc2UpLnRoZW4oKCkgPT4gewogICAgICAgICAgYWxlcnQobXNnKTsKICAgICAgICAgIGxldCB1cmwgPSAnLyc7CiAgICAgICAgICBpZiAocmV0dXJuVXJsKSB7CiAgICAgICAgICAgIHVybCArPSByZXR1cm5Vcmw7CiAgICAgICAgICB9CiAgICAgICAgICBzbGlkZXJQdXNoKHVybCk7CiAgICAgICAgfSkuY2F0Y2goZXJyID0+IHsKICAgICAgICAgIGNvbnNvbGUubG9nKGVycik7CiAgICAgICAgfSkKICAgICAgfSBlbHNlIHsKICAgICAgICBtc2cgPSAi7Jik66WY66GcIOyduO2VtCDtmozsm5DqsIDsnoXsl5Ag7Iuk7Yyo7ZaI7Iq164uI64ukLiI7CiAgICAgICAgYWxlcnQobXNnKTsKICAgICAgfQogICAgfSkuY2F0Y2goZXJyID0+IHsKICAgICAgaWYgKGVyciAmJiBlcnIubWVzc2FnZSkgewogICAgICAgIHN3aXRjaChlcnIubWVzc2FnZSkgewogICAgICAgICAgY2FzZSAnQWxyZWFkeSBNb3VkYSBVc2VyJzoKICAgICAgICAgIGNhc2UgIkVtYWlsIGFscmVhZHkgZXhpc3RzIjoKICAgICAgICAgICAgYWxlcnQoIuydtOuvuCDsobTsnqztlZjripQgRW1haWzsnoXri4jri6QuIOuLpOuluCBFbWFpbOydhCDsnoXroKXtlbQg7KO87Iut7Iuc7JikLiIpOwogICAgICAgICAgICBicmVhazsKICAgICAgICAgIGNhc2UgJ2hhcyBub3QgRW1haWwnOgogICAgICAgICAgICBhbGVydCgn7J2066mU7J287J2EIO2ZleyduO2VtCDso7zshLjsmpQuJyk7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgY2FzZSAnaGFzIG5vdCBQYXNzd29yZCc6CiAgICAgICAgICAgIGFsZXJ0KCfruYTrsIDrsojtmLjrpbwg7ZmV7J247ZW0IOyjvOyEuOyalC4nKTsKICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICBhbGVydChlcnIubWVzc2FnZSk7CiAgICAgICAgfQogICAgICB9IGVsc2UgYWxlcnQoIuyYpOulmOuhnCDsnbjtlbQg7ZqM7JuQ6rCA7J6F7JeQIOyLpO2MqO2WiOyKteuLiOuLpC4hIik7CiAgICB9KS5maW5hbGx5KCgpID0+IHsKICAgICAgY29kZV9tb2RhbChmYWxzZSk7CiAgICB9KQogIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBhbHJlYWR5OiBmYWxzZSwKICAgIH0sICgpID0+ICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCB1cmwgPSAnLyc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgY29kZV9tb2RhbCB9ID0gdGhpcy5wcm9wczsK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChyZXR1cm5VcmwpIHsKICAgICAgICAgICAgdXJsICs9IHJldHVyblVybDsKICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZT0ibW91ZGFfa2V5Igo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNsaWRlclB1c2godXJsKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBtc2cgPSA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICBtc2cgPSA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAnc2lnbkluJzoKICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgIGxldCBtc2cgPSAiIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZmlzaGVyLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNpZ25XcmFwID0gc3R5bGVkLmRpdmAKICBtYXJnaW46IDAgYXV0bzsKICB3aWR0aDogNTAwcHg7CiAgcGFkZGluZzogNTVweCA1MHB4OwogIGJhY2tncm91bmQ6ICNmZmZmZmY7CiAgQG1lZGlhIGFsbCBhbmQgKG1heC13aWR0aDogNjQwcHgpIHsKICAgIHdpZHRoOiAxMDAlOwogICAgcGFkZGluZzogNDBweCAyMHB4OwogIH0KYDsKCmV4cG9ydCBjb25zdCBMYWJlbCA9IHN0eWxlZC5kaXZgCiAgcGFkZGluZy1ib3R0b206IDIwcHg7CiAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNiZTFkMmM7CiAgc3BhbiB7CiAgICBmb250LXNpemU6IDIwcHg7CiAgICBmb250LXdlaWdodDogNzAwOwogICAgY29sb3I6ICMyYTJhMmE7CiAgICBsaW5lLWhlaWdodDogMTsKICB9CiAgYnV0dG9uIHsKICAgIGZsb2F0OiByaWdodDsKICAgIHdpZHRoOiA2NnB4OwogICAgaGVpZ2h0OiAyN3B4OwogICAgcGFkZGluZzogMDsKICAgIGJvcmRlcjogMXB4IHNvbGlkICNiZTFkMmM7CiAgICBib3JkZXItcmFkaXVzOiAzcHg7CiAgICBmb250LXNpemU6IDE2cHg7CiAgICBmb250LXdlaWdodDogNjAwOwogICAgY29sb3I6ICNiZTFkMmM7CiAgICAmOmhvdmVyIHsKICAgICAgYmFja2dyb3VuZDogI2JlMWQyYzsKICAgICAgY29sb3I6ICNmZmZmZmY7CiAgICB9CiAgfQogIEBtZWRpYSBhbGwgYW5kIChtYXgtd2lkdGg6IDY0MHB4KSB7CiAgICBwYWRkaW5nLWJvdHRvbTogMTVweDsKICAgIHNwYW4gewogICAgICBmb250LXNpemU6IDE2cHg7CiAgICB9CiAgICBidXR0b24gewogICAgICB3aWR0aDogNTNweDsKICAgICAgaGVpZ2h0OiAyMnB4OwogICAgICBmb250LXNpemU6IDE0cHg7CiAgICB9CiAgfQpgOwoKZXhwb3J0IGNvbnN0IFRleHQgPSBzdHlsZWQucGAKICBtYXJnaW46IDE1cHggMCA0MHB4OwogIGZvbnQtc2l6ZTogMTZweDsKICBmb250LXdlaWdodDogNDAwOwogIGxpbmUtaGVpZ2h0OiAyMHB4OwogIGNvbG9yOiAjMmEyYTJhOwogIEBtZWRpYSBhbGwgYW5kIChtYXgtd2lkdGg6IDY0MHB4KSB7CiAgICBtYXJnaW4tdG9wOiAxMHB4OwogICAgbWFyZ2luLWJvdHRvbTogMzVweDsKICAgIGZvbnQtc2l6ZTogMTRweDsKICB9CmA7CgpleHBvcnQgY29uc3QgSW5wdXRXcmFwID0gc3R5bGVkLmFydGljbGVgCiAgbWFyZ2luLWJvdHRvbTogJHsoe21vZGV9KSA9PiAnc2lnblVwJyA9PT0gbW9kZSA/ICczMHB4JzonMTBweCd9OwpgOwoKZXhwb3J0IGNvbnN0IElucHV0ID0gc3R5bGVkLmRpdmAKICB3aWR0aDogNDAwcHg7CiAgaGVpZ2h0OiA1MHB4OwogIG1hcmdpbi1ib3R0b206IDE1cHg7CiAgYm9yZGVyOiAxcHggc29saWQgI2E1YTVhNTsKICBib3JkZXItcmFkaXVzOiAzcHg7CiAgZGl2IHsKICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICAgIHdpZHRoOiA2MHB4OwogICAgaGVpZ2h0OiA1MHB4OwogICAgaW1nIHsKICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICB0b3A6IDUwJTsKICAgICAgbGVmdDogNTAlOwogICAgICB3aWR0aDogMjBweDsKICAgICAgaGVpZ2h0OiAyNHB4OwogICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTsKICAgIH0KICB9CiAgaW5wdXQgewogICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgd2lkdGg6IGNhbGMoMTAwJSAtIDYwcHgpOwogICAgaGVpZ2h0OiAxMDAlOwogICAgcGFkZGluZzogMDsKICAgIGJvcmRlcjogbm9uZTsKICAgIG91dGxpbmU6IG5vbmU7CiAgICBmb250LXNpemU6IDE2cHg7CiAgICBjb2xvcjogIzJhMmEyYTsKICAgIHZlcnRpY2FsLWFsaWduOiB0b3A7CiAgICAmOjpwbGFjZWhvbGRlciB7CiAgICAgIGZvbnQtd2VpZ2h0OiA1MDA7CiAgICAgIGNvbG9yOiAjYTVhNWE1OwogICAgfQogIH0KICBAbWVkaWEgYWxsIGFuZCAobWF4LXdpZHRoOiA2NDBweCkgewogICAgd2lkdGg6IDEwMCU7CiAgICBtYXJnaW4tYm90dG9tOiAxMHB4OwogIH0KYDsKCmV4cG9ydCBjb25zdCBUZXJtRGl2ID0gc3R5bGVkLmRpdmAKICBtYXJnaW4tYm90dG9tOiAyMHB4OwogID4gZGl2IHsKICAgICY6Zmlyc3QtY2hpbGQgewogICAgICBtYXJnaW4tYm90dG9tOiAxMHB4OwogICAgfQogICAgaW5wdXQgewogICAgICBtYXJnaW4tcmlnaHQ6IDEwcHg7CiAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICB9CiAgICBsYWJlbCB7CiAgICAgIHNwYW4gewogICAgICAgIGZvbnQtc2l6ZTogMTRweDsKICAgICAgICBjb2xvcjogIzJhMmEyYTsKICAgICAgICAmOm50aC1jaGlsZCgyKSB7CiAgICAgICAgICBmb250LXdlaWdodDogNzAwOwogICAgICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgICAgIH0KICAgICAgfQogICAgfQogIH0KICBAbWVkaWEgYWxsIGFuZCAobWF4LXdpZHRoOiA2NDBweCkgewogICAgbWFyZ2luLWJvdHRvbTogMTVweDsKICB9CmA7CgpleHBvcnQgY29uc3QgQnV0dG9uID0gc3R5bGVkLmJ1dHRvbmAKICB3aWR0aDogMTAwJTsKICBoZWlnaHQ6IDUwcHg7CiAgbWFyZ2luLXRvcDogMTBweDsKICBmb250LXNpemU6IDE2cHg7CiAgZm9udC13ZWlnaHQ6IDQwMDsKICBiYWNrZ3JvdW5kOiAkeyh7Y29sb3J9KSA9PiBjb2xvcn07CiAgYm9yZGVyOiBub25lOwogIGJvcmRlci1yYWRpdXM6IDNweDsKICBjb2xvcjogI2ZmZmZmZjsKICAmOmhvdmVyIHsKICAgIGJhY2tncm91bmQ6ICNmZmZmZmY7CiAgICBib3JkZXI6IDFweCBzb2xpZCAkeyh7Y29sb3J9KSA9PiBjb2xvcn07CiAgICBjb2xvcjogJHsoe2NvbG9yfSkgPT4gY29sb3J9OwogIH0KYDsKCmV4cG9ydCBjb25zdCBJbnF1aXJ5ID0gc3R5bGVkLmRpdmAKICBtYXJnaW4tdG9wOiA0NXB4OwogIHRleHQtYWxpZ246IGNlbnRlcjsKICBmb250LXNpemU6IDE2cHg7CiAgZm9udC13ZWlnaHQ6IDYwMDsKICBsaW5lLWhlaWdodDogMjVweDsKICBjb2xvcjogIzcwNzA3MDsKICBAbWVkaWEgYWxsIGFuZCAobWF4LXdpZHRoOiA2NDBweCkgewogICAgZm9udC1zaXplOiAxNHB4OwogICAgbGluZS1oZWlnaHQ6IDI0cHg7CiAgfQpgOwoKZXhwb3J0IGNvbnN0IEdvTGFiZWwgPSBzdHlsZWQuZGl2YAogIG1hcmdpbi10b3A6IDIwcHg7CiAgZm9udC1zaXplOiAxNnB4OwogIGZvbnQtd2VpZ2h0OiAzMDA7CiAgY29sb3I6ICM3MDcwNzA7CiAgbGFiZWwgewogICAgZm9udC13ZWlnaHQ6IDYwMDsKICAgIGNvbG9yOiAjMmEyYTJhOwogICAgY3Vyc29yOiBwb2ludGVyOwogIH0KICBAbWVkaWEgYWxsIGFuZCAobWF4LXdpZHRoOiA2NDBweCkgewogICAgZm9udC1zaXplOiAxNHB4OwogIH0KYDsKCgoKCgoKCgoKCgoKCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHt9ID0gdGhpcy5zdGF0ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZpbmRLZXknKQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
