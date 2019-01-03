@@ -573,7 +573,6 @@
         <mark key="^" line="38" column="19" />
         <mark key="." line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/invest.js" timestamp="1546498286838" />
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/invest/List/components/Header.js" timestamp="1542780818859">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="4" />
@@ -2034,7 +2033,6 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/utils/index.js" timestamp="1546503406164" />
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Sub/Customer/index.js" timestamp="1535416556411">
         <mark key="[" line="35" column="15" />
         <mark key="]" line="35" column="34" />
@@ -2215,7 +2213,6 @@
         <mark key="." line="47" column="26" />
         <mark key="^" line="47" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/common/models/transaction.js" timestamp="1546502615093" />
       <file name="$USER_HOME$/Documents/hnh/mhub2/public/manifest.json" timestamp="1530681769791">
         <mark key="[" line="2" column="11" />
         <mark key="]" line="2" column="18" />
@@ -2354,11 +2351,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1546393958254">
-        <mark key="[" line="19" column="117" />
-        <mark key="]" line="19" column="122" />
-        <mark key="^" line="19" column="122" />
-        <mark key="." line="19" column="122" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1546506675548">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="18" />
+        <mark key="^" line="19" column="18" />
+        <mark key="." line="19" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/redux/header/action.js" timestamp="1546492201842">
         <mark key="[" line="57" column="0" />
@@ -2635,7 +2632,6 @@
         <mark key="^" line="11" column="37" />
         <mark key="." line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_back/server/datasources.production.json" timestamp="1546497495379" />
       <file name="$USER_HOME$/Documents/hnh/mhub/src/pages/Home/Component/Slider/index.js" timestamp="1534986328334">
         <mark key="[" line="46" column="37" />
         <mark key="]" line="46" column="38" />
@@ -2878,11 +2874,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2hlbGxvJykK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
