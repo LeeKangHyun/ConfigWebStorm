@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/11.js" timestamp="1546588008438">
+        <mark key="[" line="0" column="47" />
+        <mark key="]" line="0" column="47" />
+        <mark key="^" line="0" column="47" />
+        <mark key="." line="0" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/doctorReady/components/File/styled.js" timestamp="1546569318440">
         <mark key="[" line="33" column="17" />
         <mark key="]" line="34" column="19" />
@@ -231,11 +237,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB1cGRhdGUudGF4ID0gMDsK</text>
+      <register name="&quot;" type="4">
+        <text>arr</text>
       </register>
       <register name="-" type="4">
-        <text>obj.tax</text>
+        <text>arr</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
