@@ -609,7 +609,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546578905585">
+      <file name="/Dummy.txt" timestamp="1546579683607">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1413,12 +1413,12 @@
         <mark key="." line="104" column="34" />
         <mark key="^" line="104" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/doctorReady/components/Result/index.js" timestamp="1546578766401">
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/doctorReady/components/Result/index.js" timestamp="1546579576134">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="28" />
-        <mark key="]" line="26" column="36" />
-        <mark key="." line="26" column="28" />
-        <mark key="^" line="26" column="25" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="43" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="24" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/hnh/jayeon/src/pages/Sub/Customer/Advice/index.js" timestamp="1536642701588">
         <mark key="[" line="49" column="17" />
@@ -2675,13 +2675,13 @@
         <mark key="." line="103" column="26" />
         <mark key="^" line="103" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/doctorReady/Controller.js" timestamp="1546579215713">
+      <file name="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/doctorReady/Controller.js" timestamp="1546579666036">
         <mark key="e" line="77" column="6" />
         <mark key="'" line="79" column="3" />
-        <mark key="[" line="78" column="17" />
-        <mark key="]" line="78" column="21" />
-        <mark key="." line="78" column="21" />
-        <mark key="^" line="78" column="21" />
+        <mark key="[" line="82" column="13" />
+        <mark key="]" line="82" column="16" />
+        <mark key="." line="82" column="16" />
+        <mark key="^" line="82" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/components/board/quill.js" timestamp="1537245701732">
         <mark key="[" line="16" column="25" />
@@ -2911,16 +2911,16 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>this.state.predicCredit</text>
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>this.state.predicCredit</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
       </register>
-      <register name="0" type="4">
-        <text>Containers/mouda-storage/upload</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB7Lyog7Iug7LKt7ZWcIOuCtOyXreydtCDsnojripQg7IKs656M7J2AIOydtOu2gOu2hCDrs7TsnbTsp4Ag7JWK64qU64ukLiAqL30K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
