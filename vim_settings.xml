@@ -55,11 +55,12 @@
         <mark key="^" line="142" column="21" />
         <mark key="." line="142" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Interview/Carousel/styled.js" timestamp="1547001338493">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Interview/Carousel/styled.js" timestamp="1547014916571">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="319" column="9" />
+        <mark key="]" line="319" column="13" />
+        <mark key="^" line="319" column="13" />
+        <mark key="." line="319" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Recruit/index.js" timestamp="1546941383116">
         <mark key="[" line="15" column="17" />
@@ -76,6 +77,12 @@
         <mark key="]" line="19" column="20" />
         <mark key="^" line="19" column="20" />
         <mark key="." line="19" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/ssr/components/Swipe/index.js" timestamp="1547004091045">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="2" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/station3/ssr/components/Menus/index.js" timestamp="1546916003003">
         <mark key="[" line="9" column="13" />
@@ -132,14 +139,6 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Banner/styled.js" timestamp="1546930100810">
-        <mark key="'" line="98" column="3" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="49" column="20" />
-        <mark key="." line="122" column="1" />
-        <mark key="^" line="30" column="21" />
-        <mark key="o" line="11" column="10" />
-      </file>
       <file name="$USER_HOME$/Documents/station3/ssr/components/Footer/index.js" timestamp="1546998293389">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="74" column="26" />
@@ -169,11 +168,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/utils/config.js" timestamp="1547002134389">
-        <mark key="[" line="28" column="14" />
-        <mark key="]" line="28" column="22" />
-        <mark key="^" line="28" column="22" />
-        <mark key="." line="28" column="22" />
+      <file name="$USER_HOME$/Documents/station3/ssr/utils/config.js" timestamp="1547014059517">
+        <mark key="[" line="42" column="38" />
+        <mark key="]" line="42" column="61" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="42" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Recruit/Recruiting/Controller.js" timestamp="1546998248125">
         <mark key="[" line="56" column="0" />
@@ -187,11 +186,11 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="115" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Interview/Carousel/index.js" timestamp="1547002167413">
-        <mark key="[" line="16" column="33" />
-        <mark key="]" line="16" column="42" />
-        <mark key="." line="16" column="42" />
-        <mark key="^" line="16" column="42" />
+      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Interview/Carousel/index.js" timestamp="1547012662108">
+        <mark key="[" line="80" column="21" />
+        <mark key="]" line="80" column="21" />
+        <mark key="^" line="85" column="52" />
+        <mark key="." line="80" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/mouda/mouda_admin/app/util/ApiCall.js" timestamp="1546576883605">
         <mark key="[" line="67" column="0" />
@@ -221,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="41" filename="$USER_HOME$/Documents/mouda/mouda_admin/app/components/invest/investList.js" />
       <jump line="22" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin/app/components/user.js" />
       <jump line="176" column="18" filename="$USER_HOME$/Documents/mouda/mouda_admin/app/components/modal/profile.js" />
       <jump line="96" column="7" filename="$USER_HOME$/Documents/mouda/mouda_admin/app/components/modal/profile.js" />
@@ -321,49 +319,50 @@
       <jump line="9" column="0" filename="$USER_HOME$/Documents/station3/ssr/components/Footer/index.js" />
       <jump line="166" column="0" filename="$USER_HOME$/Documents/station3/ssr/pages/culture/Recruit/Recruiting/styled.js" />
       <jump line="202" column="0" filename="$USER_HOME$/Documents/station3/ssr/pages/culture/Recruit/Recruiting/styled.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/station3/ssr/pages/culture/Interview/Carousel/styled.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>Interview[0]</text>
+        <text>50%;</text>
       </register>
       <register name="-" type="4">
-        <text>Interview[0]</text>
+        <text>50%;</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMjRweDsKICAgIGxpbmUtaGVpZ2h0OiA4MHB4OwogICAgc3ZnIHsKICAgICAgdG9wOiA1MCU7CiAgICAgIHJpZ2h0OiA0MHB4OwogICAgICB3aWR0aDogMjBweDsKICAgICAgaGVpZ2h0OiAxMXB4OwogICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoLTUwJSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHNwYW4gewogICAgICBmb250LXNpemU6IDIwcHg7CiAgICAgIGxpbmUtaGVpZ2h0OiAxOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKDAsIC01MCUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8Q2Fyb3VzZWxMaXN0PgogICAgICAgICAgPHA+CiAgICAgICAgICAgIHtJbnRlcnZpZXdbMF0udGV4dH0KICAgICAgICAgIDwvcD4KICAgICAgICAgIDxsYWJlbD4KICAgICAgICAgICAge0ludGVydmlld1swXS5sYWJlbH0KICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgPC9DYXJvdXNlbExpc3Q+Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPENhcm91c2VsTGlzdD4KICAgICAgICA8cD4KICAgICAgICAgIHtJbnRlcnZpZXdbMF0udGV4dH0KICAgICAgICA8L3A+CiAgICAgICAgPGxhYmVsPgogICAgICAgICAge0ludGVydmlld1swXS5sYWJlbH0KICAgICAgICA8L2xhYmVsPgogICAgICA8L0Nhcm91c2VsTGlzdD4K</text>
+        <text encoding="base64">ICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogMTM1cHg7Cg==</text>
+        <text encoding="base64">ICAgIGZsb2F0OiBsZWZ0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogMTM1cHg7Cg==</text>
+        <text encoding="base64">ICAgID4gZGl2IHsKICAgICAgdmVydGljYWwtYWxpZ246IG1pZGRsZTsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogMjQ3cHg7Cg==</text>
+        <text encoding="base64">ICAgIGZsb2F0OiByaWdodDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4KICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCBDYXJvdXNlbExpc3QgPSBzdHlsZWQuZGl2YAogIGNvbG9yOiAjMDAwOwogICR7bWVkaWEuZGVzazE2MDBgCiAgICBwYWRkaW5nLWxlZnQ6IDI0N3B4OwogICAgcCB7CiAgICAgIG1hcmdpbi1ib3R0b206IDIwcHg7CiAgICAgIGZvbnQtc2l6ZTogMzBweDsKICAgICAgbGluZS1oZWlnaHQ6IDEuNTsKICAgIH0KICAgIGxhYmVsIHsKICAgICAgZm9udC1zaXplOiAxNnB4OwogICAgICBsaW5lLWhlaWdodDogMi44MTsKICAgIH0KICBgfQogICR7bWVkaWEuZGVzazE0MDBgCiAgICBwYWRkaW5nLWxlZnQ6IDEzNXB4OwogICAgcCB7CiAgICAgIG1hcmdpbi1ib3R0b206IDIwcHg7CiAgICAgIGZvbnQtc2l6ZTogMjZweDsKICAgICAgbGluZS1oZWlnaHQ6IDEuNTQ7CiAgICB9CiAgICBsYWJlbCB7CiAgICAgIGZvbnQtc2l6ZTogMTRweDsKICAgICAgbGluZS1oZWlnaHQ6IDMuMjE7CiAgICB9CiAgYH0KICAke21lZGlhLmRlc2sxMjAwYAogICAgcGFkZGluZy1sZWZ0OiAxMzVweDsKICAgIHAgewogICAgICBtYXJnaW4tYm90dG9tOiAyMHB4OwogICAgICBmb250LXNpemU6IDI2cHg7CiAgICAgIGxpbmUtaGVpZ2h0OiAxLjU0OwogICAgfQogICAgbGFiZWwgewogICAgICBmb250LXNpemU6IDE0cHg7CiAgICAgIGxpbmUtaGVpZ2h0OiAzLjIxOwogICAgfQogIGB9CiAgJHttZWRpYS50YWJsZXRCYAogICAgcCB7CiAgICAgIG1hcmdpbi1ib3R0b206IDQwcHg7CiAgICAgIGZvbnQtc2l6ZTogMzRweDsKICAgICAgbGluZS1oZWlnaHQ6IDEuNDc7CiAgICB9CiAgICBsYWJlbCB7CiAgICAgIGZvbnQtc2l6ZTogMjRweDsKICAgICAgbGluZS1oZWlnaHQ6IDEuODg7CiAgICB9CiAgYH0KICAke21lZGlhLnRhYmxldGAKICAgIHAgewogICAgICBtYXJnaW4tYm90dG9tOiA0MHB4OwogICAgICBmb250LXNpemU6IDM0cHg7CiAgICAgIGxpbmUtaGVpZ2h0OiAxLjQ3OwogICAgfQogICAgbGFiZWwgewogICAgICBmb250LXNpemU6IDI0cHg7CiAgICAgIGxpbmUtaGVpZ2h0OiAxLjg4OwogICAgfQogIGB9CiAgJHttZWRpYS5tb2JpbGVgYH0KICAke21lZGlhLm1vYmlsZVNgYH0KYAo=</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
