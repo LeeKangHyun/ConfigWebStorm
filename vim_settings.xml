@@ -44,12 +44,12 @@
         <mark key="^" line="15" column="30" />
         <mark key="." line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Benefits/styled.js" timestamp="1547023255302">
+      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Benefits/styled.js" timestamp="1547026493702">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="^" line="70" column="1" />
-        <mark key="." line="83" column="0" />
+        <mark key="[" line="228" column="26" />
+        <mark key="]" line="229" column="25" />
+        <mark key="^" line="229" column="25" />
+        <mark key="." line="229" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/11.js" timestamp="1546588008438">
         <mark key="[" line="0" column="47" />
@@ -353,43 +353,43 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAyNDdweDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFdyYXAsIExhYmVsLA==</text>
+        <text>19</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAke21lZGlhLmRlc2sxNjAwYAogICAgbWFyZ2luLWxlZnQ6IDI0N3B4OwogIGB9CiAgJHttZWRpYS5kZXNrMTQwMGAKICBgfQogICR7bWVkaWEuZGVzazEyMDBgCiAgYH0KICAke21lZGlhLnRhYmxldEJgCiAgYH0KICAke21lZGlhLnRhYmxldGAKICBgfQogICR7bWVkaWEubW9iaWxlYGB9CiAgJHttZWRpYS5tb2JpbGVTYGB9Cg==</text>
+        <text encoding="base64">ICAgIHAgewogICAgICBtYXJnaW4tcmlnaHQ6IDExM3B4OwogICAgICBmb250LXNpemU6IDM0cHg7CiAgICAgIGxpbmUtaGVpZ2h0OiAxLjQ3OwogICAgfQogICAgdWwgewogICAgICBsaSB7CiAgICAgICAgZm9udC1zaXplOiAyNHB4OwogICAgICAgIGxpbmUtaGVpZ2h0OiAyLjA4OwogICAgICAgICY6YmVmb3JlIHsKICAgICAgICAgIHdpZHRoOiA0cHg7CiAgICAgICAgICBoZWlnaHQ6IDRweDsKICAgICAgICAgIG1hcmdpbi1yaWdodDogMTdweDsKICAgICAgICB9CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAyNDdweDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAxMzVweDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDEyMHB4Owo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtYXJnaW4tbGVmdDogMjQ3cHg7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAKYAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHtiZW5lZml0Lmxpc3R9Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogM3B4OwogICAgICAgIGhlaWdodDogM3B4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjMDAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIAogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAyNDdweDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB7CiAgICAKICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
