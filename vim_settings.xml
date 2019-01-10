@@ -92,6 +92,12 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1547101301390">
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="41" />
+        <mark key="." line="8" column="41" />
+        <mark key="^" line="8" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Benefits/styled.js" timestamp="1547026493702">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="228" column="26" />
@@ -112,7 +118,7 @@
         <mark key="." line="77" column="23" />
         <mark key="^" line="72" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Utils/setStorage.js" timestamp="1547098954591" />
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Utils/setStorage.js" timestamp="1547099581779" />
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Recruit/Recruiting/styled.js" timestamp="1547000890160">
         <mark key="'" line="242" column="0" />
         <mark key="[" line="115" column="0" />
@@ -135,7 +141,7 @@
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Interview/Carousel/index.js" timestamp="1547012662108">
+      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Interview/Carousel/index.js" timestamp="1547100088643">
         <mark key="[" line="80" column="21" />
         <mark key="]" line="80" column="21" />
         <mark key="^" line="85" column="52" />
@@ -261,10 +267,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>100</text>
+        <text>SEARCH</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>SEARCH</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
@@ -273,28 +279,28 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">S0VZV09SRC5zcGxpdCgpIC8qID8gKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAxMzVweDsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coS0VZV09SRCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">S0VZV09SRAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3QgYXJyID0gbmV3IEFycmF5KEspOyAvKiA/ICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogM3B4OwogICAgICAgIGhlaWdodDogM3B4Owo=</text>
+        <text encoding="base64">S0VZV09SRC4oaW5kZXgsIFNFQVJDSC5sZW5ndGgpIC8qID8gKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjMDAwOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAyNDdweDsK</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAxMzVweDsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAK</text>
