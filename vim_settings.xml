@@ -3,75 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/station3/ssr/components/Footer/styled.js" timestamp="1546997757709">
-        <mark key="[" line="592" column="0" />
-        <mark key="]" line="707" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/CoreValue/styled.js" timestamp="1547021951061">
-        <mark key="'" line="272" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="66" column="20" />
-        <mark key="^" line="257" column="18" />
-        <mark key="." line="257" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/server/routes.js" timestamp="1546916433574">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="6" column="41" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Interview/index.js" timestamp="1547001297990">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="9" />
-        <mark key="." line="1" column="9" />
-        <mark key="^" line="8" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Photo/index.js" timestamp="1547019413564">
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="11" column="19" />
-        <mark key="." line="11" column="19" />
-        <mark key="^" line="11" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Benefits/styled.js" timestamp="1547026493702">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="228" column="26" />
-        <mark key="]" line="229" column="25" />
-        <mark key="^" line="229" column="25" />
-        <mark key="." line="229" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Benefits/index.js" timestamp="1547023237694">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-        <mark key="^" line="11" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Interview/Carousel/styled.js" timestamp="1547016456735">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="357" column="0" />
-        <mark key="]" line="359" column="12" />
-        <mark key="^" line="162" column="1" />
-        <mark key="." line="357" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Recruit/index.js" timestamp="1546941383116">
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="15" column="17" />
-        <mark key="." line="15" column="17" />
-        <mark key="^" line="15" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/pages/service/index.js" timestamp="1546916047717">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Radio/index.js" timestamp="1547083463009" />
       <file name="$USER_HOME$/Documents/station3/ssr/components/Swipe/index.js" timestamp="1547004091045">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="2" column="5" />
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/pages/service/Banner/styled.js" timestamp="1546929969651">
-        <mark key="'" line="169" column="25" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="102" column="4" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Popup/AgentBusinessInfoAdd.js" timestamp="1547083198765" />
+      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/CoreValue/styled.js" timestamp="1547021951061">
+        <mark key="'" line="272" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="66" column="20" />
+        <mark key="^" line="257" column="18" />
+        <mark key="." line="257" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Photo/styled.js" timestamp="1547019649564">
         <mark key="[" line="67" column="18" />
@@ -84,6 +29,18 @@
         <mark key="]" line="30" column="30" />
         <mark key="." line="30" column="30" />
         <mark key="^" line="30" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/ssr/server/routes.js" timestamp="1546916433574">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="41" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Interview/index.js" timestamp="1547001297990">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="8" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Interview/styled.js" timestamp="1547001260688">
         <mark key="[" line="68" column="0" />
@@ -111,16 +68,30 @@
         <mark key="^" line="125" column="4" />
         <mark key="." line="125" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Photo/index.js" timestamp="1547019413564">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="11" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Banner/index.js" timestamp="1546930177669">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
         <mark key="^" line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/components/Footer/index.js" timestamp="1546998293389">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="74" column="26" />
-        <mark key="]" line="74" column="49" />
+      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Benefits/styled.js" timestamp="1547026493702">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="228" column="26" />
+        <mark key="]" line="229" column="25" />
+        <mark key="^" line="229" column="25" />
+        <mark key="." line="229" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Benefits/index.js" timestamp="1547023237694">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+        <mark key="^" line="11" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/station3/ssr/utils/config.js" timestamp="1547022380198">
         <mark key="'" line="32" column="2" />
@@ -129,11 +100,7 @@
         <mark key="." line="77" column="23" />
         <mark key="^" line="72" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Recruit/Recruiting/Controller.js" timestamp="1546998248125">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Account/MyAccount/Controller.js" timestamp="1547083123200" />
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Recruit/Recruiting/styled.js" timestamp="1547000890160">
         <mark key="'" line="242" column="0" />
         <mark key="[" line="115" column="0" />
@@ -141,7 +108,19 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="115" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/index.less" timestamp="1547027294083" />
+      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Interview/Carousel/styled.js" timestamp="1547016456735">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="357" column="0" />
+        <mark key="]" line="359" column="12" />
+        <mark key="^" line="162" column="1" />
+        <mark key="." line="357" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Recruit/index.js" timestamp="1546941383116">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="17" />
+        <mark key="^" line="15" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Interview/Carousel/index.js" timestamp="1547012662108">
         <mark key="[" line="80" column="21" />
         <mark key="]" line="80" column="21" />
@@ -159,15 +138,6 @@
         <mark key="]" line="16" column="24" />
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/pages/_document.js" timestamp="1546916478888" />
-      <file name="$USER_HOME$/Documents/station3/ssr/pages/service/Banner/index.js" timestamp="1546923584019">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/components/Footer/Controller.js" timestamp="1546998241796">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="54" column="45" />
       </file>
     </filemarks>
     <jumps>
