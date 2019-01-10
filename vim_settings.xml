@@ -3,14 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Radio/index.js" timestamp="1547083463009" />
       <file name="$USER_HOME$/Documents/station3/ssr/components/Swipe/index.js" timestamp="1547004091045">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="2" column="5" />
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Popup/AgentBusinessInfoAdd.js" timestamp="1547083198765" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/NoticeList.js" timestamp="1547096632011" />
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/CoreValue/styled.js" timestamp="1547021951061">
         <mark key="'" line="272" column="0" />
         <mark key="[" line="26" column="0" />
@@ -42,7 +41,6 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/public/templates/index.hbs" timestamp="1547095723899" />
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Interview/styled.js" timestamp="1547001260688">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
@@ -63,7 +61,6 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/trueRoomCert.js" timestamp="1547096299428" />
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Recruit/styled.js" timestamp="1547018148036">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="30" column="20" />
@@ -108,8 +105,6 @@
         <mark key="." line="77" column="23" />
         <mark key="^" line="72" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Account/MyAccount/Controller.js" timestamp="1547083123200" />
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/styled.js" timestamp="1547096266232" />
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Recruit/Recruiting/styled.js" timestamp="1547000890160">
         <mark key="'" line="242" column="0" />
         <mark key="[" line="115" column="0" />
@@ -124,6 +119,7 @@
         <mark key="^" line="162" column="1" />
         <mark key="." line="357" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Toast/index.js" timestamp="1547097344411" />
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Recruit/index.js" timestamp="1546941383116">
         <mark key="[" line="15" column="17" />
         <mark key="]" line="15" column="17" />
