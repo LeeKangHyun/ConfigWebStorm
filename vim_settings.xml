@@ -80,6 +80,12 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="14" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Utils/PriceFormat.js" timestamp="1547098545556">
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="33" column="20" />
+        <mark key="^" line="33" column="20" />
+        <mark key="." line="33" column="20" />
+      </file>
       <file name="$USER_HOME$/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/183.4886.41/WebStorm.app.vmoptions" timestamp="1547096401395">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="7" />
@@ -106,6 +112,7 @@
         <mark key="." line="77" column="23" />
         <mark key="^" line="72" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Utils/setStorage.js" timestamp="1547098954591" />
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Recruit/Recruiting/styled.js" timestamp="1547000890160">
         <mark key="'" line="242" column="0" />
         <mark key="[" line="115" column="0" />
@@ -113,6 +120,7 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="115" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Utils/mapUtils.js" timestamp="1547098647929" />
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Interview/Carousel/styled.js" timestamp="1547016456735">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="357" column="0" />
@@ -253,10 +261,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>750</text>
+        <text>100</text>
       </register>
       <register name="-" type="4">
-        <text>750</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
