@@ -5,6 +5,11 @@
     <filemarks>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/NoticeList.js" timestamp="1547096632011" />
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/RoomUp/Upload/Pano/index.js" timestamp="1547114475961" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/RoomUp/Additional/index.js" timestamp="1547172783967">
+        <mark key="[" line="5" column="45" />
+        <mark key="]" line="5" column="45" />
+        <mark key="." line="5" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Dashboard/Controller.js" timestamp="1547102896877" />
       <file name="$USER_HOME$/Documents/station3/ssr/server/routes.js" timestamp="1546916433574">
         <mark key="[" line="7" column="0" />
@@ -244,10 +249,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>@/</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>@/</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
