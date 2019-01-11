@@ -38,6 +38,11 @@
         <mark key="^" line="1" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/RoomUp/Upload/index.js" timestamp="1547114253305" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/jsconfig.json" timestamp="1547170518312">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Benefits/index.js" timestamp="1547023237694">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="8" />
@@ -239,10 +244,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>SEARCH</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>SEARCH</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
