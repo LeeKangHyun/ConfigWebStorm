@@ -44,6 +44,12 @@
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/RoomUp/Upload/index.js" timestamp="1547114253305" />
       <file name="$USER_HOME$/Documents/station3/dabang-pro/package.json" timestamp="1547175512831" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/routes.js" timestamp="1547188998996">
+        <mark key="'" line="10" column="2" />
+        <mark key="[" line="359" column="0" />
+        <mark key="]" line="359" column="0" />
+        <mark key="." line="359" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/jsconfig.json" timestamp="1547170518312">
         <mark key="[" line="4" column="25" />
         <mark key="]" line="4" column="25" />
@@ -139,8 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin/app/components/invest/investList.js" />
-      <jump line="199" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin/app/components/modal/Profile/index.js" />
       <jump line="123" column="10" filename="$USER_HOME$/Documents/mouda/mouda_admin/app/components/modal/Profile/tabs/info.js" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/mouda/mouda_admin/app/components/modal/Profile/index.js" />
       <jump line="480" column="32" filename="$USER_HOME$/Documents/mouda/mouda_admin/app/components/modal/Profile/index.js" />
@@ -239,6 +243,8 @@
       <jump line="32" column="2" filename="$USER_HOME$/Documents/station3/ssr/utils/config.js" />
       <jump line="66" column="2" filename="$USER_HOME$/Documents/station3/ssr/pages/culture/Benefits/styled.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/station3/ssr/pages/culture/Benefits/styled.js" />
+      <jump line="359" column="2" filename="$USER_HOME$/Documents/station3/dabang-pro/client/routes.js" />
+      <jump line="10" column="2" filename="$USER_HOME$/Documents/station3/dabang-pro/client/routes.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
