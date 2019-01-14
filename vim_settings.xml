@@ -72,6 +72,12 @@
         <mark key="^" line="125" column="4" />
         <mark key="." line="125" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/ssr/pages/home/Banner/index.js" timestamp="1547433784933">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="31" />
+        <mark key="^" line="9" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Photo/index.js" timestamp="1547019413564">
         <mark key="[" line="11" column="19" />
         <mark key="]" line="11" column="19" />
@@ -115,6 +121,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/ssr/pages/home/Banner/styled.js" timestamp="1547433993996">
+        <mark key="[" line="153" column="17" />
+        <mark key="]" line="154" column="20" />
+        <mark key="^" line="154" column="20" />
+        <mark key="." line="154" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Recruit/index.js" timestamp="1546941383116">
         <mark key="[" line="15" column="17" />
@@ -251,46 +263,46 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9GYWRlPgo=</text>
+        <text encoding="base64">ICAgID4gc3BhbiB7CgogICAgICA+IGZvbnQgewogICAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>@/</text>
+        <text>75px</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEZhZGUgYm90dG9tIGRpc3RhbmNlPSI2MHB4Ij4K</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogNTBweDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9GYWRlPgo=</text>
+        <text encoding="base64">ICAgID4gc3BhbiB7CgogICAgICA+IGZvbnQgewogICAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEZhZGUgYm90dG9tIGRpc3RhbmNlPSI2MHB4Ij4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvRmFkZT4K</text>
+        <text encoding="base64">ICAgICAgZm9udC1zaXplOiAyNXB4OwogICAgICBsaW5lLWhlaWdodDogMzdweDsKICAgICAgbGV0dGVyLXNwYWNpbmc6IC0xLjVweDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxGYWRlIGJvdHRvbSBkaXN0YW5jZT0iNjBweCI+Cg==</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogNDBweDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">CiAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgID4gc3BhbiB7CgogICAgICA+IGZvbnQgewogICAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgZm9udC1zaXplOiA0MHB4OwogICAgICBsaW5lLWhlaWdodDogNzVweDsKICAgICAgbGV0dGVyLXNwYWNpbmc6IC0zcHg7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">CiAgICA+IHNwYW4gewogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgZm9udC1zaXplOiA1MHB4OwogICAgICBsaW5lLWhlaWdodDogNzVweDsKICAgICAgbGV0dGVyLXNwYWNpbmc6IC0zcHg7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsplit</text>
+        <text>split</text>
       </register>
     </registers>
     <search>
@@ -343,9 +355,9 @@
         <entry>market.js</entry>
         <entry>10</entry>
         <entry>334</entry>
-        <entry>split</entry>
         <entry>q</entry>
         <entry>vsplit</entry>
+        <entry>split</entry>
       </history-cmd>
       <history-expr />
       <history-input />
