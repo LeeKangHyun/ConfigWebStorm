@@ -122,11 +122,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/pages/home/Banner/styled.js" timestamp="1547435826412">
-        <mark key="[" line="148" column="17" />
-        <mark key="]" line="149" column="15" />
-        <mark key="^" line="149" column="15" />
-        <mark key="." line="149" column="15" />
+      <file name="$USER_HOME$/Documents/station3/ssr/pages/home/Banner/styled.js" timestamp="1547436583757">
+        <mark key="[" line="163" column="17" />
+        <mark key="]" line="163" column="19" />
+        <mark key="^" line="163" column="19" />
+        <mark key="." line="163" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Recruit/index.js" timestamp="1546941383116">
         <mark key="[" line="15" column="17" />
@@ -262,11 +262,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgID4gc3BhbiB7CiAgICAgIHRvcDogMDsKICAgICAgbGVmdDogMDsKICAgICAgd2lkdGg6IGF1dG87CiAgICAgIHdoaXRlLXNwYWNlOiBub3dyYXA7CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>37px</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>37px</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
