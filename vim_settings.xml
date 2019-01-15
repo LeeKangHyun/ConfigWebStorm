@@ -16,11 +16,12 @@
         <mark key="^" line="85" column="1" />
         <mark key="." line="91" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/CoreValue/styled.js" timestamp="1547460206512">
+      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/CoreValue/styled.js" timestamp="1547518154339">
         <mark key="'" line="80" column="2" />
-        <mark key="[" line="271" column="20" />
-        <mark key="]" line="271" column="21" />
-        <mark key="." line="271" column="21" />
+        <mark key="[" line="135" column="23" />
+        <mark key="]" line="136" column="15" />
+        <mark key="." line="136" column="15" />
+        <mark key="^" line="136" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/home/WhoWeAre/index.js" timestamp="1547442490767">
         <mark key="[" line="28" column="50" />
@@ -48,11 +49,11 @@
         <mark key="." line="78" column="19" />
         <mark key="^" line="78" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/CoreValue/index.js" timestamp="1547453567566">
-        <mark key="[" line="57" column="71" />
-        <mark key="]" line="57" column="71" />
-        <mark key="." line="57" column="71" />
-        <mark key="^" line="57" column="71" />
+      <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/CoreValue/index.js" timestamp="1547518085116">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="14" />
+        <mark key="." line="23" column="14" />
+        <mark key="^" line="23" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Recruit/styled.js" timestamp="1547459758945">
         <mark key="'" line="163" column="19" />
@@ -288,43 +289,43 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiBjYWxjKDEwMCUgLSAzMHB4IC8gMyk7Cg==</text>
+        <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>40</text>
+        <text>top</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMTJweDsKICAgIGxpbmUtaGVpZ2h0OiA0MHB4OwogICAgc3ZnIHsKICAgICAgdG9wOiA1MCU7CiAgICAgIHJpZ2h0OiAyMHB4OwogICAgICB3aWR0aDogMTBweDsKICAgICAgaGVpZ2h0OiA1LjVweDsKICAgICAgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKC01MCUpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHdpZHRoOiBjYWxjKDEwMCUgLSA5MnB4IC8gMyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiBjYWxjKDEwMCUgLSAzMHB4IC8gMyk7Cg==</text>
+        <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiBjYWxjKDEwMCUgLSAzNHB4IC8gMyk7Cg==</text>
+        <text encoding="base64">ICAgIG1heC13aWR0aDogMzQ2cHg7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdoaXRlLXNwYWNlOiBub3dyYXA7Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiBjYWxjKDEwMCUgLSA5MHB4IC8gMyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgID4gZGl2IHsKICAgIH0K</text>
+        <text encoding="base64">ICB3aWR0aDogY2FsYygxMDAlIC0gOTBweCAvIDMpOwogIG1heC13aWR0aDogMzQ2cHg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgID4gZGl2IHsKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAmOmFmdGVyIHsKICAgIGNvbnRlbnQ6ICcnOwogICAgZGlzcGxheTogYmxvY2s7CiAgICBwYWRkaW5nLWJvdHRvbTogMTAwJTsKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDEwMCU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
