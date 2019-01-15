@@ -40,6 +40,7 @@
         <mark key="." line="4" column="50" />
         <mark key="^" line="4" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/ssr/pages/service/DabangServices/Title/index.js" timestamp="1547534650829" />
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Photo/index.js" timestamp="1547454219621">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="18" />
@@ -112,6 +113,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/ssr/components/Menus/index.js" timestamp="1547534234845">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="52" column="12" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Photo/styled.js" timestamp="1547459727118">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="91" column="18" />
@@ -177,17 +184,23 @@
         <mark key="^" line="81" column="11" />
         <mark key="." line="81" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/ssr/components/Footer/index.js" timestamp="1547534574445">
+        <mark key="[" line="63" column="33" />
+        <mark key="]" line="63" column="75" />
+        <mark key="^" line="55" column="32" />
+        <mark key="." line="63" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/home/Message/styled.js" timestamp="1547445755341">
         <mark key="[" line="419" column="12" />
         <mark key="]" line="420" column="26" />
         <mark key="^" line="420" column="26" />
         <mark key="." line="420" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/utils/config.js" timestamp="1547448747343">
-        <mark key="[" line="46" column="98" />
-        <mark key="]" line="46" column="98" />
-        <mark key="." line="46" column="98" />
-        <mark key="^" line="34" column="41" />
+      <file name="$USER_HOME$/Documents/station3/ssr/utils/config.js" timestamp="1547534477724">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Recruit/Recruiting/styled.js" timestamp="1547459860317">
         <mark key="'" line="32" column="1" />
@@ -338,44 +351,44 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIi</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">PC9hPg==</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1hcENvbnRhaW5lciA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdtYXAnKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIi</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1hcmtlciA9IG5ldyBkYXVtLm1hcHMuTWFya2VyKHsKICAgICAgcG9zaXRpb246IG1hcExhdExuZywKICAgIH0pCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCAjMDAwOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">KQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KAogIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IG1hcmtlciA9IG5ldyBkYXVtLm1hcHMuTWFya2VyKHsKICAgICAgcG9zaXRpb246IG1hcExhdExuZywKICAgIH0pCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCAjMDAwOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ewogIHJldHVybiA=</text>
+        <text encoding="base64">KAogIA==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
