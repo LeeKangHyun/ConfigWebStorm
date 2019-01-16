@@ -58,6 +58,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="22" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/jsconfig.js" timestamp="1547603849434">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/CoreValue/index.js" timestamp="1547518957802">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -116,6 +122,12 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/jsconfig.json" timestamp="1547603782989">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="25" />
+        <mark key="^" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Benefits/index.js" timestamp="1547454101240">
         <mark key="[" line="14" column="33" />
         <mark key="]" line="14" column="47" />
@@ -134,8 +146,8 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Review/index.js" timestamp="1547546012438">
-        <mark key="'" line="77" column="2" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Review/index.js" timestamp="1547603677754">
+        <mark key="'" line="99" column="37" />
         <mark key="[" line="79" column="23" />
         <mark key="]" line="79" column="25" />
         <mark key="." line="79" column="25" />
@@ -194,7 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="16" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/easySign/Component/SignUp.js" />
       <jump line="61" column="18" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/easySign/Index.js" />
       <jump line="94" column="20" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/easySign/Controller.js" />
       <jump line="95" column="23" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/easySign/Controller.js" />
@@ -294,49 +305,50 @@
       <jump line="75" column="8" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Review/index.js" />
       <jump line="80" column="4" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Review/index.js" />
       <jump line="77" column="2" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Review/index.js" />
+      <jump line="99" column="37" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Review/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFsaWFzOiB7CiAgICAgICdAJzogcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJy4uL2NsaWVudCcpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAiYmFzZVVybCI6ICIuLyIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>./</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIi</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgIkAvKiI6IFsiY2xpZW50LyoiXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFsaWFzOiB7CiAgICAgICdAJzogcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJy4uL2NsaWVudCcpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAiYmFzZVVybCI6ICIuLyIsCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">ICAgICJWIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFsaWFzOiB7CiAgICAgICdAJzogcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJy4uL2NsaWVudCcpCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1hcmtlciA9IG5ldyBkYXVtLm1hcHMuTWFya2VyKHsKICAgICAgcG9zaXRpb246IG1hcExhdExuZywKICAgIH0pCg==</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCAjMDAwOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1hcmtlciA9IG5ldyBkYXVtLm1hcHMuTWFya2VyKHsKICAgICAgcG9zaXRpb246IG1hcExhdExuZywKICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
