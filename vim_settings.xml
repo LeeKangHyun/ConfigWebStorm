@@ -64,6 +64,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="23" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Utils/asyncComponent.js" timestamp="1547608104819">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="30" />
+        <mark key="." line="13" column="30" />
+        <mark key="^" line="13" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/home/Banner/index.js" timestamp="1547441281910">
         <mark key="[" line="9" column="49" />
         <mark key="]" line="9" column="49" />
@@ -110,12 +116,14 @@
         <mark key="^" line="420" column="26" />
         <mark key="." line="420" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/src/main/java/com/dabangapp/www/controller/view/MobileController.java" timestamp="1547614940148" />
       <file name="$USER_HOME$/Documents/station3/ssr/components/Menus/SideMenu/styled.js" timestamp="1547442084770">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="21" />
         <mark key="^" line="26" column="20" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/Home/index.js" timestamp="1547614122285" />
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/routes.js" timestamp="1547605331504" />
       <file name="$USER_HOME$/Documents/station3/dabang-pro/jsconfig.json" timestamp="1547603782989">
         <mark key="[" line="4" column="25" />
@@ -129,6 +137,7 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/Home/Main/AppLink/Controller.js" timestamp="1547614209111" />
       <file name="$USER_HOME$/Documents/station3/ssr/pages/home/Banner/styled.js" timestamp="1547449619238">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
@@ -314,43 +323,43 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAiYmFzZVVybCI6ICIuLyIsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKEFzeW5jQ29tcG9uZW50LkNvbXBvbmVudCkK</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>.default</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIkAvKiI6IFsiY2xpZW50LyoiXSwK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXRoaXMuX2lzTW91bnQpIHJldHVybjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiYmFzZVVybCI6ICIuLyIsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKEFzeW5jQ29tcG9uZW50LkNvbXBvbmVudCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJWIgo=</text>
+        <text encoding="base64">ICAiYmFzZVVybCI6ICIuLyIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFsaWFzOiB7CiAgICAgICdAJzogcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJy4uL2NsaWVudCcpCiAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJWIgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">ICAgIGFsaWFzOiB7CiAgICAgICdAJzogcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJy4uL2NsaWVudCcpCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1hcmtlciA9IG5ldyBkYXVtLm1hcHMuTWFya2VyKHsKICAgICAgcG9zaXRpb246IG1hcExhdExuZywKICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
