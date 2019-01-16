@@ -124,7 +124,13 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/Home/index.js" timestamp="1547614122285" />
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/routes.js" timestamp="1547605331504" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/routes.js" timestamp="1547616909421">
+        <mark key="'" line="358" column="10" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/jsconfig.json" timestamp="1547603782989">
         <mark key="[" line="4" column="25" />
         <mark key="]" line="4" column="25" />
@@ -217,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="18" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/easySign/Index.js" />
       <jump line="94" column="20" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/easySign/Controller.js" />
       <jump line="95" column="23" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/easySign/Controller.js" />
       <jump line="57" column="17" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/config/routes.js" />
@@ -317,13 +322,14 @@
       <jump line="80" column="4" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Review/index.js" />
       <jump line="77" column="2" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Review/index.js" />
       <jump line="99" column="37" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Review/index.js" />
+      <jump line="358" column="10" filename="$USER_HOME$/Documents/station3/dabang-pro/client/routes.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKEFzeW5jQ29tcG9uZW50LkNvbXBvbmVudCkK</text>
+        <text encoding="base64">aW1wb3J0IHsgZmV0Y2hVc2VyIH0gZnJvbSAnQC9BY3Rpb25zJzsK</text>
       </register>
       <register name="-" type="4">
         <text>.default</text>
@@ -335,31 +341,31 @@
         <text encoding="base64">ICAgICAgICBpZiAoIXRoaXMuX2lzTW91bnQpIHJldHVybjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKEFzeW5jQ29tcG9uZW50LkNvbXBvbmVudCkK</text>
+        <text encoding="base64">aW1wb3J0IHsgZmV0Y2hVc2VyIH0gZnJvbSAnQC9BY3Rpb25zJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUK</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ0Avc3R5bGVkJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiYmFzZVVybCI6ICIuLyIsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKEFzeW5jQ29tcG9uZW50LkNvbXBvbmVudCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJWIgo=</text>
+        <text encoding="base64">ICAiYmFzZVVybCI6ICIuLyIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFsaWFzOiB7CiAgICAgICdAJzogcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJy4uL2NsaWVudCcpCiAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJWIgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">ICAgIGFsaWFzOiB7CiAgICAgICdAJzogcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJy4uL2NsaWVudCcpCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
