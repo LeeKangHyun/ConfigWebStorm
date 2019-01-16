@@ -39,6 +39,7 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Mobile/Pages/Detail/Component/AgentInfo/AgentReview.js" timestamp="1547628923058" />
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Utils/asyncComponent.js" timestamp="1547608104819">
         <mark key="[" line="13" column="22" />
         <mark key="]" line="13" column="30" />
@@ -89,13 +90,6 @@
         <mark key="]" line="93" column="0" />
         <mark key="^" line="155" column="19" />
         <mark key="." line="93" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Review/index.js" timestamp="1547603677754">
-        <mark key="'" line="99" column="37" />
-        <mark key="[" line="79" column="23" />
-        <mark key="]" line="79" column="25" />
-        <mark key="." line="79" column="25" />
-        <mark key="^" line="79" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/RoomDetail/Component/Score/Controller.js" timestamp="1547625903593" />
       <file name="$USER_HOME$/Documents/station3/dabang-server/src/main/java/com/dabangapp/www/service/v3/RoomService.java" timestamp="1547625814461" />
@@ -154,6 +148,11 @@
         <mark key="^" line="55" column="32" />
         <mark key="." line="63" column="33" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/class.js" timestamp="1547628518370">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/home/Message/styled.js" timestamp="1547445755341">
         <mark key="[" line="419" column="12" />
         <mark key="]" line="420" column="26" />
@@ -168,6 +167,7 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Utils/Bridge.js" timestamp="1547628908656" />
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/Interview/Carousel/index.js" timestamp="1547448934183">
         <mark key="[" line="57" column="39" />
         <mark key="]" line="57" column="39" />
@@ -314,10 +314,10 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwoKZnVuY3Rpb24gRm9vKCkgewogIHRoaXMuYSA9IDE7CiAgdGhpcy5iID0gMjsKfQoKRm9vLnByb3RvdHlwZS5jID0gMzsKCmNvbnN0IGEgPSBuZXcgRm9vKCk7CmNvbnNvbGUubG9nKGEpOwpfLnZhbHVlcyhuZXcgRm9vKTsqID8gKi8K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>{a: 1}</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
@@ -326,31 +326,31 @@
         <text encoding="base64">ICAgICAgICBpZiAoIXRoaXMuX2lzTW91bnQpIHJldHVybjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwoKZnVuY3Rpb24gRm9vKCkgewogIHRoaXMuYSA9IDE7CiAgdGhpcy5iID0gMjsKfQoKRm9vLnByb3RvdHlwZS5jID0gMzsKCmNvbnN0IGEgPSBuZXcgRm9vKCk7CmNvbnNvbGUubG9nKGEpOwpfLnZhbHVlcyhuZXcgRm9vKTsqID8gKi8K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Rm9vLl9fcHJvdG9fXy52YWx1ZU9mKCkgLyogPyAqLwo=</text>
+        <text encoding="base64">Y2xhc3MgRm9vIHsKICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgY29uc29sZS5sb2cocHJvcHMpOwogICAgdGhpcy5zdGF0ZSA9IHByb3BzOwogIH0KfQoKY2xhc3MgQmFyIGV4dGVuZHMgRm9vKHthOiAxfSkgewogIGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICBzdXBlcihwcm9wcyk7CiAgICBjb25zb2xlLmxvZyhwcm9wcyk7CiAgfQogIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5kaXIoRm9vLl9fcHJvdG9fXyk7IC8qID8gKi8K</text>
+        <text encoding="base64">Y29uc3QgYSA9IG5ldyBGb28oe2E6IDF9KTsgLyogPyAqLwphLnN0YXRlLmE7IC8qID8gKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">YS5zZXRTdGF0ZSh7YjogMX0pIC8qID8gKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzZXRTdGF0ZShvYmopIHsKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgpmb3IgKGxldCBpID0gMTsgaSA8IDEwOyBpKyspIHsKICBjb25zb2xlLmxvZyhpKQp9CmNvbnNvbGUubG9nKGkpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB0aGlzLnVwZGF0ZXIob2JqKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Rm9vLmNvbnN0cnVjdG9yLl9fcHJvdG9fXy5jID0gMzsK</text>
+        <text encoding="base64">ICB1cGRhdGVyKGRhdGEpIHsKICAgIGNvbnNvbGUubG9nKGRhdGEpOwogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YSAvKiA/ICovOwo=</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
