@@ -83,12 +83,12 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/Home/index.js" timestamp="1547614122285" />
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/routes.js" timestamp="1547616909421">
-        <mark key="'" line="358" column="10" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/routes.js" timestamp="1547702752392">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="359" column="0" />
+        <mark key="]" line="359" column="0" />
         <mark key="^" line="7" column="23" />
-        <mark key="." line="6" column="0" />
+        <mark key="." line="359" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/ssr/utils/isMobile.js" timestamp="1547692117544">
         <mark key="[" line="2" column="57" />
@@ -135,16 +135,6 @@
         <mark key="]" line="14" column="10" />
         <mark key="^" line="14" column="10" />
         <mark key="." line="14" column="10" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/lodash.js" timestamp="1547626694586">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/station3/ssr/components/Head/index.js" timestamp="1547622257392">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/ssr/components/AppBtn/styled.js" timestamp="1547700205600">
         <mark key="[" line="0" column="13" />
@@ -194,11 +184,6 @@
         <mark key="[" line="351" column="0" />
         <mark key="]" line="431" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/class.js" timestamp="1547628518370">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/station3/ssr/components/AppBtn/index.js" timestamp="1547700082738">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="12" column="24" />
@@ -241,11 +226,6 @@
         <mark key="." line="57" column="39" />
         <mark key="^" line="56" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/config/webpack.config.dev.js" timestamp="1547688429826">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Mobile/Pages/Main/Map/Controller.js" timestamp="1547693306661" />
       <file name="$USER_HOME$/Documents/station3/dabang-pro/config/webpack.config.prod.js" timestamp="1547617929206" />
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Payment/Product/index.js" timestamp="1547622069440" />
@@ -276,8 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="17" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/config/routes.js" />
-      <jump line="89" column="26" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Seller/Controller.js" />
       <jump line="9" column="23" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Seller/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Seller/index.js" />
       <jump line="6" column="23" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/index.js" />
@@ -376,6 +354,8 @@
       <jump line="358" column="10" filename="$USER_HOME$/Documents/station3/dabang-pro/client/routes.js" />
       <jump line="53" column="0" filename="$USER_HOME$/Documents/station3/ssr/utils/config.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/jsconfig.json" />
+      <jump line="164" column="13" filename="$USER_HOME$/Documents/station3/dabang-pro/client/routes.js" />
+      <jump line="0" column="2" filename="$USER_HOME$/Documents/station3/dabang-pro/client/routes.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
