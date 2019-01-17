@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/Search/List/Component/Premium/index.js" timestamp="1547694561433">
-        <mark key="[" line="23" column="69" />
-        <mark key="]" line="23" column="94" />
-      </file>
       <file name="$USER_HOME$/Documents/station3/ssr/components/Footer/styled.js" timestamp="1547443451022">
         <mark key="[" line="196" column="18" />
         <mark key="]" line="196" column="19" />
@@ -113,6 +109,12 @@
         <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/RoomUp/Upload/Photo/Item.js" timestamp="1547711059105" />
+      <file name="$USER_HOME$/Documents/station3/station3/package.json" timestamp="1547715470734">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/RoomDetail/Component/Score/Controller.js" timestamp="1547625903593" />
       <file name="$USER_HOME$/Documents/station3/dabang-server/src/main/java/com/dabangapp/www/service/v3/RoomService.java" timestamp="1547625814461" />
       <file name="$USER_HOME$/Documents/station3/ssr/components/Layout/styled.js" timestamp="1547441864086">
@@ -157,15 +159,18 @@
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/WebView/Pages/AppLink/index.js" timestamp="1547693315200" />
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/RoomUp/Upload/Photo/Controller.js" timestamp="1547713342286" />
       <file name="$USER_HOME$/Documents/station3/dabang-server/src/main/java/com/dabangapp/www/model/v3/RoomScore.java" timestamp="1547625874906" />
+      <file name="$USER_HOME$/Documents/station3/station3/.next/stats.txt" timestamp="1547715579915">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="24" />
+        <mark key="^" line="32" column="24" />
+        <mark key="." line="32" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/culture/CoreValue/index.js" timestamp="1547518957802">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="23" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/src/main/resources/templates/mobile/seo.hbs" timestamp="1547694254465">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/station3/ssr/pages/home/Banner/index.js" timestamp="1547441281910">
         <mark key="[" line="9" column="49" />
@@ -186,10 +191,6 @@
         <mark key="." line="63" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro-app/src/utils/bridge.js" timestamp="1547632253839" />
-      <file name="$USER_HOME$/Documents/station3/ssr/pages/service/AppDownload/styled.js" timestamp="1547692661456">
-        <mark key="[" line="351" column="0" />
-        <mark key="]" line="431" column="1" />
-      </file>
       <file name="$USER_HOME$/Documents/station3/ssr/components/AppBtn/index.js" timestamp="1547700082738">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="12" column="24" />
@@ -215,10 +216,7 @@
         <mark key="^" line="12" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/src/main/java/com/dabangapp/www/util/SmsUtil.java" timestamp="1547691245731" />
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Utils/isMobile.js" timestamp="1547692043232">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="1" />
-      </file>
+      <file name="$USER_HOME$/Documents/station3/station3/.gitignore" timestamp="1547715627412" />
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Utils/Bridge.js" timestamp="1547703932699" />
       <file name="$USER_HOME$/Documents/station3/ssr/pages/service/DabangServices/Title/styled.js" timestamp="1547695673930">
         <mark key="[" line="137" column="4" />
@@ -263,8 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="23" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Seller/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Seller/index.js" />
       <jump line="6" column="23" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Apply/index.js" />
       <jump line="48" column="7" filename="$USER_HOME$/Documents/mouda/mouda_back/common/models/market.js" />
       <jump line="20" column="0" filename="$USER_HOME$/Documents/mouda/mouda_front_V2/app/components/Main/Market/Seller/index.js" />
@@ -363,16 +359,18 @@
       <jump line="7" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/jsconfig.json" />
       <jump line="164" column="13" filename="$USER_HOME$/Documents/station3/dabang-pro/client/routes.js" />
       <jump line="0" column="2" filename="$USER_HOME$/Documents/station3/dabang-pro/client/routes.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/station3/station3/.next/stats.txt" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/station3/station3/.next/stats.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoJ29uJykK</text>
+      <register name="&quot;" type="4">
+        <text>create-next-example-app</text>
       </register>
       <register name="-" type="4">
-        <text>./</text>
+        <text>create-next-example-app</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
