@@ -27,6 +27,12 @@
         <mark key="^" line="158" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/utils/format.js" timestamp="1548148707077" />
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Complex/List/Component/Spaces/Component/ImageUpload/index.js" timestamp="1548226133148">
+        <mark key="[" line="55" column="29" />
+        <mark key="]" line="55" column="30" />
+        <mark key="." line="55" column="30" />
+        <mark key="^" line="55" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/package.json" timestamp="1548150259631">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -187,10 +193,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PjwvZGl2</text>
+        <text encoding="base64">ID8gdHJ1ZSA6IGZhbHNl</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PjwvZGl2</text>
+        <text encoding="base64">ID8gdHJ1ZSA6IGZhbHNl</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
@@ -199,31 +205,31 @@
         <text encoding="base64">ICAgICJiYXNlVXJsIjogIi4vIiwKICAgICJwYXRocyI6IHsKICAgICAgIkAvKiI6IFsiY2xpZW50LyoiXSwKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB4OiAxMjcuMjUyNzYzNzkwNDgxMzIsCiAgICAgICAgLy8geTogMzcuNDQyMTU0MDQ0NTU3ODUsCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB4OiAxMjcuMjUyNzYzNzkwNDgxMzIsCiAgICAgICAgLy8geTogMzcuNDQyMTU0MDQ0NTU3ODUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJ0dWktZWRpdG9yIjogIl4xLjIuNSIsCg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvL292ZXJmbG93LXk6IGF1dG87Cg==</text>
+        <text encoding="base64">ICAgICJ0dWktZWRpdG9yIjogIl4xLjIuNSIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
