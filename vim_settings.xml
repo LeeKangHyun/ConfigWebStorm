@@ -35,6 +35,7 @@
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/components/Calendar/Component/Calendar.js" timestamp="1548315944120" />
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/components/Calendar/Component/CalendarTable.js" timestamp="1548316010070" />
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Selling/Add/Component/ComplexInfo/Component/Map/index.js" timestamp="1548321825462" />
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/utils/uploader.js" timestamp="1548210231602">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -211,7 +212,7 @@
         <text>aaa</text>
       </register>
       <register name="/" type="4">
-        <text>Doctor</text>
+        <text>주소</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBHQSgn64yA7Iuc67O065OcJywgJ0NMSUNLX+unpOusvOyhsO2ajOyImCcsICdCVVRUT04nKQogICAgICAgIHJldHVybiAwCg==</text>
@@ -248,9 +249,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Doctor</last-search>
+      <last-search>주소</last-search>
       <last-offset />
-      <last-pattern>Doctor</last-pattern>
+      <last-pattern>주소</last-pattern>
       <last-replace>import &quot;</last-replace>
       <last-substitute encoding="base64">XDx9XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -258,7 +259,6 @@
     </search>
     <history>
       <history-search>
-        <entry>li</entry>
         <entry>mhub</entry>
         <entry>isBorrower</entry>
         <entry>require</entry>
@@ -278,6 +278,7 @@
         <entry>Profile</entry>
         <entry>console</entry>
         <entry>Doctor</entry>
+        <entry>주소</entry>
       </history-search>
       <history-cmd>
         <entry>s/li/Li</entry>
