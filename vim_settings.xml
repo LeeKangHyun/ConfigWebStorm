@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/components/BaseComponent/index.js" timestamp="1548222725101">
-        <mark key="'" line="0" column="2" />
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
-        <mark key="." line="200" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/package.json" timestamp="1548150259631">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -26,6 +20,12 @@
         <mark key="^" line="136" column="21" />
         <mark key="." line="143" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/components/Toast/utils.js" timestamp="1548381191267">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="24" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Dabang/Event/Component/Modal/Form/Controller.js" timestamp="1548318777594">
         <mark key="'" line="251" column="0" />
         <mark key="[" line="37" column="128" />
@@ -35,6 +35,18 @@
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/components/Calendar/Component/Calendar.js" timestamp="1548315944120" />
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/components/Calendar/Component/CalendarTable.js" timestamp="1548316010070" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/class.js" timestamp="1548384511774">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="22" />
+        <mark key="^" line="15" column="22" />
+        <mark key="." line="15" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/components/Toast/Message/controller.js" timestamp="1548381198676">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="21" column="33" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Selling/Add/Component/ComplexInfo/Component/Map/index.js" timestamp="1548321825462" />
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/utils/uploader.js" timestamp="1548210231602">
         <mark key="[" line="48" column="0" />
@@ -77,6 +89,7 @@
         <mark key="." line="158" column="13" />
         <mark key="^" line="158" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/utils/apiCall.js" timestamp="1548381705780" />
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Manage/Address/Modal/Map/Controller.js" timestamp="1548230056244">
         <mark key="[" line="2" column="51" />
         <mark key="]" line="2" column="51" />
@@ -206,11 +219,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>aaa</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAKICBzaG93KCkgeyByZXR1cm4gdGhpczsKICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>aaa</text>
+        <text>...</text>
       </register>
       <register name="/" type="4">
         <text>주소</text>
@@ -219,34 +232,36 @@
         <text encoding="base64">ICAgICAgICBHQSgn64yA7Iuc67O065OcJywgJ0NMSUNLX+unpOusvOyhsO2ajOyImCcsICdCVVRUT04nKQogICAgICAgIHJldHVybiAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhc2UgJ3Jvb21WaWV3cyc6CiAgICAgIEdBKCfrjIDsi5zrs7Trk5wnLCAnQ0xJQ0tf66ek66y87KGw7ZqM7IiYJywgJ0JVVFRPTicpCiAgICAgIHJldHVybiAwCg==</text>
+        <text encoding="base64">ICAKICBzaG93KCkgeyByZXR1cm4gdGhpczsKICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAncm9vbVZpZXdzJzoK</text>
+        <text encoding="base64">ICAgIHRoaXMuaGVpZ2h0ID0gaGVpZ2h0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB7fTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZiAoISghIXBob3RvKSkgewogICAgZXZlbnQucHJldmVudERlZmF1bHQoKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+      <register name="6" type="4">
+        <text>{
+      this
+    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuaGVpZ2h0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB4OiAxMjcuMjUyNzYzNzkwNDgxMzIsCiAgICAgICAgLy8geTogMzcuNDQyMTU0MDQ0NTU3ODUsCg==</text>
+        <text encoding="base64">ICAKICBzdGF0aWMgcHJpdmF0ZSgpIHsKICAgIHRoaXMuOyAvKiA/ICovCiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubmFtZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>split</text>
+        <text>vsplit</text>
       </register>
     </registers>
     <search>
@@ -300,8 +315,8 @@
         <entry>10</entry>
         <entry>334</entry>
         <entry>q</entry>
-        <entry>vsplit</entry>
         <entry>split</entry>
+        <entry>vsplit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
