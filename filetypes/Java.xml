@@ -14,7 +14,6 @@
     <keywords keywords="@charset;abstract;after;and;as;assert;at;attribute;before;bind;bound;break;catch;class;continue;def;delete;else;exclusive;extends;false;finally;first;for;from;function;if;import;in;indexof;init;insert;instanceof;into;inverse;last;lazy;mixin;mod;new;not;null;on;or;override;package;postinit;private;protected;public;public-init;public-read;replace;return;reverse;sizeof;step;then;throw;trigger;true;try;tween;typeof;var;where;while;with" ignore_case="false" />
     <keywords2 keywords="Boolean;Duration;Integer;Number;String;Timeline;Void;final;static" />
     <keywords3 keywords="super;this" />
-    <keywords4 />
   </highlighting>
   <extensionMap>
     <mapping ext="java" />
