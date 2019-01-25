@@ -54,11 +54,11 @@
         <mark key="]" line="286" column="14" />
         <mark key="." line="286" column="14" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1548397009431">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="17" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="17" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1548399268010">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/components/Toast/index.js" timestamp="1548324140859" />
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/utils/apiCall.js" timestamp="1548381705780" />
@@ -169,8 +169,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC8qKi8=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwppbXBvcnQgeyAgfSBmcm9tICdsb2Rhc2gnOwoKbW9tZW50LnZhbHVlT2YoKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IC8qKi8=</text>
@@ -182,33 +182,33 @@
         <text encoding="base64">ICAgICAgICBHQSgn64yA7Iuc67O065OcJywgJ0NMSUNLX+unpOusvOyhsO2ajOyImCcsICdCVVRUT04nKQogICAgICAgIHJldHVybiAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgbW9tZW50ID0gcmVxdWlyZSgnbW9tZW50Jyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwppbXBvcnQgeyAgfSBmcm9tICdsb2Rhc2gnOwoKbW9tZW50LnZhbHVlT2YoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKICBzaG93KCkgeyByZXR1cm4gdGhpczsKICB9Cg==</text>
+        <text encoding="base64">Y29uc3QgbW9tZW50ID0gcmVxdWlyZSgnbW9tZW50Jyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaGVpZ2h0ID0gaGVpZ2h0Owo=</text>
+        <text encoding="base64">ICAKICBzaG93KCkgeyByZXR1cm4gdGhpczsKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaGVpZ2h0ID0gaGVpZ2h0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7fTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB7fTsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{
       this
     }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuaGVpZ2h0KTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAKICBzdGF0aWMgcHJpdmF0ZSgpIHsKICAgIHRoaXMuOyAvKiA/ICovCiAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuaGVpZ2h0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
