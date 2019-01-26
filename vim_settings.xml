@@ -2,14 +2,125 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1548486269867">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Components/Header/index.js" timestamp="1548484988666">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="9" />
+        <mark key="^" line="45" column="70" />
+        <mark key="." line="15" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Components/Header/Component/Slider/index.js" timestamp="1548485411030">
+        <mark key="'" line="56" column="18" />
+        <mark key="[" line="4" column="59" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Components/Header/styled.js" timestamp="1548480648490">
+        <mark key="[" line="50" column="25" />
+        <mark key="]" line="52" column="21" />
+        <mark key="^" line="52" column="21" />
+        <mark key="." line="52" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/Components/Swiper/index.js" timestamp="1548487993268">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/183.5153.33/WebStorm.app.vmoptions" timestamp="1548488052335">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Components/Header/Component/Slider/styled.js" timestamp="1548486020766">
+        <mark key="'" line="28" column="9" />
+        <mark key="[" line="59" column="30" />
+        <mark key="]" line="60" column="17" />
+        <mark key="." line="60" column="17" />
+        <mark key="^" line="60" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Components/Header/Controller.js" timestamp="1548484990744">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/Components/Swiper/Controller.js" timestamp="1548487680009">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="10" column="1" />
+        <mark key="^" line="10" column="1" />
+        <mark key="." line="10" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Components/Header/Component/Slider/Controller.js" timestamp="1548486005732">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="27" column="9" filename="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Components/Header/Component/Slider/styled.js" />
+      <jump line="28" column="16" filename="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Components/Header/Component/Slider/index.js" />
+      <jump line="41" column="18" filename="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Components/Header/Component/Slider/index.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>4096</text>
+      </register>
+      <register name="-" type="4">
+        <text>4096</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICBmb250LXNpemU6IDA7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICBtaW4taGVpZ2h0OiAxMDVweDsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICB3aWR0aDogNDRweDsKICBoZWlnaHQ6IDE4cHg7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAmOmJlZm9yZSwgJjphZnRlciB7CiAgICBjb250ZW50OiAnJzsKICAgIGRpc3BsYXk6IGJsb2NrOwogICAgY2xlYXI6IGJvdGg7CiAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBmbG9hdDogcmlnaHQ7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkaXMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBmbG9hdAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwYWRkaW5nOiAwIDE2cHg7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwYWRkaW5nOiAwIDE2cHg7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgaXNMb2dnZWQ6IHRydWUsCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>vsplit</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-cmd>
+        <entry>vsplit</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
