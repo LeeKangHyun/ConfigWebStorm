@@ -36,7 +36,7 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/Home/index.js" timestamp="1548493844850">
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/Home/index.js" timestamp="1548679552214">
         <mark key="[" line="17" column="27" />
         <mark key="]" line="18" column="33" />
         <mark key="." line="18" column="33" />
@@ -48,15 +48,21 @@
         <mark key="^" line="24" column="21" />
         <mark key="." line="24" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/package.json" timestamp="1548679224605">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Company/fdding_demander/client/Components/Swiper/styled.js" timestamp="1548491807143">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Components/Header/Controller.js" timestamp="1548484990744">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Components/Header/Controller.js" timestamp="1548680074834">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Company/fdding_demander/client/Components/Swiper/Controller.js" timestamp="1548491266261">
         <mark key="[" line="14" column="0" />
@@ -106,40 +112,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>img</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>img</text>
+        <text>true</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB7CiAgICBzcmM6ICcnLAogIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8U3dpcGVMaXN0IHN0eWxlPXt7YmFja2dyb3VuZDogJyNmZjAwMDAnfX0gLz4KICAgICAgICA8U3dpcGVMaXN0IHN0eWxlPXt7YmFja2dyb3VuZDogJyMwMGZmMDAnfX0gLz4KICAgICAgICA8U3dpcGVMaXN0IHN0eWxlPXt7YmFja2dyb3VuZDogJyMwMDAwZmYnfX0gLz4K</text>
+        <text encoding="base64">ICAgICJyZWFjdC1zd2lwZSI6ICJeNi4wLjQiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB7CiAgICAKICB9LAogIHsKICAgIAogIH0K</text>
+        <text encoding="base64">ICAgICJzd2lwZS1qcy1pc28iOiAiXjIuMS41IiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBjZGU0N2NmYjNkYTJjYTNmMTU2ZjkwOGEzMjM5NzA3ZmU3MzhiNDdmCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlPSJ3ZWIiCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBiYWNrZwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBjZGU0N2NmYjNkYTJjYTNmMTU2ZjkwOGEzMjM5NzA3ZmU3MzhiNDdmCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPFN3aXBlckNvbgo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3dpcGVyV3JhcHBlciwgU3dpcGVMaXN0LCBEb3RzLCB9IGZyb20gJy4vc3R5bGVkJwo=</text>
+        <text encoding="base64">ICAgICAgICA8U3dpcGVMaXN0IHN0eWxlPXt7YmFja2dyb3VuZDogJyNmZjAwMDAnfX0gLz4KICAgICAgICA8U3dpcGVMaXN0IHN0eWxlPXt7YmFja2dyb3VuZDogJyMwMGZmMDAnfX0gLz4KICAgICAgICA8U3dpcGVMaXN0IHN0eWxlPXt7YmFja2dyb3VuZDogJyMwMDAwZmYnfX0gLz4K</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
