@@ -229,14 +229,17 @@
         <mark key="." line="28" column="23" />
         <mark key="^" line="28" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Login/index.js" timestamp="1548813781894">
-        <mark key="[" line="181" column="8" />
-        <mark key="]" line="181" column="18" />
-        <mark key="." line="181" column="18" />
-        <mark key="^" line="181" column="18" />
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Login/index.js" timestamp="1548816690782">
+        <mark key="[" line="115" column="37" />
+        <mark key="]" line="116" column="35" />
+        <mark key="." line="116" column="35" />
+        <mark key="^" line="116" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/components/Calendar/Component/Calendar.js" timestamp="1548745030362">
         <mark key="'" line="170" column="12" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1548816609138">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/components/Calendar/Component/CalendarTable.js" timestamp="1548744604718">
         <mark key="[" line="73" column="0" />
@@ -280,7 +283,7 @@
         <mark key="." line="99" column="74" />
         <mark key="^" line="99" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548753426597">
+      <file name="/Dummy.txt" timestamp="1548816734237">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -478,43 +481,43 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>!isShowPassword</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>!isShowPassword</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>height</text>
       </register>
-      <register name="0" type="4">
-        <text>this.onClickToCheckToken</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxvZ2luT2JqID0gYXdhaXQgdGhpcy5sb2dpbkNoZWNrKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
+      <register name="0" type="2">
         <text encoding="base64">ICAgIGlmICghdGhpcy52YWxpZGF0ZSgpKSByZXR1cm47Cg==</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGlmICghdGhpcy52YWxpZGF0ZSgpKSByZXR1cm47Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmICghdGhpcy52YWxpZGF0ZSgpKSByZXR1cm47Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmICghdGhpcy52YWxpZGF0ZSgpKSByZXR1cm47Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAKICBfb25LZXlQcmVzcyA9IGV2ZW50ID0+IHsKICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCkKICAgIGNvbnN0IHsga2V5IH0gPSBldmVudDsKICAgIGNvbnN0IHsgaXNTaG93VG9rZW4sIGlzU2hvd1Bhc3N3b3JkLCB9ID0gdGhpcy5zdGF0ZTsKICAgIGNvbnN0IEZsYWcgPSBrZXkgPT09ICdFbnRlcic7CiAgICBpZiAoaXNTaG93UGFzc3dvcmQgJiYgaXNTaG93VG9rZW4pIHJldHVybiBmYWxzZTsKICAgIGVsc2UgcmV0dXJuIEZsYWcgPyB0aGlzLm9uU3VibWl0KGV2ZW50KTpmYWxzZQogIH0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGlmICghdGhpcy52YWxpZGF0ZSgpKSByZXR1cm47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAKICBvbktleVByZXNzID0gKGV2ZW50KSA9PiB7CiAgICBjb25zdCB7IGtleSB9ID0gZXZlbnQ7CiAgICBpZiAoa2V5ID09PSAnRW50ZXInKSB7CiAgICAgIGV2ZW50LnN0b3BQcm9wYWdhdGlvbigpCiAgICAgIHRoaXMub25DbGlja1RvR2V0S2V5KCkKICAgIH0KICAgIHJldHVybiBmYWxzZTsKICB9Cg==</text>
+        <text encoding="base64">ICAKICBvbktleVByZXNzID0gZXZlbnQgPT4gewogICAgY29uc3QgeyBrZXkgfSA9IGV2ZW50OwogICAgaWYgKGtleSA9PT0gJ0VudGVyJykgewogICAgICByZXR1cm4gdGhpcy5vblN1Ym1pdChldmVudCkKICAgIH0KICAgIHJldHVybiBmYWxzZTsKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4K</text>
+        <text encoding="base64">ICAgICAgdGhpcy5vblN1Ym1pdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXZlbnQuc3RvcFByb3BhZ2F0aW9uKCkK</text>
+        <text encoding="base64">ICAgIGlmIChrZXkgPT09ICdFbnRlcicpIHsKICAgICAgdGhpcy5vblN1Ym1pdC4KICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
