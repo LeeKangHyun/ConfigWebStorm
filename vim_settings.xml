@@ -50,7 +50,6 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="24" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Customer/Form/index.js" timestamp="1548743630271" />
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Brand/Form/Component/Upload/Uploader.js" timestamp="1548741161768">
         <mark key="[" line="89" column="16" />
         <mark key="]" line="89" column="20" />
@@ -63,14 +62,12 @@
         <mark key="^" line="79" column="17" />
         <mark key="." line="79" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Accounting/List/Component/Table/Component/AccountItem/Controller.js" timestamp="1548655508130" />
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Selling/Edit/Component/SaleDate/index.js" timestamp="1548657228866">
         <mark key="[" line="478" column="15" />
         <mark key="]" line="478" column="16" />
         <mark key="^" line="478" column="16" />
         <mark key="." line="478" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/components/CalendarWrap/Controller.js" timestamp="1548666509477" />
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Contract/PrintPaper/SinglePaper/index.js" timestamp="1548729318718">
         <mark key="[" line="179" column="48" />
         <mark key="]" line="179" column="55" />
@@ -162,7 +159,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Accounting/List/Component/Table/Component/AccountItem/index.js" timestamp="1548655487306" />
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Accounting/List/Controller.js" timestamp="1548655618387">
         <mark key="[" line="172" column="25" />
         <mark key="]" line="172" column="25" />
@@ -233,6 +229,12 @@
         <mark key="." line="28" column="23" />
         <mark key="^" line="28" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Login/index.js" timestamp="1548813781894">
+        <mark key="[" line="181" column="8" />
+        <mark key="]" line="181" column="18" />
+        <mark key="." line="181" column="18" />
+        <mark key="^" line="181" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/components/Calendar/Component/Calendar.js" timestamp="1548745030362">
         <mark key="'" line="170" column="12" />
       </file>
@@ -295,7 +297,6 @@
         <mark key="." line="13" column="8" />
         <mark key="^" line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Agency/Products/Add/Component/Item/Booking/Add/Controller.js" timestamp="1548749725684" />
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/News/List/Controller.js" timestamp="1548663896804">
         <mark key="'" line="146" column="46" />
         <mark key="[" line="148" column="36" />
@@ -315,7 +316,6 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Brand/Form/Controller.js" timestamp="1548741896306" />
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/config/webpack.config.dev.js" timestamp="1548209820660">
         <mark key="[" line="158" column="12" />
         <mark key="]" line="158" column="13" />
@@ -325,7 +325,6 @@
       <file name="/JSRegexp Fragment (Controller.js:4623).regexp" timestamp="1548405486239">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/components/BaseComponent/Menus/AdminMenu.js" timestamp="1548653269212" />
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Accounting/Form/Component/Add/Controller.js" timestamp="1548656128821">
         <mark key="'" line="61" column="8" />
         <mark key="[" line="61" column="0" />
@@ -333,7 +332,6 @@
         <mark key="^" line="61" column="24" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Owner/Gongsil/Component/Table/Item.js" timestamp="1548746859576" />
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/.gitignore" timestamp="1548729097060">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="10" />
@@ -480,43 +478,43 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICogMTAwMDA=</text>
+        <text>!isShowPassword</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICogMTAwMDA=</text>
+        <text>!isShowPassword</text>
       </register>
       <register name="/" type="4">
         <text>height</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGNvbFNwYW49IjQi</text>
+        <text>this.onClickToCheckToken</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLXJpZ2h0OiAzMHB4Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QmFyKDIsIDMpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QmFyKDIsIDMpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxvZ2luT2JqID0gYXdhaXQgdGhpcy5sb2dpbkNoZWNrKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QmFyKCk7Cg==</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy52YWxpZGF0ZSgpKSByZXR1cm47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IDogKAogICAgICAgICAgICAgIG51bGwKICAgICAgICAgICAgKQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmICghdGhpcy52YWxpZGF0ZSgpKSByZXR1cm47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmlmICgnZCcgaW4gb2JqIC8qID8gKi8pIHsKICAKfQo=</text>
+        <text encoding="base64">ICAKICBvbktleVByZXNzID0gKGV2ZW50KSA9PiB7CiAgICBjb25zdCB7IGtleSB9ID0gZXZlbnQ7CiAgICBpZiAoa2V5ID09PSAnRW50ZXInKSB7CiAgICAgIGV2ZW50LnN0b3BQcm9wYWdhdGlvbigpCiAgICAgIHRoaXMub25DbGlja1RvR2V0S2V5KCkKICAgIH0KICAgIHJldHVybiBmYWxzZTsKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gaWYgKHZhbHVlLm1hdGNoKC9lfC18XCt8PXwsfFwuL2cpKSByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gaWYgKHZhbHVlLm1hdGNoKC9lfC18XCt8PXwsL2cpKSByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgZXZlbnQuc3RvcFByb3BhZ2F0aW9uKCkK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
