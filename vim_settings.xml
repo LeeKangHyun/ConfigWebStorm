@@ -17,6 +17,12 @@
         <mark key="[" line="75" column="0" />
         <mark key="]" line="77" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Components/List/Table/styled.js" timestamp="1549291434819">
+        <mark key="[" line="85" column="9" />
+        <mark key="]" line="85" column="13" />
+        <mark key="^" line="85" column="13" />
+        <mark key="." line="85" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/Home/Component/Swiper/styled.js" timestamp="1549286073875">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
@@ -34,6 +40,11 @@
         <mark key="]" line="9" column="38" />
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Components/List/Table/index.js" timestamp="1549291469382">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Pages/Home/Component/Rolling/index.js" timestamp="1549288252522">
         <mark key="[" line="9" column="23" />
@@ -59,11 +70,11 @@
         <mark key="." line="45" column="13" />
         <mark key="^" line="45" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Components/List/styled.js" timestamp="1549286980531">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="8" column="12" />
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Components/List/styled.js" timestamp="1549290541001">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="2" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/Home/Component/Swiper/index.js" timestamp="1549286151416">
         <mark key="'" line="11" column="11" />
@@ -80,11 +91,11 @@
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Pages/Home/Component/Rolling/styled.js" timestamp="1549287048251">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="3" column="13" />
-        <mark key="^" line="3" column="13" />
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Pages/Home/Component/Rolling/styled.js" timestamp="1549290752428">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Components/List/styled.js" timestamp="1549277709291">
         <mark key="[" line="9" column="0" />
@@ -98,7 +109,7 @@
         <mark key="^" line="49" column="5" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549289324035">
+      <file name="/Dummy.txt" timestamp="1549291524150">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/Home/Component/Gallery/index.js" timestamp="1549286186549">
@@ -131,12 +142,6 @@
       <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/Detail/Component/ImageViewer/styled.js" timestamp="1549280951332">
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/Home/Component/Rolling/styled.js" timestamp="1549285842134">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="4" column="16" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="4" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/Home/Component/Swiper/images/banner-back-on.svg" timestamp="1549281180028">
         <mark key="[" line="0" column="0" />
@@ -181,40 +186,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8c3Bhbj7rlLDrnLvtlZzrtoTsnITquLA8L3NwYW4+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>0</text>
       </register>
-      <register name="0" type="4">
-        <text>calc((100% - 24px) / 3)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8c3Bhbj7rlLDrnLvtlZzrtoTsnITquLA8L3NwYW4+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8c3Bhbj7rlLDrnLvtlZzrtoTsnITquLA8L3NwYW4+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8c3Bhbj7rlLDrnLvtlZzrtoTsnITquLA8L3NwYW4+CiAgICAgICAgICAgICAgPHNwYW4+65Sw65y77ZWc67aE7JyE6riwPC9zcGFuPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2ZXJ0aWNhbC1hbGlnbjogdG9wOwo=</text>
+        <text encoding="base64">ICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoLTUwJSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAmICsgZGl2IHsKICAgIG1hcmdpbi1sZWZ0OiAyNHB4OwogIH0K</text>
+        <text encoding="base64">ICBwIHsKICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB3aWR0aDogMzg0cHg7Cg==</text>
+        <text encoding="base64">ICAmOmFmdGVyIHsKICAgIGNvbnRlbnQ6ICcnOwogICAgY2xlYXI6IGJvdGg7CiAgICBkaXNwbGF5OiBibG9jazsKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICYgKyAK</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxLjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IDE2cHg7Cg==</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMTJweDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMTQ0cHg7Cg==</text>
+        <text encoding="base64">ICAgIGZsb2F0OiByaWdodDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsK</text>
+        <text encoding="base64">ICBtYXJnaW4tdG9wOiAycHg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
