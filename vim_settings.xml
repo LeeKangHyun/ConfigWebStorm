@@ -3,19 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/styled.js" timestamp="1549286418175">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="108" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Pages/Home/index.js" timestamp="1549288946439">
         <mark key="[" line="48" column="6" />
         <mark key="]" line="48" column="9" />
         <mark key="." line="48" column="6" />
         <mark key="^" line="48" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/Detail/Component/ImageViewer/index.js" timestamp="1549280207776">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="77" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Components/List/Table/styled.js" timestamp="1549291434819">
         <mark key="[" line="85" column="9" />
@@ -58,16 +50,29 @@
         <mark key="." line="59" column="15" />
         <mark key="^" line="59" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/List/Main/index.js" timestamp="1549292274645">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="10" column="30" />
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/List/Main/index.js" timestamp="1549373012376">
+        <mark key="[" line="14" column="56" />
+        <mark key="]" line="14" column="60" />
+        <mark key="." line="14" column="60" />
+        <mark key="^" line="14" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Components/List/Table/styled.js" timestamp="1549372265468">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Components/List/index.js" timestamp="1549277667136">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="23" />
-        <mark key="^" line="1" column="23" />
-        <mark key="." line="1" column="23" />
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Components/List/index.js" timestamp="1549373098836">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="11" column="46" />
+        <mark key="]" line="11" column="58" />
+        <mark key="." line="11" column="58" />
+        <mark key="^" line="11" column="58" />
+      </file>
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/List/Components/Filter/Component/Select/Component/Region/index.js" timestamp="1549374052212">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/Home/Component/Gallery/styled.js" timestamp="1549285563650">
         <mark key="[" line="42" column="28" />
@@ -86,6 +91,12 @@
         <mark key="]" line="10" column="30" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/List/Components/Filter/Controller.js" timestamp="1549351895986">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="2" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="19" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Pages/Home/Component/Gallery/index.js" timestamp="1549288026185">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="10" column="23" />
@@ -98,11 +109,17 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Components/List/styled.js" timestamp="1549277709291">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="10" column="16" />
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/List/Components/Filter/Component/Select/index.js" timestamp="1549375258578">
+        <mark key="[" line="29" column="7" />
+        <mark key="]" line="30" column="7" />
+        <mark key="." line="30" column="7" />
+        <mark key="^" line="30" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Components/List/styled.js" timestamp="1549373066682">
+        <mark key="[" line="25" column="42" />
+        <mark key="]" line="25" column="42" />
+        <mark key="." line="25" column="42" />
+        <mark key="^" line="25" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/Home/Component/Swiper/Controller.js" timestamp="1549282396188">
         <mark key="[" line="49" column="0" />
@@ -110,8 +127,14 @@
         <mark key="^" line="49" column="5" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549291524150">
+      <file name="/Dummy.txt" timestamp="1549373263514">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/Home/Component/PhotoList/index.js" timestamp="1549372431707">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/Home/Component/Gallery/index.js" timestamp="1549286186549">
         <mark key="'" line="10" column="0" />
@@ -133,12 +156,30 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/Home/index.js" timestamp="1549286175757">
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/List/Components/Filter/index.js" timestamp="1549375146381">
+        <mark key="[" line="14" column="48" />
+        <mark key="]" line="14" column="52" />
+        <mark key="." line="14" column="52" />
+        <mark key="^" line="14" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/Home/index.js" timestamp="1549372478965">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="43" />
-        <mark key="]" line="19" column="43" />
-        <mark key="." line="19" column="43" />
-        <mark key="^" line="19" column="48" />
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+        <mark key="^" line="7" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/List/Components/Filter/styled.js" timestamp="1549373408420">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Components/List/Table/index.js" timestamp="1549372238389">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="49" column="29" />
+        <mark key="^" line="11" column="85" />
+        <mark key="." line="11" column="85" />
       </file>
       <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Components/Magazine/styled.js" timestamp="1549289286961">
         <mark key="[" line="15" column="17" />
@@ -146,13 +187,22 @@
         <mark key="." line="15" column="19" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/Detail/Component/ImageViewer/styled.js" timestamp="1549280951332">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="27" />
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/Home/Component/Rolling/styled.js" timestamp="1549285842134">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/Home/Component/Swiper/images/banner-back-on.svg" timestamp="1549281180028">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="19" column="5" />
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/List/Components/Filter/Component/Select/Controller.js" timestamp="1549375238684">
+        <mark key="[" line="2" column="55" />
+        <mark key="]" line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/Home/Component/PhotoList/styled.js" timestamp="1549372527496">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Pages/Home/Component/Gallery/styled.js" timestamp="1549287200471">
         <mark key="[" line="8" column="10" />
@@ -160,17 +210,23 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/styled.js" timestamp="1549286420908">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="109" column="1" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/List/Components/Filter/Component/Select/styled.js" timestamp="1549375186586">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="7" column="17" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="7" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/Pages/Home/Component/Swiper/index.js" timestamp="1549288110216">
         <mark key="[" line="32" column="18" />
         <mark key="]" line="32" column="34" />
         <mark key="." line="32" column="18" />
         <mark key="^" line="35" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/List/Main/styled.js" timestamp="1549372701076">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -191,43 +247,48 @@
       <jump line="10" column="0" filename="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/Home/Component/Gallery/index.js" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/Company/fdding_demander/client/ViewMobile/styled.js" />
       <jump line="2" column="6" filename="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/List/Jeju/index.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Components/List/index.js" />
+      <jump line="0" column="20" filename="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Components/List/Table/styled.js" />
+      <jump line="5" column="13" filename="$USER_HOME$/Documents/Company/fdding_demander/client/ViewWeb/Pages/List/Components/Filter/Component/Select/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IEZyYWdtZW50IH0gZnJvbSAncmVhY3QnOwoKY29uc3QgTWFrZXVwQ29tcG9uZW50ID0gKCkgPT4gewogIHJldHVybiAoCiAgICA8RnJhZ21lbnQ+CiAgICAKICAgIDwvRnJhZ21lbnQ+CiAgKQp9CgpleHBvcnQgZGVmYXVsdCBNYWtldXBDb21wb25lbnQK</text>
+      <register name="&quot;" type="4">
+        <text>지역</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>지역</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IEZyYWdtZW50IH0gZnJvbSAncmVhY3QnOwoKY29uc3QgTWFrZXVwQ29tcG9uZW50ID0gKCkgPT4gewogIHJldHVybiAoCiAgICA8RnJhZ21lbnQ+CiAgICAKICAgIDwvRnJhZ21lbnQ+CiAgKQp9CgpleHBvcnQgZGVmYXVsdCBNYWtldXBDb21wb25lbnQK</text>
+        <text encoding="base64">ICAgICAgPFNlbGVjdENvbXBvbmVudCB3aWR0aD17Nzh9IHBsYWNlaG9sZGVyPXsi7KeA7JetIn0gdHlwZT0icmVnaW9uIiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8c3Bhbj7rlLDrnLvtlZzrtoTsnITquLA8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgPFNlbGVjdENvbXBvbmVudCB3aWR0aD17Nzh9IHBsYWNlaG9sZGVyPXsi7KeA7JetIn0gdHlwZT0icmVnaW9uIiAvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8c3Bhbj7rlLDrnLvtlZzrtoTsnITquLA8L3NwYW4+CiAgICAgICAgICAgICAgPHNwYW4+65Sw65y77ZWc67aE7JyE6riwPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgPFNlbGVjdENvbXBvbmVudCB3aWR0aD17Nzh9IHBsYWNlaG9sZGVyPXsi7KeA7JetIn0gdHlwZT0icmVnaW9uIiAvPgogICAgICA8U2VsZWN0Q29tcG9uZW50IHdpZHRoPXs3OH0gcGxhY2Vob2xkZXI9eyLsp4Dsl60ifSB0eXBlPSJyZWdpb24iIC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoLTUwJSk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIDMyNzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwIHsKICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICB9Cg==</text>
+        <text encoding="base64">ICAgIGNhc2UgJ3JlZ2lvbic6CiAgICBjYXNlICdtb2RlJzoKICAgICAgcmV0dXJuIDMyNzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAmOmFmdGVyIHsKICAgIGNvbnRlbnQ6ICcnOwogICAgY2xlYXI6IGJvdGg7CiAgICBkaXNwbGF5OiBibG9jazsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxLjsK</text>
+        <text encoding="base64">ICAgIGNhc2UgJ21vZGUnOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMTJweDsK</text>
+        <text encoding="base64">Y29uc3QgV2lkdGggPSB7CiAgInJlZ2lvbiI6Cn0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGZsb2F0OiByaWdodDsK</text>
+      <register name="8" type="4">
+        <text>[
+  
+]</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtYXJnaW4tdG9wOiAycHg7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFdpdGhDb250cm9sbGVyIGZyb20gJy4vQ29udHJvbGxlcicK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
@@ -241,6 +302,7 @@
       <history-search />
       <history-cmd>
         <entry>split</entry>
+        <entry>vsplut</entry>
         <entry>vsplit</entry>
       </history-cmd>
     </history>
@@ -253,6 +315,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
