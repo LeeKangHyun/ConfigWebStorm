@@ -111,6 +111,12 @@
         <mark key="^" line="37" column="34" />
         <mark key="." line="37" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-owner/config/webpack.config.prod.js" timestamp="1549601553403">
+        <mark key="[" line="289" column="17" />
+        <mark key="]" line="289" column="17" />
+        <mark key="^" line="289" column="17" />
+        <mark key="." line="289" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Customer/Form/Controller.js" timestamp="1548743681819">
         <mark key="[" line="111" column="40" />
         <mark key="]" line="112" column="34" />
@@ -166,10 +172,10 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-owner/public/templates/index.html" timestamp="1549533602861">
+      <file name="$USER_HOME$/Documents/station3/dabang-owner/public/templates/index.html" timestamp="1549601574540">
         <mark key="[" line="35" column="31" />
-        <mark key="]" line="35" column="31" />
-        <mark key="." line="35" column="31" />
+        <mark key="]" line="35" column="32" />
+        <mark key="." line="35" column="32" />
         <mark key="^" line="35" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Accounting/List/Controller.js" timestamp="1548655618387">
@@ -535,9 +541,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>,
-			&quot;classpath:/resources/static/&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZmF2aWNvbjogJy4vZmF2aWNvbi5pY28nLAo=</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -545,8 +550,8 @@
       <register name="/" type="4">
         <text>height</text>
       </register>
-      <register name="0" type="4">
-        <text>src: HomeImg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgZmF2aWNvbjogJy4vZmF2aWNvbi5pY28nLAo=</text>
       </register>
       <register name="1" type="4">
         <text>,
