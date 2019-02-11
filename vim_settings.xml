@@ -2,14 +2,71 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/station3/station3/pages/culture/CoreValue/styled.js" timestamp="1549851689763">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+        <mark key="^" line="134" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/station3/pages/culture/CoreValue/index.js" timestamp="1549851738242">
+        <mark key="[" line="43" column="58" />
+        <mark key="]" line="43" column="59" />
+        <mark key="." line="43" column="59" />
+        <mark key="^" line="12" column="59" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHN0eWxlPXt7ekluZGV4OiA5OTh9fQ==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">ICYmIGNzcw==</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">IHN0eWxlPXt7ekluZGV4OiA5OTh9fQ==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICB6LWluZGV4OiA5OTk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICB0b3A6IDUwJTsKICAgICAgbGVmdDogMDsKICAgICAgcmlnaHQ6IDA7CiAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgtNTAlKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICB0b3A6IDUwJTsKICAgICAgbGVmdDogMDsKICAgICAgcmlnaHQ6IDA7CiAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgtNTAlKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICB0b3A6IDUwJTsKICAgICAgbGVmdDogMDsKICAgICAgcmlnaHQ6IDA7CiAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgtNTAlKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgICAg7KO87J247J2Y7Iud7J2EIOuwlO2DleycvOuhnDxici8+CiAgICAgICAgICAgICAgICAgICAg66qF7ZmV7ZWcIOydmOqyrOqzvCDrhbzrpqzrpbwg6rCA7KeA6rOgPGJyLz4KICAgICAgICAgICAgICAgICAgICDsp4Tst6jsoIHsnLzroZwg7J287ZWY66mwLDxici8+CiAgICAgICAgICAgICAgICAgICAg7J2066W8IO2Gte2VtCDssYXsnoTsnojqsowg66qp7ZGc66W8PGJyLz4KICAgICAgICAgICAgICAgICAgICDri6zshLHtlanri4jri6QuCiAgICAgICAgICAgICAgICAgIDwvcD4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgICAg6rOg6rCd7JeQ6rKQIO2IrOuqhe2VmOqzoCw8YnIgLz4KICAgICAgICAgICAgICAgICAgICDsiqTsiqTroZzsl5DqspAg7KCV7KeB7ZWcIOyLoOuisOulvDxiciAvPgogICAgICAgICAgICAgICAgICAgIOuwlO2DleycvOuhnCDqs6DqsJ3qs7wg7ZWo6ruYPGJyIC8+CiAgICAgICAgICAgICAgICAgICAg7IOB7IOd4oiZ67Cc7KCE7ZWp64uI64ukLgogICAgICAgICAgICAgICAgICA8L3A+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgICAg64KY7J20LCDsp4HquInsnYQg65ag64KYIOyDge2YuCDsobTspJHtlZjrqbAsPGJyIC8+CiAgICAgICAgICAgICAgICAgICAg7Lap67aE7ZWcIO2ctOyLneuPhCDsl4XrrLTsnZgg7J2867aA652864qUPGJyIC8+CiAgICAgICAgICAgICAgICAgICAg6riw7KGw66W8IOuwlO2DleycvOuhnCDsnbztlaAg65WQIOydvO2VmOqzoCDsibQg65WQPGJyIC8+CiAgICAgICAgICAgICAgICAgICAg7ZmV7Iuk7Z6IIOyJrOuKlCwg7Jyg7Jew7ZWcIOq4sOyXheusuO2ZlOulvDxiciAvPgogICAgICAgICAgICAgICAgICAgIOunjOuTpOyWtOqwkeuLiOuLpC4KICAgICAgICAgICAgICAgICAgPC9wPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRpdiB7CiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgdG9wOiA1MCU7CiAgICAgIGxlZnQ6IDA7CiAgICAgIHJpZ2h0OiAwOwogICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoLTUwJSk7CiAgICB9Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRpdiB7CiAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICAgICAgd2lkdGg6IDEwMCU7CiAgICAgIGhlaWdodDogMTAwJTsKICAgIH0K</text>
+      </register>
+      <register name=":" type="4">
+        <text>vsplit</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>vsplit</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
