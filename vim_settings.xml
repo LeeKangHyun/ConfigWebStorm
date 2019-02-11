@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/station3/gatsby/gatsby-node.js" timestamp="1549878277250">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1549872601947">
         <mark key="[" line="0" column="0" />
       </file>
@@ -31,6 +36,7 @@
         <mark key="^" line="57" column="9" />
         <mark key="." line="129" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/image.js" timestamp="1549877237509" />
       <file name="$USER_HOME$/Documents/station3/station3/pages/culture/Banner/styled.js" timestamp="1549868969608">
         <mark key="[" line="59" column="58" />
         <mark key="]" line="59" column="59" />
@@ -43,11 +49,22 @@
         <mark key="^" line="218" column="7" />
         <mark key="." line="344" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/gatsby-browser.js" timestamp="1549877763363">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/station3/pages/culture/CoreValue/styled.js" timestamp="1549855890306">
         <mark key="[" line="266" column="19" />
         <mark key="]" line="266" column="19" />
         <mark key="." line="266" column="19" />
         <mark key="^" line="184" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/seo.js" timestamp="1549876991566">
+        <mark key="[" line="51" column="114" />
+        <mark key="]" line="51" column="115" />
+        <mark key="^" line="51" column="115" />
+        <mark key="." line="51" column="115" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/gatsby-config.js" timestamp="1549876228370">
         <mark key="[" line="41" column="15" />
@@ -85,41 +102,41 @@
       <jump line="24" column="23" filename="$USER_HOME$/Documents/station3/station3/pages/culture/CoreValue/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>src/images</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYWdlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>src/images</text>
+        <text>))</text>
       </register>
-      <register name="0" type="4">
-        <text>#326cf9</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IEhvbWUgZnJvbSAncGFnZXMvaG9tZScKCmV4cG9ydCBjb25zdCBjcmVhdGVQYWdlcyA9ICh7IGFjdGlvbnMgfSkgPT4gewogIGNvbnN0IHsgY3JlYXRlUGFnZSB9ID0gYWN0aW9uczsKICBjcmVhdGVQYWdlKHsKICAgIHBhdGg6IFsnLycsICcvaG9tZSddLAogICAgY29tcG9uZW50OiBIb21lLAogICAgCiAgfSkKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLWJvdHRvbTogMjBweDsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYWdlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA2MS4xNzclOwo=</text>
+        <text encoding="base64">ICAKY29uc3QgSG9tZSA9IHJlcXVpcmUoJy4vc3JjL3BhZ2VzL2hvbWUnKQoKZXhwb3J0cy5jcmVhdGVQYWdlcyA9ICh7IGFjdGlvbnMgfSkgPT4gewogIGNvbnN0IHsgY3JlYXRlUGFnZSB9ID0gYWN0aW9uczsKICBjb25zb2xlLmxvZygnMTExMTExMTExMScpOwogIGNyZWF0ZVBhZ2UoewogICAgcGF0aDogWycvJywgJy9ob21lJ10sCiAgICBjb21wb25lbnQ6IEhvbWUsCiAgICAKICB9KQp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogMzVweDsK</text>
+        <text encoding="base64">aW1wb3J0IEhvbWUgZnJvbSAncGFnZXMvaG9tZScKCmV4cG9ydCBjb25zdCBjcmVhdGVQYWdlcyA9ICh7IGFjdGlvbnMgfSkgPT4gewogIGNvbnN0IHsgY3JlYXRlUGFnZSB9ID0gYWN0aW9uczsKICBjcmVhdGVQYWdlKHsKICAgIHBhdGg6IFsnLycsICcvaG9tZSddLAogICAgY29tcG9uZW50OiBIb21lLAogICAgCiAgfSkKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDgwcHggNTBweCAyOXB4Owo=</text>
+        <text encoding="base64">ICBwYWRkaW5nLWJvdHRvbTogMjBweDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZy10b3A6IDc5LjgxJTsK</text>
+        <text encoding="base64">ICAgIHdpZHRoOiA2MS4xNzclOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZy10b3A6IDc5LjMyNyU7Cg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogMzVweDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA1NS43MTQzJTsK</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDgwcHggNTBweCAyOXB4Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZy10b3A6IDc5LjgxJTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZy10b3A6IDc5LjMyNyU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
