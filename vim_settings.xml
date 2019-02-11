@@ -49,11 +49,11 @@
         <mark key="." line="266" column="19" />
         <mark key="^" line="184" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/gatsby/gatsby-config.js" timestamp="1549875558212">
-        <mark key="[" line="41" column="26" />
-        <mark key="]" line="41" column="36" />
-        <mark key="." line="41" column="36" />
-        <mark key="^" line="41" column="36" />
+      <file name="$USER_HOME$/Documents/station3/gatsby/gatsby-config.js" timestamp="1549876228370">
+        <mark key="[" line="41" column="15" />
+        <mark key="]" line="41" column="20" />
+        <mark key="." line="41" column="20" />
+        <mark key="^" line="41" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/station3/station3/pages/service/Banner/styled.js" timestamp="1549871081722">
         <mark key="[" line="133" column="58" />
@@ -86,10 +86,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gatsby-icon.png</text>
+        <text>src/images</text>
       </register>
       <register name="-" type="4">
-        <text>gatsby-icon.png</text>
+        <text>src/images</text>
       </register>
       <register name="0" type="4">
         <text>#326cf9</text>
@@ -140,6 +140,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
