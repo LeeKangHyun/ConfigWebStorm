@@ -12,6 +12,25 @@
         <mark key="^" line="19" column="5" />
         <mark key="." line="19" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/station3/pages/home/Banner/styled.js" timestamp="1549862979196">
+        <mark key="[" line="77" column="14" />
+        <mark key="]" line="57" column="19" />
+        <mark key="." line="77" column="19" />
+        <mark key="^" line="57" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/station3/pages/culture/CoreValue/index.js" timestamp="1549854417124">
+        <mark key="'" line="24" column="23" />
+        <mark key="[" line="83" column="21" />
+        <mark key="]" line="83" column="31" />
+        <mark key="." line="83" column="31" />
+        <mark key="^" line="83" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/station3/pages/culture/Interview/Carousel/styled.js" timestamp="1549862134908">
+        <mark key="[" line="129" column="6" />
+        <mark key="]" line="57" column="9" />
+        <mark key="^" line="57" column="9" />
+        <mark key="." line="129" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/station3/pages/culture/Banner/styled.js" timestamp="1549868969608">
         <mark key="[" line="59" column="58" />
         <mark key="]" line="59" column="59" />
@@ -30,11 +49,11 @@
         <mark key="." line="266" column="19" />
         <mark key="^" line="184" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/station3/pages/home/Banner/styled.js" timestamp="1549862979196">
-        <mark key="[" line="77" column="14" />
-        <mark key="]" line="57" column="19" />
-        <mark key="." line="77" column="19" />
-        <mark key="^" line="57" column="19" />
+      <file name="$USER_HOME$/Documents/station3/gatsby/gatsby-config.js" timestamp="1549875558212">
+        <mark key="[" line="41" column="26" />
+        <mark key="]" line="41" column="36" />
+        <mark key="." line="41" column="36" />
+        <mark key="^" line="41" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/station3/station3/pages/service/Banner/styled.js" timestamp="1549871081722">
         <mark key="[" line="133" column="58" />
@@ -54,24 +73,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="171" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/station3/pages/culture/CoreValue/index.js" timestamp="1549854417124">
-        <mark key="'" line="24" column="23" />
-        <mark key="[" line="83" column="21" />
-        <mark key="]" line="83" column="31" />
-        <mark key="." line="83" column="31" />
-        <mark key="^" line="83" column="31" />
-      </file>
       <file name="$USER_HOME$/Documents/station3/station3/pages/service/DabangServices/Title/styled.js" timestamp="1549871508793">
         <mark key="[" line="42" column="18" />
         <mark key="]" line="43" column="28" />
         <mark key="." line="43" column="28" />
         <mark key="^" line="43" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/station3/station3/pages/culture/Interview/Carousel/styled.js" timestamp="1549862134908">
-        <mark key="[" line="129" column="6" />
-        <mark key="]" line="57" column="9" />
-        <mark key="^" line="57" column="9" />
-        <mark key="." line="129" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -79,14 +85,14 @@
       <jump line="24" column="23" filename="$USER_HOME$/Documents/station3/station3/pages/culture/CoreValue/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLWJvdHRvbTogMjBweDsK</text>
+      <register name="&quot;" type="4">
+        <text>gatsby-icon.png</text>
       </register>
       <register name="-" type="4">
-        <text>000</text>
+        <text>gatsby-icon.png</text>
       </register>
       <register name="0" type="4">
-        <text>min-</text>
+        <text>#326cf9</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBwYWRkaW5nLWJvdHRvbTogMjBweDsK</text>
