@@ -503,6 +503,11 @@
       <file name="/JavaScript Console" timestamp="1548816609138">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Components/Header/index.js" timestamp="1549885241077">
+        <mark key="[" line="52" column="37" />
+        <mark key="]" line="52" column="37" />
+        <mark key="." line="52" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Components/List/index.js" timestamp="1549804390903">
         <mark key="[" line="2" column="96" />
         <mark key="]" line="2" column="105" />
@@ -740,10 +745,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>={ }</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>={ }</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>height</text>
