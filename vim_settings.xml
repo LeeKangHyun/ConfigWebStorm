@@ -30,6 +30,11 @@
         <mark key="." line="83" column="31" />
         <mark key="^" line="83" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/pages/home/index.js" timestamp="1549935780111">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/station3/pages/culture/Interview/Carousel/styled.js" timestamp="1549862134908">
         <mark key="[" line="129" column="6" />
         <mark key="]" line="57" column="9" />
@@ -54,13 +59,21 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Menus/SideMenu/index.js" timestamp="1549935719342">
+        <mark key="'" line="61" column="17" />
+        <mark key="[" line="80" column="25" />
+        <mark key="]" line="80" column="25" />
+        <mark key="^" line="80" column="25" />
+        <mark key="." line="80" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/station3/pages/culture/CoreValue/styled.js" timestamp="1549855890306">
         <mark key="[" line="266" column="19" />
         <mark key="]" line="266" column="19" />
         <mark key="." line="266" column="19" />
         <mark key="^" line="184" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/seo.js" timestamp="1549876991566">
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/seo.js" timestamp="1549935790899">
+        <mark key="'" line="52" column="18" />
         <mark key="[" line="51" column="114" />
         <mark key="]" line="51" column="115" />
         <mark key="^" line="51" column="115" />
@@ -90,6 +103,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="171" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/pages/home/History/index.js" timestamp="1549935530287">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/station3/pages/service/DabangServices/Title/styled.js" timestamp="1549871508793">
         <mark key="[" line="42" column="18" />
         <mark key="]" line="43" column="28" />
@@ -100,43 +118,45 @@
     <jumps>
       <jump line="67" column="18" filename="$USER_HOME$/Documents/station3/station3/pages/culture/CoreValue/index.js" />
       <jump line="24" column="23" filename="$USER_HOME$/Documents/station3/station3/pages/culture/CoreValue/index.js" />
+      <jump line="52" column="18" filename="$USER_HOME$/Documents/station3/gatsby/src/components/seo.js" />
+      <jump line="61" column="17" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Menus/SideMenu/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYWdlKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGtleXdvcmRzPXtbYGdhdHNieWAsIGBhcHBsaWNhdGlvbmAsIGByZWFjdGBdfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>))</text>
+        <text encoding="base64">IGtleXdvcmRzPXtbYGdhdHNieWAsIGBhcHBsaWNhdGlvbmAsIGByZWFjdGBdfQ==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IEhvbWUgZnJvbSAncGFnZXMvaG9tZScKCmV4cG9ydCBjb25zdCBjcmVhdGVQYWdlcyA9ICh7IGFjdGlvbnMgfSkgPT4gewogIGNvbnN0IHsgY3JlYXRlUGFnZSB9ID0gYWN0aW9uczsKICBjcmVhdGVQYWdlKHsKICAgIHBhdGg6IFsnLycsICcvaG9tZSddLAogICAgY29tcG9uZW50OiBIb21lLAogICAgCiAgfSkKfQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGhyZWY9IiMiIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vcmVmZXJyZXIgbm9vcGVuZXIi</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYWdlKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">PC9hPgogICAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAKY29uc3QgSG9tZSA9IHJlcXVpcmUoJy4vc3JjL3BhZ2VzL2hvbWUnKQoKZXhwb3J0cy5jcmVhdGVQYWdlcyA9ICh7IGFjdGlvbnMgfSkgPT4gewogIGNvbnN0IHsgY3JlYXRlUGFnZSB9ID0gYWN0aW9uczsKICBjb25zb2xlLmxvZygnMTExMTExMTExMScpOwogIGNyZWF0ZVBhZ2UoewogICAgcGF0aDogWycvJywgJy9ob21lJ10sCiAgICBjb21wb25lbnQ6IEhvbWUsCiAgICAKICB9KQp9Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgPGE+</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEhvbWUgZnJvbSAncGFnZXMvaG9tZScKCmV4cG9ydCBjb25zdCBjcmVhdGVQYWdlcyA9ICh7IGFjdGlvbnMgfSkgPT4gewogIGNvbnN0IHsgY3JlYXRlUGFnZSB9ID0gYWN0aW9uczsKICBjcmVhdGVQYWdlKHsKICAgIHBhdGg6IFsnLycsICcvaG9tZSddLAogICAgY29tcG9uZW50OiBIb21lLAogICAgCiAgfSkKfQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLWJvdHRvbTogMjBweDsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgIDxhPg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA2MS4xNzclOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYWdlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogMzVweDsK</text>
+        <text encoding="base64">ICAKY29uc3QgSG9tZSA9IHJlcXVpcmUoJy4vc3JjL3BhZ2VzL2hvbWUnKQoKZXhwb3J0cy5jcmVhdGVQYWdlcyA9ICh7IGFjdGlvbnMgfSkgPT4gewogIGNvbnN0IHsgY3JlYXRlUGFnZSB9ID0gYWN0aW9uczsKICBjb25zb2xlLmxvZygnMTExMTExMTExMScpOwogIGNyZWF0ZVBhZ2UoewogICAgcGF0aDogWycvJywgJy9ob21lJ10sCiAgICBjb21wb25lbnQ6IEhvbWUsCiAgICAKICB9KQp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDgwcHggNTBweCAyOXB4Owo=</text>
+        <text encoding="base64">aW1wb3J0IEhvbWUgZnJvbSAncGFnZXMvaG9tZScKCmV4cG9ydCBjb25zdCBjcmVhdGVQYWdlcyA9ICh7IGFjdGlvbnMgfSkgPT4gewogIGNvbnN0IHsgY3JlYXRlUGFnZSB9ID0gYWN0aW9uczsKICBjcmVhdGVQYWdlKHsKICAgIHBhdGg6IFsnLycsICcvaG9tZSddLAogICAgY29tcG9uZW50OiBIb21lLAogICAgCiAgfSkKfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZy10b3A6IDc5LjgxJTsK</text>
+        <text encoding="base64">ICBwYWRkaW5nLWJvdHRvbTogMjBweDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZy10b3A6IDc5LjMyNyU7Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiA2MS4xNzclOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
@@ -160,6 +180,51 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
