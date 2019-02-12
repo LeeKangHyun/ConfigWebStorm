@@ -81,9 +81,17 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/station3/src/components/Menus/index.js" timestamp="1549960311212">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="52" column="1" />
+      <file name="$USER_HOME$/Documents/station3/station3/src/components/Home/Download/index.js" timestamp="1549962479044">
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="15" column="54" />
+        <mark key="^" line="16" column="43" />
+        <mark key="." line="15" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/station3/src/components/Menus/index.js" timestamp="1549962473618">
+        <mark key="[" line="77" column="62" />
+        <mark key="]" line="77" column="73" />
+        <mark key="^" line="77" column="69" />
+        <mark key="." line="77" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/CoreValue/styled.js" timestamp="1549951319996">
         <mark key="[" line="0" column="0" />
@@ -139,6 +147,18 @@
         <mark key="." line="8" column="16" />
         <mark key="^" line="6" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/station3/src/utils/config.js" timestamp="1549962602137">
+        <mark key="[" line="26" column="3" />
+        <mark key="]" line="27" column="9" />
+        <mark key="^" line="27" column="9" />
+        <mark key="." line="27" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/station3/src/components/AppBtn/index.js" timestamp="1549963092882">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/pages/culture.js" timestamp="1549948583923">
         <mark key="[" line="9" column="31" />
         <mark key="]" line="9" column="31" />
@@ -173,9 +193,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/station3/src/components/Footer/index.js" timestamp="1549960374932">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="57" />
+      <file name="$USER_HOME$/Documents/station3/station3/src/components/Footer/index.js" timestamp="1549962397778">
+        <mark key="[" line="97" column="37" />
+        <mark key="]" line="97" column="41" />
+        <mark key="." line="97" column="41" />
+        <mark key="^" line="97" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/gatsby-node.js" timestamp="1549954621184">
         <mark key="[" line="13" column="25" />
@@ -183,7 +205,7 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="13" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549960443510">
+      <file name="/Dummy.txt" timestamp="1549963158265">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/station3/.gitignore" timestamp="1549955630088">
@@ -191,6 +213,12 @@
         <mark key="]" line="10" column="6" />
         <mark key="^" line="10" column="6" />
         <mark key="." line="10" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/station3/src/components/Culture/Recruit/Recruiting/index.js" timestamp="1549962607569">
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="30" column="28" />
+        <mark key="." line="30" column="28" />
+        <mark key="^" line="30" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Service/DabangServices/Title/index.js" timestamp="1549947862198">
         <mark key="[" line="60" column="78" />
@@ -257,6 +285,12 @@
         <mark key="]" line="6" column="20" />
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/station3/src/components/Service/DabangServices/Title/index.js" timestamp="1549962652546">
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="30" column="30" />
+        <mark key="." line="30" column="30" />
+        <mark key="^" line="30" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Home/Content/index.js" timestamp="1549946654711">
         <mark key="[" line="9" column="6" />
@@ -360,44 +394,44 @@
       <jump line="83" column="26" filename="$USER_HOME$/Documents/station3/station3/src/components/Menus/SideMenu/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;/&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFwcFN0b3JlOiAnZGFiYW5nJywK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;/&quot;</text>
+        <text>googlePlay</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTkFWRVIsIElOU1RBR1JBTSwgRkFDRUJPT0sgfSBmcm9tICd1dGlscy9jb25maWcnCg==</text>
+      <register name="0" type="4">
+        <text>서비스 준비중 입니다.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwYXRoUHJlZml4OiBgL3N0YXRpY2AsCg==</text>
+        <text encoding="base64">ICAgIGFwcFN0b3JlOiAnZGFiYW5nJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogImdpdCIsCiAgICAidXJsIjogImh0dHBzOi8vZ2l0aHViLmNvbS9nYXRzYnlqcy9nYXRzYnktc3RhcnRlci1kZWZhdWx0IgogIH0sCiAgImJ1Z3MiOiB7CiAgICAidXJsIjogImh0dHBzOi8vZ2l0aHViLmNvbS9nYXRzYnlqcy9nYXRzYnkvaXNzdWVzIgogIH0K</text>
+        <text encoding="base64">ICAgICAgey8qPGEgaHJlZj17dG99IHsuLi5vdGhlcn0+CiAgICAgICAge2NoaWxkcmVufQogICAgICA8L2E+Ki99Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAia2V5d29yZHMiOiBbCiAgICAiZ2F0c2J5IgogIF0sCg==</text>
+        <text encoding="base64">ICBwYXRoUHJlZml4OiBgL3N0YXRpY2AsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiAocGFnZS5wYXRoLm1hdGNoKC9eXC9ob21lLykpIHsKICAgIHBhZ2UubWF0Y2hQYXRoID0gIi9ob21lIgogIH0K</text>
+        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogImdpdCIsCiAgICAidXJsIjogImh0dHBzOi8vZ2l0aHViLmNvbS9nYXRzYnlqcy9nYXRzYnktc3RhcnRlci1kZWZhdWx0IgogIH0sCiAgImJ1Z3MiOiB7CiAgICAidXJsIjogImh0dHBzOi8vZ2l0aHViLmNvbS9nYXRzYnlqcy9nYXRzYnkvaXNzdWVzIgogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAKICBpZiAocGFnZS5wYXRoLm1hdGNoKC9eXC9ob21lLykpIHsKICAgIHBhZ2UubWF0Y2hQYXRoID0gIi9ob21lIgogIH0KICBpZiAocGFnZS5wYXRoLm1hdGNoKC9eXC8kLykpIHsKICAgIHBhZ2UubWF0Y2hQYXRoID0gIi9ob21lIgogIH0K</text>
+        <text encoding="base64">ICAia2V5d29yZHMiOiBbCiAgICAiZ2F0c2J5IgogIF0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAocGFnZS5wYXRoLm1hdGNoKCkpCg==</text>
+        <text encoding="base64">ICBpZiAocGFnZS5wYXRoLm1hdGNoKC9eXC9ob21lLykpIHsKICAgIHBhZ2UubWF0Y2hQYXRoID0gIi9ob21lIgogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgY3JlYXRlUGFnZShwYWdlKTsK</text>
+        <text encoding="base64">ICAKICBpZiAocGFnZS5wYXRoLm1hdGNoKC9eXC9ob21lLykpIHsKICAgIHBhZ2UubWF0Y2hQYXRoID0gIi9ob21lIgogIH0KICBpZiAocGFnZS5wYXRoLm1hdGNoKC9eXC8kLykpIHsKICAgIHBhZ2UubWF0Y2hQYXRoID0gIi9ob21lIgogIH0K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGVsc2UgewogIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBpZiAocGFnZS5wYXRoLm1hdGNoKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZVBhZ2UocGFnZSk7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgY3JlYXRlUGFnZShwYWdlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
