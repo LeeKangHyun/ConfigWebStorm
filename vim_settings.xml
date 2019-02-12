@@ -8,6 +8,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/station3/pages/home/index.js" timestamp="1549940959590">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="15" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/station3/pages/culture/CoreValue/index.js" timestamp="1549854417124">
         <mark key="'" line="24" column="23" />
         <mark key="[" line="83" column="21" />
@@ -19,6 +23,18 @@
         <mark key="[" line="14" column="25" />
         <mark key="]" line="14" column="25" />
         <mark key="." line="14" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Footer/styled.js" timestamp="1549941536038">
+        <mark key="'" line="443" column="0" />
+        <mark key="[" line="541" column="0" />
+        <mark key="]" line="541" column="0" />
+        <mark key="." line="541" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Menus/styled.js" timestamp="1549941568718">
+        <mark key="'" line="171" column="0" />
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="224" column="0" />
+        <mark key="." line="224" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/station3/pages/culture/Interview/Carousel/styled.js" timestamp="1549862134908">
         <mark key="[" line="129" column="6" />
@@ -32,11 +48,11 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/gatsby/src/pages/home.js" timestamp="1549939952079">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="1" />
-        <mark key="." line="7" column="27" />
-        <mark key="^" line="7" column="22" />
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/pages/home.js" timestamp="1549940978894">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="3" column="41" />
+        <mark key="." line="3" column="41" />
+        <mark key="^" line="3" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/pages/culture.js" timestamp="1549939995433">
         <mark key="[" line="7" column="24" />
@@ -50,17 +66,23 @@
         <mark key="." line="266" column="19" />
         <mark key="^" line="184" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/gatsby/gatsby-config.js" timestamp="1549876228370">
-        <mark key="[" line="41" column="15" />
-        <mark key="]" line="41" column="20" />
-        <mark key="." line="41" column="20" />
-        <mark key="^" line="41" column="20" />
+      <file name="$USER_HOME$/Documents/station3/gatsby/gatsby-config.js" timestamp="1549942002553">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="24" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/station3/pages/service/Banner/styled.js" timestamp="1549871081722">
         <mark key="[" line="133" column="58" />
         <mark key="]" line="133" column="59" />
         <mark key="." line="133" column="59" />
         <mark key="^" line="144" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Home/Banner/styled.js" timestamp="1549942247084">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="71" column="60" />
+        <mark key="]" line="71" column="62" />
+        <mark key="." line="71" column="62" />
+        <mark key="^" line="71" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Menus/index.js" timestamp="1549939626663">
         <mark key="[" line="38" column="23" />
@@ -74,6 +96,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="171" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Menus/SideMenu/styled.js" timestamp="1549941547110">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/gatsby-node.js" timestamp="1549878277250">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -85,34 +112,55 @@
         <mark key="^" line="19" column="5" />
         <mark key="." line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/station3/pages/home/Banner/styled.js" timestamp="1549862979196">
-        <mark key="[" line="77" column="14" />
-        <mark key="]" line="57" column="19" />
+      <file name="$USER_HOME$/Documents/station3/station3/pages/home/Banner/styled.js" timestamp="1549940920992">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="167" column="1" />
         <mark key="." line="77" column="19" />
         <mark key="^" line="57" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Layout/styled.js" timestamp="1549939552416">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Layout/styled.js" timestamp="1549941507534">
+        <mark key="'" line="46" column="3" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/pages/index.js" timestamp="1549939845975">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/layout.css" timestamp="1549937689634" />
-      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/image.js" timestamp="1549877237509" />
+      <file name="$USER_HOME$/Documents/station3/station3/pages/home/Banner/index.js" timestamp="1549940905190">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Layout/index.js" timestamp="1549939486719">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Home/Banner/index.js" timestamp="1549940908239">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="30" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/utils/config.js" timestamp="1549941254119">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/station3/pages/culture/Banner/styled.js" timestamp="1549868969608">
         <mark key="[" line="59" column="58" />
         <mark key="]" line="59" column="59" />
         <mark key="^" line="59" column="59" />
         <mark key="." line="59" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/utils/media.js" timestamp="1549941450671">
+        <mark key="[" line="58" column="23" />
+        <mark key="]" line="59" column="40" />
+        <mark key="." line="58" column="23" />
+        <mark key="^" line="44" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/station3/station3/pages/home/WhoWeAre/styled.js" timestamp="1549871287770">
         <mark key="[" line="344" column="4" />
@@ -168,53 +216,77 @@
       <jump line="24" column="23" filename="$USER_HOME$/Documents/station3/station3/pages/culture/CoreValue/index.js" />
       <jump line="52" column="18" filename="$USER_HOME$/Documents/station3/gatsby/src/components/seo.js" />
       <jump line="61" column="17" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Menus/SideMenu/index.js" />
+      <jump line="44" column="20" filename="$USER_HOME$/Documents/station3/station3/pages/home/Banner/styled.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/station3/station3/pages/home/Banner/styled.js" />
+      <jump line="46" column="3" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Layout/styled.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Footer/styled.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Footer/styled.js" />
+      <jump line="155" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Footer/styled.js" />
+      <jump line="261" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Footer/styled.js" />
+      <jump line="390" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Footer/styled.js" />
+      <jump line="443" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Footer/styled.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Menus/styled.js" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Menus/styled.js" />
+      <jump line="121" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Menus/styled.js" />
+      <jump line="171" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Menus/styled.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Home/Banner/styled.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Home/Banner/styled.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>서비스</text>
+        <text>1200</text>
       </register>
       <register name="-" type="4">
-        <text>서비스</text>
+        <text>1200</text>
+      </register>
+      <register name="/" type="4">
+        <text>desk1400</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JwppbXBvcnQgTGF5b3V0IGZyb20gJ2NvbXBvbmVudHMvTGF5b3V0JwppbXBvcnQgU0VPIGZyb20gJ2NvbXBvbmVudHMvc2VvJwoKZXhwb3J0IGRlZmF1bHQgKHt9KSA9PiB7CiAgcmV0dXJuICgKICAgIDxMYXlvdXQ+CiAgICAgIDxTRU8gdGl0bGU9IuyKpO2FjOydtOyFmDMg7ISc67mE7IqkIiAvPgogICAgPC9MYXlvdXQ+CiAgKQp9Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCgke3dpdGhQcmVmaXgoJy9pbWFnZXMvaG9tZS9iYW5uZXIvMTIwMC5qcGcnKX0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCgnL3N0YXRpYy9pbWFnZXMvaG9tZS9iYW5uZXIvMTAwMC5qcGcnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGgxPkhpIHBlb3BsZTwvaDE+CiAgICAgIDxwPldlbGNvbWUgdG8geW91ciBuZXcgR2F0c2J5IHNpdGUuPC9wPgogICAgICA8cD5Ob3cgZ28gYnVpbGQgc29tZXRoaW5nIGdyZWF0LjwvcD4KICAgICAgPGRpdiBzdHlsZT17eyBtYXhXaWR0aDogYDMwMHB4YCwgbWFyZ2luQm90dG9tOiBgMS40NXJlbWAgfX0+CiAgICAgICAgPEltYWdlIGltZ1NyYz0iYS5qcGciIC8+CiAgICAgIDwvZGl2PgogICAgICA8TGluayB0bz0iL2EiPkdvIHRvIGE8L0xpbms+CiAgICAgIDxMaW5rIHRvPSIvcGFnZS0yLyI+R28gdG8gcGFnZSAyPC9MaW5rPgo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCgnL3N0YXRpYy9pbWFnZXMvaG9tZS9iYW5uZXIvMzc1LmpwZycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDw+CiAgICAgIAogICAgPC8+Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCgnL3N0YXRpYy9pbWFnZXMvaG9tZS9iYW5uZXIvMzIwLmpwZycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmV4cG9ydAo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCgnL3N0YXRpYy9pbWFnZXMvaG9tZS9iYW5uZXIvNjQwLmpwZycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCgnL3N0YXRpYy9pbWFnZXMvaG9tZS9iYW5uZXIvMTAwMC5qcGcnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJveC1zaXppbmc6IGJvcmRlci1ib3g7Cg==</text>
+        <text encoding="base64">ICAgIHBhdGhQcmVmaXg6IGAvc3RhdGljYCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ci8vIGltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCcKLy8gaW1wb3J0IEdsb2JhbFN0eWxlZCBmcm9tICcuL0dsb2JhbFN0eWxlZCcKLy8KLy8gZXhwb3J0IGNvbnN0IHdyYXBSb290RWxlbWVudCA9ICh7IGVsZW1lbnQgfSkgPT4gewovLyAgIHJldHVybiAoCi8vICAgICA8PgovLyAgICAgICA8R2xvYmFsU3R5bGVkIC8+Ci8vICAgICAgIHtlbGVtZW50fQovLyAgICAgPC8+Ci8vICAgKQovLyB9Cg==</text>
+        <text encoding="base64">ICAke21lZGlhLmRlc2sxNDAwYAogICAgbWFyZ2luOiAyNSUgMCAwIDYwcHg7CiAgICBtYXgtd2lkdGg6IDQ1MXB4OwogICAgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKC01MCUpOwogICAgZm9udC1zaXplOiA0MHB4OwogICAgbGluZS1oZWlnaHQ6IDYwcHg7CiAgICBsZXR0ZXItc3BhY2luZzogLTIuNHB4OwogIGB9CiAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8vIGltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCcKLy8gaW1wb3J0IHsgcmVuZGVyVG9TdHJpbmcgfSBmcm9tICdyZWFjdC1kb20vc2VydmVyJwovLyBpbXBvcnQgeyBTZXJ2ZXJTdHlsZVNoZWV0IH0gZnJvbSAnc3R5bGVkLWNvbXBvbmVudHMnCi8vIGltcG9ydCBHbG9iYWxTdHlsZWQgZnJvbSAnLi9HbG9iYWxTdHlsZWQnCi8vCi8vIGV4cG9ydCBjb25zdCByZXBsYWNlUmVuZGVyZXIgPSAoewovLyAgIGJvZHlDb21wb25lbnQsCi8vICAgcmVwbGFjZUJvZHlIVE1MU3RyaW5nLAovLyAgIHNldEhlYWRDb21wb25lbnRzLAovLyB9KSA9PiB7Ci8vICAgY29uc3QgQ29ubmVjdGVkQm9keSA9ICgpID0+ICgKLy8gICAgIDw+Ci8vICAgICAgICA8R2xvYmFsU3R5bGVkIC8+Ci8vICAgICAgIHtib2R5Q29tcG9uZW50fQovLyAgICAgPC8+Ci8vICAgKQovLyAgIHJlcGxhY2VCb2R5SFRNTFN0cmluZyhyZW5kZXJUb1N0cmluZyg8Q29ubmVjdGVkQm9keSAvPikpCi8vCi8vICAgY29uc3Qgc2hlZXQgPSBuZXcgU2VydmVyU3R5bGVTaGVldCgpOwovLyAgIGNvbnN0IGJvZHlIVE1MID0gcmVuZGVyVG9TdHJpbmcoc2hlZXQuY29sbGVjdFN0eWxlcyg8Q29ubmVjdGVkQm9keSAvPikpOwovLyAgIGNvbnN0IHN0eWxlRWxlbWVudCA9IHNoZWV0LmdldFN0eWxlRWxlbWVudCgpOwovLyAgIHNldEhlYWRDb21wb25lbnRzKHN0eWxlRWxlbWVudCkKLy8gfQo=</text>
+        <text encoding="base64">ICAke21lZGlhLmRlc2sxNDAwYAogICAgYmFja2dyb3VuZC1pbWFnZTogdXJsKCcvc3RhdGljL2ltYWdlcy9ob21lL2Jhbm5lci8xNDAwLmpwZycpOwogIGB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCB3cmFwUGFnZUVsZW1lbnQgPSB3cmFwUGFnZUVsZW1lbnQK</text>
+        <text encoding="base64">ICAke21lZGlhLmRlc2sxNDAwYAogICAgcGFkZGluZy10b3A6IDUwJTsKICBgfQogIAo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>desk1400</last-search>
+      <last-offset />
+      <last-pattern>desk1400</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search>
+        <entry>desk1400</entry>
+      </history-search>
       <history-cmd>
         <entry>vsplit</entry>
       </history-cmd>
