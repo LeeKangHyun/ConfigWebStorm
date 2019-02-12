@@ -148,7 +148,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/layout.css" timestamp="1549937689634" />
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Photo/index.js" timestamp="1549948736101">
         <mark key="[" line="15" column="48" />
         <mark key="]" line="15" column="48" />
@@ -232,6 +231,9 @@
         <mark key="^" line="5" column="44" />
         <mark key="." line="9" column="48" />
       </file>
+      <file name="/JavaScript Console" timestamp="1549954625220">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/gatsby-config.js" timestamp="1549952623891">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -264,10 +266,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/gatsby/gatsby-node.js" timestamp="1549878277250">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/station3/gatsby/gatsby-node.js" timestamp="1549954621184">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="64" />
+        <mark key="." line="13" column="64" />
+        <mark key="^" line="13" column="64" />
       </file>
       <file name="/Dummy.txt" timestamp="1549872601947">
         <mark key="[" line="0" column="0" />
@@ -291,13 +294,20 @@
         <mark key="^" line="60" column="78" />
         <mark key="." line="60" column="78" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1549952893193">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Service/AppDownload/index.js" timestamp="1549947346062">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="37" />
         <mark key="^" line="5" column="37" />
         <mark key="." line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/image.js" timestamp="1549951836519" />
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/image.js" timestamp="1549952921439">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Layout/index.js" timestamp="1549939486719">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="10" column="16" />
@@ -465,44 +475,44 @@
       <jump line="7" column="32" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Home/Banner/styled.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1lbnVMaW5rczogWwogICAgICB7CiAgICAgICAgbmFtZTogJy8nLAogICAgICAgIGxpbms6ICcvaG9tZScKICAgICAgfSwKICAgICAgewogICAgICAgIG5hbWU6ICdob21lJywKICAgICAgICBsaW5rOiAnL2hvbWUnCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBuYW1lOiAnY3VsdHVyZScsCiAgICAgICAgbGluazogJy9jdWx0dXJlJwogICAgICB9LAogICAgICB7CiAgICAgICAgbmFtZTogJ3NlcnZpY2UnLAogICAgICAgIGxpbms6ICcvc2VydmljZScKICAgICAgfQogICAgXQo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;/home&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>home</text>
+        <text>&quot;/home&quot;</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
       </register>
-      <register name="0" type="4">
-        <text>components/Culture/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBpZiAocGFnZS5wYXRoLm1hdGNoKC9eXC9ob21lLykpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1lbnVMaW5rczogWwogICAgICB7CiAgICAgICAgbmFtZTogJy8nLAogICAgICAgIGxpbms6ICcvaG9tZScKICAgICAgfSwKICAgICAgewogICAgICAgIG5hbWU6ICdob21lJywKICAgICAgICBsaW5rOiAnL2hvbWUnCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBuYW1lOiAnY3VsdHVyZScsCiAgICAgICAgbGluazogJy9jdWx0dXJlJwogICAgICB9LAogICAgICB7CiAgICAgICAgbmFtZTogJ3NlcnZpY2UnLAogICAgICAgIGxpbms6ICcvc2VydmljZScKICAgICAgfQogICAgXQo=</text>
+        <text encoding="base64">ICBpZiAocGFnZS5wYXRoLm1hdGNoKC9eXC9ob21lLykpIHsKICAgIHBhZ2UubWF0Y2hQYXRoID0gIi9ob21lIgogIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTGluayB9IGZyb20gImdhdHNieSIK</text>
+        <text encoding="base64">ICAKICBpZiAocGFnZS5wYXRoLm1hdGNoKC9eXC9ob21lLykpIHsKICAgIHBhZ2UubWF0Y2hQYXRoID0gIi9ob21lIgogIH0KICBpZiAocGFnZS5wYXRoLm1hdGNoKC9eXC8kLykpIHsKICAgIHBhZ2UubWF0Y2hQYXRoID0gIi9ob21lIgogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxoMT5IaSBwZW9wbGU8L2gxPgogICAgPHA+V2VsY29tZSB0byB5b3VyIG5ldyBHYXRzYnkgc2l0ZS48L3A+CiAgICA8cD5Ob3cgZ28gYnVpbGQgc29tZXRoaW5nIGdyZWF0LjwvcD4K</text>
+        <text encoding="base64">ICBpZiAocGFnZS5wYXRoLm1hdGNoKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxMaW5rIHRvPSIvYSI+R28gdG8gYTwvTGluaz4KICAgIDxMaW5rIHRvPSIvcGFnZS0yLyI+R28gdG8gcGFnZSAyPC9MaW5rPgo=</text>
+        <text encoding="base64">ICAgIAogICAgY3JlYXRlUGFnZShwYWdlKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGVsc2UgewogIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZVBhZ2UocGFnZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gKAogICAgPGEgaHJlZj17dG99IHsuLi5vdGhlcn0+CiAgICAgIHtjaGlsZHJlbn0KICAgIDwvYT4KICApCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBpZiAocGFnZS5wYXRoLm1hdGNoKC9eXC8vKSkgewogICAgcGFnZS5tYXRjaFBhdGggPSAiLyIKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNvbnN0IEJ0biA9IHN0eWxlZC5idXR0b25gCiAgYm9yZGVyOiAwOwogIGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50OwoKICAke21lZGlhLmRlc2sxNjAwYAogICAgd2lkdGg6IDEyOXB4OwogICAgaGVpZ2h0OiA0MnB4OwoKICAgICYgKyBidXR0b24gewogICAgICBtYXJnaW4tbGVmdDogMTJweDsKICAgIH0KICBgfQogIAogICR7bWVkaWEuZGVzazEyMDBgCiAgICB3aWR0aDogMTAzcHg7CiAgICBoZWlnaHQ6IDMzLjZweDsKICAgIAogICAgJiArIGJ1dHRvbiB7CiAgICAgIG1hcmdpbi1sZWZ0OiAxMHB4OwogICAgfQogIGB9CiAgCiAgJHttZWRpYS50YWJsZXRCYAogICAgd2lkdGg6IDE2MHB4OwogICAgaGVpZ2h0OiA1M3B4OwogICAgCiAgICAmICsgYnV0dG9uIHsKICAgICAgbWFyZ2luLWxlZnQ6IDEzcHg7CiAgICB9CiAgYH0KICAKICAke21lZGlhLnRhYmxldGAKICAgIHdpZHRoOiAxNjBweDsKICAgIGhlaWdodDogNTNweDsKCiAgICAmICsgYnV0dG9uIHsKICAgICAgbWFyZ2luLWxlZnQ6IDEzcHg7CiAgICB9CiAgYH0KICAKICAke21lZGlhLm1vYmlsZWAKICAgIHdpZHRoOiBjYWxjKDE2MHB4IC8gMik7CiAgICBoZWlnaHQ6IGNhbGMoNTNweCAvIDIpOwoKICAgICYgKyBidXR0b24gewogICAgICBtYXJnaW4tbGVmdDogY2FsYygxM3B4IC8gMik7CiAgICB9CiAgYH0KICAKICAke21lZGlhLm1vYmlsZVNgCiAgICB3aWR0aDogY2FsYygxMzlweCAvIDIpOwogICAgaGVpZ2h0OiBjYWxjKDQ2cHggLyAyKTsKCiAgICAmICsgYnV0dG9uIHsKICAgICAgbWFyZ2luLWxlZnQ6IDZweDsKICAgIH0KICBgfQpgCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
@@ -522,6 +532,8 @@
       <history-cmd>
         <entry>vsplit</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
