@@ -3,6 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/CoreValue/index.js" timestamp="1549948363071">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/gatsby-ssr.js" timestamp="1549939370121">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/AppBtn/styled.js" timestamp="1549951337476">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Components/Login/Component/Login/Controller.js" timestamp="1550035168954">
         <mark key="[" line="204" column="50" />
         <mark key="]" line="204" column="54" />
@@ -14,6 +29,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Home/Download/styled.js" timestamp="1549951277620">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Home/WhoWeAre/index.js" timestamp="1549946329519">
         <mark key="[" line="0" column="0" />
@@ -44,6 +64,11 @@
         <mark key="^" line="77" column="69" />
         <mark key="." line="77" column="69" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Service/Banner/index.js" timestamp="1549951563508">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Components/Header/index.js" timestamp="1550039087685">
         <mark key="[" line="14" column="35" />
         <mark key="]" line="15" column="1" />
@@ -69,12 +94,39 @@
       <file name="$USER_HOME$/Documents/station3/dabang-server/config/data/data.js" timestamp="1550041742202">
         <mark key="." line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/station3/src/pages/culture.js" timestamp="1550044470889" />
+      <file name="$USER_HOME$/Documents/station3/station3/src/components/Culture/Photo/index.js" timestamp="1550044460865">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/station3/src/components/Home/WhoWeAre/index.js" timestamp="1550043120149">
+        <mark key="[" line="28" column="18" />
+        <mark key="]" line="28" column="18" />
+        <mark key="." line="28" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/pages/home/index.js" timestamp="1549935780111">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+      </file>
       <file name="/index.js" timestamp="1550038970893" />
       <file name="$USER_HOME$/Documents/station3/station3/src/utils/config.js" timestamp="1549962602137">
         <mark key="[" line="26" column="3" />
         <mark key="]" line="27" column="9" />
         <mark key="^" line="27" column="9" />
         <mark key="." line="27" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/gatsby-config.js" timestamp="1549952623891">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/html.js" timestamp="1549950967196">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="8" />
+        <mark key="." line="13" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/station3/station3/src/components/Menus/styled.js" timestamp="1550021775663">
         <mark key="[" line="17" column="11" />
@@ -130,6 +182,18 @@
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Home/Content/index.js" timestamp="1549946654711">
         <mark key="[" line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/pages/home/History/index.js" timestamp="1549935530287">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/station3/src/components/Menus/SideMenu/index.js" timestamp="1549960420931">
+        <mark key="'" line="84" column="26" />
+        <mark key="[" line="103" column="25" />
+        <mark key="]" line="103" column="34" />
+        <mark key="." line="103" column="34" />
+        <mark key="^" line="103" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/station3/static/images/service/banner/375.svg" timestamp="1550032974479">
         <mark key="[" line="12" column="62" />
         <mark key="]" line="12" column="84" />
@@ -164,6 +228,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="171" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Menus/SideMenu/styled.js" timestamp="1549941547110">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Home/Contact/Map/Controller.js" timestamp="1549951020340">
         <mark key="[" line="13" column="11" />
         <mark key="]" line="13" column="16" />
@@ -176,17 +245,32 @@
         <mark key="^" line="16" column="43" />
         <mark key="." line="15" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/CoreValue/styled.js" timestamp="1549951319996">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/station3/package.json" timestamp="1549959828043">
         <mark key="[" line="32" column="28" />
         <mark key="]" line="33" column="58" />
         <mark key="." line="33" column="58" />
         <mark key="^" line="33" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/pages/index.js" timestamp="1549952513850">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/station3/src/components/Home/WhoWeAre/styled.js" timestamp="1550021674489">
         <mark key="[" line="293" column="0" />
         <mark key="]" line="293" column="0" />
         <mark key="." line="293" column="0" />
         <mark key="^" line="292" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Home/History/index.js" timestamp="1549946545985">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/jsconfig.json" timestamp="1550034991429">
         <mark key="[" line="2" column="0" />
@@ -237,13 +321,28 @@
       <file name="/JavaScript Console" timestamp="1549954625220">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Service/DabangServices/styled.js" timestamp="1549951240884">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Service/AppDownload/styled.js" timestamp="1549951544484">
+        <mark key="[" line="309" column="0" />
+        <mark key="]" line="309" column="0" />
+        <mark key="." line="309" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Home/Contact/styled.js" timestamp="1549951275252">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/gatsby-node.js" timestamp="1549954621184">
         <mark key="[" line="13" column="25" />
         <mark key="]" line="13" column="64" />
         <mark key="." line="13" column="64" />
         <mark key="^" line="13" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550041745612">
+      <file name="/Dummy.txt" timestamp="1550044697031">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -254,6 +353,13 @@
         <mark key="]" line="60" column="78" />
         <mark key="^" line="60" column="78" />
         <mark key="." line="60" column="78" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/station3/src/components/Layout/styled.js" timestamp="1550044639357">
+        <mark key="'" line="113" column="3" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="20" />
+        <mark key="^" line="111" column="19" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/image.js" timestamp="1549952921439">
         <mark key="[" line="21" column="0" />
@@ -278,11 +384,21 @@
         <mark key="." line="58" column="23" />
         <mark key="^" line="44" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/gatsby-browser.js" timestamp="1549939377968">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/GlobalStyled.js" timestamp="1549938406872">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/styled.js" timestamp="1549951298308">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Recruit/index.js" timestamp="1549952103082">
         <mark key="[" line="6" column="9" />
@@ -382,19 +498,20 @@
       <jump line="7" column="32" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Home/Banner/styled.js" />
       <jump line="83" column="26" filename="$USER_HOME$/Documents/station3/station3/src/components/Menus/SideMenu/index.js" />
       <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="113" column="3" filename="$USER_HOME$/Documents/station3/station3/src/components/Layout/styled.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>gnb</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG1heC13aWR0aDogMTAwJTsK</text>
       </register>
       <register name="-" type="4">
-        <text>gnb</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEdvUHJvID0gc3R5bGVkKFBhZ2VMaW5rKS5hdHRycyh7CiAgaHJlZjogJ2h0dHBzOi8vcHJvLmRhYmFuZ2FwcC5jb20nLAogIHRhcmdldDogJ19ibGFuaycsCiAgcmVsOiAnbm9vcGVuZXIgbm9yZWZlcnJlcicsCn0pYAoKYAo=</text>
+        <text encoding="base64">ICAgIG1heC13aWR0aDogMTAwJTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ci8qZXhwb3J0IGNvbnN0IEdvUHJvID0gc3R5bGVkLmEuYXR0cnMoewogIGhyZWY6ICdodHRwczovL3Byby5kYWJhbmdhcHAuY29tJywKICB0YXJnZXQ6ICdfYmxhbmsnLAogIHJlbDogJ25vb3BlbmVyIG5vcmVmZXJyZXInLAp9KWAKICBmbG9hdDogbGVmdDsKICBoZWlnaHQ6IDI4cHg7CiAgcGFkZGluZzogMCAyMXB4IDAgMTJweDsKICBtYXJnaW4tdG9wOiAyMHB4OwogIG1hcmdpbi1sZWZ0OiAxM3B4OwogIGNvbG9yOiAjMTU2NGY5OwogIGZvbnQtc2l6ZTogMTFweDsKICBsaW5lLWhlaWdodDogMjZweDsKICBsZXR0ZXItc3BhY2luZzogLTAuNHB4OwogIHRleHQtYWxpZ246IGNlbnRlcjsKICBib3JkZXI6IDFweCBzb2xpZCAjYzBjMGMwOwogIGJvcmRlci1yYWRpdXM6IDI4cHg7CiAgcG9zaXRpb246IHJlbGF0aXZlOwoKICAmOjphZnRlciB7CiAgICBjb250ZW50OiAnJzsKICAgIHdpZHRoOiAwOwogICAgaGVpZ2h0OiAwOwogICAgYm9yZGVyLXRvcDogM3B4IHNvbGlkIHRyYW5zcGFyZW50OwogICAgYm9yZGVyLWJvdHRvbTogM3B4IHNvbGlkIHRyYW5zcGFyZW50OwogICAgYm9yZGVyLWxlZnQ6IDRweCBzb2xpZCAjMTU2NGY5OwogICAgYm9yZGVyLXJpZ2h0OiAzcHggc29saWQgdHJhbnNwYXJlbnQ7CiAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICB0b3A6IDUwJTsKICAgIHJpZ2h0OiA4cHg7CiAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoLTUwJSk7CiAgfQpgKi8K</text>
