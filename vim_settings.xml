@@ -88,9 +88,6 @@
         <mark key="." line="15" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/station3/station3/gatsby-node.js" timestamp="1549959875610" />
-      <file name="/JSRegexp Fragment (index.js:3652).regexp" timestamp="1549951911066">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/config/data/data.js" timestamp="1550041742202">
         <mark key="." line="1" column="13" />
       </file>
@@ -152,9 +149,6 @@
         <mark key="." line="30" column="28" />
         <mark key="^" line="30" column="28" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1550022421455">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Components/Header/styled.js" timestamp="1550041183322">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -178,9 +172,6 @@
         <mark key="]" line="33" column="13" />
         <mark key="^" line="33" column="13" />
         <mark key="." line="33" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Home/Content/index.js" timestamp="1549946654711">
-        <mark key="[" line="9" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/pages/home/History/index.js" timestamp="1549935530287">
         <mark key="[" line="6" column="10" />
@@ -288,6 +279,12 @@
         <mark key="^" line="228" column="90" />
       </file>
       <file name="$USER_HOME$/Documents/station3/station3/src/html.js" timestamp="1549959799079" />
+      <file name="$USER_HOME$/Documents/station3/station3/src/components/Culture/Photo/styled.js" timestamp="1550047825593">
+        <mark key="[" line="76" column="19" />
+        <mark key="]" line="34" column="20" />
+        <mark key="." line="76" column="20" />
+        <mark key="^" line="34" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Components/Login/Component/Login/styled.js" timestamp="1550037414669">
         <mark key="[" line="171" column="0" />
         <mark key="]" line="171" column="0" />
@@ -318,9 +315,6 @@
         <mark key="^" line="5" column="44" />
         <mark key="." line="9" column="48" />
       </file>
-      <file name="/JavaScript Console" timestamp="1549954625220">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Service/DabangServices/styled.js" timestamp="1549951240884">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -342,10 +336,10 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="13" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550044697031">
+      <file name="/Dummy.txt" timestamp="1550047901850">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Service/DabangServices/Title/index.js" timestamp="1549947862198">
@@ -501,11 +495,11 @@
       <jump line="113" column="3" filename="$USER_HOME$/Documents/station3/station3/src/components/Layout/styled.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1heC13aWR0aDogMTAwJTsK</text>
+      <register name="&quot;" type="4">
+        <text>css width 변하는 issue 수정</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>css width 변하는 issue 수정</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
