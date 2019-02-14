@@ -133,6 +133,12 @@
         <mark key="." line="33" column="58" />
         <mark key="^" line="33" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/station3/public/robots.txt" timestamp="1550131639557">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Service/Banner/index.js" timestamp="1549951563508">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="15" />
@@ -531,10 +537,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgCiAgICAgICAgICAgIA==</text>
+        <text>http://www.example.com</text>
       </register>
       <register name="-" type="4">
-        <text>{}</text>
+        <text>http://www.example.com</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
