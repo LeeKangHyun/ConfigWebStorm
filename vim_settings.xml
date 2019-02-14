@@ -198,6 +198,12 @@
         <mark key="." line="136" column="11" />
         <mark key="^" line="136" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/station3/src/html.js" timestamp="1550121800334">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="24" column="51" />
+        <mark key="." line="24" column="51" />
+        <mark key="^" line="24" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/station3/src/components/Culture/Photo/index.js" timestamp="1550044460865">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="17" />
@@ -238,9 +244,9 @@
         <mark key="." line="8" column="16" />
         <mark key="^" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/station3/src/utils/config.js" timestamp="1549962602137">
-        <mark key="[" line="26" column="3" />
-        <mark key="]" line="27" column="9" />
+      <file name="$USER_HOME$/Documents/station3/station3/src/utils/config.js" timestamp="1550121744319">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="62" />
         <mark key="^" line="27" column="9" />
         <mark key="." line="27" column="9" />
       </file>
@@ -306,7 +312,7 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="13" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550113668223">
+      <file name="/Dummy.txt" timestamp="1550121833086">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -516,48 +522,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>station3</text>
+        <text>https://www.instagram.com/dabang_app/</text>
       </register>
       <register name="-" type="4">
-        <text>station3</text>
+        <text>http://storefarm.naver.com/mystore</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE5ld0JhZGdlIC8+Cg==</text>
+      <register name="0" type="4">
+        <text>https://www.instagram.com/dabang_app/</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PgogICAgICAgIAogICAgICA8L2Rpdg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0PgogICAgICAgICAgCiAgICAgICAgPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">PgogICAgICAgIAogICAgICA8L2Rpdg==</text>
+      </register>
+      <register name="3" type="4">
         <text>{}
     
     temp</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8bGFiZWw+CiAgICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5hbWU9ImNhcmQiIGNoZWNrZWQ9e2ZpbHRlcnMuY2FyZH0gb25DaGFuZ2U9e29uQ2hhbmdlVG9GaWx0ZXJ9IC8+CiAgICAgICAgICA8c3Bhbj7subTrk5zqsIDriqU8L3NwYW4+CiAgICAgICAgPC9sYWJlbD4KCiAgICAgICAgPGxhYmVsPgogICAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJ0cnVzdF9zY29yZSIgY2hlY2tlZD17ZmlsdGVycy50cnVzdF9zY29yZX0gb25DaGFuZ2U9e29uQ2hhbmdlVG9GaWx0ZXJ9IC8+CiAgICAgICAgICA8c3Bhbj7tl4jsnITrp6TrrLzsiqTsvZTslrQ8L3NwYW4+CiAgICAgICAgPC9sYWJlbD4qL30K</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gY2FyZDogZmlsdGVycy5jYXJkLAogICAgICAvLyB0cnVzdF9zY29yZTogZmlsdGVycy50cnVzdF9zY29yZSwK</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8bGFiZWw+CiAgICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5hbWU9ImNhcmQiIGNoZWNrZWQ9e2ZpbHRlcnMuY2FyZH0gb25DaGFuZ2U9e29uQ2hhbmdlVG9GaWx0ZXJ9IC8+CiAgICAgICAgICA8c3Bhbj7subTrk5zqsIDriqU8L3NwYW4+CiAgICAgICAgPC9sYWJlbD4KCiAgICAgICAgPGxhYmVsPgogICAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJ0cnVzdF9zY29yZSIgY2hlY2tlZD17ZmlsdGVycy50cnVzdF9zY29yZX0gb25DaGFuZ2U9e29uQ2hhbmdlVG9GaWx0ZXJ9IC8+CiAgICAgICAgICA8c3Bhbj7tl4jsnITrp6TrrLzsiqTsvZTslrQ8L3NwYW4+CiAgICAgICAgPC9sYWJlbD4qL30K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgLy8gY2FyZDogZmlsdGVycy5jYXJkLAogICAgICAvLyB0cnVzdF9zY29yZTogZmlsdGVycy50cnVzdF9zY29yZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gY2FyZDogJycsICAgICAgICAgLy8g7Lm065OcIOqwgOuKpeyXrOu2gAogICAgICAvLyB0cnVzdF9zY29yZTogJycsICAvLyDtl4jrrojrp6TrrLwg7Iqk7L2U7Ja0Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gY2FyZDogZmlsdGVycy5jYXJkLAogICAgICAvLyB0cnVzdF9zY29yZTogZmlsdGVycy50cnVzdF9zY29yZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGlmIChuYW1lID09PSAnY2FyZCcgfHwgbmFtZSA9PT0gJ3RydXN0X3Njb3JlJykgewogICAgLy8gICB0ZW1wID0gewogICAgLy8gICAgIFtuYW1lXTogeyAkc2V0OiBjaGVja2VkIH0KICAgIC8vICAgfQogICAgLy8KICAgIC8vIH0gZWxzZSB7CiAgICAvLyAgIHRlbXAgPSB7CiAgICAvLyAgICAgW25hbWVdOiB7ICRzZXQ6IHZhbHVlIH0KICAgIC8vICAgfQogICAgLy8gfQo=</text>
+        <text encoding="base64">ICAgICAgLy8gY2FyZDogJycsICAgICAgICAgLy8g7Lm065OcIOqwgOuKpeyXrOu2gAogICAgICAvLyB0cnVzdF9zY29yZTogJycsICAvLyDtl4jrrojrp6TrrLwg7Iqk7L2U7Ja0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIC8vIGlmIChuYW1lID09PSAnY2FyZCcgfHwgbmFtZSA9PT0gJ3RydXN0X3Njb3JlJykgewogICAgLy8gICB0ZW1wID0gewogICAgLy8gICAgIFtuYW1lXTogeyAkc2V0OiBjaGVja2VkIH0KICAgIC8vICAgfQogICAgLy8KICAgIC8vIH0gZWxzZSB7CiAgICAvLyAgIHRlbXAgPSB7CiAgICAvLyAgICAgW25hbWVdOiB7ICRzZXQ6IHZhbHVlIH0KICAgIC8vICAgfQogICAgLy8gfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtYXJnaW4tdG9wOiAyMnB4OwogIG1hcmdpbi1sZWZ0OiAyMHB4Owo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>vsplit</text>
+        <text>split</text>
       </register>
     </registers>
     <search>
@@ -573,6 +579,7 @@
       </history-search>
       <history-cmd>
         <entry>vsplit</entry>
+        <entry>split</entry>
       </history-cmd>
       <history-expr />
       <history-input />
