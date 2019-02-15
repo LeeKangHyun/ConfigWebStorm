@@ -133,11 +133,12 @@
         <mark key="." line="113" column="48" />
         <mark key="^" line="113" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Theme/List/Controller.js" timestamp="1550200745824">
-        <mark key="[" line="162" column="43" />
-        <mark key="]" line="162" column="43" />
-        <mark key="." line="162" column="43" />
-        <mark key="^" line="162" column="43" />
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Theme/List/Controller.js" timestamp="1550220425273">
+        <mark key="'" line="72" column="48" />
+        <mark key="[" line="173" column="16" />
+        <mark key="]" line="173" column="18" />
+        <mark key="." line="173" column="18" />
+        <mark key="^" line="173" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Selling/List/index.js" timestamp="1550199684473" />
       <file name="$USER_HOME$/Documents/station3/dabang-server/config/data/data.js" timestamp="1550109958296">
@@ -183,6 +184,12 @@
         <mark key="]" line="171" column="0" />
         <mark key="^" line="153" column="21" />
         <mark key="." line="171" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Theme/List/Component/Table/Item.js" timestamp="1550219237839">
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="15" column="45" />
+        <mark key="." line="15" column="45" />
+        <mark key="^" line="15" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/station3/station3/pages/culture/Interview/Carousel/styled.js" timestamp="1549862134908">
         <mark key="[" line="129" column="6" />
@@ -273,6 +280,12 @@
         <mark key="^" line="42" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Selling/List/Component/Table/index.js" timestamp="1550199711377" />
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Theme/Form/index.js" timestamp="1550219948103">
+        <mark key="[" line="19" column="66" />
+        <mark key="]" line="19" column="76" />
+        <mark key="." line="19" column="76" />
+        <mark key="^" line="19" column="76" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Service/AppDownload/index.js" timestamp="1549947346062">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="37" />
@@ -308,6 +321,12 @@
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Theme/List/Component/Table/index.js" timestamp="1550218911766">
+        <mark key="[" line="27" column="14" />
+        <mark key="]" line="27" column="14" />
+        <mark key="." line="27" column="14" />
+        <mark key="^" line="27" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/station3/station3/components/AppBtn/styled.js" timestamp="1549870799306">
         <mark key="[" line="33" column="13" />
@@ -417,48 +436,53 @@
       <jump line="379" column="2" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Room/Rooms/Controller.js" />
       <jump line="22" column="0" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Room/Rooms/Controller.js" />
       <jump line="188" column="3" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Selling/List/Controller.js" />
+      <jump line="72" column="48" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Theme/List/Controller.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>`/api/sale-in-lots/themes/${seq}/show`</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>`/api/sale-in-lots/themes/${seq}/show`</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
       </register>
       <register name="0" type="4">
-        <text>https://www.instagram.com/dabang_app/</text>
+        <text>/api/sale-in-lots/themes/${seq}/show</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAKICBvbkNoYW5nZVRvU2hvd0FwaSA9IGFzeW5jIChzZXEsIGZsYWcsIHR5cGUpID0+IHsKICAgIHJldHVybiBhd2FpdCAKICB9Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>apiCall.put(`/api/sale-in-lots/themes/${seq}/show`, {
+      is_exposure: !flag
+    })</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8dGg+7YOc6re4PC90aD4KICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICA8Zm9ybT4KICAgICAgICAgICAgICAgICAgPElucHV0U3RkIHR5cGU9InRleHQiIG5hbWU9InRhZyIgdmFsdWU9e3RhZ30gb25DaGFuZ2U9e29uQ2hhbmdlVG9TdGF0ZX0gc3R5bGU9e3sgZGlzcGxheTogJ2lubGluZS1ibG9jaycsIHdpZHRoOiAnMzIwcHgnLCBib3JkZXJSaWdodDogMCB9fSAvPgogICAgICAgICAgICAgICAgICA8U2VhcmNoQnRuIHR5cGU9InN1Ym1pdCIgY29sb3I9IndoaXRlLWJsdWUiIG9uQ2xpY2s9e29uQ2xpY2tBZGRUYWd9Puy2lOqwgDwvU2VhcmNoQnRuPgogICAgICAgICAgICAgICAgPC9mb3JtPgogICAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgICAge3RhZ3MgJiYgdGFncy5sZW5ndGggPiAwICYmICgKICAgICAgICAgICAgICAgICAgICB0YWdzLm1hcCgoc3RyLCBrZXkpID0+IHsKICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICAgICAgICAgIDxUYWcga2V5PXtrZXl9PgogICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPntzdHJ9PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gb25DbGljaz17b25DbGlja0RlbGV0ZVRhZy5iaW5kKG51bGwsIGtleSl9PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHN2ZyB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cG9seWxpbmUgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2VXaWR0aD0iMiIgc3Ryb2tlTGluZWNhcD0icm91bmQiIHBvaW50cz0iMCwyMCAxMCwxMCAyMCwwIiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cG9seWxpbmUgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2VXaWR0aD0iMiIgc3Ryb2tlTGluZWNhcD0icm91bmQiIHBvaW50cz0iMCwwIDEwLDEwIDIwLDIwIiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvVGFnPgogICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L3RkPgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="5" type="4">
+        <text>apiCall.put(`/api/sale-in-lots/themes/${seq}/show`, {
+      is_exposure: !is_show
+    })</text>
+      </register>
+      <register name="6" type="4">
         <text>else {
       
     }</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGFwaUNhbGwucHV0KGAvYXBpL3NhbGUtaW4tbG90cy90aGVtZXMvJHtzZXF9L3Nob3dgLCB7CiAgICAgIGlzX2V4cG9zdXJlOiAhaXNfc2hvdwogICAgfSkudGhlbihkYXRhID0+IHsKICAgICAgVG9hc3Quc3VjY2Vzcygi7IiY7KCV7JmE66OMIikKICAgICAgCiAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgIGlzTG9hZGluZzogdHJ1ZSwKICAgICAgfSwgKCkgPT4gewogICAgICAgIHRoaXMuZ2V0VGhlbWVMaXN0KHRoaXMuc3RhdGUucGFnZSkKICAgICAgfSkKCiAgICB9KS5jYXRjaChlcnIgPT4gewogICAgICBjb25zb2xlLmxvZyhlcnIpCgogICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICBpc0xvYWRpbmc6IGZhbHNlLAogICAgICB9KQogICAgICBsZXQgbXNnID0gJycKICAgICAgdHJ5IHsKICAgICAgICBtc2cgPSBlcnIubXNnCiAgICAgIH0gY2F0Y2goZSkgewogICAgICAgIG1zZyA9ICfrhbjstpwg7Jyg66y066W8IOyImOygle2VmOuKlOykkSDsl5Drn6zqsIAg67Cc7IOd7ZWY7JiA7Iq164uI64ukLicKICAgICAgfQogICAgICBUb2FzdC5lcnJvcihtc2cpCiAgICB9KQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjcmlwdD57fTwvc2NyaXB0Pgo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgCiAgICAgICAgICAgIA==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHR5cGU9ImFwcGxpY2F0aW9uL2xkK2pzb24iPgogICAgICAgIDwvc2NyaXB0Pgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxKc29uTGQgZGF0YT17ewogICAgICAgICAgICJAY29udGV4dCI6ICJodHRwOi8vc2NoZW1hLm9yZyIsCiAgICAgICAgICAgIkB0eXBlIjogIk9yZ2FuaXphdGlvbiIsCiAgICAgICAgICAgIm5hbWUiOiAi7Iqk7YWM7J207IWYMyIsCiAgICAgICAgICAgInVybCI6ICJodHRwOi8vd3d3LnN0YXRpb24zLmNvLmtyIiwKICAgICAgICAgICAic2FtZUFzIjogWwogICAgICAgICAgICAgImh0dHBzOi8vcG9zdC5uYXZlci5jb20vc3RhdGlvbjNpbmMiLAogICAgICAgICAgICAgImh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9kYWJhbmdhcHAiLAogICAgICAgICAgICAgImh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vZGFiYW5nX2FwcC8iCiAgICAgICAgICAgXQogICAgICAgICAgfX0vPgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgSlNPTkxEID0gKCkgPT4gewp9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBKc29uTGQgPSAoeyBkYXRhIH0pID0+CiAgICA8c2NyaXB0CiAgICAgIHR5cGU9ImFwcGxpY2F0aW9uL2xkK2pzb24iCiAgICAgIGRhbmdlcm91c2x5U2V0SW5uZXJIVE1MPXt7IF9faHRtbDogSlNPTi5zdHJpbmdpZnkoZGF0YSkgfX0KICAgIC8+OyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjcmlwdD57fTwvc2NyaXB0Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
