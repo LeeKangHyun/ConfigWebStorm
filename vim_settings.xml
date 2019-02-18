@@ -199,12 +199,12 @@
         <mark key="." line="113" column="48" />
         <mark key="^" line="113" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Theme/List/Controller.js" timestamp="1550458864716">
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Theme/List/Controller.js" timestamp="1550460485340">
         <mark key="'" line="72" column="48" />
-        <mark key="[" line="113" column="26" />
-        <mark key="]" line="113" column="53" />
-        <mark key="." line="113" column="53" />
-        <mark key="^" line="113" column="53" />
+        <mark key="[" line="175" column="12" />
+        <mark key="]" line="175" column="13" />
+        <mark key="." line="175" column="13" />
+        <mark key="^" line="175" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Selling/List/index.js" timestamp="1550199684473" />
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Home/History/index.js" timestamp="1549946545985">
@@ -268,11 +268,11 @@
         <mark key="^" line="153" column="21" />
         <mark key="." line="171" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Theme/List/Component/Table/Item.js" timestamp="1550458995220">
-        <mark key="[" line="12" column="127" />
-        <mark key="]" line="12" column="126" />
-        <mark key="." line="12" column="126" />
-        <mark key="^" line="12" column="126" />
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Theme/List/Component/Table/Item.js" timestamp="1550459975827">
+        <mark key="[" line="23" column="78" />
+        <mark key="]" line="23" column="86" />
+        <mark key="." line="23" column="86" />
+        <mark key="^" line="23" column="86" />
       </file>
       <file name="$USER_HOME$/Documents/station3/station3/pages/culture/Interview/Carousel/styled.js" timestamp="1549862134908">
         <mark key="[" line="129" column="6" />
@@ -572,11 +572,11 @@
       <jump line="72" column="48" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Theme/List/Controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8YnIgLz4K</text>
+      <register name="&quot;" type="4">
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>is_show</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
@@ -585,37 +585,33 @@
         <text encoding="base64">ICAgICAgICA8U2VsZWN0IG5hbWU9ImlzX3Nob3ciIHZhbHVlPXtpc19zaG93fSBvbkNoYW5nZT17b25DaGFuZ2VUb1N0YXRlfSBzdHlsZT17e3dpZHRoOiAnMTQ1cHgnLCBtYXJnaW5SaWdodDogMH19PgogICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iIj7rhbjstpwg7Jyg66y0ICjsoITssrQpPC9vcHRpb24+CiAgICAgICAgICA8b3B0aW9uIHZhbHVlPXt0cnVlfT7rhbjstpw8L29wdGlvbj4KICAgICAgICAgIDxvcHRpb24gdmFsdWU9e2ZhbHNlfT7ruYTrhbjstpw8L29wdGlvbj4KICAgICAgICA8L1NlbGVjdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8YnIgLz4K</text>
+        <text encoding="base64">ICAgIGxldCBtZXRob2Q7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKICBvbkNoYW5nZVRvU2hvd0FwaSA9IGFzeW5jIChzZXEsIGZsYWcsIHR5cGUpID0+IHsKICAgIHJldHVybiBhd2FpdCAKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSAnc2hvdyc6Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>apiCall.put(`/api/sale-in-lots/themes/${seq}/show`, {
-      is_exposure: !flag
-    })</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8dGg+7YOc6re4PC90aD4KICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICA8Zm9ybT4KICAgICAgICAgICAgICAgICAgPElucHV0U3RkIHR5cGU9InRleHQiIG5hbWU9InRhZyIgdmFsdWU9e3RhZ30gb25DaGFuZ2U9e29uQ2hhbmdlVG9TdGF0ZX0gc3R5bGU9e3sgZGlzcGxheTogJ2lubGluZS1ibG9jaycsIHdpZHRoOiAnMzIwcHgnLCBib3JkZXJSaWdodDogMCB9fSAvPgogICAgICAgICAgICAgICAgICA8U2VhcmNoQnRuIHR5cGU9InN1Ym1pdCIgY29sb3I9IndoaXRlLWJsdWUiIG9uQ2xpY2s9e29uQ2xpY2tBZGRUYWd9Puy2lOqwgDwvU2VhcmNoQnRuPgogICAgICAgICAgICAgICAgPC9mb3JtPgogICAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgICAge3RhZ3MgJiYgdGFncy5sZW5ndGggPiAwICYmICgKICAgICAgICAgICAgICAgICAgICB0YWdzLm1hcCgoc3RyLCBrZXkpID0+IHsKICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICAgICAgICAgIDxUYWcga2V5PXtrZXl9PgogICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPntzdHJ9PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gb25DbGljaz17b25DbGlja0RlbGV0ZVRhZy5iaW5kKG51bGwsIGtleSl9PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHN2ZyB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMjAgMjAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cG9seWxpbmUgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2VXaWR0aD0iMiIgc3Ryb2tlTGluZWNhcD0icm91bmQiIHBvaW50cz0iMCwyMCAxMCwxMCAyMCwwIiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cG9seWxpbmUgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2VXaWR0aD0iMiIgc3Ryb2tlTGluZWNhcD0icm91bmQiIHBvaW50cz0iMCwwIDEwLDEwIDIwLDIwIiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvVGFnPgogICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="6" type="4">
-        <text>apiCall.put(`/api/sale-in-lots/themes/${seq}/show`, {
-      is_exposure: !is_show
-    })</text>
-      </register>
-      <register name="7" type="4">
-        <text>else {
-      
-    }</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgbWV0aG9kOiAnJywKICAgICAgdXJsOiB1cmwsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtZXRob2QgPSAnUE9TVCc7Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>apiCall.put(url, {
+      [type]: !is_show
+    })</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFwaUNhbGwucHV0KGAvYXBpL3NhbGUtaW4tbG90cy90aGVtZXMvJHtzZXF9L3Nob3dgLCB7CiAgICAgIGlzX2V4cG9zdXJlOiAhaXNfc2hvdwogICAgfSkudGhlbihkYXRhID0+IHsKICAgICAgVG9hc3Quc3VjY2Vzcygi7IiY7KCV7JmE66OMIikKICAgICAgCiAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgIGlzTG9hZGluZzogdHJ1ZSwKICAgICAgfSwgKCkgPT4gewogICAgICAgIHRoaXMuZ2V0VGhlbWVMaXN0KHRoaXMuc3RhdGUucGFnZSkKICAgICAgfSkKCiAgICB9KS5jYXRjaChlcnIgPT4gewogICAgICBjb25zb2xlLmxvZyhlcnIpCgogICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICBpc0xvYWRpbmc6IGZhbHNlLAogICAgICB9KQogICAgICBsZXQgbXNnID0gJycKICAgICAgdHJ5IHsKICAgICAgICBtc2cgPSBlcnIubXNnCiAgICAgIH0gY2F0Y2goZSkgewogICAgICAgIG1zZyA9ICfrhbjstpwg7Jyg66y066W8IOyImOygle2VmOuKlOykkSDsl5Drn6zqsIAg67Cc7IOd7ZWY7JiA7Iq164uI64ukLicKICAgICAgfQogICAgICBUb2FzdC5lcnJvcihtc2cpCiAgICB9KQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVybCA9IGAvYXBpL3NhbGUtaW4tbG90cy90aGVtZXMvJHtzZXF9LyR7J2lzX2V4cG9zZScgPT09IHR5cGUgPyAnZXhwb3NlLWhvbWUnOidzaG93J31gOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
