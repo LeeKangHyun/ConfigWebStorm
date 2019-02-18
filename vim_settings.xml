@@ -56,6 +56,12 @@
         <mark key="^" line="95" column="22" />
         <mark key="." line="95" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Theme/Form/Controller.js" timestamp="1550465564331">
+        <mark key="[" line="197" column="25" />
+        <mark key="]" line="198" column="38" />
+        <mark key="^" line="198" column="38" />
+        <mark key="." line="198" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Home/WhoWeAre/index.js" timestamp="1549946329519">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="37" column="32" />
@@ -199,12 +205,12 @@
         <mark key="." line="113" column="48" />
         <mark key="^" line="113" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Theme/List/Controller.js" timestamp="1550460485340">
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Theme/List/Controller.js" timestamp="1550465210332">
         <mark key="'" line="72" column="48" />
-        <mark key="[" line="175" column="12" />
-        <mark key="]" line="175" column="13" />
-        <mark key="." line="175" column="13" />
-        <mark key="^" line="175" column="13" />
+        <mark key="[" line="211" column="22" />
+        <mark key="]" line="211" column="22" />
+        <mark key="." line="211" column="22" />
+        <mark key="^" line="211" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Selling/List/index.js" timestamp="1550199684473" />
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Home/History/index.js" timestamp="1549946545985">
@@ -360,8 +366,8 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="13" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550222023483">
-        <mark key="[" line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1550465359275">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
@@ -393,11 +399,12 @@
         <mark key="^" line="42" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Selling/List/Component/Table/index.js" timestamp="1550199711377" />
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Theme/Form/index.js" timestamp="1550219948103">
-        <mark key="[" line="19" column="66" />
-        <mark key="]" line="19" column="76" />
-        <mark key="." line="19" column="76" />
-        <mark key="^" line="19" column="76" />
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Theme/Form/index.js" timestamp="1550465599662">
+        <mark key="'" line="147" column="9" />
+        <mark key="[" line="75" column="79" />
+        <mark key="]" line="75" column="83" />
+        <mark key="." line="75" column="83" />
+        <mark key="^" line="75" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Service/AppDownload/index.js" timestamp="1549947346062">
         <mark key="[" line="5" column="31" />
@@ -570,48 +577,49 @@
       <jump line="22" column="0" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Room/Rooms/Controller.js" />
       <jump line="188" column="3" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Selling/List/Controller.js" />
       <jump line="72" column="48" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Theme/List/Controller.js" />
+      <jump line="147" column="9" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Theme/Form/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8U2VsZWN0IG5hbWU9ImlzX3Nob3ciIHZhbHVlPXtpc19zaG93fSBvbkNoYW5nZT17b25DaGFuZ2VUb1N0YXRlfSBzdHlsZT17e3dpZHRoOiAnMTQ1cHgnLCBtYXJnaW5SaWdodDogMH19PgogICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iIj7rhbjstpwg7Jyg66y0ICjsoITssrQpPC9vcHRpb24+CiAgICAgICAgICA8b3B0aW9uIHZhbHVlPXt0cnVlfT7rhbjstpw8L29wdGlvbj4KICAgICAgICAgIDxvcHRpb24gdmFsdWU9e2ZhbHNlfT7ruYTrhbjstpw8L29wdGlvbj4KICAgICAgICA8L1NlbGVjdD4K</text>
+        <text encoding="base64">ICAgICAgICAgIHVybDogYCR7dXJsfWV4cG9zZS1ob21lYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBtZXRob2Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHVybDogdXJsKydzaG93Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAnc2hvdyc6Cg==</text>
+        <text encoding="base64">ICAgIGxldCBtZXRob2Q7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSAnc2hvdyc6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiB7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbWV0aG9kOiAnJywKICAgICAgdXJsOiB1cmwsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgbWV0aG9kOiAnJywKICAgICAgdXJsOiB1cmwsCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBtZXRob2QgPSAnUE9TVCc7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>apiCall.put(url, {
       [type]: !is_show
     })</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVybCA9IGAvYXBpL3NhbGUtaW4tbG90cy90aGVtZXMvJHtzZXF9LyR7J2lzX2V4cG9zZScgPT09IHR5cGUgPyAnZXhwb3NlLWhvbWUnOidzaG93J31gOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
@@ -630,6 +638,8 @@
       </history-search>
       <history-cmd>
         <entry>split</entry>
+        <entry>ㅂ</entry>
+        <entry>q</entry>
         <entry>vsplit</entry>
       </history-cmd>
       <history-expr />
