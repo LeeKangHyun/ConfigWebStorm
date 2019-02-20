@@ -124,6 +124,12 @@
         <mark key="]" line="12" column="2" />
         <mark key="." line="12" column="2" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/lodash.js" timestamp="1550655458847">
+        <mark key="[" line="21" column="2" />
+        <mark key="]" line="21" column="14" />
+        <mark key="^" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/config/data/data.js" timestamp="1550633182377">
         <mark key="[" line="5" column="9" />
         <mark key="]" line="5" column="10" />
@@ -418,11 +424,11 @@
         <mark key="." line="39" column="27" />
         <mark key="^" line="39" column="34" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/class.js" timestamp="1550654587887">
-        <mark key="[" line="107" column="14" />
-        <mark key="]" line="107" column="13" />
-        <mark key="." line="107" column="13" />
-        <mark key="^" line="107" column="13" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/class.js" timestamp="1550655291487">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="21" />
+        <mark key="." line="47" column="21" />
+        <mark key="^" line="47" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Service/DabangServices/styled.js" timestamp="1549951240884">
         <mark key="[" line="0" column="0" />
@@ -616,11 +622,11 @@
       <jump line="161" column="37" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Brand/List/Controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC8qID8gKi8=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8qID8gKi8=</text>
+        <text>{  }</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
@@ -629,31 +635,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubmFtZSwgdGhpcy5yb2xlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvKiA/ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCB0aGlzID0gd2luZG93Owo=</text>
+        <text encoding="base64">Xwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QmFyLmdldFJvbGUgPSBmdW5jdGlvbiAoKSB7CiAgCn0K</text>
+        <text encoding="base64">ICAvKiA/ICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCB0aGlzID0gd2luZG93Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QmFyLmdldFJvbGUgPSBmdW5jdGlvbiAoKSB7CiAgCn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Rm9vLmdldFJvbGUgPSBmdW5jdGlvbigpIHsKICByZXR1cm4gY29uc29sZS5sb2codGhpcy5yb2xlKQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5kaXIoQmFyLmdldFJvbGUoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QmFyLmdldFJvbGUgPSBmdW5jdGlvbigpIHsKICBjb25zb2xlLmxvZyh0aGlzLnJvbGUpOwp9Cg==</text>
+        <text encoding="base64">Rm9vLmdldFJvbGUgPSBmdW5jdGlvbigpIHsKICByZXR1cm4gY29uc29sZS5sb2codGhpcy5yb2xlKQp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Rm9vOwo=</text>
+        <text encoding="base64">Y29uc29sZS5kaXIoQmFyLmdldFJvbGUoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
