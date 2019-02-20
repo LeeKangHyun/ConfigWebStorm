@@ -418,11 +418,11 @@
         <mark key="." line="39" column="27" />
         <mark key="^" line="39" column="34" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/class.js" timestamp="1550650262993">
-        <mark key="[" line="108" column="39" />
-        <mark key="]" line="108" column="44" />
-        <mark key="." line="108" column="44" />
-        <mark key="^" line="108" column="44" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/class.js" timestamp="1550652179633">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="106" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Service/DabangServices/styled.js" timestamp="1549951240884">
         <mark key="[" line="0" column="0" />
@@ -616,44 +616,44 @@
       <jump line="161" column="37" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Brand/List/Controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Actor2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Actor2</text>
+        <text>.getRole()</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzIGluc3RhbmNlb2YgRnVuY3Rpb24pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubmFtZSwgdGhpcy5yb2xlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">T2JqZWN0LmRlZmluZVByb3BlcnR5KEFjdG9yLCAnJywgT2JqZWN0LmNvbnN0cnVjdG9yKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gQWN0b3IyKG5hbWUsIHJvbGUpIHsKICB0aGlzLm5hbWUgPSBuYW1lOwogIHRoaXMucm9sZSA9IHJvbGU7CiAgdGhpcy5nZXRSb2xlID0gZnVuY3Rpb24oKSB7CiAgICBjb25zb2xlLmxvZyh0aGlzLm5hbWUsIHRoaXMucm9sZSkKICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coQWN0b3IpIC8qID8gKi8K</text>
+        <text encoding="base64">Rm9vLmdldFJvbGUgPSBmdW5jdGlvbigpIHsKICByZXR1cm4gY29uc29sZS5sb2codGhpcy5yb2xlKQp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coQWN0b3IpIC8qID8gKi8K</text>
+        <text encoding="base64">Y29uc29sZS5kaXIoQmFyLmdldFJvbGUoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzIGluc3RhbmNlb2YgT2JqZWN0KTsK</text>
+        <text encoding="base64">QmFyLmdldFJvbGUgPSBmdW5jdGlvbigpIHsKICBjb25zb2xlLmxvZyh0aGlzLnJvbGUpOwp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzIGluc3RhbmNlb2YgT2JqZWN0KTsK</text>
+        <text encoding="base64">Rm9vOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzKTsK</text>
+        <text encoding="base64">Y29uc3QgRm9vID0gbmV3IEFjdG9yKCdsZWUnLCBbJ2RldicsICdnYW1lJ10pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGdpdmVUaW1lc3RhbXAoZmFjdG9yeSkgewogIHJldHVybiAoLi4uYXJncykgPT4gewogIH07Cn0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CmNvbnN0IEZvbyA9IEFjdG9yKCdsZWUnLCAnZGV2Jyk7CmNvbnN0IEZvbzIgPSBuZXcgQWN0b3IyKCdsZWUnLCAnY29vaycpOyAvKiA/ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
