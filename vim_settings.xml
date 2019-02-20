@@ -418,11 +418,11 @@
         <mark key="." line="39" column="27" />
         <mark key="^" line="39" column="34" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/class.js" timestamp="1550640336776">
-        <mark key="[" line="40" column="8" />
-        <mark key="]" line="40" column="10" />
-        <mark key="." line="40" column="10" />
-        <mark key="^" line="40" column="10" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/class.js" timestamp="1550641833194">
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="41" column="10" />
+        <mark key="." line="41" column="10" />
+        <mark key="^" line="41" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Service/DabangServices/styled.js" timestamp="1549951240884">
         <mark key="[" line="0" column="0" />
@@ -617,10 +617,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>A</text>
+        <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>foo</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
@@ -629,31 +629,31 @@
         <text encoding="base64">ICAgIHt7PiAid2ViL2ZhY2Vib29rIn19Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Wm9vKCk7Cg==</text>
+        <text encoding="base64">Clpvby5zaG93QWxsID0gKCkgPT4gewp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0aGlzIC8qID8gKi8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAKICBzaG93KCkgewogICAgCiAgfQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnWm9vJywgdGhpcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0iYXBwbGljYXRpb24vbGQranNvbiI+CiAgICAgIHsKICAgICAgICAiQGNvbnRleHQiOiAiaHR0cDovL3NjaGVtYS5vcmciLAogICAgICAgICJAdHlwZSI6ICJPcmdhbml6YXRpb24iLAogICAgICAgICJuYW1lIjogIuu2gOuPmeyCsCDtlYTsiJgg7JWxIOuLpOuwqSIsCiAgICAgICAgInVybCI6ICJodHRwczovL3d3dy5kYWJhbmdhcHAuY29tIiwKICAgICAgICAic2FtZUFzIjogWwogICAgICAgICAgImh0dHBzOi8vcG9zdC5uYXZlci5jb20vc3RhdGlvbjNpbmMiLAogICAgICAgICAgImh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9kYWJhbmdhcHAiLAogICAgICAgICAgImh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vZGFiYW5nX2FwcC8iLAogICAgICAgICAgImh0dHBzOi8vdHYubmF2ZXIuY29tL2RhYmFuZ2FwcCIKICAgICAgICBdCiAgICAgIH0KICAgIDwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">Clpvby5zaG93QWxsID0gKCkgPT4gewogIGNvbnNvbGUubG9nKCdab28nLCB0aGlzKTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAodGhpcy5zdGF0ZS5pc19leHBvc2VfaG9tZSkgewo=</text>
+        <text encoding="base64">Wm9vLnNob3dBbGwoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Clpvby5zaG93QWxsID0gKCkgPT4gewogIGNvbnNvbGUubG9nKCdab28nLCB0aGlzKTsKfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Wm9vKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUb2FzdC53YXJuaW5nKCftmYgg64W47Lac7J2AIOuplOyduCDrhbjstpzsnbQg7ZWE7JqU7ZWp64uI64ukLicpCg==</text>
+        <text encoding="base64">ICB0aGlzIC8qID8gKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgaXNfc2hvdywgaXNfZXhwb3NlX2hvbWUsIH0gPSB0aGlzLnN0YXRlOwo=</text>
+        <text encoding="base64">ICAKICBzaG93KCkgewogICAgCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
