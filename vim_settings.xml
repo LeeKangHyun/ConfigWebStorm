@@ -119,6 +119,17 @@
         <mark key="." line="113" column="48" />
         <mark key="^" line="113" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/public/templates/web/jsonld.hbs" timestamp="1550632379072">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="2" />
+        <mark key="." line="12" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/config/data/data.js" timestamp="1550633182377">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/station3/src/components/seo.js" timestamp="1550134045997">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -365,11 +376,11 @@
         <mark key="." line="71" column="30" />
         <mark key="^" line="82" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/public/templates/web/home.hbs" timestamp="1550630034361">
-        <mark key="[" line="45" column="11" />
-        <mark key="]" line="45" column="40" />
-        <mark key="^" line="45" column="40" />
-        <mark key="." line="45" column="40" />
+      <file name="$USER_HOME$/Documents/station3/dabang-server/public/templates/web/home.hbs" timestamp="1550633095303">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Components/Login/Component/Login/styled.js" timestamp="1550037414669">
         <mark key="[" line="171" column="0" />
@@ -613,53 +624,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>station3.co.kr</text>
+        <text>facebook</text>
       </register>
       <register name="-" type="4">
-        <text>station3.co.kr</text>
+        <text>facebook</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-          &quot;@context&quot;: &quot;http://schema.org&quot;,
-          &quot;@type&quot;: &quot;Organization&quot;,
-          &quot;name&quot;: &quot;스테이션3&quot;,
-          &quot;url&quot;: &quot;https://www.station3.co.kr&quot;,
-          &quot;sameAs&quot;: [
-            &quot;https://post.naver.com/station3inc&quot;,
-            &quot;https://www.facebook.com/dabangapp&quot;,
-            &quot;https://www.instagram.com/dabang_app/&quot;
-          ]
-        }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHt7PiAid2ViL2ZhY2Vib29rIn19Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAodGhpcy5zdGF0ZS5pc19leHBvc2VfaG9tZSkgewo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0iYXBwbGljYXRpb24vbGQranNvbiI+CiAgICAgIHsKICAgICAgICAiQGNvbnRleHQiOiAiaHR0cDovL3NjaGVtYS5vcmciLAogICAgICAgICJAdHlwZSI6ICJPcmdhbml6YXRpb24iLAogICAgICAgICJuYW1lIjogIuu2gOuPmeyCsCDtlYTsiJgg7JWxIOuLpOuwqSIsCiAgICAgICAgInVybCI6ICJodHRwczovL3d3dy5kYWJhbmdhcHAuY29tIiwKICAgICAgICAic2FtZUFzIjogWwogICAgICAgICAgImh0dHBzOi8vcG9zdC5uYXZlci5jb20vc3RhdGlvbjNpbmMiLAogICAgICAgICAgImh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9kYWJhbmdhcHAiLAogICAgICAgICAgImh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vZGFiYW5nX2FwcC8iLAogICAgICAgICAgImh0dHBzOi8vdHYubmF2ZXIuY29tL2RhYmFuZ2FwcCIKICAgICAgICBdCiAgICAgIH0KICAgIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAodGhpcy5zdGF0ZS5pc19leHBvc2VfaG9tZSkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUb2FzdC53YXJuaW5nKCftmYgg64W47Lac7J2AIOuplOyduCDrhbjstpzsnbQg7ZWE7JqU7ZWp64uI64ukLicpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgaXNfc2hvdywgaXNfZXhwb3NlX2hvbWUsIH0gPSB0aGlzLnN0YXRlOwo=</text>
+        <text encoding="base64">ICAgICAgICBUb2FzdC53YXJuaW5nKCftmYgg64W47Lac7J2AIOuplOyduCDrhbjstpzsnbQg7ZWE7JqU7ZWp64uI64ukLicpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICgpIHsKICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgaXNfc2hvdywgaXNfZXhwb3NlX2hvbWUsIH0gPSB0aGlzLnN0YXRlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgIGlmICgpIHsKICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
