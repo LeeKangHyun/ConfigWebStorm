@@ -418,11 +418,10 @@
         <mark key="." line="39" column="27" />
         <mark key="^" line="39" column="34" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/class.js" timestamp="1550642859056">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="2" />
-        <mark key="." line="45" column="2" />
-        <mark key="^" line="45" column="2" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/class.js" timestamp="1550644805545">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Service/DabangServices/styled.js" timestamp="1549951240884">
         <mark key="[" line="0" column="0" />
@@ -616,11 +615,11 @@
       <jump line="161" column="37" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Brand/List/Controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Zoo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2F0LmJvdygpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Zoo</text>
+        <text>bow</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
@@ -629,31 +628,31 @@
         <text encoding="base64">ICAgIHt7PiAid2ViL2ZhY2Vib29rIn19Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">Y2F0LmJvdygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">Q2F0LigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Zm9vLmludm9rZSgpOwo=</text>
+        <text encoding="base64">CkNhdC5ib3cgPSBmdW5jdGlvbiAoKSB7CiAgCn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnNob3dBbGwoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdab28gaW52b2tlJykK</text>
+        <text encoding="base64">Q2F0LmJvdygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9vLnNob3dBbGwoKTsK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Clpvby5zaG93QWxsID0gKCkgPT4gewp9Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Zm9vLmludm9rZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnWm9vJywgdGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnNob3dBbGwoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
