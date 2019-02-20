@@ -193,6 +193,9 @@
         <mark key="." line="30" column="28" />
         <mark key="^" line="30" column="28" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1550629639590">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Theme/Form/index.js" timestamp="1550470674599">
         <mark key="'" line="140" column="59" />
         <mark key="[" line="142" column="69" />
@@ -350,9 +353,9 @@
         <mark key="." line="246" column="20" />
         <mark key="^" line="228" column="90" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/station3/src/html.js" timestamp="1550124867910">
-        <mark key="[" line="20" column="119" />
-        <mark key="]" line="21" column="96" />
+      <file name="$USER_HOME$/Documents/station3/station3/src/html.js" timestamp="1550629972994">
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="33" column="8" />
         <mark key="." line="21" column="96" />
         <mark key="^" line="21" column="96" />
       </file>
@@ -361,6 +364,12 @@
         <mark key="]" line="71" column="30" />
         <mark key="." line="71" column="30" />
         <mark key="^" line="82" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/public/templates/web/home.hbs" timestamp="1550630034361">
+        <mark key="[" line="45" column="11" />
+        <mark key="]" line="45" column="40" />
+        <mark key="^" line="45" column="40" />
+        <mark key="." line="45" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Components/Login/Component/Login/styled.js" timestamp="1550037414669">
         <mark key="[" line="171" column="0" />
@@ -604,16 +613,26 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHdhcm5pbmcgLT4gZXJyb3IsIOu4jOuenOuTnOq0gOumrCDrqqnroZ3sl5Ag64W47LacIGNvbmZpcm0g7LaU6rCA</text>
+        <text>station3.co.kr</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHdhcm5pbmcgLT4gZXJyb3IsIOu4jOuenOuTnOq0gOumrCDrqqnroZ3sl5Ag64W47LacIGNvbmZpcm0g7LaU6rCA</text>
+        <text>station3.co.kr</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICghY29uZmlybSgi7KCV66eQIOyCreygnO2VmOyLnOqyoOyKteuLiOq5jD8iKSkgcmV0dXJuCg==</text>
+      <register name="0" type="4">
+        <text>{
+          &quot;@context&quot;: &quot;http://schema.org&quot;,
+          &quot;@type&quot;: &quot;Organization&quot;,
+          &quot;name&quot;: &quot;스테이션3&quot;,
+          &quot;url&quot;: &quot;https://www.station3.co.kr&quot;,
+          &quot;sameAs&quot;: [
+            &quot;https://post.naver.com/station3inc&quot;,
+            &quot;https://www.facebook.com/dabangapp&quot;,
+            &quot;https://www.instagram.com/dabang_app/&quot;
+          ]
+        }</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyBpZiAodGhpcy5zdGF0ZS5pc19leHBvc2VfaG9tZSkgewo=</text>
