@@ -33,6 +33,12 @@
         <mark key="." line="133" column="59" />
         <mark key="^" line="144" column="59" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/components/Styled/Tag/index.js" timestamp="1550732112544">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Common/Modal/styled.js" timestamp="1549947503868">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
@@ -374,10 +380,11 @@
         <mark key="." line="47" column="21" />
         <mark key="^" line="47" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Users/Table/Item.js" timestamp="1550731237928">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="118" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Users/Table/Item.js" timestamp="1550732220712">
+        <mark key="[" line="51" column="92" />
+        <mark key="]" line="52" column="5" />
+        <mark key="." line="52" column="5" />
+        <mark key="^" line="52" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/gatsby-node.js" timestamp="1549954621184">
         <mark key="[" line="13" column="25" />
@@ -545,11 +552,11 @@
       <jump line="42" column="0" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Users/Table/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPHRkIGNsYXNzTmFtZT0iQ2VudGVyIj57aXRlbS5mYl9pZCA/IDxUYWc+7Y6Y7J207Iqk67aBPC9UYWc+IDogaXRlbS5rYWthb19pZCA/IDxUYWcgY29sb3I9Im9yYW5nZSI+7Lm07Lm07Jik7YahPC9UYWc+IDogIiJ9PC90ZD4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGNsYXNzTmFtZT0iQ2VudGVyIg==</text>
       </register>
       <register name="-" type="4">
-        <text>설정</text>
+        <text encoding="base64">IGNsYXNzTmFtZT0iQ2VudGVyIg==</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
