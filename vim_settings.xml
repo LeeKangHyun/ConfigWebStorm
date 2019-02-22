@@ -141,6 +141,12 @@
         <mark key="^" line="56" column="27" />
         <mark key="." line="56" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/tdd/jest/package.json" timestamp="1550818442442">
+        <mark key="[" line="82" column="33" />
+        <mark key="]" line="82" column="33" />
+        <mark key="^" line="82" column="33" />
+        <mark key="." line="82" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Components/Login/Component/Login/index.js" timestamp="1550037405030">
         <mark key="[" line="76" column="16" />
         <mark key="]" line="76" column="16" />
@@ -467,11 +473,11 @@
         <mark key="." line="1" column="13" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/tdd/jest/src/App.js" timestamp="1550728099658">
-        <mark key="[" line="30" column="31" />
-        <mark key="]" line="30" column="31" />
-        <mark key="." line="30" column="31" />
-        <mark key="^" line="30" column="31" />
+      <file name="$USER_HOME$/Documents/tdd/jest/src/App.js" timestamp="1550819795316">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="14" />
+        <mark key="." line="25" column="14" />
+        <mark key="^" line="25" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Components/Login/Component/Login/styled.js" timestamp="1550037414669">
         <mark key="[" line="171" column="0" />
@@ -491,11 +497,11 @@
         <mark key="^" line="57" column="9" />
         <mark key="." line="129" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/tdd/jest/src/components/NameForm.test.js" timestamp="1550729700083">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="33" />
-        <mark key="^" line="8" column="33" />
-        <mark key="." line="8" column="33" />
+      <file name="$USER_HOME$/Documents/tdd/jest/src/components/NameForm.test.js" timestamp="1550819414353">
+        <mark key="[" line="35" column="24" />
+        <mark key="]" line="35" column="24" />
+        <mark key="^" line="35" column="24" />
+        <mark key="." line="35" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/pages/service.js" timestamp="1549951580691">
         <mark key="[" line="8" column="16" />
@@ -521,7 +527,7 @@
         <mark key="." line="39" column="27" />
         <mark key="^" line="39" column="34" />
       </file>
-      <file name="/JavaScript Console" timestamp="1550728994449">
+      <file name="/JavaScript Console" timestamp="1550818818930">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/class.js" timestamp="1550655291487">
@@ -563,6 +569,12 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/tdd/jest/src/components/Async.js" timestamp="1550820037685">
+        <mark key="[" line="29" column="3" />
+        <mark key="]" line="27" column="30" />
+        <mark key="^" line="20" column="23" />
+        <mark key="." line="27" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Service/DabangServices/Title/index.js" timestamp="1549947862198">
         <mark key="[" line="60" column="78" />
         <mark key="]" line="60" column="78" />
@@ -580,12 +592,11 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/tdd/jest/src/Container/Home/index.js" timestamp="1550726571793">
+      <file name="$USER_HOME$/Documents/tdd/jest/src/Container/Home/index.js" timestamp="1550819810824">
         <mark key="'" line="24" column="14" />
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="28" />
-        <mark key="." line="17" column="28" />
-        <mark key="^" line="17" column="28" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/.gitignore" timestamp="1550035237822">
         <mark key="[" line="17" column="0" />
@@ -744,40 +755,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LmxvY2F0aW9uLnJlbG9hZCgpCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBjb3VudGVyOiAKICAgIH0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LmxvY2F0aW9uLnJlbG9hZCgpCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoKHN0YXRlKSA9PiAoewogICAgICBjb3VudGVyOiBzdGF0ZS5jb3VudGVyICsgMSwKICAgIH0pKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnNhZmVQaG9uZSgnMDUwNDEyMzQxMjM0JykgLyogPyAqLwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBjb3VudGVyOiAKICAgIH0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzYWZlUGhvbmUsCg==</text>
+        <text encoding="base64">Y29uc3QgSG9tZSA9ICh7CiAgbmFtZSwgY2hpbGRyZW4sCn0pID0+IHsKICByZXR1cm4gKAogICAgPHNlY3Rpb24+CiAgICAgIGhlbGxvIHtuYW1lfQogICAgICA8YXJ0aWNsZT4KICAgICAgICB7Y2hpbGRyZW59CiAgICAgIDwvYXJ0aWNsZT4KICAgIDwvc2VjdGlvbj4KICApCn0KCkhvbWUucHJvcFR5cGVzID0gewogIG5hbWU6IFByb3BUeXBlcy5vbmVPZlR5cGUoWwogICAgUHJvcFR5cGVzLnN0cmluZywKICAgIFByb3BUeXBlcy5udW1iZXIsCiAgXSksCiAgY2hpbGRyZW46IFByb3BUeXBlcy5hbnksCn0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IG5hbWU9IndvcmxkIj4KICAgICAgICA8L0hvbWU=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIDxzcGFuPmhlbGxvPC9zcGFuPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CnNhZmVQaG9uZSgnMDUwNDEyMzQxMjM0JykgLyogPyAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCBSZWdpc3RCdG4gPSBzdHlsZWQoQnV0dG9uKS5hdHRycyh7CiAgY29sb3I6ICd3aGl0ZS1ibHVlJywKfSkK</text>
+        <text encoding="base64">ICBzYWZlUGhvbmUsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PwogICAgICAgICAgICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PwogICAgICAgICAgICA8VGFnIGNvbG9yPSJibHVlIj7sgq3soJw8L1RhZz46</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAK</text>
