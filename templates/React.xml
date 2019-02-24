@@ -61,12 +61,12 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="gdsfp" value="static getDerivedStateFromProps(nextProps, prevState) {&#10;  $END$&#10;}" description="cwm, cwr 대신에 사용 getDerivedStateFromProps" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="gdsfp" value="static getDerivedStateFromProps(nextProps, prevState) {&#10;  $END$&#10;}" description="cwm, cwr 대신에 사용 getDerivedStateFromProps" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="gsbu" value="getSnapshotBeforeUpdate(prevProps, prevState) {&#10;  $END$ &#10;}" description="cwup 대신에 사용 getSnapshotBeforeUpdate, 반환이 cdup arg[3]" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="gsbu" value="getSnapshotBeforeUpdate(prevProps, prevState) {&#10;  $END$ &#10;}" description="cwup 대신에 사용 getSnapshotBeforeUpdate, 반환이 cdup arg[3]" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
