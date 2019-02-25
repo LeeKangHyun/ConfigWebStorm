@@ -350,11 +350,11 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewLogin/NewLogin.test.js" timestamp="1551085957126">
-        <mark key="[" line="23" column="19" />
-        <mark key="]" line="23" column="24" />
-        <mark key="." line="23" column="24" />
-        <mark key="^" line="23" column="24" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewLogin/NewLogin.test.js" timestamp="1551087915362">
+        <mark key="[" line="52" column="64" />
+        <mark key="]" line="53" column="9" />
+        <mark key="." line="53" column="9" />
+        <mark key="^" line="53" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/station3/station3/src/components/Home/WhoWeAre/styled.js" timestamp="1550021674489">
         <mark key="[" line="293" column="0" />
@@ -368,6 +368,7 @@
         <mark key="^" line="1" column="43" />
         <mark key="." line="1" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/node_modules/react-dom/cjs/react-dom-test-utils.development.js" timestamp="1551087392348" />
       <file name="$USER_HOME$/Documents/tdd/jest/src/components/Counter.js" timestamp="1550727230217">
         <mark key="[" line="15" column="26" />
         <mark key="]" line="15" column="26" />
@@ -454,7 +455,7 @@
         <mark key="." line="39" column="27" />
         <mark key="^" line="39" column="34" />
       </file>
-      <file name="/JavaScript Console" timestamp="1551085960499">
+      <file name="/JavaScript Console" timestamp="1551087920444">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/class.js" timestamp="1550655291487">
@@ -645,20 +646,20 @@
       <jump line="98" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGRhdGEtdGVzdGlkPSJQYXNzd29yZCI=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb250YWluZXIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRhdGEtdGVzdGlkPSJQYXNzd29yZCI=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
       </register>
-      <register name="0" type="4">
-        <text>find({ placeholder: '이메일' })</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gcmVuZGVyV2l0aFJvdXRlcigKICB1aSwKICB7CiAgICByb3V0ZSA9ICcvJywKICAgIGhpc3RvcnkgPSBjcmVhdGVNZW1vcnlIaXN0b3J5KHtpbml0aWFsRW50cmllczogW3JvdXRlXX0pCiAgfSA9IHt9LAopIHsKICByZXR1cm4gewogICAgLi4ucmVuZGVyKDxSb3V0ZXIgaGlzdG9yeT17aGlzdG9yeX0+e3VpfTwvUm91dGVyPikKICB9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBleHBlY3QK</text>
+        <text encoding="base64">ICBjb250YWluZXIK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAK</text>
@@ -666,23 +667,23 @@
       <register name="3" type="2">
         <text encoding="base64">ICByZXJlbmRlcig8TmV3TG9naW4gLz4pCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb250YWluZXIuaW5uZXJIVE1MKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBleHBlY3QoY29udGFpbmVyLnRvSlNPTigpKQo=</text>
+        <text encoding="base64">ICBleHBlY3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2l0aFJvdXRlciB9IGZyb20gJ3JlYWN0LXJvdXRlcicK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBleHBlY3QoKQo=</text>
+        <text encoding="base64">ICByZXJlbmRlcig8TmV3TG9naW4gLz4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
