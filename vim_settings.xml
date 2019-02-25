@@ -87,11 +87,10 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/package.json" timestamp="1551071461800">
-        <mark key="[" line="73" column="59" />
-        <mark key="]" line="73" column="59" />
-        <mark key="." line="73" column="59" />
-        <mark key="^" line="73" column="59" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/package.json" timestamp="1551073300634">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/GongSilCenter/Component/AllRoom/index.js" timestamp="1550742371030">
         <mark key="[" line="112" column="31" />
@@ -804,8 +803,8 @@
       <jump line="98" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIkBiYWJlbC9lbnYiLAogICAgICAiQGJhYmVsL3JlYWN0IiwK</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -817,31 +816,31 @@
         <text>$USER_HOME$/Documents/station3/dabang-pro</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">X19zbmFwc2hvdHNfXwo=</text>
+        <text encoding="base64">ICAgICAgIkBiYWJlbC9lbnYiLAogICAgICAiQGJhYmVsL3JlYWN0IiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ki50ZXN0LmpzCg==</text>
+        <text encoding="base64">X19zbmFwc2hvdHNfXwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ2VuJwo=</text>
+        <text encoding="base64">Ki50ZXN0LmpzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ2VuJwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gSmVzdCBkb2Vzbid0IGhhdmUgdGhpcyBvcHRpb24gc28gd2UnbGwgcmVtb3ZlIGl0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBodHRwczovL2dpdGh1Yi5jb20vZmFjZWJvb2svY3JlYXRlLXJlYWN0LWFwcC9pc3N1ZXMvNTIxMAo=</text>
+        <text encoding="base64">Ly8gSmVzdCBkb2Vzbid0IGhhdmUgdGhpcyBvcHRpb24gc28gd2UnbGwgcmVtb3ZlIGl0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gV2F0Y2ggdW5sZXNzIG9uIENJLCBpbiBjb3ZlcmFnZSBtb2RlLCBleHBsaWNpdGx5IGFkZGluZyBgLS1uby13YXRjaGAsCi8vIG9yIGV4cGxpY2l0bHkgcnVubmluZyBhbGwgdGVzdHMK</text>
+        <text encoding="base64">ICAvLyBodHRwczovL2dpdGh1Yi5jb20vZmFjZWJvb2svY3JlYXRlLXJlYWN0LWFwcC9pc3N1ZXMvNTIxMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gRW5zdXJlIGVudmlyb25tZW50IHZhcmlhYmxlcyBhcmUgcmVhZC4K</text>
+        <text encoding="base64">Ly8gV2F0Y2ggdW5sZXNzIG9uIENJLCBpbiBjb3ZlcmFnZSBtb2RlLCBleHBsaWNpdGx5IGFkZGluZyBgLS1uby13YXRjaGAsCi8vIG9yIGV4cGxpY2l0bHkgcnVubmluZyBhbGwgdGVzdHMK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
