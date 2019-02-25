@@ -35,6 +35,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="85" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/config/jest/fileTransform.js" timestamp="1551072698720">
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="24" column="43" />
+        <mark key="^" line="24" column="43" />
+        <mark key="." line="24" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Components/Login/Component/Login/Controller.js" timestamp="1550035168954">
         <mark key="[" line="204" column="50" />
         <mark key="]" line="204" column="54" />
@@ -82,11 +88,10 @@
         <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/package.json" timestamp="1551071461800">
-        <mark key="'" line="106" column="0" />
-        <mark key="[" line="115" column="59" />
-        <mark key="]" line="115" column="59" />
-        <mark key="." line="115" column="59" />
-        <mark key="^" line="115" column="59" />
+        <mark key="[" line="73" column="59" />
+        <mark key="]" line="73" column="59" />
+        <mark key="." line="73" column="59" />
+        <mark key="^" line="73" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/GongSilCenter/Component/AllRoom/index.js" timestamp="1550742371030">
         <mark key="[" line="112" column="31" />
@@ -309,6 +314,12 @@
       </file>
       <file name="/GraphQL.result.json" timestamp="1550629639590">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/config/jest/cssTransform.js" timestamp="1551072541306">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Service/AppDownload/index.js" timestamp="1549947346062">
         <mark key="[" line="5" column="31" />
@@ -794,10 +805,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
