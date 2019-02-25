@@ -357,6 +357,7 @@
       <file name="/fragment.js" timestamp="1551079440806">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Routes/Auth/index.js" timestamp="1551081131322" />
       <file name="$USER_HOME$/Documents/station3/station3/static/images/service/banner/375.svg" timestamp="1550032974479">
         <mark key="[" line="12" column="62" />
         <mark key="]" line="12" column="84" />
@@ -433,11 +434,11 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewLogin/NewLogin.test.js" timestamp="1551079516374">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="26" column="39" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewLogin/NewLogin.test.js" timestamp="1551081603027">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="20" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/pages/index.js" timestamp="1549952513850">
         <mark key="[" line="1" column="0" />
@@ -532,7 +533,7 @@
         <mark key="^" line="57" column="9" />
         <mark key="." line="129" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/tdd/jest/src/components/NameForm.test.js" timestamp="1551079146242">
+      <file name="$USER_HOME$/Documents/tdd/jest/src/components/NameForm.test.js" timestamp="1551080880477">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="37" column="7" />
         <mark key="^" line="35" column="24" />
@@ -562,7 +563,7 @@
         <mark key="." line="39" column="27" />
         <mark key="^" line="39" column="34" />
       </file>
-      <file name="/JavaScript Console" timestamp="1551079426688">
+      <file name="/JavaScript Console" timestamp="1551080136998">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/class.js" timestamp="1550655291487">
@@ -789,10 +790,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgd2l0aFJvdXRlciB9IGZyb20gJ3JlYWN0LXJvdXRlcicK</text>
       </register>
       <register name="-" type="4">
-        <text>find('styled__Input')</text>
+        <text encoding="base64">IGhpc3Rvcnk9e2hhc2hIaXN0b3J5fQ==</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
@@ -801,34 +802,34 @@
         <text>find({ placeholder: '이메일' })</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgd2l0aFJvdXRlciB9IGZyb20gJ3JlYWN0LXJvdXRlcicK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBleHBlY3QoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0c1tgTmV3TG9naW4g66CM642UIOyKpOuDheyDtyAxYF0gPSBgCjxzdHlsZWRfX1dyYXA+CiAgPFVuQXV0aFRpdGxlQ29tcG9uZW50CiAgICB0aXRsZT0i7ZSE66GcIOykkeqwnOyCrCDsgqzsnbTtirgg7ZqM7JuQ6rCA7J6FIgogIC8+CiAgPGZvcm0KICAgIG9uU3VibWl0PXtbRnVuY3Rpb25dfQogID4KICAgIDxzdHlsZWRfX0lucHV0CiAgICAgIG9uQ2hhbmdlPXtbRnVuY3Rpb25dfQogICAgICBwbGFjZWhvbGRlcj0i7J2066mU7J28IgogICAgICB0eXBlPSJlbWFpbCIKICAgICAgdmFsdWU9IiIKICAgIC8+CiAgICA8c3R5bGVkX19JbnB1dAogICAgICBvbkNoYW5nZT17W0Z1bmN0aW9uXX0KICAgICAgcGxhY2Vob2xkZXI9Iuu5hOuwgOuyiO2YuCIKICAgICAgdHlwZT0icGFzc3dvcmQiCiAgICAgIHZhbHVlPSIiCiAgICAvPgogICAgPHN0eWxlZF9fTWlkZGxlV3JhcD4KICAgICAgPENoZWNrYm94Q29tcG9uZW50CiAgICAgICAgY2hlY2tlZD17ZmFsc2V9CiAgICAgICAgbmFtZT0iIgogICAgICAgIG9uQ2hhbmdlPXtbRnVuY3Rpb25dfQogICAgICAgIHNpemU9ezE2fQogICAgICA+CiAgICAgICAgPHN0eWxlZF9fVGV4dD4KICAgICAgICAgIOyVhOydtOuUlCDsoIDsnqUKICAgICAgICA8L3N0eWxlZF9fVGV4dD4KICAgICAgPC9DaGVja2JveENvbXBvbmVudD4KICAgICAgPHN0eWxlZF9fTGlua0J0bgogICAgICAgIHRvPSIvbG9naW4vZmluZCIKICAgICAgPgogICAgICAgIOu5hOuwgOuyiO2YuOywvuq4sAogICAgICA8L3N0eWxlZF9fTGlua0J0bj4KICAgIDwvc3R5bGVkX19NaWRkbGVXcmFwPgogICAgPHN0eWxlZF9fTG9naW5CdG4KICAgICAgZGlzYWJsZWQ9e2ZhbHNlfQogICAgICB0eXBlPSJzdWJtaXQiCiAgICA+CiAgICAgIOuhnOq3uOyduAogICAgPC9zdHlsZWRfX0xvZ2luQnRuPgogIDwvZm9ybT4KICA8c3R5bGVkX19Gb290ZXI+CiAgICA8c3R5bGVkX19Kb2luQnRuCiAgICAgIHRvPSIvam9pbiIKICAgID4KICAgICAg64uk67CpIO2UhOuhnCDtmozsm5DqsIDsnoUKICAgIDwvc3R5bGVkX19Kb2luQnRuPgogICAgPHN0eWxlZF9fQ29weVJpZ2h0PgogICAgICBTdGF0aW9uMywgSW5jLiBBbGwgcmlnaHRzIHJlc2VydmVkLgogICAgPC9zdHlsZWRfX0NvcHlSaWdodD4KICA8L3N0eWxlZF9fRm9vdGVyPgo8L3N0eWxlZF9fV3JhcD4KYDsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgbW91bnQgfSBmcm9tICdlbnp5bWUnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">Ci8vIGVuenltZQpkZXNjcmliZSgnTmV3TG9naW4nLCAoKSA9PiB7CiAgbGV0IGNvbXBvbmVudCA9IG51bGwKICBsZXQgd3JhcHBlciA9IG51bGwKCiAgaXQoJ+ugjOuNlCDsnpgg65CQ64KYPycsICgpID0+IHsKICAgIC8vIGNvbXBvbmVudCA9IHNoYWxsb3coPE5ld0xvZ2luIC8+KQogICAgd3JhcHBlciA9IG1vdW50KDxSb3V0ZXI+PE5ld0xvZ2luIC8+PC9Sb3V0ZXI+KQogIH0pCgogIGl0KCfsiqTrg4Xsg7cnLCAoKSA9PiB7CiAgICBleHBlY3QoY29tcG9uZW50KS50b01hdGNoU25hcHNob3QoKQogIH0pCgogIC8qaXQoJ+ydtOuplOydvCDsnoXroKUnLCAoKSA9PiB7CiAgICBjb25zdCBtb2NrZWRFdmVudCA9IHsKICAgICAgdGFyZ2V0OiB7CiAgICAgICAgdmFsdWU6ICdoZWxsbycsCiAgICAgIH0sCiAgICAgIGN1cnJlbnRUYXJnZXQ6IHsKICAgICAgICB2YWx1ZTogJ2hlbGxvJywKICAgICAgfQogICAgfQoKICAgIGNvbnN0IElucHV0ID0gY29tcG9uZW50LmZpbmQoeyBwbGFjZWhvbGRlcjogJ+ydtOuplOydvCcgfSkKICAgIElucHV0LnNpbXVsYXRlKCdjaGFuZ2UnLCBtb2NrZWRFdmVudCkKICAgIGV4cGVjdChJbnB1dC50ZXh0KCkpLnRvQmUoJ2hlbGxvJykKICB9KSovCn0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIkBiYWJlbC9lbnYiLAogICAgICAiQGJhYmVsL3JlYWN0IiwK</text>
+        <text encoding="base64">Ci8qZGVzY3JpYmUoJ+usuOygnCDsl4bsnbQg66CM642UJywgKCkgPT4gewogIGNvbnN0IGRpdiA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2RpdicpCiAgUmVhY3RET00ucmVuZGVyKDxSb3V0ZXI+PE5ld0xvZ2luLz48L1JvdXRlcj4sIGRpdikKICBSZWFjdERPTS51bm1vdW50Q29tcG9uZW50QXROb2RlKGRpdikKfSkqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">X19zbmFwc2hvdHNfXwo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0RE9NIGZyb20gJ3JlYWN0LWRvbScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ki50ZXN0LmpzCg==</text>
+        <text encoding="base64">aW1wb3J0IHsKICByZW5kZXIsCiAgZmlyZUV2ZW50LAogIGdldEJ5VGVzdElkLAp9IGZyb20gJ3JlYWN0LXRlc3RpbmctbGlicmFyeScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ2VuJwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>vsplit</text>
+        <text>split</text>
       </register>
     </registers>
     <search>
@@ -843,10 +844,10 @@
         <entry>desk1400</entry>
       </history-search>
       <history-cmd>
-        <entry>split</entry>
         <entry>ㅂ</entry>
         <entry>q</entry>
         <entry>vsplit</entry>
+        <entry>split</entry>
       </history-cmd>
       <history-expr />
       <history-input />
