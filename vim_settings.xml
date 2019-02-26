@@ -88,7 +88,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Components/RangeSlider/index.js" timestamp="1551143715265" />
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Components/RangeSlider/index.js" timestamp="1551157789058">
+        <mark key="[" line="110" column="51" />
+        <mark key="]" line="110" column="51" />
+        <mark key="." line="110" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Users/Table/styled.js" timestamp="1550740416712">
         <mark key="[" line="15" column="42" />
         <mark key="]" line="16" column="18" />
@@ -523,6 +527,7 @@
         <mark key="." line="52" column="33" />
         <mark key="^" line="27" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/Search/Filter/Component/Price/Controller.js" timestamp="1551157061284" />
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Recruit/index.js" timestamp="1549952103082">
         <mark key="[" line="6" column="9" />
         <mark key="]" line="6" column="20" />
@@ -645,11 +650,11 @@
       <jump line="98" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb250YWluZXIK</text>
+      <register name="&quot;" type="4">
+        <text>value, handle</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>value, handle</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
