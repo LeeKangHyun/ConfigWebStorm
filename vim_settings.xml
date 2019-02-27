@@ -72,11 +72,10 @@
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Reducers/init.js" timestamp="1551159924653" />
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Sagas/watchFetchFilter.js" timestamp="1551166855196" />
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Routes/index.js" timestamp="1551148939134" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/regexp.js" timestamp="1551236367076">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="32" />
-        <mark key="." line="2" column="32" />
-        <mark key="^" line="3" column="27" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/regexp.js" timestamp="1551237322203">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1551087920444">
         <mark key="[" line="0" column="0" />
@@ -193,8 +192,8 @@
       <jump line="98" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[2-9]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiIwMTAxMjM0NTY3OCIucmVwbGFjZSgvKD86XChcZHs0fVwpXCA/fFxkezJ9KD86XC0/fFwgPykpXGR7Mn1bLSBdP1xkezR9JC9nLCAoJDAsICQxLCAkMiwgJDMpID0+IHsKICBjb25zb2xlLmxvZygkMCwgJDEsICQyLCAkMykKfSkK</text>
       </register>
       <register name="-" type="4">
         <text>[2-9]</text>
@@ -206,31 +205,31 @@
         <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICAuLi5hY3Rpb24uZmlsdGVycywKICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvKiA/ICovCg==</text>
+        <text encoding="base64">CiIwMTAxMjM0NTY3OCIucmVwbGFjZSgvKD86XChcZHs0fVwpXCA/fFxkezJ9KD86XC0/fFwgPykpXGR7Mn1bLSBdP1xkezR9JC9nLCAoJDAsICQxLCAkMiwgJDMpID0+IHsKICBjb25zb2xlLmxvZygkMCwgJDEsICQyLCAkMykKfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiIwMTAxMjM0NTY3ODkiLnJlcGxhY2UoLyhbXGRdW1xkXXsyLDN9KVstIF0/KFtcZF1bXGRdezIsM30pWy0gXT8oXGR7NCx9KS9nLCAoJDAsICQxLCAkMiwgJDMpID0+IHsKICBjb25zb2xlLmxvZygkMSwgJDIsICQzKQp9KQo=</text>
+        <text encoding="base64">ICAvKiA/ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiIwMTAxMjM0NTY3OCIucmVwbGFjZSgvKF4oMT8pKFxzPykoW1xzXT8pKChcKFxkezN9XCkpfChcZHszfSkpKFtcc10/KShbXHMtXT8pKFxkezN9KShbXHMtXT8pKFxkezR9KSskKS9nLCAoJDAsICQxLCAkMiwgJDMpID0+IHsKICBjb25zb2xlLmxvZygkMSwgJDIsICQzKQp9KQo=</text>
+        <text encoding="base64">CiIwMTAxMjM0NTY3ODkiLnJlcGxhY2UoLyhbXGRdW1xkXXsyLDN9KVstIF0/KFtcZF1bXGRdezIsM30pWy0gXT8oXGR7NCx9KS9nLCAoJDAsICQxLCAkMiwgJDMpID0+IHsKICBjb25zb2xlLmxvZygkMSwgJDIsICQzKQp9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyB9IGVsc2UgaWYgKG51bS5sZW5ndGggPT09IDApIHsKICAvLyAgIHJldHVybiAnLScK</text>
+        <text encoding="base64">CiIwMTAxMjM0NTY3OCIucmVwbGFjZSgvKF4oMT8pKFxzPykoW1xzXT8pKChcKFxkezN9XCkpfChcZHszfSkpKFtcc10/KShbXHMtXT8pKFxkezN9KShbXHMtXT8pKFxkezR9KSskKS9nLCAoJDAsICQxLCAkMiwgJDMpID0+IHsKICBjb25zb2xlLmxvZygkMSwgJDIsICQzKQp9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAvLyB9IGVsc2UgaWYgKG51bS5sZW5ndGggPT09IDApIHsKICAvLyAgIHJldHVybiAnLScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzYWZlUGhvbmUsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwaG9uZShudW0pCg==</text>
+        <text encoding="base64">ICBzYWZlUGhvbmUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzYWZlUGhvbmUobnVtKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBwaG9uZShudW0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBudW0uCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzYWZlUGhvbmUobnVtKQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
