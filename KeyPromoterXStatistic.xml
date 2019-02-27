@@ -22,7 +22,15 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>17</Count>
+          <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
