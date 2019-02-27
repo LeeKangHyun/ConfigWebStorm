@@ -40,6 +40,12 @@
         <mark key="^" line="18" column="47" />
         <mark key="." line="19" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/package.json" timestamp="1551251256850">
+        <mark key="'" line="1" column="2" />
+        <mark key="[" line="135" column="3" />
+        <mark key="]" line="135" column="3" />
+        <mark key="." line="135" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/station3/pages/service/Banner/styled.js" timestamp="1549871081722">
         <mark key="[" line="133" column="58" />
         <mark key="]" line="133" column="59" />
@@ -138,7 +144,7 @@
         <mark key="^" line="56" column="27" />
         <mark key="." line="56" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/tdd/jest/package.json" timestamp="1551249567251">
+      <file name="$USER_HOME$/Documents/tdd/jest/package.json" timestamp="1551251232587">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="119" column="4" />
         <mark key="^" line="82" column="33" />
@@ -601,8 +607,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Footer/styled.js" />
-      <jump line="65" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Footer/styled.js" />
       <jump line="155" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Footer/styled.js" />
       <jump line="261" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Footer/styled.js" />
       <jump line="390" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Footer/styled.js" />
@@ -701,13 +705,15 @@
       <jump line="6" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Utils/Format.js" />
       <jump line="98" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/package.json" />
       <jump line="0" column="27" filename="$USER_HOME$/Documents/test/matterport/public/js/mp.js" />
+      <jump line="67" column="3" filename="$USER_HOME$/Documents/github/util_with_jest/package.json" />
+      <jump line="1" column="2" filename="$USER_HOME$/Documents/github/util_with_jest/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIHN1Y2Nlc3NDYWxsYmFjayhtZXNzYWdlKSB7CiAgY29uc29sZS5sb2cobWVzc2FnZSkKfQoKZnVuY3Rpb24gZXJyb3JDYWxsYmFjayhlcnIpIHsKICBjb25zb2xlLmVycm9yKGVycikKfQo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>, {color: 'red'}</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
