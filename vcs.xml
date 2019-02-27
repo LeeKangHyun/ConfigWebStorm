@@ -10,10 +10,11 @@
           <option name="url" value="http://git-codecommit.ap-northeast-2.amazonaws.com/v1/repos/glk-admin" />
           <option name="userName" value="codeUser" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="LeeKangHyun" />
+        </UrlAndUserName>
       </list>
     </option>
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
   </component>
 </application>
