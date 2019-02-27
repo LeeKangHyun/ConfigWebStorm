@@ -59,12 +59,12 @@
         <mark key="^" line="46" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/Manage/index.js" timestamp="1551144992945" />
-      <file name="$USER_HOME$/Documents/test/matterport/public/js/mp.js" timestamp="1551244881043">
+      <file name="$USER_HOME$/Documents/test/matterport/public/js/mp.js" timestamp="1551247142540">
         <mark key="'" line="0" column="27" />
-        <mark key="[" line="19" column="14" />
-        <mark key="]" line="19" column="21" />
-        <mark key="." line="19" column="21" />
-        <mark key="^" line="19" column="21" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="22" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/GongSilCenter/Component/AllRoom/index.js" timestamp="1551233706842">
         <mark key="[" line="112" column="40" />
@@ -480,10 +480,10 @@
         <mark key="." line="8" column="16" />
         <mark key="^" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/test/matterport/public/index.html" timestamp="1551242875602">
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="21" column="3" />
-        <mark key="." line="21" column="3" />
+      <file name="$USER_HOME$/Documents/test/matterport/public/index.html" timestamp="1551246685691">
+        <mark key="[" line="18" column="64" />
+        <mark key="]" line="18" column="64" />
+        <mark key="." line="18" column="64" />
         <mark key="^" line="21" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/station3/station3/src/components/AppBtn/index.js" timestamp="1549963092882">
@@ -703,11 +703,11 @@
       <jump line="0" column="27" filename="$USER_HOME$/Documents/test/matterport/public/js/mp.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>response</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmZ1bmN0aW9uIHN1Y2Nlc3NDYWxsYmFjayhtZXNzYWdlKSB7CiAgY29uc29sZS5sb2cobWVzc2FnZSkKfQoKZnVuY3Rpb24gZXJyb3JDYWxsYmFjayhlcnIpIHsKICBjb25zb2xlLmVycm9yKGVycikKfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>response</text>
+        <text>, {color: 'red'}</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
@@ -716,36 +716,32 @@
         <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICAuLi5hY3Rpb24uZmlsdGVycywKICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmZ1bmN0aW9uIHN1Y2Nlc3NDYWxsYmFjayhtZXNzYWdlKSB7CiAgY29uc29sZS5sb2cobWVzc2FnZSkKfQoKZnVuY3Rpb24gZXJyb3JDYWxsYmFjayhlcnIpIHsKICBjb25zb2xlLmVycm9yKGVycikKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2hvd2Nhc2UuCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHNkawo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBsZXQgc2hvd2Nhc2UgPSByZXNwb25zZTsK</text>
+      <register name="3" type="4">
+        <text>.then(function(modelData){
+  });</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzaG93Y2FzZS5vbihzaG93Y2FzZS5FdmVudHMuTU9ERUxfTE9BREVELCAoKSA9PiB7CiAgICBjb25zb2xlLmxvZyhhcmd1bWVudHMpCiAgfSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">b24oc2hvd2Nhc2UuRXZlbnRzLk1PREVMX0xPQURFRCwgKCkgPT4gewogICAgY29uc29sZS5sb2coYXJndW1lbnRzKQogIH0p</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdNb2RlbCBkYXRhIGxvYWRlZCBmb3Igc2lkOicsIG1vZGVsRGF0YS5zaWQpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>function(error) {
-      console.error(error)
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-      iframe: iframe,
-      applicationKey: 
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBzZGsub24oc2RrLkxhYmVsLkV2ZW50LlBPU0lUSU9OX1VQREFURUQsIGZ1bmN0aW9uKGxhYmVsKSB7CiAgfSkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICwgLy8gT2J0YWluZWQgZWFybGllcgogICAgICAsIC8vIFlvdXIgQVBJIGtleQogICAgICAnMy4wJyAvLyBTREsgdmVyc2lvbiB5b3UgYXJlIHVzaW5nCiAgICAgIC8vIFVzZSB0aGUgbGF0ZXN0IHZlcnNpb24geW91IGNhbiBmb3IgeW91ciBhcHAKICAgIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxhYmVsKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzaG93Y2FzZSkK</text>
+        <text encoding="base64">ICAgIC50aGVuKChzZGspID0+IHsKICAgICAgc2RrLkxhYmVsLmdldERhdGEoKS50aGVuKChMYWJlbCkgPT4gewogICAgICAKICAgICAgfSkKICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
