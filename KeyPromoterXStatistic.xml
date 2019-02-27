@@ -89,6 +89,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'npm start'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'npm start'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run to Cursor">
         <Item>
           <IdeaActionID>RunToCursor</IdeaActionID>
