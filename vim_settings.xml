@@ -59,12 +59,12 @@
         <mark key="^" line="46" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/Manage/index.js" timestamp="1551144992945" />
-      <file name="$USER_HOME$/Documents/test/matterport/public/js/mp.js" timestamp="1551244090243">
+      <file name="$USER_HOME$/Documents/test/matterport/public/js/mp.js" timestamp="1551244881043">
         <mark key="'" line="0" column="27" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="18" column="8" />
+        <mark key="[" line="19" column="14" />
+        <mark key="]" line="19" column="21" />
+        <mark key="." line="19" column="21" />
+        <mark key="^" line="19" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/GongSilCenter/Component/AllRoom/index.js" timestamp="1551233706842">
         <mark key="[" line="112" column="40" />
@@ -185,6 +185,12 @@
         <mark key="]" line="145" column="41" />
         <mark key="." line="145" column="41" />
         <mark key="^" line="145" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/test/matterport/scripts/start.js" timestamp="1551244717250">
+        <mark key="[" line="43" column="55" />
+        <mark key="]" line="43" column="56" />
+        <mark key="." line="43" column="56" />
+        <mark key="^" line="43" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/.gitignore" timestamp="1551071123850">
         <mark key="[" line="16" column="6" />
@@ -697,11 +703,11 @@
       <jump line="0" column="27" filename="$USER_HOME$/Documents/test/matterport/public/js/mp.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>response</text>
       </register>
       <register name="-" type="4">
-        <text>'6bbc57b47f5d41cb8e719616d6e60faf'</text>
+        <text>response</text>
       </register>
       <register name="/" type="4">
         <text>desk1400</text>
