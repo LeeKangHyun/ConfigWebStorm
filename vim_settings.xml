@@ -299,10 +299,11 @@
         <mark key="." line="128" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" timestamp="1551317896164">
-        <mark key="[" line="272" column="0" />
-        <mark key="]" line="272" column="0" />
-        <mark key="." line="272" column="0" />
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" timestamp="1551319918619">
+        <mark key="[" line="112" column="14" />
+        <mark key="]" line="112" column="18" />
+        <mark key="." line="112" column="18" />
+        <mark key="^" line="112" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/station3/station3/src/components/Footer/index.js" timestamp="1549962397778">
         <mark key="[" line="97" column="37" />
@@ -794,10 +795,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMub25DbGlja0FkZEJvYXJkKCkK</text>
+        <text encoding="base64">CiAgICB0aGlzLmVkaXRvciA9IGVkaXRvcjsK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="/" type="4">
         <text>owner</text>
@@ -806,31 +807,31 @@
         <text encoding="base64">CiAgICBAU2VjdXJlZCgiUk9MRV9NMDAwMyIpCiAgICBAUmVxdWVzdE1hcHBpbmcodmFsdWUgPSAiL2FkbWluL3Jvb21zIikKICAgIHB1YmxpYyBTdHJpbmcgcm9vbXMoTW9kZWwgbW9kZWwsIEh0dHBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0LCBIdHRwU2VydmxldFJlc3BvbnNlIHJlc3BvbnNlKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gImluZGV4IjsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMub25DbGlja0FkZEJvYXJkKCkK</text>
+        <text encoding="base64">CiAgICB0aGlzLmVkaXRvciA9IGVkaXRvcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCdyZXNpemUnLCB0aGlzLmdldFNpemUpCg==</text>
+        <text encoding="base64">ICAgIHRoaXMub25DbGlja0FkZEJvYXJkKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEFkYXB0ZXIgZnJvbSAnZW56eW1lLWFkYXB0ZXItcmVhY3QtMTYnCg==</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCdyZXNpemUnLCB0aGlzLmdldFNpemUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmNvbmZpZ3VyZSh7IGFkYXB0ZXI6IG5ldyBBZGFwdGVyKCkgfSkK</text>
+        <text encoding="base64">aW1wb3J0IEFkYXB0ZXIgZnJvbSAnZW56eW1lLWFkYXB0ZXItcmVhY3QtMTYnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tc3R5bGVkLWNvbXBvbmVudHMiOiAiXjEuMTAuMCIsCg==</text>
+        <text encoding="base64">CmNvbmZpZ3VyZSh7IGFkYXB0ZXI6IG5ldyBBZGFwdGVyKCkgfSkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tc3R5bGVkLWNvbXBvbmVudHMiOiAiXjEuMTAuMCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIExhdW5jaCBXZWJwYWNrRGV2U2VydmVyLgo=</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tc3R5bGVkLWNvbXBvbmVudHMiOiAiXjEuMTAuMCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFNlcnZlIHdlYnBhY2sgYXNzZXRzIGdlbmVyYXRlZCBieSB0aGUgY29tcGlsZXIgb3ZlciBhIHdlYiBzZXJ2ZXIuCg==</text>
+        <text encoding="base64">ICAgIC8vIExhdW5jaCBXZWJwYWNrRGV2U2VydmVyLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIExvYWQgcHJveHkgY29uZmlnCg==</text>
+        <text encoding="base64">ICAgIC8vIFNlcnZlIHdlYnBhY2sgYXNzZXRzIGdlbmVyYXRlZCBieSB0aGUgY29tcGlsZXIgb3ZlciBhIHdlYiBzZXJ2ZXIuCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
