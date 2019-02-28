@@ -38,12 +38,12 @@
         <mark key="^" line="204" column="54" />
         <mark key="." line="204" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Board/Detail/index.js" timestamp="1551342304885">
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Board/Detail/index.js" timestamp="1551344278218">
         <mark key="'" line="330" column="7" />
-        <mark key="[" line="349" column="0" />
-        <mark key="]" line="349" column="0" />
-        <mark key="." line="349" column="0" />
-        <mark key="^" line="345" column="29" />
+        <mark key="[" line="347" column="15" />
+        <mark key="]" line="347" column="20" />
+        <mark key="." line="347" column="20" />
+        <mark key="^" line="347" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/pages/home.js" timestamp="1549946962751">
         <mark key="[" line="0" column="25" />
@@ -624,8 +624,8 @@
         <mark key="^" line="20" column="23" />
         <mark key="." line="27" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551342549972">
-        <mark key="[" line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1551344394173">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
@@ -820,10 +820,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>어드민 프리셋, 푸시 플래그 추가</text>
+        <text encoding="base64">IGxlZnQ=</text>
       </register>
       <register name="-" type="4">
-        <text>어드민 프리셋, 푸시 플래그 추가</text>
+        <text encoding="base64">IGxlZnQ=</text>
       </register>
       <register name="/" type="4">
         <text>board</text>
