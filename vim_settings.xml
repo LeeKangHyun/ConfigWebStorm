@@ -196,6 +196,11 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/Home/Component/Gallery/index.js" timestamp="1551356186406">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/.gitignore" timestamp="1551071123850">
         <mark key="[" line="16" column="6" />
         <mark key="]" line="16" column="8" />
@@ -595,6 +600,12 @@
       <file name="/JavaScript Console" timestamp="1551324258601">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Controller.js" timestamp="1551356691439">
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="31" column="30" />
+        <mark key="." line="31" column="30" />
+        <mark key="^" line="31" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/test/matterport/scripts/start.js" timestamp="1551244717250">
         <mark key="[" line="43" column="55" />
         <mark key="]" line="43" column="56" />
@@ -698,7 +709,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="26" filename="$USER_HOME$/Documents/station3/station3/src/components/Menus/SideMenu/index.js" />
       <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="113" column="3" filename="$USER_HOME$/Documents/station3/station3/src/components/Layout/styled.js" />
       <jump line="379" column="2" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Room/Rooms/Controller.js" />
@@ -798,13 +808,14 @@
       <jump line="348" column="54" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Board/Detail/index.js" />
       <jump line="91" column="17" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Board/Detail/Controller.js" />
       <jump line="330" column="7" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Board/Detail/index.js" />
+      <jump line="12" column="13" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Controller.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{}</text>
+        <text>...</text>
       </register>
       <register name="-" type="4">
-        <text>{}</text>
+        <text>...</text>
       </register>
       <register name="/" type="4">
         <text>board</text>
@@ -813,31 +824,31 @@
         <text encoding="base64">ICAgICAgc2VhcmNoOiBgPyR7cXMuc3RyaW5naWZ5KHsKICAgICAgICBzZWFyY2g6IEpTT04uc3RyaW5naWZ5KHsgaWQ6IHNlYXJjaC5pZCwgdHlwZTogc2VhcmNoLnR5cGUsIG5hbWU6IHNlYXJjaC5uYW1lIH0pLAogICAgICAgIGZpbHRlcnM6IEpTT04uc3RyaW5naWZ5KGZpbHRlcnMpLAogICAgICAgIHBvc2l0aW9uOiBKU09OLnN0cmluZ2lmeShwb3NpdGlvbiksCiAgICAgICAgdGFiOiB0YWIsCiAgICAgIH0pfWAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlYXJjaDogSlNPTi5zdHJpbmdpZnkoeyBpZDogc2VhcmNoLmlkLCB0eXBlOiBzZWFyY2gudHlwZSwgbmFtZTogc2VhcmNoLm5hbWUgfSksCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBvc2l0aW9uOiBKU09OLnN0cmluZ2lmeShwb3NpdGlvbiksCiAgICAgICAgICB0YWI6IHRhYiwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAKICAgICAgICAgIHNlYXJjaDogYD8ke3FzLnN0cmluZ2lmeSh7CiAgICAgICAgICB9KX1gCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VhcmNoOiBKU09OLnN0cmluZ2lmeSh7IGlkOiBzZWFyY2guaWQsIHR5cGU6IHNlYXJjaC50eXBlLCBuYW1lOiBzZWFyY2gubmFtZSB9KSwKICAgICAgICAgICAgZmlsdGVyczogSlNPTi5zdHJpbmdpZnkoZmlsdGVycyksCiAgICAgICAgICAgIHBvc2l0aW9uOiBKU09OLnN0cmluZ2lmeShwb3NpdGlvbiksCiAgICAgICAgICAgIHRhYjogdGFiLAo=</text>
+        <text encoding="base64">ICAgIGhpc3RvcnkucmVwbGFjZSh7CiAgICAgIHNlYXJjaDogYD8ke3FzLnN0cmluZ2lmeSh7CiAgICAgICAgZmlsdGVyczogSlNPTi5zdHJpbmdpZnkoKQogICAgICB9KX1gCiAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8geyBuYW1lOiAn66ek66y8IOq0gOumrCjtmZXsnbjrp6TrrLwpJywgdXJsOicvYWRtaW4vY29uZmlybS1yb29tcycsIGlkOiAnTTAwMDMnIH0sCiAgICAgIC8vIHsgbmFtZTogJ+unpOusvCDqtIDrpqwo67Cp7KO87J24KScsIHVybDonL2FkbWluL293bmVyLXJvb21zJywgaWQ6ICdNMDAwMycgfSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZSgnQGJhYmVsL3BvbHlmaWxsJyksCg==</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7Lyo8TWVtb0VkaXRvciBuYW1lPSJhZG1pbl9jb250ZW50IiB2YWx1ZT17YWRtaW5fY29udGVudH0gb25DaGFuZ2U9eyhlKSA9PiBvbkNoYW5nZVRvU3RhdGUoZSl9IC8+Ki99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNlYXJjaDogSlNPTi5zdHJpbmdpZnkoeyBpZDogc2VhcmNoLmlkLCB0eXBlOiBzZWFyY2gudHlwZSwgbmFtZTogc2VhcmNoLm5hbWUgfSksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBhZG1pbl9jb250ZW50OiBkYXRhLnBvc3QuYWRtaW5fY29udGVudCwK</text>
+        <text encoding="base64">ICAgICAgICAgIHBvc2l0aW9uOiBKU09OLnN0cmluZ2lmeShwb3NpdGlvbiksCiAgICAgICAgICB0YWI6IHRhYiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAKICAgICAgICAgIHNlYXJjaDogYD8ke3FzLnN0cmluZ2lmeSh7CiAgICAgICAgICB9KX1gCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
