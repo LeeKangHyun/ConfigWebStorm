@@ -38,7 +38,7 @@
         <mark key="^" line="204" column="54" />
         <mark key="." line="204" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Board/Detail/index.js" timestamp="1551330943405">
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Board/Detail/index.js" timestamp="1551335510801">
         <mark key="[" line="329" column="0" />
         <mark key="]" line="329" column="0" />
         <mark key="." line="329" column="0" />
@@ -86,11 +86,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Component/Item/index.js" timestamp="1551333662116">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="83" column="15" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="142" column="23" />
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Component/Item/index.js" timestamp="1551334337066">
+        <mark key="[" line="81" column="63" />
+        <mark key="]" line="81" column="66" />
+        <mark key="." line="81" column="66" />
+        <mark key="^" line="81" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/package.json" timestamp="1551231142196">
         <mark key="[" line="46" column="19" />
@@ -263,6 +263,9 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Board/Detail/Controller.js" timestamp="1551335732351">
+        <mark key="'" line="187" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/github/util_with_jest/src/components/Header/Header.test.js" timestamp="1551261418035">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="9" />
@@ -304,12 +307,12 @@
         <mark key="." line="128" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" timestamp="1551333327346">
-        <mark key="'" line="292" column="24" />
-        <mark key="[" line="646" column="29" />
-        <mark key="]" line="646" column="34" />
-        <mark key="." line="646" column="34" />
-        <mark key="^" line="646" column="34" />
+      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" timestamp="1551336704794">
+        <mark key="'" line="408" column="95" />
+        <mark key="[" line="899" column="49" />
+        <mark key="]" line="900" column="25" />
+        <mark key="." line="900" column="25" />
+        <mark key="^" line="900" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/station3/station3/src/components/Footer/index.js" timestamp="1549962397778">
         <mark key="[" line="97" column="37" />
@@ -619,8 +622,10 @@
         <mark key="^" line="20" column="23" />
         <mark key="." line="27" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551261724865">
+      <file name="/Dummy.txt" timestamp="1551334662077">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Service/DabangServices/Title/index.js" timestamp="1549947862198">
         <mark key="[" line="60" column="78" />
@@ -705,39 +710,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Common/AppBtn/styled.js" />
-      <jump line="1" column="19" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Common/AppBtn/styled.js" />
-      <jump line="76" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Common/AppBtn/styled.js" />
-      <jump line="62" column="26" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Common/AppBtn/styled.js" />
-      <jump line="1" column="19" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Service/DabangServices/styled.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Service/DabangServices/styled.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Banner/styled.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Banner/styled.js" />
-      <jump line="70" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Banner/styled.js" />
-      <jump line="102" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Banner/styled.js" />
-      <jump line="0" column="24" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Benefits/styled.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Benefits/styled.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Benefits/styled.js" />
-      <jump line="86" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Benefits/styled.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/CoreValue/styled.js" />
-      <jump line="37" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/CoreValue/styled.js" />
-      <jump line="84" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/CoreValue/styled.js" />
-      <jump line="126" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/CoreValue/styled.js" />
-      <jump line="196" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/CoreValue/styled.js" />
-      <jump line="458" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/CoreValue/styled.js" />
-      <jump line="278" column="10" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/CoreValue/styled.js" />
-      <jump line="356" column="10" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/CoreValue/styled.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Interview/Carousel/styled.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Interview/Carousel/styled.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Interview/Carousel/styled.js" />
-      <jump line="129" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Interview/Carousel/styled.js" />
-      <jump line="367" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Interview/Carousel/styled.js" />
-      <jump line="205" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Interview/Carousel/styled.js" />
-      <jump line="392" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Interview/Carousel/styled.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Interview/styled.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Photo/styled.js" />
-      <jump line="1" column="13" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Recruit/Recruiting/styled.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Recruit/Recruiting/styled.js" />
       <jump line="55" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Recruit/Recruiting/styled.js" />
       <jump line="86" column="0" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Recruit/Recruiting/styled.js" />
       <jump line="19" column="18" filename="$USER_HOME$/Documents/station3/gatsby/src/components/Culture/Recruit/styled.js" />
@@ -805,55 +777,106 @@
       <jump line="123" column="6" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Room/Confirm/Controller.js" />
       <jump line="702" column="34" filename="$USER_HOME$/Documents/station3/dabang-admin-new/node_modules/tui-editor/dist/tui-editor-Editor.js" />
       <jump line="292" column="24" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="27" column="13" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="226" column="19" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="277" column="19" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="459" column="20" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="491" column="23" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="495" column="21" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="515" column="39" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="535" column="35" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="591" column="29" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="737" column="16" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="738" column="25" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="769" column="19" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="955" column="0" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="67" column="6" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="68" column="6" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="124" column="35" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="240" column="22" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="293" column="6" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="351" column="20" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="513" column="36" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="514" column="10" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="533" column="36" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="534" column="10" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="631" column="35" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="641" column="54" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="646" column="29" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="30" column="6" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="37" column="6" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="62" column="6" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="164" column="22" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="168" column="24" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="408" column="95" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
+      <jump line="187" column="28" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Board/Detail/Controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAgIDx0cj4KICAgICAgICAgICAgPHRoPu2RuOyLnOyVjOumvDwvdGg+CiAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICA8VG9nZ2xlIG5hbWU9InB1c2giIGNoZWNrZWQ9e3NlbGVjdEJvYXJkLnB1c2h9IG9uQ2hhbmdlPXsoZSkgPT4gb25DaGFuZ2VUb0JvYXJkKGUpfSAvPgogICAgICAgICAgICA8L3RkPgogICAgICAgICAgPC90cj4K</text>
+      <register name="&quot;" type="4">
+        <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>\n</text>
+        <text>{}</text>
       </register>
       <register name="/" type="4">
-        <text>owner</text>
+        <text>board</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoPuyDge2DnDwvdGg+CiAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICA8VG9nZ2xlIG5hbWU9InN0YXR1cyIgY2hlY2tlZD17c2VsZWN0Qm9hcmQuc3RhdHVzfSBvbkNoYW5nZT17KGUpID0+IG9uQ2hhbmdlVG9Cb2FyZChlKX0gLz4KICAgICAgICAgICAgPC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgIG5hbWU6IHNlbGVjdEJvYXJkLm5hbWUsCiAgICAgICAgICBjYXRlZ29yeTogc2VsZWN0Qm9hcmQuY2F0ZWdvcnksCiAgICAgICAgICBzdGF0dXM6IHNlbGVjdEJvYXJkLnN0YXR1cywKICAgICAgICAgIGFwcHJvdmFsOiBzZWxlY3RCb2FyZC5hcHByb3ZhbCwKICAgICAgICAgIHJlcGx5OiBzZWxlY3RCb2FyZC5yZXBseSwKICAgICAgICAgIHByZXNldDogc2VsZWN0Qm9hcmQucHJlc2V0LAogICAgICAgICAgcHJlc2V0X2NvbnRlbnQ6IGVkaXRvci5nZXRIdG1sKCksCiAgICAgICAgICBhZG1pbl9wcmVzZXQ6IHNlbGVjdEJvYXJkLmFkbWluX3ByZXNldCwKICAgICAgICAgIGFkbWluX3ByZXNldF9jb250ZW50OiBwcmVzZXRFZGl0b3IuZ2V0SHRtbCgpLAogICAgICAgICAgcHVzaDogc2VsZWN0Qm9hcmQucHVzaCwKICAgICAgICAgIGFsbG93ZWRfdGVhbTogSlNPTi5zdHJpbmdpZnkoc2VsZWN0Qm9hcmQuYWxsb3dlZF90ZWFtLCB0aGlzLnJlcGxhY2VyKCkpLAogICAgICAgICAgYWxsb3dlZF91c2VyOiBKU09OLnN0cmluZ2lmeShzZWxlY3RCb2FyZC5hbGxvd2VkX3VzZXIpLAogICAgICAgICAgbWFuYWdlcjogSlNPTi5zdHJpbmdpZnkoc2VsZWN0Qm9hcmQubWFuYWdlciksCiAgICAgICAgICBjYXRlZ29yeV9uYW1lczogSlNPTi5zdHJpbmdpZnkoY2F0ZWdvcnlfbmFtZXMpLAogICAgICAgICAgc3RhdHVzX2l0ZW1zOiBKU09OLnN0cmluZ2lmeShzdGF0dXNfbmFtZXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAgIDx0cj4KICAgICAgICAgICAgPHRoPu2RuOyLnOyVjOumvDwvdGg+CiAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICA8VG9nZ2xlIG5hbWU9InB1c2giIGNoZWNrZWQ9e3NlbGVjdEJvYXJkLnB1c2h9IG9uQ2hhbmdlPXsoZSkgPT4gb25DaGFuZ2VUb0JvYXJkKGUpfSAvPgogICAgICAgICAgICA8L3RkPgogICAgICAgICAgPC90cj4K</text>
+        <text encoding="base64">ICAgIHRoaXMub25DaGFuZ2VUb09wdGlvbigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuIHt9IOuUlO2PtO2KuCDqsJLsnYQg7ISg7YOd7ZWY66m0IHRvZ2dsZeydgCDrrLTsobDqsbQgdHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICB0aGlzLmVkaXRvciA9IGVkaXRvcjsK</text>
+      <register name="5" type="4">
+        <text>else {
+        param = {
+          name: selectBoard.name,
+          category: selectBoard.category,
+          status: selectBoard.status,
+          approval: selectBoard.approval,
+          reply: selectBoard.reply,
+          preset: selectBoard.preset,
+          preset_content: editor.getHtml(),
+          admin_preset: selectBoard.admin_preset,
+          admin_preset_content: presetEditor.getHtml(),
+          push: selectBoard.push,
+          allowed_team: JSON.stringify(selectBoard.allowed_team, this.replacer()),
+          allowed_user: JSON.stringify(selectBoard.allowed_user),
+          manager: JSON.stringify(selectBoard.manager),
+          category_names: JSON.stringify(category_names),
+          status_items: JSON.stringify(status_names)
+        };
+      }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgdGhpcy5lZGl0b3IgPSBlZGl0b3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFsbG93ZWRfdGVhbTogSlNPTi5zdHJpbmdpZnkoc2VsZWN0Qm9hcmQuYWxsb3dlZF90ZWFtLCB0aGlzLnJlcGxhY2VyKCkpLAogICAgICAgICAgYWxsb3dlZF91c2VyOiBKU09OLnN0cmluZ2lmeShhbGxvd2VkX3VzZXIpLAogICAgICAgICAgbWFuYWdlcjogSlNPTi5zdHJpbmdpZnkobWFuYWdlciksCiAgICAgICAgICBjYXRlZ29yeV9uYW1lczogSlNPTi5zdHJpbmdpZnkoY2F0ZWdvcnlfbmFtZXMpLAogICAgICAgICAgc3RhdHVzX2l0ZW1zOiBKU09OLnN0cmluZ2lmeShzdGF0dXNfbmFtZXMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbSA9IHsKICAgICAgICAgIG5hbWU6IHNlbGVjdEJvYXJkLm5hbWUsCiAgICAgICAgICBjYXRlZ29yeTogc2VsZWN0Qm9hcmQuY2F0ZWdvcnksCiAgICAgICAgICBzdGF0dXM6IHNlbGVjdEJvYXJkLnN0YXR1cywKICAgICAgICAgIGFwcHJvdmFsOiBzZWxlY3RCb2FyZC5hcHByb3ZhbCwKICAgICAgICAgIHJlcGx5OiBzZWxlY3RCb2FyZC5yZXBseSwKICAgICAgICAgIHByZXNldDogc2VsZWN0Qm9hcmQucHJlc2V0LAogICAgICAgICAgcHJlc2V0X2NvbnRlbnQ6IGVkaXRvci5nZXRIdG1sKCksCiAgICAgICAgICBhZG1pbl9wcmVzZXQ6IHNlbGVjdEJvYXJkLmFkbWluX3ByZXNldCwKICAgICAgICAgIGFkbWluX3ByZXNldF9jb250ZW50OiBwcmVzZXRFZGl0b3IuZ2V0SHRtbCgpLAogICAgICAgICAgcHVzaDogc2VsZWN0Qm9hcmQucHVzaCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAgIDx0cj4KICAgICAgICAgICAgPHRoPu2RuOyLnOyVjOumvDwvdGg+CiAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICA8VG9nZ2xlIG5hbWU9InB1c2giIGNoZWNrZWQ9e3NlbGVjdEJvYXJkLnB1c2h9IG9uQ2hhbmdlPXsoZSkgPT4gb25DaGFuZ2VUb0JvYXJkKGUpfSAvPgogICAgICAgICAgICA8L3RkPgogICAgICAgICAgPC90cj4K</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-search>owner</last-search>
+      <last-search>board</last-search>
       <last-offset />
-      <last-pattern>owner</last-pattern>
+      <last-pattern>board</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -864,6 +887,10 @@
         <entry>filter</entry>
         <entry>keyword</entry>
         <entry>owner</entry>
+        <entry>push</entry>
+        <entry>amdin</entry>
+        <entry>admin</entry>
+        <entry>board</entry>
       </history-search>
       <history-cmd>
         <entry>ㅂ</entry>
