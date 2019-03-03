@@ -534,6 +534,12 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Pages/List/styled.js" timestamp="1551606921627">
+        <mark key="[" line="27" column="14" />
+        <mark key="]" line="27" column="14" />
+        <mark key="^" line="27" column="31" />
+        <mark key="." line="27" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Selling/List/Component/Table/Item.js" timestamp="1550199873858">
         <mark key="[" line="19" column="15" />
         <mark key="]" line="19" column="15" />
@@ -879,6 +885,12 @@
         <mark key="." line="87" column="61" />
         <mark key="^" line="87" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/styled.js" timestamp="1551606862084">
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="28" column="14" />
+        <mark key="^" line="28" column="31" />
+        <mark key="." line="28" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/GongSilCenter/Component/SelectRoom/index.js" timestamp="1551233741172">
         <mark key="[" line="108" column="31" />
         <mark key="]" line="108" column="41" />
@@ -1007,17 +1019,17 @@
       <jump line="27" column="9" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Pages/SignIn/styled.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">66ek6rGw7KeEIOu2meydtOq4sOyekeyXhQo=</text>
+      <register name="&quot;" type="4">
+        <text>#ccc</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">V3JhcCwg</text>
+        <text>#ccc</text>
       </register>
       <register name="/" type="4">
         <text>board</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAmOmhvdmVyIHsKICAgIGJhY2tncm91bmQ6ICR7Q09MT1IuYmxhY2tfMH0KICB9Cg==</text>
+      <register name="0" type="4">
+        <text>${COLOR.}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">66ek6rGw7KeEIOu2meydtOq4sOyekeyXhQo=</text>
