@@ -199,7 +199,6 @@
         <mark key="." line="113" column="48" />
         <mark key="^" line="113" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/index.js" timestamp="1551332889629" />
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/GongSilCenter/Component/EndRoom/index.js" timestamp="1551233716525">
         <mark key="[" line="145" column="40" />
         <mark key="]" line="145" column="41" />
@@ -271,7 +270,6 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="20" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/components/Toggle/styled.js" timestamp="1551321108191" />
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Room/Owner/index.js" timestamp="1551258800645">
         <mark key="[" line="22" column="41" />
         <mark key="]" line="22" column="43" />
@@ -354,6 +352,12 @@
         <mark key="^" line="5" column="37" />
         <mark key="." line="5" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/Search/index.js" timestamp="1551665850394">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="12" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/station3/pages/culture/Banner/styled.js" timestamp="1549868969608">
         <mark key="[" line="59" column="58" />
         <mark key="]" line="59" column="59" />
@@ -381,7 +385,6 @@
       <file name="/fragment.js" timestamp="1551324517554">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Board/List/Controller.js" timestamp="1551341337750" />
       <file name="$USER_HOME$/Documents/station3/station3/src/components/Culture/Banner/styled.js" timestamp="1550021516152">
         <mark key="[" line="94" column="14" />
         <mark key="]" line="95" column="22" />
@@ -478,9 +481,6 @@
         <mark key="]" line="359" column="0" />
         <mark key="^" line="359" column="12" />
         <mark key="." line="359" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-admin-new/node_modules/tui-editor/dist/tui-editor-Editor.js" timestamp="1551322048123">
-        <mark key="'" line="702" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/tdd/jest/src/components/Counter.js" timestamp="1550727230217">
         <mark key="[" line="15" column="26" />
@@ -801,10 +801,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>{}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>board</text>
