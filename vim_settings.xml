@@ -295,6 +295,11 @@
         <mark key="." line="173" column="13" />
         <mark key="^" line="173" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewPayment/GlobalState/reducer.js" timestamp="1551781195002">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/github/util_with_jest/src/components/Header/Header.test.js" timestamp="1551347502543">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="1" column="22" />
@@ -427,6 +432,7 @@
         <mark key="^" line="12" column="55" />
         <mark key="." line="12" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewPayment/Component/AfterPayment/Component/General/NormalGroup.js" timestamp="1551781397391" />
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Dabang/styled.js" timestamp="1551763042541">
         <mark key="[" line="13" column="53" />
         <mark key="]" line="14" column="23" />
@@ -439,10 +445,6 @@
         <mark key="]" line="25" column="20" />
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/ComplexDetail/Component/Tabs/Controller.js" timestamp="1551761077469">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="56" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/station3/station3/src/components/Culture/Banner/styled.js" timestamp="1550021516152">
         <mark key="[" line="94" column="14" />
@@ -915,11 +917,11 @@
       <jump line="101" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/GeneralProduct/Price/Controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpdGVtczogWwogICAgICAgICAgeyAkc2V0OiB7IFthY3Rpb24uaWR4XTogYWN0aW9uLmluZm99fQogICAgICAgIF0K</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>board</text>
@@ -928,31 +930,31 @@
         <text encoding="base64">ICAgIGlmICh0aGlzLl9zZWxlY3QgJiYgIXRoaXMuX3NlbGVjdC5jb250YWlucyhlLnRhcmdldCkpIHsKICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgaXNPcGVuOiBmYWxzZSwKICAgICAgfSkKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBpdGVtczogWwogICAgICAgICAgeyAkc2V0OiB7IFthY3Rpb24uaWR4XTogYWN0aW9uLmluZm99fQogICAgICAgIF0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAmOgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBmb250LXdlaWdodDogbm9ybWFsOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXN0cmV0Y2g6IG5vcm1hbDsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBsaW5lLWhlaWdodDogOTRweDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBsaW5lLWhlaWdodDogMS4zODsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAmOgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBmb250LXdlaWdodDogbm9ybWFsOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXN0cmV0Y2g6IG5vcm1hbDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBsaW5lLWhlaWdodDogOTRweDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBsaW5lLWhlaWdodDogMS4zODsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpc09wZW46IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
