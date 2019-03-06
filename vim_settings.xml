@@ -433,7 +433,11 @@
         <mark key="^" line="12" column="55" />
         <mark key="." line="12" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewPayment/Component/AfterPayment/Component/General/NormalGroup.js" timestamp="1551781397391" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewPayment/Component/AfterPayment/Component/General/NormalGroup.js" timestamp="1551851416635">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Dabang/styled.js" timestamp="1551837630043">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -922,8 +926,8 @@
       <jump line="73" column="4" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Header/Top/styled.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>30</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="-" type="4">
         <text>30</text>
@@ -935,31 +939,31 @@
         <text encoding="base64">ICB0cmFuc2l0aW9uOiBiYWNrZ3JvdW5kLWNvbG9yIDMwMG1zIGVhc2Utb3V0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyYW5zaXRpb246IGJhY2tncm91bmQtY29sb3IgMzAwbXMgZWFzZS1vdXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0cmFuc2l0aW9uOiBiYWNrZ3JvdW5kLWNvbG9yIDMwMG1zIGVhc2Utb3V0Owo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9nb3V0LCBvbkNsaWNrTWVudSB9IGZyb20gJ0AvY29tbW9uJzsK</text>
+        <text encoding="base64">ICAgIHRyYW5zaXRpb246IGJhY2tncm91bmQtY29sb3IgMzAwbXMgZWFzZS1vdXQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyAgZnJvbSAnLi9jb25maWcnCg==</text>
+        <text encoding="base64">ICB0cmFuc2l0aW9uOiBiYWNrZ3JvdW5kLWNvbG9yIDMwMG1zIGVhc2Utb3V0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbG9nb3V0LCBvbkNsaWNrTWVudSB9IGZyb20gJ0AvY29tbW9uJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHdpdGhDb250cm9sbGVyIGZyb20gJy4vQ29udHJvbGxlcicK</text>
+        <text encoding="base64">aW1wb3J0IGNvbmZpZyAgZnJvbSAnLi9jb25maWcnCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHdpdGhDb250cm9sbGVyIGZyb20gJy4vQ29udHJvbGxlcicK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
