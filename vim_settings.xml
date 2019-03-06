@@ -433,10 +433,10 @@
         <mark key="^" line="12" column="55" />
         <mark key="." line="12" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewPayment/Component/AfterPayment/Component/General/NormalGroup.js" timestamp="1551851416635">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewPayment/Component/AfterPayment/Component/General/NormalGroup.js" timestamp="1551852079611">
+        <mark key="[" line="116" column="39" />
+        <mark key="]" line="116" column="39" />
+        <mark key="." line="116" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Dabang/styled.js" timestamp="1551837630043">
         <mark key="[" line="23" column="0" />
@@ -926,11 +926,11 @@
       <jump line="73" column="4" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Header/Top/styled.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="-" type="4">
-        <text>30</text>
+        <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="/" type="4">
         <text>board</text>
