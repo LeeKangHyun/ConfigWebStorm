@@ -295,6 +295,12 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/redux/Reducers/Filters.js" timestamp="1551949039786">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="7" column="24" />
+        <mark key="^" line="7" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/station3/src/components/Culture/Photo/index.js" timestamp="1550044460865">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="17" />
@@ -318,10 +324,10 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="20" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Complex/Price/styled.js" timestamp="1551944311865">
-        <mark key="[" line="120" column="15" />
-        <mark key="]" line="121" column="15" />
-        <mark key="." line="121" column="15" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Complex/Price/styled.js" timestamp="1551948500603">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
         <mark key="^" line="121" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Room/Owner/index.js" timestamp="1551258800645">
@@ -464,12 +470,12 @@
         <mark key="^" line="12" column="55" />
         <mark key="." line="12" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Complex/Price/index.js" timestamp="1551944134488">
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Complex/Price/index.js" timestamp="1551948495315">
         <mark key="'" line="13" column="15" />
-        <mark key="[" line="62" column="22" />
-        <mark key="]" line="62" column="24" />
-        <mark key="." line="62" column="24" />
-        <mark key="^" line="62" column="24" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="12" />
+        <mark key="." line="61" column="12" />
+        <mark key="^" line="61" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewPayment/Component/AfterPayment/Component/General/NormalGroup.js" timestamp="1551852079611">
         <mark key="[" line="116" column="39" />
@@ -567,11 +573,6 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/GeneralProduct/Price/api/price.json" timestamp="1551923775690">
-        <mark key="'" line="106009" column="0" />
-        <mark key="[" line="6477" column="7" />
-        <mark key="]" line="6477" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewLogin/NewLogin.test.js" timestamp="1551250612770">
         <mark key="[" line="52" column="64" />
         <mark key="]" line="53" column="9" />
@@ -607,6 +608,12 @@
         <mark key="]" line="37" column="43" />
         <mark key="." line="37" column="43" />
         <mark key="^" line="37" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/pages/Filter/index.js" timestamp="1551949103381">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+        <mark key="^" line="10" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Guide/styled.js" timestamp="1551763920197">
         <mark key="[" line="144" column="8" />
@@ -827,11 +834,11 @@
         <mark key="." line="30" column="30" />
         <mark key="^" line="30" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/github/util_with_jest/src/Controllers/Filter/index.js" timestamp="1551347814690">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="9" />
-        <mark key="." line="10" column="9" />
-        <mark key="^" line="10" column="9" />
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/Controllers/Filter/index.js" timestamp="1551949437922">
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="42" column="5" />
+        <mark key="." line="42" column="5" />
+        <mark key="^" line="42" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/GeneralProduct/Price/styled.js" timestamp="1551929656659">
         <mark key="'" line="0" column="26" />
@@ -949,8 +956,8 @@
       <jump line="13" column="15" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Complex/Price/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBtYXJnaW4tdG9wOiAzMHB4Owo=</text>
+      <register name="&quot;" type="4">
+        <text>div</text>
       </register>
       <register name="-" type="4">
         <text>div</text>
@@ -958,35 +965,60 @@
       <register name="/" type="4">
         <text>board</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFJlc3VsdCA9IHN0eWxlZC5kaXZgCiAgd2lkdGg6IDkxMHB4OwogIG1pbi1oZWlnaHQ6IDQ3MHB4OwogIG1hcmdpbjogMTAwcHggYXV0byA4MHB4OwpgCgpleHBvcnQgY29uc3QgVGV4dCA9IHN0eWxlZC5kaXZgCiAgcG9zaXRpb246IHJlbGF0aXZlOwogIG1hcmdpbi1ib3R0b206IDMwcHg7CiAgZm9udC1zaXplOiAyNnB4OwogIGZvbnQtd2VpZ2h0OiAzMDA7CiAgbGluZS1oZWlnaHQ6IDMwcHg7CiAgbGV0dGVyLXNwYWNpbmc6IC0xLjJweDsKICBjb2xvcjogIzIyMjIyMjsKICBwIHsKICAgIG1heC13aWR0aDogNzI5cHg7CiAgICB3b3JkLWJyZWFrOiBrZWVwLWFsbDsKICB9CiAgc3BhbiB7CiAgICBjb2xvcjogIzUzNTlmZTsKICB9CiAgbGFiZWwgewogICAgcG9zaXRpb246IGFic29sdXRlOwogICAgdG9wOiA1MCU7CiAgICByaWdodDogMDsKICAgIGZvbnQtc2l6ZTogMTRweDsKICAgIGxldHRlci1zcGFjaW5nOiBub3JtYWw7CiAgICBjb2xvcjogIzg4ODg4ODsKICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgtNTAlKTsKICB9CmAK</text>
+      <register name="0" type="4">
+        <text>{
+  standardRegions: null,
+  
+  convention: false, //웨딩홀/컨벤션
+  hotel: false, // 호텔
+  house: false, //하우스/야외/전통
+
+  toneSepia: false, // 세피아톤
+  toneWhite: false, // 화이트톤
+  tonePeach: false, // 피치톤
+  vivid: false, // 선명한색감
+  moodWarm: false, // 따뜻한 분위기
+  comfy: false, // 편안한색감
+  gorgeous: false, // 화사한색감
+  classic: false, // 고전적인클래식
+  dramatic: false, // 드라마틱
+  vintage: false, // 빈티지보정
+
+  priceFrom: 0,
+  priceTo: 0,
+
+  albumType: false, //인화 앨범 비치중
+  displayType: false, //디스플레이 전시중
+  visitor: false, // 갤러리 방문고객 할인
+  isEnterprise: false, //사업자등록증 인증
+}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtYXJnaW4tdG9wOiAzMHB4Owo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpOwo=</text>
+        <text encoding="base64">ICBhZGQ6IHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIHRvcDogNTAlOwogICAgbGVmdDogNTAlOwo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7Cg==</text>
+        <text encoding="base64">ICBwcmljZTogewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsaW5lLWhlaWdodDogMS41Owo=</text>
+        <text encoding="base64">ICBjaGFyOiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXR0ZXItc3BhY2luZzogLTAuOXB4OwogIGNvbG9yOiAjNjY2NjY2Owo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmb250LXdlaWdodDogbm9ybWFsOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXN0cmV0Y2g6IG5vcm1hbDsK</text>
+        <text encoding="base64">ICBtb2RlOiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMjBweDsK</text>
+        <text encoding="base64">ICA+IGRpdiB7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
