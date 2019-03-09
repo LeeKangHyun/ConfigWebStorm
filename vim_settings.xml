@@ -126,11 +126,11 @@
         <mark key="^" line="36" column="43" />
         <mark key="." line="36" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/Controllers/Home/index.js" timestamp="1551605232059">
-        <mark key="[" line="67" column="13" />
-        <mark key="]" line="67" column="14" />
-        <mark key="^" line="72" column="5" />
-        <mark key="." line="67" column="14" />
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/Controllers/Home/index.js" timestamp="1552123359569">
+        <mark key="[" line="114" column="6" />
+        <mark key="]" line="115" column="20" />
+        <mark key="." line="115" column="20" />
+        <mark key="^" line="115" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Components/MainFilter/index.js" timestamp="1551621030058">
         <mark key="[" line="20" column="24" />
@@ -337,7 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="24" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
       <jump line="27" column="13" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
       <jump line="226" column="19" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
       <jump line="277" column="19" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
@@ -437,46 +436,47 @@
       <jump line="3" column="0" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Components/Header/Component/Slider/index.js" />
       <jump line="1" column="19" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Components/Header/Component/Slider/index.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Components/Header/Component/Slider/index.js" />
+      <jump line="112" column="5" filename="$USER_HOME$/Documents/Work/fdding_demander/client/Controllers/Home/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9nb3V0IH0gZnJvbSAnQC9SZWR1eC9BY3Rpb25zL3VzZXInCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LnRoZW4oKHJlc3VsdCkgPT4gewogICAgICAKICAgIH0p</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmV0Y2hVc2VySW5mbywg</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>board</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9nb3V0IH0gZnJvbSAnQC9SZWR1eC9BY3Rpb25zL3VzZXInCg==</text>
+      <register name="0" type="4">
+        <text>apiCall.get('/api/main/list')</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhuYW1lLCBpc0xvZ2dlZEluKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">LnRoZW4oKHJlc3VsdCkgPT4gewogICAgICAKICAgIH0p</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBoYW5kbGVyLAo=</text>
+        <text encoding="base64">ICAgIGFwaUNhbGwuZ2V0KCcvYXBpL21haW4vbGlzdCcpLnRoZW4oKGRhdGEpID0+IHsKICAgICAgaWYgKHRoaXMuX2lzTW91bnQpIHsKICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQogICAgICB9CiAgICB9KQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgL2FwaS9tYWluL2FkQmFubmVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZmV0Y2hVc2VySW5mbywgc3VjY2Vzc0xvZ2luIH0gPSB0aGlzLnByb3BzCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgIGFwaUNhbGwuZ2V0KCcvYXBpL21haW4vbGlzdCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF3YWl0IGZldGNoVXNlckluZm8oKQo=</text>
+        <text encoding="base64">ICAgIC9hcGkvbWFpbi9saXN0CiAgICAvYXBpL21haW4vYWRCYW5uZXIKICAgIC9hcGkvbWFpbi9saXN0QmFubmVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGF3YWl0IHN1Y2Nlc3NMb2dpbigpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhuYW1lLCBpc0xvZ2dlZEluKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZT0ibWFya2V0aW5nIgogICAgICAgICAgICBjaGVja2VkPXttYXJrZXRpbmd9CiAgICAgICAgICAgIG9uQ2hhbmdlPXtvbkNoYW5nZVRvQ2hlY2tib3h9Pgo=</text>
+        <text encoding="base64">ICBoYW5kbGVyLAo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
