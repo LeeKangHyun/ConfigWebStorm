@@ -119,12 +119,12 @@
         <mark key="]" line="78" column="42" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Components/Header/Component/Slider/index.js" timestamp="1551967196798">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="71" column="57" />
-        <mark key="]" line="71" column="57" />
-        <mark key="^" line="71" column="57" />
-        <mark key="." line="71" column="57" />
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Components/Header/Component/Slider/index.js" timestamp="1552107182411">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="36" column="43" />
+        <mark key="^" line="36" column="43" />
+        <mark key="." line="36" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Work/fdding_demander/client/Controllers/Home/index.js" timestamp="1551605232059">
         <mark key="[" line="67" column="13" />
@@ -143,6 +143,12 @@
         <mark key="]" line="74" column="6" />
         <mark key="^" line="74" column="6" />
         <mark key="." line="74" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/Redux/Sagas/watchFetchUser.js" timestamp="1552106148550">
+        <mark key="[" line="68" column="20" />
+        <mark key="]" line="68" column="20" />
+        <mark key="^" line="68" column="20" />
+        <mark key="." line="68" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/routes.js" timestamp="1551605339026">
         <mark key="[" line="76" column="34" />
@@ -167,6 +173,11 @@
         <mark key="]" line="13" column="22" />
         <mark key="." line="13" column="22" />
         <mark key="^" line="13" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/Redux/Reducers/user.js" timestamp="1552106423966">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Pages/SignIn/index.js" timestamp="1551963227776">
         <mark key="[" line="28" column="33" />
@@ -218,7 +229,7 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551970376466">
+      <file name="/Dummy.txt" timestamp="1552107225841">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -260,12 +271,12 @@
         <mark key="." line="66" column="27" />
         <mark key="^" line="66" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Components/Header/index.js" timestamp="1551969053946">
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Components/Header/index.js" timestamp="1552107136819">
         <mark key="'" line="99" column="9" />
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="8" column="23" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="45" />
+        <mark key="." line="8" column="9" />
+        <mark key="^" line="97" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/styled.js" timestamp="1551606862084">
         <mark key="[" line="28" column="14" />
@@ -305,11 +316,11 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="41" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/Controllers/SignIn/index.js" timestamp="1551969533266">
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/Controllers/SignIn/index.js" timestamp="1552106575253">
         <mark key="'" line="38" column="167" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Pages/Magazine/index.js" timestamp="1551604638481">
         <mark key="[" line="8" column="5" />
@@ -326,8 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="6" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Room/Confirm/Controller.js" />
-      <jump line="702" column="34" filename="$USER_HOME$/Documents/station3/dabang-admin-new/node_modules/tui-editor/dist/tui-editor-Editor.js" />
       <jump line="292" column="24" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
       <jump line="27" column="13" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
       <jump line="226" column="19" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
@@ -418,7 +427,6 @@
       <jump line="37" column="167" filename="$USER_HOME$/Documents/Work/fdding_demander/client/Controllers/SignIn/index.js" />
       <jump line="25" column="20" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Pages/Signup/index.js" />
       <jump line="89" column="39" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/Signup/index.js" />
-      <jump line="1" column="19" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Components/Header/Component/Slider/index.js" />
       <jump line="72" column="0" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Components/Header/Component/Slider/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Components/Header/index.js" />
       <jump line="107" column="3" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Components/Header/index.js" />
@@ -426,46 +434,49 @@
       <jump line="66" column="5" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/SignIn/index.js" />
       <jump line="5" column="21" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/SignIn/index.js" />
       <jump line="99" column="9" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Components/Header/index.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Components/Header/Component/Slider/index.js" />
+      <jump line="1" column="19" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Components/Header/Component/Slider/index.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Components/Header/Component/Slider/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>33</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgbG9nb3V0IH0gZnJvbSAnQC9SZWR1eC9BY3Rpb25zL3VzZXInCg==</text>
       </register>
       <register name="-" type="4">
-        <text>33</text>
+        <text encoding="base64">ZmV0Y2hVc2VySW5mbywg</text>
       </register>
       <register name="/" type="4">
         <text>board</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5hbWU9InVzZVRlcm0iCiAgICAgICAgICBjaGVja2VkPXt1c2VUZXJtfQogICAgICAgICAgb25DaGFuZ2U9e29uQ2hhbmdlVG9DaGVja2JveH0+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbG9nb3V0IH0gZnJvbSAnQC9SZWR1eC9BY3Rpb25zL3VzZXInCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGF3YWl0IHN1Y2Nlc3NMb2dpbigpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhuYW1lLCBpc0xvZ2dlZEluKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZT0ibWFya2V0aW5nIgogICAgICAgICAgICBjaGVja2VkPXttYXJrZXRpbmd9CiAgICAgICAgICAgIG9uQ2hhbmdlPXtvbkNoYW5nZVRvQ2hlY2tib3h9Pgo=</text>
+        <text encoding="base64">ICBoYW5kbGVyLAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgID4K</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgID4K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgZmV0Y2hVc2VySW5mbywgc3VjY2Vzc0xvZ2luIH0gPSB0aGlzLnByb3BzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgID4K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGF3YWl0IGZldGNoVXNlckluZm8oKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIGF3YWl0IHN1Y2Nlc3NMb2dpbigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZT0ibWFya2V0aW5nIgogICAgICAgICAgICBjaGVja2VkPXttYXJrZXRpbmd9CiAgICAgICAgICAgIG9uQ2hhbmdlPXtvbkNoYW5nZVRvQ2hlY2tib3h9Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
