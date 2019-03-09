@@ -129,11 +129,11 @@
         <mark key="^" line="14" column="21" />
         <mark key="." line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/Redux/Reducers/filterMain.js" timestamp="1552137641591">
-        <mark key="'" line="21" column="6" />
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/Redux/Reducers/filterMain.js" timestamp="1552140851834">
+        <mark key="'" line="20" column="6" />
         <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="29" />
-        <mark key="^" line="1" column="6" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="25" column="16" />
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Components/List/index.js" timestamp="1552131865525">
@@ -252,12 +252,12 @@
         <mark key="^" line="29" column="32" />
         <mark key="." line="29" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/Redux/Reducers/filterJeju.js" timestamp="1552137529759">
-        <mark key="'" line="8" column="28" />
-        <mark key="[" line="46" column="9" />
-        <mark key="]" line="39" column="13" />
-        <mark key="." line="46" column="13" />
-        <mark key="^" line="39" column="13" />
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/Redux/Reducers/filterJeju.js" timestamp="1552140849250">
+        <mark key="'" line="7" column="28" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="28" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Pages/List/Makeup/Controller.js" timestamp="1552129535553">
         <mark key="[" line="0" column="0" />
@@ -271,12 +271,11 @@
         <mark key="." line="64" column="27" />
         <mark key="^" line="64" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Controller.js" timestamp="1552136545286">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="11" column="54" />
-        <mark key="]" line="12" column="3" />
-        <mark key="." line="12" column="3" />
-        <mark key="^" line="12" column="3" />
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Controller.js" timestamp="1552141631526">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Components/Header/index.js" timestamp="1552130042424">
         <mark key="'" line="0" column="0" />
@@ -297,7 +296,7 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552137980145">
+      <file name="/Dummy.txt" timestamp="1552141800458">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -387,6 +386,13 @@
         <mark key="]" line="3" column="39" />
         <mark key="." line="3" column="34" />
         <mark key="^" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Components/MainFilter/Components/Region/index.js" timestamp="1552141058526">
+        <mark key="'" line="8" column="33" />
+        <mark key="[" line="56" column="29" />
+        <mark key="]" line="56" column="43" />
+        <mark key="." line="56" column="43" />
+        <mark key="^" line="56" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Components/Header/Component/Slider/Controller.js" timestamp="1551967228348">
         <mark key="[" line="13" column="6" />
@@ -523,10 +529,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZmV0Y2hGaWx0ZXIsCiAgICAgIGNsZWFyRmlsdGVyLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjZG0nKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>board</text>
@@ -535,31 +541,31 @@
         <text encoding="base64">ICByZWM6IHsKICAgIHNob290RHJvbmU6IGZhbHNlLCAvL+uTnOuhoOy0rOyYgQogICAgc2hvb3ROaWdodDogZmFsc2UsIC8v7JW86rCE7LSs7JiBCiAgICBzaG9vdEluZG9vcjogZmFsc2UsIC8v7Iuk64K07LSs7JiBCiAgICBzaG9vdEN1c3RvbTogZmFsc2UsIC8v7Luk7Iqk7YWA7LSs7JiBCiAgICBzaG9vdEhhbmJvazogZmFsc2UsIC8v7ZWc67O17LSs7JiBCiAgICBzaG9vdER1bzogZmFsc2UsIC8vMuyduOyekeqwgCDstKzsmIEKICB9LAogIGNoYXI6IHsKICAgIHBpY3RvcmlhbDogZmFsc2UsICAgICAgIC8vIO2ZlOuztO2YlQogICAgY2xhc3NpYzogZmFsc2UsICAgICAgICAgLy8g7YG0656Y7IudCiAgICB0cmVuZHk6IGZhbHNlLCAgICAgICAgICAvLyDtirjroIzrlJQKICAgIHNwZWNpYWw6IGZhbHNlLCAgICAgICAgIC8vIO2KueuzhO2VnAogICAgdml2aWQ6IGZhbHNlLCAgICAgICAgICAgLy8g7ISg66qF7ZWcCiAgICBkcmFtYXRpYzogZmFsc2UsICAgICAgICAvLyDrk5zrnbzrp4jti7EKICAgIGxvdmVseTogZmFsc2UsICAgICAgICAgIC8vIOufrOu4lOumrAogICAgcm9tYW50aWM6IGZhbHNlLCAgICAgICAgLy8g66Gc66eo7YuxCiAgICB3YXJtOiBmYWxzZSwgICAgICAgICAgICAvLyDrlLDrnLvtlZwKICAgIHZpbnRhZ2U6IGZhbHNlLCAgICAgICAgIC8vIOu5iO2LsOyngAogICAgY29tZnk6IGZhbHNlLCAgICAgICAgICAgLy8g7Y647JWI7ZWcCiAgICBjbGVhbjogZmFsc2UsICAgICAgICAgICAvLyDquajrgZftlZwKICB9LAogIHByaWNlOiB7CiAgICBwcmljZUZyb20gOiAwLAogICAgcHJpY2VUbzogMAogIH0sCiAgYWRkOiB7CiAgICBhbGJ1bVR5cGU6IGZhbHNlLCAvL+yduO2ZlCDslajrspQg67mE7LmY7KSRCiAgICBkaXNwbGF5VHlwZTogZmFsc2UsIC8v65SU7Iqk7ZSM66CI7J20IOyghOyLnOykkQogICAgdmlzaXRvcjogZmFsc2UsIC8vIOqwpOufrOumrCDrsKnrrLjqs6DqsJ0g7ZWg7J24CiAgICBpc0VudGVycHJpc2U6IGZhbHNlIC8v7IKs7JeF7J6Q65Ox66Gd7KadIOyduOymnQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZmV0Y2hGaWx0ZXIsCiAgICAgIGNsZWFyRmlsdGVyLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjZG0nKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBmaWx0ZXJzOiB7CiAgICAgICAgICAuLi5pbml0aWFsRmlsdGVyCiAgICAgICAgfQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGdldExpc3QoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhc2UgUkVRVUVTVF9KRUpVX0ZJTFRFUl9DSEFOR0U6Cg==</text>
+        <text encoding="base64">ICAKICBjb21wb25lbnREaWRVcGRhdGUocHJldlByb3BzLCBwcmV2U3RhdGUsIHNuYXBzaG90KSB7CiAgCiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhc2UgU1VDQ0VTU19KRUpVX0ZJTFRFUl9DSEFOR0U6Cg==</text>
+        <text encoding="base64">ICBTVUNDRVNTX01BSU5fRklMVEVSX0NIQU5HRSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNhc2UgUkVTRVRfSkVKVV9GSUxURVI6Cg==</text>
+        <text encoding="base64">ICBTVUNDRVNTX0pFSlVfRklMVEVSX0NIQU5HRSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNhc2UgRkFJTF9KRUpVX0ZJTFRFUl9DSEFOR0U6Cg==</text>
+        <text encoding="base64">ICAgICAgZmV0Y2hGaWx0ZXIsCiAgICAgIGNsZWFyRmlsdGVyLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBSRVFVRVNUX0pFSlVfRklMVEVSX0NIQU5HRSwKICBTVUNDRVNTX0pFSlVfRklMVEVSX0NIQU5HRSwKICBGQUlMX0pFSlVfRklMVEVSX0NIQU5HRSwKICBSRVNFVF9KRUpVX0ZJTFRFUiwK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBmaWx0ZXJzOiB7CiAgICAgICAgICAuLi5pbml0aWFsRmlsdGVyCiAgICAgICAgfQogICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCBmZXRjaEZpbHRlciA9IChmaWx0ZXJzKSA9PiAoewogIHR5cGU6IFJFUVVFU1RfSkVKVV9GSUxURVJfQ0hBTkdFLAogIGZpbHRlcnMKfSkKCmV4cG9ydCBjb25zdCBjbGVhckZpbHRlciA9ICgpID0+ICh7CiAgdHlwZTogUkVTRVRfSkVKVV9GSUxURVIsCn0pCg==</text>
+        <text encoding="base64">ICAgIGNhc2UgUkVRVUVTVF9KRUpVX0ZJTFRFUl9DSEFOR0U6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCBSRVFVRVNUX0pFSlVfRklMVEVSX0NIQU5HRSA9ICdSRVFVRVNUX0pFSlVfRklMVEVSX0NIQU5HRScKZXhwb3J0IGNvbnN0IFNVQ0NFU1NfSkVKVV9GSUxURVJfQ0hBTkdFID0gJ1NVQ0NFU1NfSkVKVV9GSUxURVJfQ0hBTkdFJwpleHBvcnQgY29uc3QgRkFJTF9KRUpVX0ZJTFRFUl9DSEFOR0UgPSAnRkFJTF9KRUpVX0ZJTFRFUl9DSEFOR0UnCmV4cG9ydCBjb25zdCBSRVNFVF9KRUpVX0ZJTFRFUiA9ICdSRVNFVF9KRUpVX0ZJTFRFUicK</text>
+        <text encoding="base64">ICAgIGNhc2UgU1VDQ0VTU19KRUpVX0ZJTFRFUl9DSEFOR0U6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
