@@ -64,17 +64,17 @@
         <mark key="." line="23" column="50" />
         <mark key="^" line="23" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Components/Select/index.js" timestamp="1551613312907">
-        <mark key="[" line="5" column="41" />
-        <mark key="]" line="5" column="47" />
-        <mark key="." line="5" column="47" />
-        <mark key="^" line="5" column="47" />
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Components/Select/index.js" timestamp="1552146322061">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+        <mark key="^" line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/config.js" timestamp="1551611898353">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="^" line="104" column="1" />
-        <mark key="." line="103" column="0" />
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/config.js" timestamp="1552145528125">
+        <mark key="[" line="127" column="1" />
+        <mark key="]" line="127" column="1" />
+        <mark key="^" line="127" column="0" />
+        <mark key="." line="127" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Pages/List/Makeup/index.js" timestamp="1552129615544">
         <mark key="[" line="24" column="64" />
@@ -82,10 +82,23 @@
         <mark key="." line="24" column="74" />
         <mark key="^" line="24" column="74" />
       </file>
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Jeju/Controller.js" timestamp="1552130267125">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Components/Component/Select/Component/Mode/index.js" timestamp="1552145783901">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="22" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/Work/fdding_demander/client/Redux/Actions/listJeju.js" timestamp="1552137675967">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Components/Select/styled.js" timestamp="1552146398419">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/SignIn/styled.js" timestamp="1551962217961">
         <mark key="[" line="57" column="0" />
@@ -111,9 +124,9 @@
         <mark key="." line="4" column="53" />
         <mark key="^" line="4" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Components/Component/Select/index.js" timestamp="1551612548125">
-        <mark key="[" line="38" column="38" />
-        <mark key="]" line="38" column="38" />
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Components/Component/Select/index.js" timestamp="1552146080187">
+        <mark key="[" line="38" column="30" />
+        <mark key="]" line="38" column="37" />
         <mark key="^" line="38" column="38" />
         <mark key="." line="38" column="38" />
       </file>
@@ -142,6 +155,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="22" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Components/MainFilter/Components/Mode/styled.js" timestamp="1552145789881">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/Work/fdding_demander/client/Redux/Sagas/api/list.js" timestamp="1552136605710">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="3" column="27" />
@@ -167,23 +186,24 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Components/MainFilter/index.js" timestamp="1551621030058">
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="24" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="15" />
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Components/MainFilter/index.js" timestamp="1552145450009">
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="25" column="12" />
+        <mark key="." line="25" column="12" />
+        <mark key="^" line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/Redux/Sagas/watchFetchFilterMain.js" timestamp="1552137316973">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="24" column="44" />
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/Redux/Sagas/watchFetchFilterMain.js" timestamp="1552144895181">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Components/MainFilter/Components/styled.js" timestamp="1551612981941">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="6" />
-        <mark key="^" line="74" column="6" />
-        <mark key="." line="74" column="6" />
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Components/MainFilter/Components/styled.js" timestamp="1552145762238">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Makeup/index.js" timestamp="1552129577593">
         <mark key="'" line="30" column="0" />
@@ -204,6 +224,12 @@
         <mark key="^" line="76" column="38" />
         <mark key="." line="76" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Components/MainFilter/Components/Mode/Controller.js" timestamp="1552145933252">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/index.js" timestamp="1552131851076">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="19" column="0" />
@@ -217,7 +243,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Components/MainFilter/Controller.js" timestamp="1552131642307">
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Components/MainFilter/Controller.js" timestamp="1552143483336">
         <mark key="'" line="81" column="0" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -271,11 +297,12 @@
         <mark key="." line="64" column="27" />
         <mark key="^" line="64" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Controller.js" timestamp="1552141631526">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Controller.js" timestamp="1552144318681">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="7" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Components/Header/index.js" timestamp="1552130042424">
         <mark key="'" line="0" column="0" />
@@ -387,12 +414,12 @@
         <mark key="." line="3" column="34" />
         <mark key="^" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Components/MainFilter/Components/Region/index.js" timestamp="1552141058526">
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Components/MainFilter/Components/Region/index.js" timestamp="1552146260248">
         <mark key="'" line="8" column="33" />
-        <mark key="[" line="56" column="29" />
-        <mark key="]" line="56" column="43" />
-        <mark key="." line="56" column="43" />
-        <mark key="^" line="56" column="43" />
+        <mark key="[" line="29" column="35" />
+        <mark key="]" line="30" column="22" />
+        <mark key="." line="30" column="22" />
+        <mark key="^" line="30" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewMobile/Components/Header/Component/Slider/Controller.js" timestamp="1551967228348">
         <mark key="[" line="13" column="6" />
@@ -405,6 +432,14 @@
         <mark key="]" line="41" column="33" />
         <mark key="^" line="9" column="1" />
         <mark key="." line="41" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Components/MainFilter/Components/Mode/index.js" timestamp="1552146417807">
+        <mark key="'" line="28" column="7" />
+        <mark key="[" line="30" column="35" />
+        <mark key="k" line="33" column="20" />
+        <mark key="]" line="31" column="22" />
+        <mark key="." line="31" column="22" />
+        <mark key="^" line="31" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Work/fdding_demander/client/Controllers/SignIn/index.js" timestamp="1552106575253">
         <mark key="'" line="38" column="167" />
@@ -426,12 +461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="738" column="25" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
-      <jump line="769" column="19" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
-      <jump line="955" column="0" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
-      <jump line="67" column="6" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
-      <jump line="68" column="6" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
-      <jump line="124" column="35" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
       <jump line="240" column="22" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
       <jump line="293" column="6" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
       <jump line="351" column="20" filename="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Controller.js" />
@@ -526,46 +555,52 @@
       <jump line="21" column="6" filename="$USER_HOME$/Documents/Work/fdding_demander/client/Redux/Reducers/filterMain.js" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/Work/fdding_demander/client/Redux/Reducers/listJeju.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Jeju/index.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/Work/fdding_demander/client/Redux/Sagas/watchFetchFilterMain.js" />
+      <jump line="22" column="9" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Components/MainFilter/Components/Mode/index.js" />
+      <jump line="72" column="0" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Components/MainFilter/Components/Mode/index.js" />
+      <jump line="37" column="27" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Components/MainFilter/Components/Mode/index.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Components/MainFilter/Components/Mode/index.js" />
+      <jump line="26" column="7" filename="$USER_HOME$/Documents/Work/fdding_demander/client/ViewWeb/Pages/List/Main/Components/MainFilter/Components/Mode/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjZG0nKQo=</text>
+        <text encoding="base64">ICAgIHNwYW4gewogICAgICBkaXNwbGF5OiBub25lOwogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>isOpen</text>
       </register>
       <register name="/" type="4">
         <text>board</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZWM6IHsKICAgIHNob290RHJvbmU6IGZhbHNlLCAvL+uTnOuhoOy0rOyYgQogICAgc2hvb3ROaWdodDogZmFsc2UsIC8v7JW86rCE7LSs7JiBCiAgICBzaG9vdEluZG9vcjogZmFsc2UsIC8v7Iuk64K07LSs7JiBCiAgICBzaG9vdEN1c3RvbTogZmFsc2UsIC8v7Luk7Iqk7YWA7LSs7JiBCiAgICBzaG9vdEhhbmJvazogZmFsc2UsIC8v7ZWc67O17LSs7JiBCiAgICBzaG9vdER1bzogZmFsc2UsIC8vMuyduOyekeqwgCDstKzsmIEKICB9LAogIGNoYXI6IHsKICAgIHBpY3RvcmlhbDogZmFsc2UsICAgICAgIC8vIO2ZlOuztO2YlQogICAgY2xhc3NpYzogZmFsc2UsICAgICAgICAgLy8g7YG0656Y7IudCiAgICB0cmVuZHk6IGZhbHNlLCAgICAgICAgICAvLyDtirjroIzrlJQKICAgIHNwZWNpYWw6IGZhbHNlLCAgICAgICAgIC8vIO2KueuzhO2VnAogICAgdml2aWQ6IGZhbHNlLCAgICAgICAgICAgLy8g7ISg66qF7ZWcCiAgICBkcmFtYXRpYzogZmFsc2UsICAgICAgICAvLyDrk5zrnbzrp4jti7EKICAgIGxvdmVseTogZmFsc2UsICAgICAgICAgIC8vIOufrOu4lOumrAogICAgcm9tYW50aWM6IGZhbHNlLCAgICAgICAgLy8g66Gc66eo7YuxCiAgICB3YXJtOiBmYWxzZSwgICAgICAgICAgICAvLyDrlLDrnLvtlZwKICAgIHZpbnRhZ2U6IGZhbHNlLCAgICAgICAgIC8vIOu5iO2LsOyngAogICAgY29tZnk6IGZhbHNlLCAgICAgICAgICAgLy8g7Y647JWI7ZWcCiAgICBjbGVhbjogZmFsc2UsICAgICAgICAgICAvLyDquajrgZftlZwKICB9LAogIHByaWNlOiB7CiAgICBwcmljZUZyb20gOiAwLAogICAgcHJpY2VUbzogMAogIH0sCiAgYWRkOiB7CiAgICBhbGJ1bVR5cGU6IGZhbHNlLCAvL+yduO2ZlCDslajrspQg67mE7LmY7KSRCiAgICBkaXNwbGF5VHlwZTogZmFsc2UsIC8v65SU7Iqk7ZSM66CI7J20IOyghOyLnOykkQogICAgdmlzaXRvcjogZmFsc2UsIC8vIOqwpOufrOumrCDrsKnrrLjqs6DqsJ0g7ZWg7J24CiAgICBpc0VudGVycHJpc2U6IGZhbHNlIC8v7IKs7JeF7J6Q65Ox66Gd7KadIOyduOymnQogIH0K</text>
+        <text encoding="base64">aW1wb3J0IEFycm93SWNvbiBmcm9tICdAL0NvbXBvbmVudHMvQXJyb3dJY29uJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjZG0nKQo=</text>
+        <text encoding="base64">ICAgIHNwYW4gewogICAgICBkaXNwbGF5OiBub25lOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdldExpc3QoKQo=</text>
+        <text encoding="base64">ICAgIHNwYW4gewogICAgICBkaXNwbGF5OiBub25lOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAKICBjb21wb25lbnREaWRVcGRhdGUocHJldlByb3BzLCBwcmV2U3RhdGUsIHNuYXBzaG90KSB7CiAgCiAgfQo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBTVUNDRVNTX01BSU5fRklMVEVSX0NIQU5HRSwK</text>
+        <text encoding="base64">ICBzdGFuZGFyZFJlZ2lvbnMsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBTVUNDRVNTX0pFSlVfRklMVEVSX0NIQU5HRSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPXtkYXRhLnZhbHVlfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZmV0Y2hGaWx0ZXIsCiAgICAgIGNsZWFyRmlsdGVyLAo=</text>
+        <text encoding="base64">ICAwOiAsCiAgMTogCiAgMjogCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBmaWx0ZXJzOiB7CiAgICAgICAgICAuLi5pbml0aWFsRmlsdGVyCiAgICAgICAgfQogICAgICB9Cg==</text>
+        <text encoding="base64">CmltcG9ydCB7IGdldEZpbHRlck1haW4gfSBmcm9tICcuL3NlbGVjdG9yJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNhc2UgUkVRVUVTVF9KRUpVX0ZJTFRFUl9DSEFOR0U6Cg==</text>
+        <text encoding="base64">CmZ1bmN0aW9uKiBhcHBseUFsbEZpbHRlcihhY3Rpb24pIHsKICB5aWVsZCBwdXQoewogICAgdHlwZTogU1VDQ0VTU19NQUlOX0ZJTFRFUl9DSEFOR0UsCiAgICBmaWx0ZXJzOiBhY3Rpb24uZmlsdGVycwogIH0pCiAgCiAgeWllbGQgcHV0KHsKICAgIHR5cGU6IFJFUVVFU1RfRkVUQ0hfTUFJTl9MSVNULAogIH0pCn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhc2UgU1VDQ0VTU19KRUpVX0ZJTFRFUl9DSEFOR0U6Cg==</text>
+        <text encoding="base64">ICB5aWVsZCB0YWtlTGF0ZXN0KCwgY2hhbmdlRmlsdGVyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
