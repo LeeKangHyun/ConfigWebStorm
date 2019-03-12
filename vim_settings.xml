@@ -264,6 +264,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Component/Card/styled.js" timestamp="1552354295793">
+        <mark key="[" line="90" column="6" />
+        <mark key="]" line="90" column="6" />
+        <mark key="^" line="90" column="15" />
+        <mark key="." line="90" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Selling/Theme/Form/styled.js" timestamp="1550472647196">
         <mark key="[" line="176" column="13" />
         <mark key="]" line="176" column="13" />
@@ -780,11 +786,11 @@
         <mark key="." line="246" column="20" />
         <mark key="^" line="228" column="90" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Premium/Intro/index.js" timestamp="1552298665800">
-        <mark key="[" line="81" column="15" />
-        <mark key="]" line="81" column="25" />
-        <mark key="." line="81" column="25" />
-        <mark key="^" line="81" column="25" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Premium/Intro/index.js" timestamp="1552354523768">
+        <mark key="[" line="109" column="13" />
+        <mark key="]" line="109" column="29" />
+        <mark key="." line="109" column="29" />
+        <mark key="^" line="109" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Component/Card/index.js" timestamp="1552294120008">
         <mark key="[" line="0" column="0" />
@@ -1168,43 +1174,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>검색결과에 최상위 노출</text>
+        <text>매물 등록권을 무료로 드립니다.</text>
       </register>
       <register name="-" type="4">
-        <text>검색결과에 최상위 노출</text>
+        <text>매물 등록권을 무료로 드립니다.</text>
       </register>
       <register name="/" type="4">
         <text>board</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICAgICAgPENhcmQKICAgICAgICAgIGltZ1VybHM9e1sKICAgICAgICAgICAgcmVxdWlyZSgnLi9pbWFnZXMvc2VhcmNodG9wMS5wbmcnKSwKICAgICAgICAgIF19PgogICAgICAgICAgPGgxPgogICAgICAgICAgICA8cD7qsoDsg4nqsrDqs7zsl5Ag7LWc7IOB7JyEIOuFuOy2nDwvcD4KICAgICAgICAgIDwvaDE+CiAgICAgICAgICA8cD7qtazrp6TtlZwg7ZSE66as66+47JeEIOqygOyDieyWtOuhnCDqsoDsg4ntlZwg6rK97JqwPC9wPgogICAgICAgICAgPHA+6rKA7IOJ6rKw6rO8IOy1nOyDgeuLqOyXkCDrhbjstpzrkKnri4jri6QuPC9wPgogICAgICAgIDwvQ2FyZD4K</text>
+        <text encoding="base64">CiAgICAgICAgPENhcmQKICAgICAgICAgIGltZ1VybHM9e1sKICAgICAgICAgICAgcmVxdWlyZSgnLi9pbWFnZXMvcHJvZHVjdGZyZWUucG5nJyksCiAgICAgICAgICBdfT4KICAgICAgICAgIDxoMT4KICAgICAgICAgICAgPHA+66ek66y8IOuTseuhneq2jCDrrLTro4wg7KeA6riJPC9wPgogICAgICAgICAgPC9oMT4KICAgICAgICAgIDxwPu2UhOumrOuvuOyXhCDqsoDsg4kg7IOB7ZKI7J2EIOq1rOunpO2VoCDqsr3smrAg66qo65OgIOyiheulmOydmDwvcD4KICAgICAgICAgIDxwPuunpOusvCDrk7HroZ3qtozsnYQg66y066OM66GcIOuTnOumveuLiOuLpC48L3A+CiAgICAgICAgPC9DYXJkPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwPuuPmeydtOumhOydtOuCmDwvcD4KICAgICAgICAgIDxwPuqxsOuemOqwgOuKpSDrtoDrj5nsgrAg7KCV67O07JeQIOuFuOy2nOuQqeuLiOuLpC48L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHA+6rWs66ekIOqwgOuKpTwvcD4K</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxwPuuPmeydtOumhOydtOuCmDwvcD4KICAgICAgICAgIDxwPuqxsOuemOqwgOuKpSDrtoDrj5nsgrAg7KCV67O07JeQIOuFuOy2nOuQqeuLiOuLpC48L3A+Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAg</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAg67aA64+Z7IKwIOygleuztCDstpTqsIAg64W47LacCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHA+7IOB7JyEIOuFuOy2nDwvcD4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwPuuLpOuwqeyXkOyEnCDqsoDsg4nrkJjripQg66qo65OgIOqysOqzvOyXkCDrhbjstpzrkJjrr4DroZw8L3A+CiAgICAgICAgICA8cD7rk7HroZ0g7IiY65+J7J20IOunjuydhOyImOuhnSDqtJHqs6Dtmqjqs7zqsIAg64aS7JWE7KeR64uI64ukLjwvcD4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgtNTAlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHA+7IOB7JyEIOuFuOy2nDwvcD4K</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
