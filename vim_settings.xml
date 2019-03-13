@@ -610,7 +610,7 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="13" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552469925974">
+      <file name="/Dummy.txt" timestamp="1552471487723">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -652,11 +652,11 @@
         <mark key="^" line="11" column="37" />
         <mark key="." line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/.eslintrc.json" timestamp="1552468457864">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="19" column="15" />
-        <mark key="." line="19" column="15" />
-        <mark key="^" line="19" column="15" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/.eslintrc.json" timestamp="1552470778707">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="33" />
+        <mark key="." line="24" column="33" />
+        <mark key="^" line="24" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Layout/index.js" timestamp="1549939486719">
         <mark key="[" line="10" column="16" />
@@ -695,10 +695,10 @@
         <mark key="." line="33" column="44" />
         <mark key="^" line="33" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/.eslintrc.js" timestamp="1552469129282">
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/.eslintrc.js" timestamp="1552470774172">
         <mark key="'" line="18" column="41" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="19" column="7" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="18" column="34" />
       </file>
@@ -836,7 +836,7 @@
         <mark key="." line="43" column="56" />
         <mark key="^" line="43" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/.gitignore" timestamp="1552468557123">
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/.gitignore" timestamp="1552470743627">
         <mark key="[" line="15" column="10" />
         <mark key="]" line="15" column="10" />
         <mark key="^" line="15" column="10" />
@@ -1158,10 +1158,10 @@
         <mark key="^" line="40" column="24" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/util_with_jest/.eslintrc.json" timestamp="1552469768566">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="15" />
-        <mark key="." line="15" column="15" />
+      <file name="$USER_HOME$/Documents/github/util_with_jest/.eslintrc.json" timestamp="1552471330051">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="49" />
+        <mark key="." line="15" column="23" />
         <mark key="^" line="13" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/station3/station3/src/html.js" timestamp="1550629972994">
@@ -1254,11 +1254,11 @@
         <mark key="^" line="35" column="28" />
         <mark key="." line="35" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/github/util_with_jest/.babelrc" timestamp="1552469825474">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="19" />
+      <file name="$USER_HOME$/Documents/github/util_with_jest/.babelrc" timestamp="1552470811985">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="35" />
+        <mark key="^" line="1" column="35" />
+        <mark key="." line="1" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHelp/Help/Component/Table/styled.js" timestamp="1552457788760">
         <mark key="[" line="26" column="0" />
@@ -1400,43 +1400,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>{
+      : {}
+    }</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>&quot;babel-plugin-root-import&quot;</text>
       </register>
       <register name="/" type="4">
         <text>board</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAicm9vdFBhdGhQcmVmaXgiOiAiQCIsCiAgICAgICAgInJvb3RQYXRoU3VmZml4IjogImNsaWVudCIK</text>
+        <text encoding="base64">ICAgICAgImJhYmVsLXBsdWdpbi1yb290LWltcG9ydCI6IHsKICAgICAgICAicm9vdFBhdGhQcmVmaXgiOiAiQCIsCiAgICAgICAgInJvb3RQYXRoU3VmZml4IjogImNsaWVudCIsCiAgICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICJpbXBvcnQvcmVzb2x2ZXIiOiAiYmFiZWwtcGx1Z2luLXJvb3QtaW1wb3J0Igo=</text>
+      <register name="1" type="4">
+        <text>{
+      : {}
+    }</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHsKICAgIH0=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgImJhYmVsLXBsdWdpbi1yb290LWltcG9ydCI6IHsKICAgICAgICAicm9vdFBhdGhQcmVmaXgiOiAiQCIsCiAgICAgICAgInJvb3RQYXRoU3VmZml4IjogImNsaWVudCIKICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgIm5vZGUiOiB7CiAgICAgICAgImV4dGVuc2lvbnMiOiBbCiAgICAgICAgICAiLmpzIiwKICAgICAgICAgICIuanN4IgogICAgICAgIF0KICAgICAgfSwK</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgInJvb3RQYXRoUHJlZml4IjogIkAiLAogICAgICAgICJyb290UGF0aFN1ZmZpeCI6ICJjbGllbnQiCiAgICAgIA==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgImJhYmVsLXBsdWdpbi1yb290LWltcG9ydCI6IHsKICAgICAgICAicm9vdFBhdGhQcmVmaXgiOiAiQCIsCiAgICAgICAgInJvb3RQYXRoU3VmZml4IjogImNsaWVudCIKICAgICAgfQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKQoK</text>
+        <text encoding="base64">ICAgICJpbXBvcnQvcmVzb2x2ZXIiOiAiYmFiZWwtcGx1Z2luLXJvb3QtaW1wb3J0Igo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IHsKICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKQo=</text>
+        <text encoding="base64">ICAgICAgImJhYmVsLXBsdWdpbi1yb290LWltcG9ydCI6IHsKICAgICAgICAicm9vdFBhdGhQcmVmaXgiOiAiQCIsCiAgICAgICAgInJvb3RQYXRoU3VmZml4IjogImNsaWVudCIKICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgIm5vZGUiOiB7CiAgICAgICAgImV4dGVuc2lvbnMiOiBbCiAgICAgICAgICAiLmpzIiwKICAgICAgICAgICIuanN4IgogICAgICAgIF0KICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
