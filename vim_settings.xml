@@ -95,6 +95,11 @@
         <mark key="^" line="18" column="47" />
         <mark key="." line="19" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/package.json" timestamp="1552544644544">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="150" column="8" />
+        <mark key="." line="142" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-admin-new/client/Admin/Authority/BoardManage/Component/Item/index.js" timestamp="1551346136284">
         <mark key="[" line="142" column="16" />
         <mark key="]" line="142" column="18" />
@@ -628,11 +633,11 @@
         <mark key="^" line="11" column="37" />
         <mark key="." line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/.eslintrc.json" timestamp="1552470778707">
-        <mark key="[" line="24" column="35" />
-        <mark key="]" line="24" column="33" />
-        <mark key="." line="24" column="33" />
-        <mark key="^" line="24" column="33" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/.eslintrc.json" timestamp="1552543380513">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+        <mark key="^" line="2" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/station3/gatsby/src/components/Layout/index.js" timestamp="1549939486719">
         <mark key="[" line="10" column="16" />
@@ -947,11 +952,11 @@
         <mark key="^" line="32" column="12" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/util_with_jest/jsconfig.js" timestamp="1551260664611">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="14" />
-        <mark key="^" line="1" column="14" />
-        <mark key="." line="1" column="14" />
+      <file name="$USER_HOME$/Documents/github/util_with_jest/jsconfig.js" timestamp="1552544705959">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHelp/Components/Search/styled.js" timestamp="1552529777186">
         <mark key="[" line="49" column="18" />
@@ -1129,11 +1134,11 @@
         <mark key="^" line="40" column="24" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/util_with_jest/.eslintrc.json" timestamp="1552471330051">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="15" column="49" />
-        <mark key="." line="15" column="23" />
-        <mark key="^" line="13" column="49" />
+      <file name="$USER_HOME$/Documents/github/util_with_jest/.eslintrc.json" timestamp="1552544847830">
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="13" column="5" />
+        <mark key="^" line="13" column="5" />
+        <mark key="." line="13" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/station3/station3/src/html.js" timestamp="1550629972994">
         <mark key="[" line="23" column="22" />
@@ -1215,11 +1220,11 @@
         <mark key="^" line="35" column="28" />
         <mark key="." line="35" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/github/util_with_jest/.babelrc" timestamp="1552470811985">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="35" />
+      <file name="$USER_HOME$/Documents/github/util_with_jest/.babelrc" timestamp="1552544646670">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="6" />
         <mark key="^" line="1" column="35" />
-        <mark key="." line="1" column="35" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHelp/Help/Component/Table/styled.js" timestamp="1552457788760">
         <mark key="[" line="26" column="0" />
@@ -1356,48 +1361,61 @@
       <jump line="23" column="13" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Component/FAQ/styled.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJzZXJ2aWNld29ya2VyIjogdHJ1ZSwKICAgICJub2RlIjogdHJ1ZSwK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>board</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgImJhYmVsLXBsdWdpbi1yb290LWltcG9ydCI6IHsKICAgICAgICAicm9vdFBhdGhQcmVmaXgiOiAiQCIsCiAgICAgICAgInJvb3RQYXRoU3VmZml4IjogImNsaWVudCIsCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgWwogICAgICAgICJzdHlsZWQtY29tcG9uZW50cyIKICAgICAgXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwo=</text>
+        <text encoding="base64">ICAgICJzZXJ2aWNld29ya2VyIjogdHJ1ZSwKICAgICJub2RlIjogdHJ1ZSwK</text>
       </register>
-      <register name="2" type="4">
-        <text>{
-
-}</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJqc3giOiB0cnVlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJwo=</text>
+        <text encoding="base64">ICAgICJlY21hc2NyaXB0IjogNiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CkZBUUNvbXBvbmVudC5kZWZhdWx0UHJvcHMgPSB7fQo=</text>
+        <text encoding="base64">ICAgICJwcmV0dGllci9wcmV0dGllciI6IFsiZXJyb3IiXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CkZBUUNvbXBvbmVudC5wcm9wVHlwZXMgPSB7Cn0K</text>
+        <text encoding="base64">ICAgICJpbXBvcnQvcHJlZmVyLWRlZmF1bHQtZXhwb3J0IjogMCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0eXBlOiAK</text>
+        <text encoding="base64">ICAgICJyZWFjdC9wcmVmZXItc3RhdGVsZXNzLWZ1bmN0aW9uIjogMCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTGluayB9IGZyb20gCg==</text>
+        <text encoding="base64">ICAgICJyZWFjdC9mb3JiaWQtcHJvcC10eXBlcyI6IFsyLCB7ICJmb3JiaWQiOiBbImFueSJdIH1dLAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-      : {}
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJyZWFjdC9mb3JiaWQtcHJvcC10eXBlcyI6IFsyLCB7ICJmb3JiaWQiOiBbImFueSJdIH1dLAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIm5vZGUiOiB7CiAgICAgICAgImV4dGVuc2lvbnMiOiBbCiAgICAgICAgICAiLmpzIiwKICAgICAgICAgICIuanN4IgogICAgICAgIF0KICAgICAgfSwK</text>
+      <register name="9" type="4">
+        <text>,
+  &quot;babel&quot;: {
+    &quot;presets&quot;: [
+      &quot;react-app&quot;
+    ],
+    &quot;plugins&quot;: [
+      [
+        &quot;styled-components&quot;
+      ],
+      [
+        &quot;babel-plugin-root-import&quot;,
+        {
+          &quot;rootPathPrefix&quot;: &quot;@&quot;,
+          &quot;rootPathSuffix&quot;: &quot;src&quot;
+        }
+      ]
+    ]
+  }</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
