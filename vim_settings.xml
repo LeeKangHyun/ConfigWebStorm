@@ -177,7 +177,11 @@
         <mark key="." line="68" column="21" />
         <mark key="^" line="51" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Payment/Product/Premium/PremiumGroup.js" timestamp="1552631361452" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Payment/Product/Premium/PremiumGroup.js" timestamp="1552632039414">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="6" />
+        <mark key="." line="124" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Component/PriceSearch/index.js" timestamp="1552629700921">
         <mark key="'" line="68" column="6" />
         <mark key="[" line="92" column="37" />
@@ -210,6 +214,9 @@
         <mark key="]" line="46" column="4" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="46" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Product/Premium/Univ.js" timestamp="1552632094964">
+        <mark key="'" line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Confirm/index.js" timestamp="1552554608502">
         <mark key="[" line="21" column="0" />
@@ -278,8 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/GeneralProduct/Intro/Component/ProductType/index.js" />
-      <jump line="102" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/GeneralProduct/Intro/Component/ProductType/styled.js" />
       <jump line="26" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Premium/Intro/index.js" />
       <jump line="97" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Premium/Intro/Component/Benefit/index.js" />
       <jump line="0" column="23" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Premium/Intro/Component/Benefit/index.js" />
@@ -378,6 +383,8 @@
       <jump line="104" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Premium/Price/index.js" />
       <jump line="68" column="6" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Component/PriceSearch/index.js" />
       <jump line="71" column="31" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Premium/Price/index.js" />
+      <jump line="17" column="17" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Product/Premium/Univ.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Product/Premium/Univ.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
