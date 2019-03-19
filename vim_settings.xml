@@ -193,12 +193,13 @@
         <mark key="^" line="3" column="43" />
         <mark key="." line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHome/Components/Banner/Component/AdviceBtn/index.js" timestamp="1552990861601">
-        <mark key="'" line="44" column="24" />
-        <mark key="j" line="22" column="13" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHome/Components/Banner/Component/AdviceBtn/index.js" timestamp="1552991913632">
+        <mark key="'" line="52" column="24" />
+        <mark key="j" line="30" column="13" />
+        <mark key="[" line="94" column="21" />
+        <mark key="]" line="94" column="26" />
+        <mark key="." line="94" column="26" />
+        <mark key="^" line="94" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHome/Components/News/index.js" timestamp="1552982778892">
         <mark key="[" line="7" column="4" />
@@ -256,7 +257,7 @@
         <mark key="]" line="48" column="17" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552982623793">
+      <file name="/Dummy.txt" timestamp="1552992009459">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -402,17 +403,17 @@
       <jump line="30" column="24" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHome/Components/Banner/Component/AdviceBtn/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>휴대전화번호를 입력</text>
       </register>
       <register name="-" type="4">
-        <text>const result</text>
+        <text>휴대전화번호를 입력</text>
       </register>
       <register name="/" type="4">
         <text>board</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5hbWU6ICcnLAogICAgcmVnaW9uOiAnJywKICAgIHBob25lTnVtOiAnJywKICAgIGFncmVlOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgIGlmIChzdGF0ZS5waG9uZU51bSA9PT0gJycpIHsKICAgICAgVG9hc3Qud2FybmluZygn7Zy064yA7KCE7ZmU67KI7Zi466W8IOyeheugpe2VtOyjvOyEuOyalCcpCiAgICAgIHJldHVybiBmYWxzZQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
