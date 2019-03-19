@@ -28,6 +28,12 @@
         <mark key="^" line="128" column="42" />
         <mark key="." line="128" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHome/Components/Come/index.js" timestamp="1552971102437">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHome/Components/Banner/styled.js" timestamp="1552963658063">
         <mark key="[" line="25" column="16" />
         <mark key="]" line="27" column="22" />
@@ -57,6 +63,17 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHome/Components/FastConfig/styled.js" timestamp="1552970880083">
+        <mark key="[" line="36" column="50" />
+        <mark key="]" line="37" column="23" />
+        <mark key="^" line="37" column="23" />
+        <mark key="." line="37" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHome/Components/FastConfig/index.js" timestamp="1552970903300">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="8" />
+        <mark key="." line="14" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHome/Components/Banner/index.js" timestamp="1552963586074">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -74,17 +91,16 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHome/Components/BlueImg/index.js" timestamp="1552966117573">
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="20" column="10" />
-        <mark key="^" line="20" column="10" />
-        <mark key="." line="20" column="10" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHome/Components/BlueImg/index.js" timestamp="1552970423065">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHome/index.js" timestamp="1552966135750">
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="16" column="18" />
-        <mark key="." line="16" column="18" />
-        <mark key="^" line="16" column="18" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHome/index.js" timestamp="1552971017596">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
+        <mark key="^" line="15" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Payment/Product/Premium/PremiumGroup.js" timestamp="1552641240378">
         <mark key="[" line="88" column="0" />
@@ -146,6 +162,12 @@
         <mark key="^" line="93" column="26" />
         <mark key="." line="17" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHome/Components/Come/styled.js" timestamp="1552971421026">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+        <mark key="." line="12" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHelp/Help/Component/Table/index.js" timestamp="1552900268986">
         <mark key="'" line="13" column="21" />
         <mark key="[" line="52" column="24" />
@@ -193,7 +215,6 @@
         <mark key="." line="37" column="28" />
         <mark key="^" line="37" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Help/index.js" timestamp="1552899926134" />
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Confirm/index.js" timestamp="1552554608502">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -316,46 +337,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>element</text>
+        <text>Y</text>
       </register>
       <register name="-" type="4">
-        <text>element</text>
+        <text>Y</text>
       </register>
       <register name="/" type="4">
         <text>board</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsYWJlbD7riITsoIEg6rCA7J6FIOqzteyduOykkeqwnOyCrDwvbGFiZWw+CiAgICAgICAgICA8cD4KICAgICAgICAgICAgPHNwYW4+NTAsMDAwPC9zcGFuPuuqhQogICAgICAgICAgPC9wPgo=</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiA1OHB4Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsaW5lLWhlaWdodDogNThweDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgbGluZS1oZWlnaHQ6IDU4cHg7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgaGVpZ2h0OiA1OHB4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmbnQtd2VpZ2h0Ogo=</text>
+        <text encoding="base64">ICAgIHNwYW4gewogICAgICBmb250LXNpemU6IDgwcHg7CiAgICAgIGNvbG9yOiAjNTM1OWZlOwogICAgICBsZXR0ZXItc3BhY2luZzogLTNweDsKICAgICAgbGluZS1oZWlnaHQ6IDU4cHg7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjMjIyOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFN0YXJ0QnRuID0gc3R5bGVkLmEuYXR0cnMocHJvcHMgPT4gewoKfSlgCiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIHdpZHRoOiAyMjhweDsKICBoZWlnaHQ6IDU4cHg7CiAgbWFyZ2luLXRvcDogNDRweDsKICBib3JkZXItcmFkaXVzOiAycHg7CiAgYmFja2dyb3VuZC1jb2xvcjogIzUzNTlmZTsKICBmb250LXNpemU6IDE4cHg7CiAgZm9udC13ZWlnaHQ6IDcwMDsKICBjb2xvcjogI2ZmZjsKICBsaW5lLWhlaWdodDogNThweDsKICB0ZXh0LWFsaWduOiBjZW50ZXI7CmAKCg==</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMzZweDsKICAgIGxpbmUtaGVpZ2h0OiA1OHB4OwogICAgbGV0dGVyLXNwYWNpbmc6IC0xcHg7CiAgICBmb250LXdlaWdodDogbm9ybWFsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBTdGFydEJ0biwK</text>
+        <text encoding="base64">ICAgICAgbGluZS1oZWlnaHQ6IDU4cHg7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAnLi4vc3R5bGVkJwo=</text>
+        <text encoding="base64">ICAgICAgPEltZyBpbWdVcmw9e1snJ119Lz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEJ1dHRvbiA9IHN0eWxlZC5hLmF0dHJzKHByb3BzID0+IHsKCn0pYAogIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICB3aWR0aDogMjI4cHg7CiAgaGVpZ2h0OiA1OHB4OwogIGJvcmRlci1yYWRpdXM6IDJweDsKICBiYWNrZ3JvdW5kLWNvbG9yOiAjNTM1OWZlOwogIGNvbG9yOiAjZmZmOwogIGxpbmUtaGVpZ2h0OiA1OHB4OwpgCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgc3RyaW5nLCBvbmVPZlR5cGUsIGVsZW1lbnQgfSBmcm9tICdwcm9wLXR5cGVzJwo=</text>
       </register>
       <register name=":" type="4">
-        <text>vspli</text>
+        <text>vsplit</text>
       </register>
     </registers>
     <search>
@@ -385,8 +406,8 @@
         <entry>split</entry>
         <entry>10</entry>
         <entry>vsplut</entry>
-        <entry>vsplit</entry>
         <entry>vspli</entry>
+        <entry>vsplit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
