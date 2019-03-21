@@ -15,28 +15,16 @@
         <mark key="." line="50" column="40" />
         <mark key="^" line="50" column="40" />
       </file>
-      <file name="$USER_HOME$/github/util_with_jest/src/pages/Carousel/index.js" timestamp="1553169861010">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="8" />
-        <mark key="^" line="5" column="9" />
-        <mark key="." line="5" column="8" />
-      </file>
-      <file name="$USER_HOME$/github/util_with_jest/src/config/Route.js" timestamp="1553169715096">
-        <mark key="[" line="25" column="45" />
-        <mark key="]" line="25" column="52" />
-        <mark key="^" line="25" column="52" />
-        <mark key="." line="25" column="52" />
+      <file name="$USER_HOME$/github/util_with_jest/src/pages/Carousel/index.js" timestamp="1553170989951">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
       </file>
       <file name="$USER_HOME$/github/util_with_jest/src/pages/RangeSlider/Controller.js" timestamp="1553167042704">
         <mark key="[" line="11" column="21" />
         <mark key="]" line="11" column="22" />
         <mark key="." line="11" column="22" />
-      </file>
-      <file name="$USER_HOME$/github/util_with_jest/src/components/Swiper/Controller.js" timestamp="1553169547693">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-        <mark key="^" line="1" column="12" />
       </file>
       <file name="$USER_HOME$/github/util_with_jest/src/pages/Carousel/Controller.js" timestamp="1553169834617">
         <mark key="[" line="3" column="9" />
@@ -49,10 +37,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/github/blog/src/components/SEO.js" timestamp="1552567104902">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/github/util_with_jest/src/components/Carousel/index.js" timestamp="1553171056704">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="6" column="36" />
+        <mark key="^" line="6" column="36" />
       </file>
       <file name="$USER_HOME$/github/util_with_jest/src/components/Header/index.js" timestamp="1553169736809">
         <mark key="[" line="51" column="31" />
@@ -60,53 +49,89 @@
         <mark key="." line="51" column="34" />
         <mark key="^" line="51" column="34" />
       </file>
+      <file name="$USER_HOME$/github/util_with_jest/src/config/Route.js" timestamp="1553171697041">
+        <mark key="[" line="14" column="62" />
+        <mark key="]" line="14" column="69" />
+        <mark key="^" line="14" column="69" />
+        <mark key="." line="14" column="69" />
+      </file>
+      <file name="$USER_HOME$/github/util_with_jest/src/components/Swiper/Controller.js" timestamp="1553169547693">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/github/util_with_jest/src/components/Carousel/Controller.js" timestamp="1553171023527">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="4" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="11" column="4" />
+      </file>
+      <file name="$USER_HOME$/github/blog/src/components/SEO.js" timestamp="1552567104902">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8TEk+CiAgICAgICAgICA8TGluayB0bz0iL3Jhbmdlc2xpZGVyIj7roIjsnbjsp4DsiqzrnbzsnbTrjZQ8L0xpbms+CiAgICAgICAgPC9MST4K</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICApCg==</text>
-      </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">KAogICA=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">PgogICAgCiAgICA8L2Rpdg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICApCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">KAogICA=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgIA==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAg</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ3Rpbnktc2xpZGVyL3NyYy90aW55LXNsaWRlcicK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBDb21wb25lbnQuZGlzcGxheU5hbWUgPSAnJwo=</text>
+        <text>rangeSlider</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>rangeSlider</text>
+      </register>
+      <register name="/" type="4">
+        <text>prettier</text>
+      </register>
+      <register name="0" type="4">
+        <text>/* webpackChunkName: &quot;lazy-rangeSlider&quot; */</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IENhcm91c2VsIGZyb20gJ0AvcGFnZXMvQ2Fyb3VzZWwnCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IFJhbmdlU2xpZGVyIGZyb20gJ0AvcGFnZXMvUmFuZ2VTbGlkZXInCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IEZpbHRlciBmcm9tICdAL3BhZ2VzL0ZpbHRlcicK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAg</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgIA==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CgogIA==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>prettier</last-search>
+      <last-offset />
+      <last-pattern>prettier</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>prettier</entry>
+      </history-search>
+      <history-cmd>
+        <entry>vsplit</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
