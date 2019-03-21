@@ -1,27 +1,19 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
-      <Statistic Action="Declaration">
+      <Statistic Action="Rename...">
         <Item>
-          <IdeaActionID>GotoDeclaration</IdeaActionID>
-          <ShortCut>'⌘B'</ShortCut>
-          <Description>Declaration</Description>
-          <Count>30</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Delete...">
-        <Item>
-          <IdeaActionID>$Delete</IdeaActionID>
-          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
-          <Description>Delete...</Description>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'⇧F6'</ShortCut>
+          <Description>Rename...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Find in Path...">
+      <Statistic Action="Run 'start'">
         <Item>
-          <IdeaActionID>FindInPath</IdeaActionID>
-          <ShortCut>'⇧⌘F'</ShortCut>
-          <Description>Find in Path...</Description>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'start'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
