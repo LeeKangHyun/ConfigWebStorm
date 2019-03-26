@@ -71,6 +71,12 @@
         <mark key="." line="14" column="53" />
         <mark key="^" line="14" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Component/Result/index.js" timestamp="1553582852436">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Premium/Price/Components/Campus/index.js" timestamp="1553578740398">
         <mark key="[" line="30" column="15" />
         <mark key="]" line="30" column="34" />
@@ -239,6 +245,12 @@
         <mark key="." line="16" column="55" />
         <mark key="^" line="16" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHome/Components/Review/Components/Swiper/styled.js" timestamp="1553223799652">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="55" column="1" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHome/Components/Everyone/Components/Swiper/index.js" timestamp="1552982259220">
         <mark key="[" line="23" column="51" />
         <mark key="]" line="23" column="51" />
@@ -405,12 +417,11 @@
         <mark key="^" line="35" column="12" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/FireSale/Price/index.js" timestamp="1553578127569">
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/FireSale/Price/index.js" timestamp="1553583434004">
         <mark key="'" line="3" column="19" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="20" column="12" />
+        <mark key="[" line="40" column="16" />
+        <mark key="]" line="40" column="16" />
+        <mark key="." line="40" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/PrimeMembership/Intro/Component/ProductType/index.js" timestamp="1553566411428">
         <mark key="[" line="23" column="86" />
@@ -599,7 +610,7 @@
         <mark key="." line="15" column="14" />
         <mark key="^" line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/GeneralProduct/Price/index.js" timestamp="1553578629015">
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/GeneralProduct/Price/index.js" timestamp="1553582989934">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="99" column="0" />
         <mark key="]" line="109" column="4" />
@@ -665,6 +676,12 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Header/Top/index.js" timestamp="1553134507680">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="137" column="24" />
+        <mark key="]" line="137" column="24" />
+        <mark key="." line="137" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Components/NewFooter/index.js" timestamp="1553568234352">
         <mark key="'" line="16" column="5" />
         <mark key="[" line="75" column="19" />
@@ -709,6 +726,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="^" line="76" column="44" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHome/Components/Review/styled.js" timestamp="1553223934476">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -815,10 +838,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>급매노출권</text>
+        <text encoding="base64">CiAgICAgICAgICAgIAogICAgICAgICAg</text>
       </register>
       <register name="-" type="4">
-        <text>급매노출권</text>
+        <text>`${keyword}의 광고 상품 가격 결과입니다.`</text>
       </register>
       <register name="/" type="4">
         <text>drag</text>
@@ -827,31 +850,31 @@
         <text encoding="base64">ICAgICAgICBkb2N1bWVudC5hZGRFdmVudExpc3RlbmVyKCdtb3VzZWRvd24nLCB0aGlzLm9uTW91c2VEb3duLCBmYWxzZSkK</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIAogICAgICAgICAg</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">LCAoKSA9PiB7CiAgICAgICAgLy8gZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcignbW91c2Vkb3duJywgdGhpcy5vbk1vdXNlRG93biwgZmFsc2UpCiAgICAgIH0=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIC8vIGRvY3VtZW50LnJlbW92ZUV2ZW50TGlzdGVuZXIoJ21vdXNlZG93bicsIHRoaXMub25Nb3VzZURvd24sIGZhbHNlKQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBsaXN0OiBbXSwKICAgICAgICBpc1JlYWR5OiB0cnVlLAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpc0xvYWRpbmc6IGZhbHNlLAogICAgICAgIGlzRXJyb3I6IGZhbHNlLAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgIA==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBvbkNsaWNrQnV5ID0gKCkgPT4gewogICAgY29uc3QgeyBhfSA9IHRoaXMucHJvcHMKICB9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25uZWN0KAogICAgKHsKICAgICAgdXNlcjogewogICAgICAKICAgICAgfQogICAgfSkgPT4gKHt9KQogICksCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAKICBvbkNsaWNrQnV5ID0gKCkgPT4gewogIAogIH0K</text>
+        <text encoding="base64">ICBjb25uZWN0KAogICAgKHsKICAgICAgdXNlcjogewogICAgICAKICAgICAgfQogICAgfSkgPT4gKHt9KQogICksCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
