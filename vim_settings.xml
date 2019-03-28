@@ -234,12 +234,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/lodash.js" timestamp="1553674602619">
-        <mark key="[" line="28" column="32" />
-        <mark key="]" line="28" column="37" />
-        <mark key="^" line="28" column="37" />
-        <mark key="." line="28" column="37" />
-      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Routes/Intro/index.js" timestamp="1553565055448">
         <mark key="[" line="56" column="26" />
         <mark key="]" line="56" column="30" />
@@ -340,10 +334,10 @@
         <mark key="]" line="10" column="11" />
         <mark key="." line="10" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Review/styled.js" timestamp="1553668452723">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="73" column="1" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Review/styled.js" timestamp="1553737185299">
+        <mark key="[" line="45" column="67" />
+        <mark key="]" line="45" column="67" />
+        <mark key="." line="45" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Component/Result/styled.js" timestamp="1553684116949">
         <mark key="[" line="10" column="2" />
@@ -424,6 +418,12 @@
         <mark key="]" line="10" column="34" />
         <mark key="." line="10" column="34" />
         <mark key="^" line="10" column="34" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/lodash.js" timestamp="1553674602619">
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="28" column="37" />
+        <mark key="^" line="28" column="37" />
+        <mark key="." line="28" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewIntro/Component/FAQ/styled.js" timestamp="1553136519739">
         <mark key="[" line="36" column="30" />
@@ -803,12 +803,13 @@
         <mark key="." line="24" column="15" />
         <mark key="^" line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Review/item.js" timestamp="1553669991872">
-        <mark key="[" line="256" column="0" />
-        <mark key="]" line="256" column="0" />
-        <mark key="." line="256" column="0" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Review/item.js" timestamp="1553737164673">
+        <mark key="[" line="243" column="30" />
+        <mark key="]" line="243" column="35" />
+        <mark key="." line="243" column="35" />
+        <mark key="^" line="243" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553686344701">
+      <file name="/Dummy.txt" timestamp="1553737396858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1016,10 +1017,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>left</text>
+        <text>, linear-gradient(to bottom, rgba(90, 90, 90, 0), #ffffff)</text>
       </register>
       <register name="-" type="4">
-        <text>left</text>
+        <text>, linear-gradient(to bottom, rgba(90, 90, 90, 0), #ffffff)</text>
       </register>
       <register name="/" type="4">
         <text>drag</text>
