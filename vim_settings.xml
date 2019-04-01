@@ -468,12 +468,12 @@
         <mark key="." line="50" column="78" />
         <mark key="^" line="50" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Login/index.js" timestamp="1553840307815">
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Login/index.js" timestamp="1554100572280">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="9" />
-        <mark key="." line="4" column="9" />
-        <mark key="^" line="50" column="16" />
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="33" />
+        <mark key="." line="22" column="33" />
+        <mark key="^" line="22" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/FireSale/Intro/Component/ProductType/styled.js" timestamp="1553564494625">
         <mark key="[" line="56" column="16" />
@@ -1297,11 +1297,11 @@
       <jump line="3" column="19" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Footer/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29tcG9zZSB9IGZyb20gJ3JlZHV4Jwo=</text>
+      <register name="&quot;" type="4">
+        <text>회원가입</text>
       </register>
       <register name="-" type="4">
-        <text>{}</text>
+        <text>회원가입</text>
       </register>
       <register name="/" type="4">
         <text>getList</text>
