@@ -99,12 +99,12 @@
         <mark key="^" line="79" column="27" />
         <mark key="." line="79" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Numbering/index.js" timestamp="1554080799722">
-        <mark key="'" line="57" column="3" />
-        <mark key="[" line="5" column="37" />
-        <mark key="]" line="5" column="37" />
-        <mark key="." line="5" column="37" />
-        <mark key="^" line="0" column="25" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Numbering/index.js" timestamp="1554082273264">
+        <mark key="'" line="58" column="3" />
+        <mark key="[" line="29" column="30" />
+        <mark key="]" line="29" column="30" />
+        <mark key="." line="29" column="30" />
+        <mark key="^" line="27" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHome/Components/Campaign/index.js" timestamp="1553069342497">
         <mark key="[" line="2" column="19" />
@@ -1096,10 +1096,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>React.</text>
+        <text>this.state.</text>
       </register>
       <register name="-" type="4">
-        <text>React.</text>
+        <text>this.state.</text>
       </register>
       <register name="/" type="4">
         <text>getList</text>
