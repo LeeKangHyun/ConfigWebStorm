@@ -105,12 +105,12 @@
         <mark key="." line="7" column="41" />
         <mark key="^" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Guide/index.js" timestamp="1554180276977">
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Guide/index.js" timestamp="1554182107922">
         <mark key="'" line="9" column="16" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="36" />
         <mark key="^" line="9" column="0" />
-        <mark key="." line="98" column="0" />
+        <mark key="." line="7" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Numbering/index.js" timestamp="1554082273264">
         <mark key="'" line="58" column="3" />
@@ -430,7 +430,7 @@
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Guide/styled.js" timestamp="1554180246664">
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Guide/styled.js" timestamp="1554182088841">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="179" column="10" />
         <mark key="]" line="179" column="12" />
@@ -538,7 +538,7 @@
         <mark key="^" line="21" column="8" />
         <mark key="." line="21" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554111898487">
+      <file name="/Dummy.txt" timestamp="1554182449804">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Component/Content/styled.js" timestamp="1553651195203">
@@ -889,11 +889,11 @@
         <mark key="." line="10" column="13" />
         <mark key="^" line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Join/Component/Success/index.js" timestamp="1554110180709">
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="21" column="19" />
-        <mark key="." line="21" column="19" />
-        <mark key="^" line="21" column="19" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Join/Component/Success/index.js" timestamp="1554182264712">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+        <mark key="^" line="6" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Premium/Price/Components/styled.js" timestamp="1553764158280">
         <mark key="[" line="103" column="18" />
@@ -1330,11 +1330,11 @@
       <jump line="9" column="16" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Guide/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPExpbmUgLz4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IExpbmUs</text>
       </register>
       <register name="-" type="4">
-        <text>497</text>
+        <text encoding="base64">IExpbmUs</text>
       </register>
       <register name="/" type="4">
         <text>getList</text>
