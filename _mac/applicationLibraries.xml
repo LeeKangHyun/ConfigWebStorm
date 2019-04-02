@@ -4,6 +4,14 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/flowdoc" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/flowjs" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/jest" type="javaScript">
       <CLASSES />
       <SOURCES />
