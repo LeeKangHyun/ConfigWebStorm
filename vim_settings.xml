@@ -21,11 +21,23 @@
         <mark key="." line="36" column="15" />
         <mark key="^" line="36" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Componets/TopNav/styled.js" timestamp="1554361403279">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Help/Help/Component/Table/Controller.js" timestamp="1554085824570">
         <mark key="[" line="7" column="36" />
         <mark key="]" line="7" column="41" />
         <mark key="." line="7" column="41" />
         <mark key="^" line="7" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Components/Header/index.js" timestamp="1554361247037">
+        <mark key="[" line="65" column="76" />
+        <mark key="]" line="65" column="79" />
+        <mark key="^" line="65" column="79" />
+        <mark key="." line="65" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/PrimeMembership/Intro/styled.js" timestamp="1553742755847">
         <mark key="[" line="2" column="32" />
@@ -204,11 +216,11 @@
         <mark key="." line="2" column="38" />
         <mark key="^" line="2" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Componets/TopNav/index.js" timestamp="1554360406738">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="5" />
-        <mark key="^" line="5" column="5" />
-        <mark key="." line="5" column="5" />
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Componets/TopNav/index.js" timestamp="1554361328064">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+        <mark key="^" line="11" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/github/meong/src/Utils/Fonts.js" timestamp="1554277462249">
         <mark key="[" line="2" column="24" />
@@ -494,10 +506,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQg</text>
       </register>
       <register name="/" type="4">
         <text>reset</text>
@@ -506,22 +518,22 @@
         <text encoding="base64">ICAgICAgICBmb250V2VpZ2h0OiAnNDAwJywKICAgICAgICBmb250U3R5bGU6ICdub3JtYWwnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb250V2VpZ2h0OiAnbm9ybWFsJwo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb250V2VpZ2h0OiAnNDAwJywKICAgICAgICBmb250U3R5bGU6ICdub3JtYWwnCg==</text>
+        <text encoding="base64">ICAgICAgICBmb250V2VpZ2h0OiAnbm9ybWFsJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb250V2VpZ2h0OiAnNDAwJwo=</text>
+        <text encoding="base64">ICAgICAgICBmb250V2VpZ2h0OiAnNDAwJywKICAgICAgICBmb250U3R5bGU6ICdub3JtYWwnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC4uLlBsYXRmb3JtLnNlbGVjdCh7CiAgICAgIGlvczogewogICAgICAgIGZvbnRGYW1pbHk6IEZvbnRzLkJNRE9IWUVPTiwKICAgICAgICBmb250V2VpZ2h0OiAnNDAwJywKICAgICAgICBmb250U3R5bGU6ICdub3JtYWwnCiAgICAgIH0sCiAgICAgIGFuZHJvaWQ6IHsKICAgICAgICBmb250RmFtaWx5OiAiQk0gRG9oeWVvbiIsCiAgICAgICAgZm9udFdlaWdodDogJ25vcm1hbCcKICAgICAgfQogICAgfSksCg==</text>
+        <text encoding="base64">ICAgICAgICBmb250V2VpZ2h0OiAnNDAwJwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIC4uLlBsYXRmb3JtLnNlbGVjdCh7CiAgICAgIGlvczogewogICAgICAgIGZvbnRGYW1pbHk6IEZvbnRzLkJNRE9IWUVPTiwKICAgICAgICBmb250V2VpZ2h0OiAnNDAwJywKICAgICAgICBmb250U3R5bGU6ICdub3JtYWwnCiAgICAgIH0sCiAgICAgIGFuZHJvaWQ6IHsKICAgICAgICBmb250RmFtaWx5OiAiQk0gRG9oeWVvbiIsCiAgICAgICAgZm9udFdlaWdodDogJ25vcm1hbCcKICAgICAgfQogICAgfSksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIC4uLlBsYXRmb3JtLnNlbGVjdCh7CiAgICAgIGlvczogewogICAgICAgIGZvbnRGYW1pbHk6IEZvbnRzLkJNRE9IWUVPTiwKICAgICAgICBmb250V2VpZ2h0OiAnNDAwJywKICAgICAgICBmb250U3R5bGU6ICdub3JtYWwnCiAgICAgIH0sCiAgICAgIGFuZHJvaWQ6IHsKICAgICAgICBmb250RmFtaWx5OiAiQk0gRG9oeWVvbiIsCiAgICAgICAgZm9udFdlaWdodDogJ25vcm1hbCcKICAgICAgfQogICAgfSksCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAK</text>
@@ -530,7 +542,7 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvbnRGYW1pbHk6IEZvbnRzLkJNRE9IWUVPTiwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
