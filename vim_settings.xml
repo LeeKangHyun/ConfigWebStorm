@@ -142,6 +142,12 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/github/meong/src/Components/Text/index.js" timestamp="1554434693050">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Premium/Intro/Component/Benefit/index.js" timestamp="1553845298633">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="20" />
@@ -398,6 +404,12 @@
         <mark key="^" line="108" column="18" />
         <mark key="." line="122" column="70" />
       </file>
+      <file name="$USER_HOME$/Documents/github/meong/jsconfig.js" timestamp="1554434772201">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Help/Help/styled.js" timestamp="1553849366150">
         <mark key="[" line="5" column="26" />
         <mark key="]" line="5" column="33" />
@@ -423,6 +435,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1554431294641">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/meong/babel.config.js" timestamp="1554434666520">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="8" />
+        <mark key="^" line="5" column="25" />
+        <mark key="." line="14" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Routes/UnAuth/index.js" timestamp="1554098488752">
         <mark key="[" line="32" column="23" />
@@ -570,17 +588,20 @@
       <jump line="202" column="0" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Home/Component/Info/Components/Filter/Component/styled.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEZvb3RlciBmcm9tICdAL1dlYi9Db21wb25lbnRzL0Zvb3RlcicK</text>
+      <register name="&quot;" type="4">
+        <text>client</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>client</text>
       </register>
       <register name="/" type="4">
         <text>_sticky</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IEZvb3RlciBmcm9tICdAL1dlYi9Db21wb25lbnRzL0Zvb3RlcicK</text>
+      <register name="0" type="4">
+        <text>, {
+      rootPathPrefix: '@',
+      rootPathSuffix: 'src'
+    }</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IEZvb3RlciBmcm9tICdAL1dlYi9Db21wb25lbnRzL0Zvb3RlcicK</text>
