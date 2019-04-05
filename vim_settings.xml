@@ -312,6 +312,7 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="22" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/config/Route.js" timestamp="1554447661548" />
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Complex/Price/Components/SearchHelper/Component/Select/styled.js" timestamp="1553751832744">
         <mark key="[" line="10" column="18" />
         <mark key="]" line="11" column="18" />
@@ -482,6 +483,14 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/components/Carousel/Controller.js" timestamp="1554447987256">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="35" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/Controllers/Filter/index.js" timestamp="1554447588949">
+        <mark key="'" line="1" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Banner/Component/AdviceBtn/styled.js" timestamp="1554111723502">
         <mark key="[" line="27" column="10" />
         <mark key="]" line="27" column="11" />
@@ -496,7 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Premium/Price/index.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/PrimeMembership/Intro/Component/ProductType/index.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/FireSale/Intro/Component/ProductType/index.js" />
       <jump line="69" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/FireSale/Intro/Component/ProductType/index.js" />
@@ -596,10 +604,11 @@
       <jump line="94" column="0" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Home/Component/Info/Components/Filter/Component/styled.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Home/Component/Info/Components/Filter/Component/styled.js" />
       <jump line="202" column="0" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Home/Component/Info/Components/Filter/Component/styled.js" />
+      <jump line="1" column="11" filename="$USER_HOME$/Documents/github/util_with_jest/src/Controllers/Filter/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>efefef</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29udGFpbmVyOiBzbGlkZXJSZWYuY3VycmVudCwK</text>
       </register>
       <register name="-" type="4">
         <text>efefef</text>
@@ -611,31 +620,31 @@
         <text encoding="base64">Y29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGUoewogIHNhZmU6IHsKICAgIGZsZXg6IDEsCiAgICBiYWNrZ3JvdW5kQ29sb3I6ICIjZWZlZmVmIiwKICB9LAogIHRpdGxlOiB7CiAgICBoZWlnaHQ6IDYwLAogICAganVzdGlmeUNvbnRlbnQ6ICdmbGV4LXN0YXJ0JywKICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgYmFja2dyb3VuZENvbG9yOiAncmdiYSgxMzUsIDE3OSwgMTcxLCAwLjUxKScsCiAgfSwKICBjb250YWluZXI6IHsKICAgIGZsZXg6IDEsCiAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgIGJhY2tncm91bmRDb2xvcjogJyNmZmYnLAogIH0sCiAgaW5zdHJ1Y3Rpb25zOiB7CiAgICBmbGV4OiAxLAogICAgZm9udFNpemU6IDI0LAogICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAogICAgdGV4dEFsaWduOiAnY2VudGVyJywKICAgIGxpbmVIZWlnaHQ6IDYwLAogICAgY29sb3I6ICcjNTE1MTUxJywKICB9LAp9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0aXRsZTogewogICAgaGVpZ2h0OiA2MCwKICAgIGp1c3RpZnlDb250ZW50OiAnZmxleC1zdGFydCcsCiAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgIGJhY2tncm91bmRDb2xvcjogJ3JnYmEoMTM1LCAxNzksIDE3MSwgMC41MSknLAogIH0sCiAgY29udGFpbmVyOiB7CiAgICBmbGV4OiAxLAogICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICBiYWNrZ3JvdW5kQ29sb3I6ICcjZmZmJywKICB9LAogIGluc3RydWN0aW9uczogewogICAgZmxleDogMSwKICAgIGZvbnRTaXplOiAyNCwKICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgICBsaW5lSGVpZ2h0OiA2MCwKICAgIGNvbG9yOiAnIzUxNTE1MScsCiAgfSwK</text>
+        <text encoding="base64">ICAgICAgY29udGFpbmVyOiBzbGlkZXJSZWYuY3VycmVudCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbnN0cnVjdGlvbnM6IHsKICAgIGZsZXg6IDEsCiAgICBmb250U2l6ZTogMjQsCiAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAogICAgbGluZUhlaWdodDogNjAsCiAgICBjb2xvcjogJyM1MTUxNTEnLAogIH0sCg==</text>
+        <text encoding="base64">ICB0aXRsZTogewogICAgaGVpZ2h0OiA2MCwKICAgIGp1c3RpZnlDb250ZW50OiAnZmxleC1zdGFydCcsCiAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgIGJhY2tncm91bmRDb2xvcjogJ3JnYmEoMTM1LCAxNzksIDE3MSwgMC41MSknLAogIH0sCiAgY29udGFpbmVyOiB7CiAgICBmbGV4OiAxLAogICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICBiYWNrZ3JvdW5kQ29sb3I6ICcjZmZmJywKICB9LAogIGluc3RydWN0aW9uczogewogICAgZmxleDogMSwKICAgIGZvbnRTaXplOiAyNCwKICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgICBsaW5lSGVpZ2h0OiA2MCwKICAgIGNvbG9yOiAnIzUxNTE1MScsCiAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzYWZlOiB7CiAgICBmbGV4OiAxLAogICAgYmFja2dyb3VuZENvbG9yOiAiI2VmZWZlZiIsCiAgfSwK</text>
+        <text encoding="base64">ICBpbnN0cnVjdGlvbnM6IHsKICAgIGZsZXg6IDEsCiAgICBmb250U2l6ZTogMjQsCiAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAogICAgbGluZUhlaWdodDogNjAsCiAgICBjb2xvcjogJyM1MTUxNTEnLAogIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmltcG9ydCBUZXh0IGZyb20gJy4vQ29tcG9uZW50cy9UZXh0Jwo=</text>
+        <text encoding="base64">ICBzYWZlOiB7CiAgICBmbGV4OiAxLAogICAgYmFja2dyb3VuZENvbG9yOiAiI2VmZWZlZiIsCiAgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">CmltcG9ydCBUZXh0IGZyb20gJy4vQ29tcG9uZW50cy9UZXh0Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLnRpdGxlfT4KICAgICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMuaW5zdHJ1Y3Rpb25zfT7rqY3snbTsnZgg7J287IOBPC9UZXh0PgogICAgICAgIDwvVmlldz4KICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLmNvbnRhaW5lcn0+CiAgICAgICAgICA8VGV4dCBzdHlsZT17e2ZvbnRTaXplOiAyNCwgY29sb3I6ICcjMjIyJ319PgogICAgICAgICAgICDrsJjqsIDsm4zsmpR+CiAgICAgICAgICA8L1RleHQ+CiAgICAgICAgICA8VGV4dCBzdHlsZT17e2ZvbnRTaXplOiAyNCwgY29sb3I6ICcjMjIyJ319PgogICAgICAgICAgICDrqY3snbTsnZgg7J287IOB7J2EIOuztOyXrOuTnOumveuLiOuLpH4KICAgICAgICAgIDwvVGV4dD4KICAgICAgICA8L1ZpZXc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBCTUhBTk5BOiAiQk1IQU5OQVBybyIsCg==</text>
+        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLnRpdGxlfT4KICAgICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMuaW5zdHJ1Y3Rpb25zfT7rqY3snbTsnZgg7J287IOBPC9UZXh0PgogICAgICAgIDwvVmlldz4KICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLmNvbnRhaW5lcn0+CiAgICAgICAgICA8VGV4dCBzdHlsZT17e2ZvbnRTaXplOiAyNCwgY29sb3I6ICcjMjIyJ319PgogICAgICAgICAgICDrsJjqsIDsm4zsmpR+CiAgICAgICAgICA8L1RleHQ+CiAgICAgICAgICA8VGV4dCBzdHlsZT17e2ZvbnRTaXplOiAyNCwgY29sb3I6ICcjMjIyJ319PgogICAgICAgICAgICDrqY3snbTsnZgg7J287IOB7J2EIOuztOyXrOuTnOumveuLiOuLpH4KICAgICAgICAgIDwvVGV4dD4KICAgICAgICA8L1ZpZXc+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBCTURPSFlFT046ICJCTURvSHllb24iLAo=</text>
+        <text encoding="base64">ICAvLyBCTUhBTk5BOiAiQk1IQU5OQVBybyIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC4uLlBsYXRmb3JtLnNlbGVjdCh7CiAgICAgIGFuZHJvaWQ6IHsKICAgICAgICBmb250RmFtaWx5OiAnQk1ET0hZRU9OJwogICAgICB9LAogICAgICBpb3M6IHsKICAgICAgfQogICAgfSksCg==</text>
+        <text encoding="base64">ICAvLyBCTURPSFlFT046ICJCTURvSHllb24iLAo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
