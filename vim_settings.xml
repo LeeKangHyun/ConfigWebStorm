@@ -44,11 +44,6 @@
         <mark key="." line="7" column="41" />
         <mark key="^" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/List/Controller.js" timestamp="1554362930916">
-        <mark key="'" line="10" column="36" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="102" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Home/Component/Info/styled.js" timestamp="1554368681079">
         <mark key="[" line="33" column="9" />
         <mark key="]" line="34" column="21" />
@@ -92,11 +87,6 @@
         <mark key="]" line="3" column="31" />
         <mark key="." line="3" column="31" />
         <mark key="^" line="3" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/Sales/List/Controller.js" timestamp="1554366074886">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="34" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Home/Controller.js" timestamp="1554371369400" />
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Premium/Intro/Component/ProductType/Controller.js" timestamp="1554186279458">
@@ -245,12 +235,12 @@
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Home/Component/News/index.js" timestamp="1554371388441">
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Home/Component/News/index.js" timestamp="1554427603122">
         <mark key="k" line="37" column="0" />
-        <mark key="[" line="30" column="1" />
-        <mark key="]" line="33" column="10" />
-        <mark key="." line="33" column="10" />
-        <mark key="^" line="33" column="10" />
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="7" />
+        <mark key="." line="22" column="7" />
+        <mark key="^" line="22" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/News/index.js" timestamp="1553829436190">
         <mark key="'" line="18" column="10" />
@@ -289,11 +279,11 @@
         <mark key="." line="2" column="38" />
         <mark key="^" line="2" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Home/index.js" timestamp="1554371288009">
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="14" column="17" />
-        <mark key="^" line="14" column="17" />
-        <mark key="." line="14" column="17" />
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Home/index.js" timestamp="1554427718497">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="31" />
+        <mark key="^" line="15" column="31" />
+        <mark key="." line="15" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Componets/TopNav/index.js" timestamp="1554363631770">
         <mark key="[" line="25" column="16" />
@@ -377,6 +367,7 @@
         <mark key="]" line="43" column="35" />
         <mark key="." line="43" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/config/data/plugin.js" timestamp="1554427761074" />
       <file name="$USER_HOME$/Documents/github/meong/package.json" timestamp="1554271873850">
         <mark key="[" line="19" column="4" />
         <mark key="]" line="22" column="20" />
@@ -626,10 +617,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>news</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>news</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>_sticky</text>
