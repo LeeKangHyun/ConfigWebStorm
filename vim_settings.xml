@@ -428,12 +428,12 @@
         <mark key="." line="83" column="17" />
         <mark key="^" line="83" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/github/util_with_jest/src/pages/Carousel/Components/Swiper/index.js" timestamp="1554456572657">
-        <mark key="'" line="105" column="0" />
-        <mark key="[" line="56" column="36" />
-        <mark key="]" line="56" column="36" />
-        <mark key="." line="56" column="36" />
-        <mark key="^" line="56" column="68" />
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/pages/Carousel/Components/Swiper/index.js" timestamp="1554458020202">
+        <mark key="'" line="109" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="25" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="54" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Banner/Component/AdviceBtn/Components/Agree/index.js" timestamp="1554111636925">
         <mark key="[" line="42" column="11" />
@@ -485,7 +485,7 @@
         <mark key="." line="20" column="17" />
         <mark key="^" line="20" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554446598122">
+      <file name="/Dummy.txt" timestamp="1554458071755">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/meong/babel.config.js" timestamp="1554440778314">
@@ -670,44 +670,44 @@
       <jump line="102" column="0" filename="$USER_HOME$/Documents/github/util_with_jest/src/pages/Carousel/Components/Swiper/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNldEFjdGl2ZShhY3RpdmUgLSAxKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>===</text>
       </register>
       <register name="/" type="4">
         <text>_sticky</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGJhc2UgPSBzd2lwZXJSZWYuY3VycmVudC5zdHlsZS5sZWZ0Cg==</text>
+        <text encoding="base64">ICAgIExlZnQuY3VycmVudCA9IHN3aXBlclJlZi5jdXJyZW50LnN0eWxlLmxlZnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIHNldEFjdGl2ZShhY3RpdmUgLSAxKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHNldEFjdGl2ZShhY3RpdmUgKyAxKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAKICB1c2VFZmZlY3QoKCkgPT4gewogICAgTGVmdC5jdXJyZW50ID0gc3dpcGVyUmVmLmN1cnJlbnQuc3R5bGUubGVmdC5zcGxpdCgncHgnKVswXQogIH0sIFtzd2lwZXJSZWZdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKICB1c2VFZmZlY3QoKCkgPT4gewogIAogIH0sIFtzd2lwZXJSZWZdKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGJhc2UgPSBzd2lwZXJSZWYuY3VycmVudC5zdHlsZS5sZWZ0LnNwbGl0KCdweCcpWzBdCiAgICBkZWJ1Z2dlcgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgIHJlZj17c3dpcGVyUmVmfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGJhc2UgPSBzd2lwZXJSZWYuY3VycmVudC5zdHlsZS5sZWZ0LnNwbGl0KCdweCcpWzBdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50Lgo=</text>
+        <text encoding="base64">ICBsZWZ0OiAwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDUwOHB4Owo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGJhc2UgPSBzd2lwZXJSZWYuY3VycmVudC5zdHlsZS5sZWZ0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAge2NoaWxkcmVufQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
