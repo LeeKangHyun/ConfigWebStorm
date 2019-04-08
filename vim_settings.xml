@@ -15,6 +15,12 @@
         <mark key="." line="162" column="23" />
         <mark key="^" line="162" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/News/Component/List/Controller.js" timestamp="1554717497261">
+        <mark key="[" line="33" column="47" />
+        <mark key="]" line="34" column="36" />
+        <mark key="." line="34" column="36" />
+        <mark key="^" line="34" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Complex/Price/Components/SearchHelper/styled.js" timestamp="1553749611889">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -726,11 +732,11 @@
       <jump line="2" column="38" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Process/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>))</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>_sticky</text>
@@ -739,31 +745,31 @@
         <text encoding="base64">Y29uc3QgSG9tZSA9IGxhenkoKCkgPT4gaW1wb3J0KC8qIHdlYnBhY2tDaHVua05hbWU6ICJsYXp5LWhvbWUiICovICdAL3BhZ2VzL0hvbWUnKSkKY29uc3QgRmlsdGVyID0gbGF6eSgoKSA9PiBpbXBvcnQoLyogd2VicGFja0NodW5rTmFtZTogImxhenktZmlsdGVyIiAqLyAnQC9wYWdlcy9GaWx0ZXInKSkKY29uc3QgUmFuZ2VTbGlkZXIgPSBsYXp5KCgpID0+IGltcG9ydCgvKiB3ZWJwYWNrQ2h1bmtOYW1lOiAibGF6eS1yYW5nZVNsaWRlciIgKi8gJ0AvcGFnZXMvUmFuZ2VTbGlkZXInKSkKY29uc3QgQ2Fyb3VzZWwgPSBsYXp5KCgpID0+IGltcG9ydCgvKiB3ZWJwYWNrQ2h1bmtOYW1lOiAibGF6eS1jYXJvdXNlbCIgKi8gJ0AvcGFnZXMvQ2Fyb3VzZWwnKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coSG9tZSkK</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBDYXJvdXNlbCA9IHVzZVJlZihudWxsKQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coSG9tZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKICB1c2VFZmZlY3QoKCkgPT4gCiAgLCBbXSkK</text>
+        <text encoding="base64">ICBjb25zdCBDYXJvdXNlbCA9IHVzZVJlZihudWxsKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZXItc2VsZWN0OiBub25lOwo=</text>
+        <text encoding="base64">ICAKICB1c2VFZmZlY3QoKCkgPT4gCiAgLCBbXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChpbmNsdWRlcyhhcnIsIHNlYXJjaCkpIHsKICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHVzZXItc2VsZWN0OiBub25lOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGlmIChpbmNsdWRlcyhhcnIsIHNlYXJjaCkpIHsKICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbHVlPXtzZWFyY2h9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlbGYgPSB0aGlzCiAgICBkZWJvdW5jZSgoKSA9PiB7CiAgICAgIGNvbnN0IHsgbmFtZSwgdmFsdWUgfSA9IHNlbGYuaW5wdXRSZWYuY3VycmVudAogICAgICBzZWxmLnNldFN0YXRlKHsKICAgICAgICBbbmFtZV06IHZhbHVlCiAgICAgIH0pCiAgICB9LCAzMDApKCkK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbHVlPXtzZWFyY2h9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
