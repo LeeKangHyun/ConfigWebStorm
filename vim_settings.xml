@@ -27,6 +27,10 @@
         <mark key="^" line="25" column="20" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/WebView/Pages/HousingProcess/Component/Base/index.js" timestamp="1554693613486">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="34" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/github/util_with_jest/src/pages/Carousel/index.js" timestamp="1554455802762">
         <mark key="[" line="13" column="16" />
         <mark key="]" line="14" column="23" />
@@ -373,11 +377,11 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Components/List/index.js" timestamp="1554692289177">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="11" column="26" />
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Components/List/index.js" timestamp="1554693717421">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="41" />
+        <mark key="." line="14" column="41" />
+        <mark key="^" line="14" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Banner/Component/AdviceBtn/Components/Agree/styled.js" timestamp="1554111866475">
         <mark key="[" line="39" column="19" />
@@ -503,7 +507,7 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554692690836">
+      <file name="/Dummy.txt" timestamp="1554693774091">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Process/Controller.js" timestamp="1554689298065">
@@ -536,11 +540,11 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Process/index.js" timestamp="1554691412746">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="10" />
-        <mark key="^" line="3" column="10" />
-        <mark key="." line="3" column="10" />
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Process/index.js" timestamp="1554693697292">
+        <mark key="[" line="44" column="38" />
+        <mark key="]" line="44" column="38" />
+        <mark key="^" line="44" column="38" />
+        <mark key="." line="44" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/News/Components/Slider/index.js" timestamp="1553829684263">
         <mark key="[" line="26" column="0" />
@@ -677,43 +681,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>180deg</text>
+        <text>청약통장 가입하기</text>
       </register>
       <register name="-" type="4">
-        <text>180deg</text>
+        <text>청약통장 가입하기</text>
       </register>
       <register name="/" type="4">
         <text>_sticky</text>
       </register>
-      <register name="0" type="4">
-        <text>rotateX(180deg)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHNlcTogJzAxJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFuaW1hdGlvbjogcm90YXRlIDEuNXMgZWFzZS1vdXQ7Cg==</text>
+        <text encoding="base64">ICAgIHNlcTogMSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsbD0iIzRGNEY0RiIK</text>
+        <text encoding="base64">ICAgIHNlcTogMSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAmLlZ4Cg==</text>
+        <text encoding="base64">ICAgIHNlcTogMSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBoMSB7CiAgfQo=</text>
+        <text encoding="base64">ICAgIHNlcTogMSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHNlcTogMSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICAgIHBhZGRpbmc6IDAgMjBweDsKICAgIGxpbmUtaGVpZ2h0OiA4M3B4OwogICAgZm9udC1zaXplOiAxOHB4OwogICAgY29sb3I6ICMyMjI7CiAgICBzcGFuIHsKICAgICAgbWFyZ2luLXJpZ2h0OiAyMHB4OwogICAgfQogICAgc3ZnIHsKICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICByaWdodDogMjBweDsKICAgICAgdG9wOiA1MCU7CiAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgtNTAlKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHNlcTogMSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgPExpc3QgLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAwIDIwcHg7Cg==</text>
+        <text encoding="base64">ICAgIGh0bWw6IDxQYXltZW50IC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGh0bWw6IDxEb2N1bWVudCAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
