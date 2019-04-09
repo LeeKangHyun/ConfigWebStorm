@@ -39,6 +39,12 @@
         <mark key="^" line="25" column="20" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Schedule/index.js" timestamp="1554794000555">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/github/util_with_jest/src/pages/Carousel/index.js" timestamp="1554711059483">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="2" />
@@ -361,11 +367,11 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/index.js" timestamp="1554687040887">
-        <mark key="[" line="34" column="54" />
-        <mark key="]" line="34" column="67" />
-        <mark key="^" line="34" column="67" />
-        <mark key="." line="34" column="67" />
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/index.js" timestamp="1554794032844">
+        <mark key="[" line="42" column="63" />
+        <mark key="]" line="42" column="79" />
+        <mark key="^" line="42" column="79" />
+        <mark key="." line="42" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Controller.js" timestamp="1554686998532">
         <mark key="[" line="8" column="3" />
@@ -734,11 +740,11 @@
       <jump line="41" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Review/Components/Swiper/Controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gbG9vcDogZmFsc2UsCg==</text>
+      <register name="&quot;" type="4">
+        <text>BrandComponent</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWNjLCA=</text>
+        <text>BrandComponent</text>
       </register>
       <register name="/" type="4">
         <text>_sticky</text>
