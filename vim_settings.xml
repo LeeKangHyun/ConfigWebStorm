@@ -27,6 +27,10 @@
         <mark key="^" line="25" column="20" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/WebView/Pages/HousingProcess/Component/Base/index.js" timestamp="1554693613486">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="34" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Schedule/index.js" timestamp="1554873919394">
         <mark key="[" line="16" column="47" />
         <mark key="]" line="16" column="47" />
@@ -64,6 +68,14 @@
         <mark key="^" line="11" column="5" />
         <mark key="." line="11" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Home/Component/List/index.js" timestamp="1554796480621">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="54" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Help/Help/Component/Table/Components/Item/index.js" timestamp="1554692055697">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="33" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Review/Components/Swiper/Controller.js" timestamp="1554785566975">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="27" column="0" />
@@ -71,13 +83,16 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="39" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Faq/Controller.js" timestamp="1554885213780">
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="7" column="23" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="7" column="23" />
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Faq/Controller.js" timestamp="1554890408649">
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="24" />
+        <mark key="^" line="21" column="24" />
+        <mark key="." line="21" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/WebView/Pages/SalesFaq/Component/Base/faqs.json" timestamp="1554774277053" />
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/WebView/Pages/SalesFaq/Component/Base/faqs.json" timestamp="1554890347598">
+        <mark key="[" line="320" column="2" />
+        <mark key="]" line="320" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Home/Component/AdInquiry/index.js" timestamp="1554884464758">
         <mark key="[" line="8" column="43" />
         <mark key="]" line="8" column="68" />
@@ -115,11 +130,11 @@
         <mark key="." line="21" column="17" />
         <mark key="^" line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Faq/index.js" timestamp="1554887727645">
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="11" column="13" />
-        <mark key="^" line="11" column="13" />
-        <mark key="." line="11" column="13" />
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Faq/index.js" timestamp="1554890437462">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="14" column="42" />
+        <mark key="^" line="14" column="42" />
+        <mark key="." line="14" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/WebView/Pages/Calculator/Components/Helper/Controller.js" timestamp="1554883131307" />
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Components/Search/styled.js" timestamp="1554885016264">
@@ -198,11 +213,16 @@
         <mark key="^" line="25" column="21" />
         <mark key="." line="14" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Faq/Components/Tabs/index.js" timestamp="1554888421824">
-        <mark key="[" line="13" column="6" />
-        <mark key="]" line="13" column="7" />
-        <mark key="^" line="7" column="8" />
-        <mark key="." line="13" column="7" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Help/Help/Component/Table/Components/Item/styled.js" timestamp="1554692640704">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Faq/Components/Tabs/index.js" timestamp="1554890581325">
+        <mark key="'" line="35" column="29" />
+        <mark key="[" line="35" column="58" />
+        <mark key="]" line="35" column="95" />
+        <mark key="." line="35" column="95" />
+        <mark key="^" line="35" column="95" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Components/Nav/styled.js" timestamp="1554688700170">
         <mark key="[" line="14" column="24" />
@@ -217,7 +237,7 @@
         <mark key="^" line="1" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/github/util_with_jest/src/index.js" timestamp="1554711563154" />
-      <file name="/Dummy.txt" timestamp="1554873542241">
+      <file name="/Dummy.txt" timestamp="1554890659727">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -234,11 +254,11 @@
         <mark key="^" line="32" column="23" />
         <mark key="." line="32" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Faq/Components/Tabs/styled.js" timestamp="1554888626276">
-        <mark key="[" line="19" column="9" />
-        <mark key="]" line="19" column="10" />
-        <mark key="." line="19" column="10" />
-        <mark key="^" line="19" column="12" />
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Faq/Components/Tabs/styled.js" timestamp="1554890643294">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="12" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/node_modules/date-fns/sub_weeks/index.js" timestamp="1554865606311" />
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Header/Top/index.js" timestamp="1554699199925">
@@ -283,7 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="29" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Join/Component/UserForm/styled.js" />
       <jump line="89" column="11" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Join/Component/UserForm/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Guide/styled.js" />
       <jump line="93" column="21" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Guide/index.js" />
@@ -383,48 +402,49 @@
       <jump line="92" column="3" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Schedule/Components/WeekCalendar/Controller.js" />
       <jump line="86" column="15" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Process/index.js" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Process/index.js" />
+      <jump line="35" column="29" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Faq/Components/Tabs/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="-" type="4">
-        <text>li</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
         <text>_sticky</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwo=</text>
+      <register name="0" type="4">
+        <text>&quot;etc&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Cg==</text>
+        <text encoding="base64">ICAmLmFjdGl2ZSB7CiAgICBmb250LXdlaWdodDogNzAwOwogICAgY29sb3I6ICMyMjI7CiAgfQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBsaSB7CiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgICBmb250LXNpemU6IDE1cHg7CiAgICBmb250LXdlaWdodDogNDAwOwogICAgY29sb3I6ICNhYWE7CiAgICAmLmFjdGl2ZSB7CiAgICAgIGZvbnQtd2VpZ2h0OiA3MDA7CiAgICAgIGNvbG9yOiAjMjIyOwogICAgfQogICAgJiArICY6YmVmb3JlIHsKICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwogICAgICBjb250ZW50OiAnJzsKICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgIHdpZHRoOiAxcHg7CiAgICAgIGhlaWdodDogMThweDsKICAgICAgbWFyZ2luLWxlZnQ6IDI1cHg7CiAgICAgIHBhZGRpbmctbGVmdDogMjVweDsKICAgICAgYm9yZGVyLWxlZnQ6IDFweCBzb2xpZCAjZGRkOwogICAgfQogIH0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIAogICAgICAgICAg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgPExpPuyghOyytDwvTGk+CiAgICAgIDxMaT7ssq3slb3qsIDsoJDsoJw8L0xpPgogICAgICA8TGk+6rO16riJ64yA7IOBPC9MaT4KICAgICAgPExpPuyyreyVveyghOuetTwvTGk+CiAgICAgIDxMaT7rtoDrj5nsgrDqt5zsoJw8L0xpPgogICAgICA8TGk+6riw7YOAPC9MaT4K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYmFja2dyb3VuZC1jb2xvcjogI2RkZDsK</text>
+      <register name="4" type="4">
+        <text>{
+  
+}</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFNlYXJjaCBmcm9tICcuLi9Db21wb25lbnRzL1NlYXJjaCcK</text>
+        <text encoding="base64">ICBsaSB7CiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgICBmb250LXNpemU6IDE1cHg7CiAgICBmb250LXdlaWdodDogNDAwOwogICAgY29sb3I6ICNhYWE7CiAgICAmLmFjdGl2ZSB7CiAgICAgIGZvbnQtd2VpZ2h0OiA3MDA7CiAgICAgIGNvbG9yOiAjMjIyOwogICAgfQogICAgJiArICY6YmVmb3JlIHsKICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwogICAgICBjb250ZW50OiAnJzsKICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgIHdpZHRoOiAxcHg7CiAgICAgIGhlaWdodDogMThweDsKICAgICAgbWFyZ2luLWxlZnQ6IDI1cHg7CiAgICAgIHBhZGRpbmctbGVmdDogMjVweDsKICAgICAgYm9yZGVyLWxlZnQ6IDFweCBzb2xpZCAjZGRkOwogICAgfQogIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text>:css`
-    
-  `</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZC1jb2xvcjogI2RkZDsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBib3JkZXItYm90dG9tOiAxcHggc29saWQgIzIyMjsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
