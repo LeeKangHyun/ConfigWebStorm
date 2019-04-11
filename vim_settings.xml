@@ -374,6 +374,12 @@
         <mark key="." line="258" column="15" />
         <mark key="^" line="258" column="15" />
       </file>
+      <file name="$USER_HOME$/github/meong/src/Components/ImagesComponent/index.js" timestamp="1554986204987">
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+        <mark key="^" line="20" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Confirm/styled.js" timestamp="1553662315595">
         <mark key="[" line="10" column="38" />
         <mark key="]" line="11" column="20" />
@@ -529,10 +535,6 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="27" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Pagination/Pagination.js" timestamp="1553652861412">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="45" />
-      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHome/Components/Review/index.js" timestamp="1553223908923">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="46" />
@@ -588,10 +590,6 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Mobile/Pages/Main/Search/Search/Component/History/Controller.js" timestamp="1553674339171">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="102" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/NewHome/Components/Banner/Component/AdviceBtn/index.js" timestamp="1553069051222">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -622,11 +620,11 @@
         <mark key="." line="36" column="13" />
         <mark key="^" line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/github/meong/src/Pages/Home/index.js" timestamp="1554983924774">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="9" />
-        <mark key="^" line="10" column="9" />
-        <mark key="." line="10" column="9" />
+      <file name="$USER_HOME$/github/meong/src/Pages/Home/index.js" timestamp="1554986488005">
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Premium/Price/Components/styled.js" timestamp="1553578724861">
         <mark key="[" line="103" column="9" />
@@ -1033,11 +1031,11 @@
       <jump line="42" column="11" filename="$USER_HOME$/github/meong/src/Pages/Home/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
       <register name="-" type="4">
-        <text>heme</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>drag</text>
@@ -1045,32 +1043,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy50aGVtZX0+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPFRleHQ+Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3R5bGVTaGVldCwgVmlldyB9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7Cg==</text>
+        <text encoding="base64">ICAgIGZsZXg6IDAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmNvbnN0IHN0eWxlcyA9IFN0eWxlU2hlZXQuY3JlYXRlKHsKICBjb250YWluZXI6IHsKICAgIGZsZXg6IDEsCiAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgIGJhY2tncm91bmRDb2xvcjogJyNmZmYnLAogIH0sCn0pOwo=</text>
+        <text encoding="base64">ICAgIGZsZXhXcmFwOiAnd3JhcCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLmNvbnRhaW5lcn0+CiAgICAgICAgICA8VGV4dCBzdHlsZT17e2ZvbnRTaXplOiAyNCwgY29sb3I6ICcjMjIyJ319PgogICAgICAgICAgICDrsJjqsIDsm4zsmpR+CiAgICAgICAgICA8L1RleHQ+CiAgICAgICAgICA8VGV4dCBzdHlsZT17e2ZvbnRTaXplOiAyNCwgY29sb3I6ICcjMjIyJ319PgogICAgICAgICAgICDrqY3snbTsnZgg7J287IOB7J2EIOuztOyXrOuTnOumveuLiOuLpH4KICAgICAgICAgIDwvVGV4dD4KICAgICAgICA8L1ZpZXc+Cg==</text>
+        <text encoding="base64">ICAgIGZsZXhWCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFRleHQgZnJvbSAnQC9Db21wb25lbnRzL1RleHQnCg==</text>
+        <text encoding="base64">aW1wb3J0IE1lb25nIGZyb20gJ0AvQ29tcG9uZW50cycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRm9udHMgfSBmcm9tICdAL1V0aWxzL0ZvbnRzJwo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIDwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0aXRsZTogewogICAgaGVpZ2h0OiA2MCwKICAgIGp1c3RpZnlDb250ZW50OiAnZmxleC1zdGFydCcsCiAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgIGJhY2tncm91bmRDb2xvcjogJ3JnYmEoMTM1LCAxNzksIDE3MSwgMC41MSknLAogIH0sCiAgaW5zdHJ1Y3Rpb25zOiB7CiAgICBmbGV4OiAxLAogICAgZm9udFNpemU6IDI0LAogICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAogICAgdGV4dEFsaWduOiAnY2VudGVyJywKICAgIGxpbmVIZWlnaHQ6IDYwLAogICAgY29sb3I6ICcjNTE1MTUxJywKICB9LAo=</text>
+        <text encoding="base64">ICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
