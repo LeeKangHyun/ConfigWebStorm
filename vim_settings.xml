@@ -189,6 +189,12 @@
         <mark key="^" line="16" column="30" />
         <mark key="." line="16" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Join/Component/UserForm/index.js" timestamp="1555390920448">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="29" />
+        <mark key="^" line="136" column="27" />
+        <mark key="." line="122" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/WebView/Components/Modal/index.js" timestamp="1555378987364">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="65" />
@@ -345,7 +351,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0b0NvbXBsZXRlPSJvbiIK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHByb3BzLmlzQWN0aXZlID8gJ2ZvbnQtd2VpZ2h0OiA3MDA7Jzo=</text>
@@ -354,7 +360,7 @@
         <text>GA</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICR7cHJvcHMgPT4gcHJvcHMuaXNPcGVuID8gYAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0b0NvbXBsZXRlPSJvbiIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
