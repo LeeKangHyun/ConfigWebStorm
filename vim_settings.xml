@@ -49,6 +49,13 @@
         <mark key="." line="36" column="36" />
         <mark key="^" line="36" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Schedule/Components/WeekCalendar/Components/Table/item.js" timestamp="1555491448831">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="35" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="20" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Schedule/Components/WeekCalendar/Controller.js" timestamp="1555471255104">
         <mark key="'" line="81" column="5" />
         <mark key="[" line="27" column="2" />
@@ -119,7 +126,7 @@
         <mark key="." line="101" column="15" />
         <mark key="^" line="101" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555480117249">
+      <file name="/Dummy.txt" timestamp="1555491776885">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -139,7 +146,7 @@
         <mark key="." line="71" column="11" />
         <mark key="^" line="71" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Process/index.js" timestamp="1555490437913">
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Process/index.js" timestamp="1555491797879">
         <mark key="'" line="66" column="14" />
         <mark key="[" line="78" column="36" />
         <mark key="]" line="78" column="36" />
@@ -281,10 +288,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, s</text>
+        <text>status</text>
       </register>
       <register name="-" type="4">
-        <text>, s</text>
+        <text>status</text>
       </register>
       <register name="/" type="4">
         <text>GA</text>
