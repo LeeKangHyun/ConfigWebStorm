@@ -167,11 +167,11 @@
         <mark key="]" line="52" column="61" />
         <mark key="." line="52" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Utils/Guide/Terms.js" timestamp="1555563628975">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="14" />
-        <mark key="^" line="6" column="12" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Utils/Guide/Terms.js" timestamp="1555566864663">
+        <mark key="[" line="286" column="25" />
+        <mark key="]" line="286" column="27" />
+        <mark key="^" line="286" column="27" />
+        <mark key="." line="286" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Home/Component/Info/Components/Filter/index.js" timestamp="1555298623872">
         <mark key="'" line="26" column="15" />
@@ -208,6 +208,10 @@
         <mark key="]" line="5" column="7" />
         <mark key="." line="5" column="7" />
         <mark key="^" line="5" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/WebView/Pages/Terms/Component/Base/terms.json" timestamp="1555566854087">
+        <mark key="[" line="147" column="19" />
+        <mark key="]" line="147" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/PlusProduct/Intro/Component/ProductType/index.js" timestamp="1555477268160">
         <mark key="[" line="40" column="15" />
@@ -267,7 +271,7 @@
         <mark key="." line="101" column="15" />
         <mark key="^" line="101" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555564556221">
+      <file name="/Dummy.txt" timestamp="1555567016114">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -445,16 +449,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>List</text>
+        <text>공급면적</text>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text>공급면적</text>
       </register>
       <register name="/" type="4">
         <text>GA</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzdmcgd2lkdGg9IjQyIiBoZWlnaHQ9IjQyIiB2aWV3Qm94PSIwIDAgNDIgNDIiIGZpbGw9Im5vbmUiPgogICAgICAgICAgICAgICAgICA8Zz4KICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNNDEgMjAuOTc2N0M0MSAzMi4wMjI0IDMyLjA0NTcgNDAuOTc2NyAyMSA0MC45NzY3QzkuOTU0MzEgNDAuOTc2NyAxIDMyLjAyMjQgMSAyMC45NzY3QzEgOS45MzEwNSA5Ljk1NDMxIDAuOTc2NzQ2IDIxIDAuOTc2NzQ2QzMyLjA0NTcgMC45NzY3NDYgNDEgOS45MzEwNSA0MSAyMC45NzY3WiIgc3Ryb2tlPSIjREREREREIiBzdHJva2VXaWR0aD0iMiIvPgogICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xOS41IDI2LjUxMjZWMjlIMjIuNVYyNi41MTI2SDE5LjVaTTIyLjI4MzggMTcuOTNWMTNIMTkuNzE2MlYxNy45M0wyMC4zOTE5IDI0Ljg5OTJIMjEuNjA4MUwyMi4yODM4IDE3LjkzWiIgZmlsbD0iI0NDQ0NDQyIvPgogICAgICAgICAgICAgICAgICA8L2c+CiAgICAgICAgICAgICAgICA8L3N2Zz4K</text>
+      <register name="0" type="4">
+        <text>&quot;실내 바닥 높이보다 20㎝가량 낮은 곳에 전용정원 형태로 만든 공간&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB7dGV4dH0KICAgICAgICB7Y2hpbGRyZW59Cg==</text>
