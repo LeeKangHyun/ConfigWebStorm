@@ -167,11 +167,12 @@
         <mark key="]" line="52" column="61" />
         <mark key="." line="52" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Utils/Guide/Terms.js" timestamp="1555566864663">
-        <mark key="[" line="286" column="25" />
-        <mark key="]" line="286" column="27" />
-        <mark key="^" line="286" column="27" />
-        <mark key="." line="286" column="27" />
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Utils/Guide/Terms.js" timestamp="1555568718283">
+        <mark key="'" line="441" column="98" />
+        <mark key="[" line="585" column="25" />
+        <mark key="]" line="585" column="53" />
+        <mark key="^" line="580" column="27" />
+        <mark key="." line="585" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Home/Component/Info/Components/Filter/index.js" timestamp="1555298623872">
         <mark key="'" line="26" column="15" />
@@ -209,9 +210,9 @@
         <mark key="." line="5" column="7" />
         <mark key="^" line="5" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/WebView/Pages/Terms/Component/Base/terms.json" timestamp="1555566854087">
-        <mark key="[" line="147" column="19" />
-        <mark key="]" line="147" column="57" />
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/WebView/Pages/Terms/Component/Base/terms.json" timestamp="1555568716661">
+        <mark key="[" line="302" column="20" />
+        <mark key="]" line="302" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/PlusProduct/Intro/Component/ProductType/index.js" timestamp="1555477268160">
         <mark key="[" line="40" column="15" />
@@ -271,7 +272,7 @@
         <mark key="." line="101" column="15" />
         <mark key="^" line="101" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555567016114">
+      <file name="/Dummy.txt" timestamp="1555568843969">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -346,7 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="2" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Calc/Components/Helper/Controller.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/station3/dabang-server/client/WebView/Pages/Calculator/Components/Helper/Controller.js" />
       <jump line="424" column="8" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Calc/Components/Helper/Controller.js" />
       <jump line="426" column="0" filename="$USER_HOME$/Documents/station3/dabang-server/client/WebView/Pages/Calculator/Components/Helper/Controller.js" />
@@ -446,46 +446,47 @@
       <jump line="54" column="0" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Process/index.js" />
       <jump line="42" column="16" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Process/index.js" />
       <jump line="42" column="19" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Terms/index.js" />
+      <jump line="441" column="98" filename="$USER_HOME$/Documents/station3/dabang-server/client/Utils/Guide/Terms.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>공급면적</text>
+        <text>아파트의 Bay(베이)란 건물의 기둥과 기둥 사이의 공간으로, 이들 공간 중에서도 햇볕이 들어오는 공간으로 베이의 수를 결정한다.</text>
       </register>
       <register name="-" type="4">
-        <text>공급면적</text>
+        <text>아파트의 Bay(베이)란 건물의 기둥과 기둥 사이의 공간으로, 이들 공간 중에서도 햇볕이 들어오는 공간으로 베이의 수를 결정한다.</text>
       </register>
       <register name="/" type="4">
         <text>GA</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;실내 바닥 높이보다 20㎝가량 낮은 곳에 전용정원 형태로 만든 공간&quot;</text>
+        <text>여러 개의 재개발구역을 묶어 개발하는 것을 말한다.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7dGV4dH0KICAgICAgICB7Y2hpbGRyZW59Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB7dGV4dH0KICAgICAgICB7Y2hpbGRyZW59Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAge3RleHR9CiAgICAgIHtjaGlsZHJlbn0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAge3RleHR9CiAgICAgIHtjaGlsZHJlbn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzcGFuIHsKICAgIG1hcmdpbi1yaWdodDogMjBweDsKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICBzcGFuIHsKICAgIG1hcmdpbi1yaWdodDogMjBweDsKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEVsZW1lbnQgZnJvbSAnQC9VdGlscy9FbGVtZW50Jwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">aW1wb3J0IEVsZW1lbnQgZnJvbSAnQC9VdGlscy9FbGVtZW50Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
