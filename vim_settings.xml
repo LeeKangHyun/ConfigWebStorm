@@ -105,6 +105,12 @@
         <mark key="." line="27" column="2" />
         <mark key="^" line="62" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Numbering/index.js" timestamp="1555639131653">
+        <mark key="[" line="52" column="16" />
+        <mark key="]" line="52" column="18" />
+        <mark key="." line="52" column="18" />
+        <mark key="^" line="52" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Calc/Components/Title/Components/Terms/HousingOwnership.js" timestamp="1555383543726">
         <mark key="[" line="22" column="21" />
         <mark key="]" line="22" column="24" />
@@ -291,7 +297,7 @@
         <mark key="]" line="25" column="44" />
         <mark key="." line="25" column="44" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1555573575166">
+      <file name="/GraphQL.result.json" timestamp="1555638713151">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/GeneralProduct/Intro/Component/Discount/index.js" timestamp="1555478384517">
@@ -477,11 +483,11 @@
       <jump line="33" column="23" filename="$USER_HOME$/Documents/station3/dabang-server/client/WebView/Pages/SalesFaq/Component/Base/faqs.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>를 이용하여 본인의 가점을 조회해보세요!</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>GA</text>
