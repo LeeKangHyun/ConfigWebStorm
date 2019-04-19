@@ -166,6 +166,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Come/index.js" timestamp="1555639829766">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Utils/Element.js" timestamp="1555487918722">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -286,7 +292,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="99" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555574272418">
+      <file name="/Dummy.txt" timestamp="1555639842149">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -299,6 +305,11 @@
       </file>
       <file name="/GraphQL.result.json" timestamp="1555638713151">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Status/index.js" timestamp="1555639838561">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/GeneralProduct/Intro/Component/Discount/index.js" timestamp="1555478384517">
         <mark key="[" line="29" column="17" />
@@ -483,8 +494,8 @@
       <jump line="33" column="23" filename="$USER_HOME$/Documents/station3/dabang-server/client/WebView/Pages/SalesFaq/Component/Base/faqs.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgey8qPHNwYW4+MzU8L3NwYW4+66eM6rG0Ki99Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -496,33 +507,33 @@
         <text>&quot;를 이용하여 본인의 가점을 조회해보세요!&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qPHNwYW4+MzU8L3NwYW4+66eM6rG0Ki99Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgXQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qPHNwYW4+NTAsMDAwPC9zcGFuPuuqhSovfQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgey8qPHNwYW4+NTAwPC9zcGFuPuunjOuqhSovfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgey8qPHNwYW4+MSw4MDA8L3NwYW4+66eM6rG0Ki99Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB7Lyo8cD7rp6TsnbwgPHNwYW4+MTc5LDU2MDwvc3Bhbj7rqoXsnbQ8L3A+Ki99Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgXQogICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>{
     
   }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IERpc2NvdW50IGZyb20gJy4vQ29tcG9uZW50L0Rpc2NvdW50Jwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPERpc2NvdW50IC8+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPERpc2NvdW50IC8+Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IERpc2NvdW50IGZyb20gJy4vQ29tcG9uZW50L0Rpc2NvdW50Jwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiYXR0cnMiOiBudWxsLAo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
