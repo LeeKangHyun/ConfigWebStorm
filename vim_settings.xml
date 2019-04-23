@@ -73,8 +73,8 @@
         <mark key="]" line="58" column="22" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Package/Price/Components/Item/index.js" timestamp="1555990057974">
-        <mark key="[" line="22" column="7" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Package/Price/Components/Item/index.js" timestamp="1555994077245">
+        <mark key="[" line="9" column="7" />
         <mark key="]" line="22" column="7" />
         <mark key="." line="22" column="7" />
         <mark key="^" line="24" column="72" />
@@ -169,11 +169,12 @@
         <mark key="." line="19" column="23" />
         <mark key="^" line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/api/calc.js" timestamp="1555989970414">
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/api/calc.js" timestamp="1555994221756">
         <mark key="'" line="72" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+        <mark key="^" line="20" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Calc/Components/Title/Components/Terms/index.js" timestamp="1555383559955">
         <mark key="[" line="9" column="18" />
@@ -308,7 +309,7 @@
         <mark key="^" line="46" column="15" />
         <mark key="." line="46" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555992640779">
+      <file name="/Dummy.txt" timestamp="1555994234398">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -501,11 +502,11 @@
       <jump line="7" column="42" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/PlusProduct/Price/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2V5d29yZD17a2V5d29yZH0K</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGtleXdvcmQs</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>SET_LOADING</text>
