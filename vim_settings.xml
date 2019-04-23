@@ -106,12 +106,12 @@
         <mark key="." line="52" column="18" />
         <mark key="^" line="52" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/PlusProduct/Price/index.js" timestamp="1555990093718">
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/PlusProduct/Price/index.js" timestamp="1555996387422">
         <mark key="'" line="7" column="42" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="37" column="27" />
+        <mark key="[" line="56" column="16" />
+        <mark key="]" line="56" column="35" />
+        <mark key="." line="56" column="35" />
+        <mark key="^" line="56" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Calc/Components/Title/Components/Terms/HousingOwnership.js" timestamp="1555383543726">
         <mark key="[" line="22" column="21" />
@@ -303,13 +303,18 @@
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Footer/styled.js" timestamp="1555996795838">
+        <mark key="[" line="23" column="17" />
+        <mark key="]" line="23" column="19" />
+        <mark key="." line="23" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/PlusProduct/Intro/index.js" timestamp="1555984866407">
         <mark key="[" line="46" column="15" />
         <mark key="]" line="46" column="15" />
         <mark key="^" line="46" column="15" />
         <mark key="." line="46" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555994234398">
+      <file name="/Dummy.txt" timestamp="1555996450487">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -360,12 +365,12 @@
         <mark key="^" line="52" column="8" />
         <mark key="." line="52" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Package/Price/index.js" timestamp="1555990065070">
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Package/Price/index.js" timestamp="1555996353157">
         <mark key="'" line="38" column="27" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="38" column="27" />
+        <mark key="[" line="56" column="36" />
+        <mark key="]" line="56" column="36" />
+        <mark key="." line="56" column="36" />
+        <mark key="^" line="56" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Components/List/styled.js" timestamp="1555572346217">
         <mark key="[" line="11" column="18" />
@@ -503,10 +508,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>VAT 포함 가격입니다.</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>VAT 포함 가격입니다.</text>
       </register>
       <register name="/" type="4">
         <text>SET_LOADING</text>
