@@ -9,6 +9,13 @@
         <mark key="^" line="24" column="42" />
         <mark key="." line="24" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Connect/index.js" timestamp="1555650397424">
+        <mark key="'" line="22" column="14" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="18" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Schedule/Components/WeekCalendar/styled.js" timestamp="1555470345494">
         <mark key="[" line="153" column="0" />
         <mark key="]" line="153" column="0" />
@@ -138,7 +145,12 @@
         <mark key="^" line="25" column="44" />
         <mark key="." line="25" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Join/Component/Terms/Component/Term/index.js" timestamp="1555925685899" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Join/Component/Terms/Component/Term/index.js" timestamp="1555997585844">
+        <mark key="[" line="68" column="3" />
+        <mark key="]" line="70" column="18" />
+        <mark key="^" line="70" column="18" />
+        <mark key="." line="70" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Join/Component/AgentForm/Controller.js" timestamp="1555396681881">
         <mark key="[" line="66" column="27" />
         <mark key="]" line="66" column="34" />
@@ -213,6 +225,13 @@
         <mark key="^" line="93" column="27" />
         <mark key="." line="93" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/RoomList/GlobalState/action.js" timestamp="1555643869244">
+        <mark key="'" line="103" column="15" />
+        <mark key="[" line="56" column="4" />
+        <mark key="]" line="56" column="17" />
+        <mark key="^" line="56" column="17" />
+        <mark key="." line="56" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Home/Component/List/index.js" timestamp="1555467134394">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="65" column="22" />
@@ -260,11 +279,12 @@
         <mark key="." line="40" column="15" />
         <mark key="^" line="39" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/config/polyfills.js" timestamp="1555643562826">
-        <mark key="[" line="70" column="1" />
-        <mark key="]" line="117" column="0" />
-        <mark key="^" line="117" column="0" />
-        <mark key="." line="117" column="0" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/config/polyfills.js" timestamp="1555997819884">
+        <mark key="'" line="191" column="6" />
+        <mark key="[" line="117" column="1" />
+        <mark key="]" line="196" column="0" />
+        <mark key="^" line="196" column="0" />
+        <mark key="." line="196" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/List/Components/Table/index.js" timestamp="1555564312735">
         <mark key="[" line="53" column="0" />
@@ -314,7 +334,7 @@
         <mark key="^" line="46" column="15" />
         <mark key="." line="46" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555996450487">
+      <file name="/Dummy.txt" timestamp="1555997854972">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -405,8 +425,6 @@
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/common.js" timestamp="1555919571035" />
     </filemarks>
     <jumps>
-      <jump line="217" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Join/Component/AgentForm/index.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Join/Component/AgentForm/index.js" />
       <jump line="220" column="28" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Join/Component/AgentForm/index.js" />
       <jump line="21" column="15" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Join/Component/AgentForm/index.js" />
       <jump line="71" column="38" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Schedule/Components/WeekCalendar/index.js" />
@@ -505,6 +523,8 @@
       <jump line="43" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/api/calc.js" />
       <jump line="38" column="27" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Package/Price/index.js" />
       <jump line="7" column="42" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/PlusProduct/Price/index.js" />
+      <jump line="196" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/config/polyfills.js" />
+      <jump line="191" column="6" filename="$USER_HOME$/Documents/station3/dabang-pro/config/polyfills.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
