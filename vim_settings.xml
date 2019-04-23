@@ -260,6 +260,11 @@
         <mark key="." line="5" column="7" />
         <mark key="^" line="5" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Dashboard/Component/MyProduct/styled.js" timestamp="1556005070894">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Calc/Components/Title/styled.js" timestamp="1555379431360">
         <mark key="[" line="16" column="2" />
         <mark key="]" line="16" column="3" />
@@ -537,10 +542,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygndGVybXMgOiAnLCBkYXRhKQo=</text>
+        <text encoding="base64">ICBvdmVyZmxvdy1zY3JvbGw6IHRvdWNoOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jy8vJyArIA==</text>
+        <text>yle</text>
       </register>
       <register name="/" type="4">
         <text>SET_LOADING</text>
@@ -549,31 +554,31 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Rlcm0gdXJsIDonLCBhcGlVcmwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygndGVybXMgOiAnLCBkYXRhKQo=</text>
+        <text encoding="base64">ICBvdmVyZmxvdy1zY3JvbGw6IHRvdWNoOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Rlcm0gdXJsIDonLCB1cmwpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygndGVybXMgOiAnLCBkYXRhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Rlcm0gdXJsIDonLCBhcGlVcmwpCiAgICAgIGNvbnNvbGUubG9nKHdpbmRvdy5sb2NhdGlvbi5wcm90b2NvbCArICcvLycgKyBhcGlVcmwpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Rlcm0gdXJsIDonLCB1cmwpCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Rlcm0gdXJsIDonLCBhcGlVcmwpCiAgICAgIGNvbnNvbGUubG9nKHdpbmRvdy5sb2NhdGlvbi5wcm90b2NvbCArICcvLycgKyBhcGlVcmwpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVybCkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Rlcm0gdXJsIDonLCB1cmwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsaW5lLWhlaWdodDogMTZweDsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVybCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhcGkg7JWE7KeBLi4nKQo=</text>
+        <text encoding="base64">ICBsaW5lLWhlaWdodDogMTZweDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhcGkg7JWE7KeBLi4nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRvYXN0LnN1Y2Nlc3MoJ+yDgeuLtCDsi6Dssq3snbQg7JmE66OM65CY7JeI7Iq164uI64ukLiDruaDrpbTqsowg7Jew652965Oc66as6rKg7Iq164uI64ukLicpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
