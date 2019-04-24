@@ -193,6 +193,12 @@
         <mark key="." line="19" column="23" />
         <mark key="^" line="19" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Agreement/AgreementView.less" timestamp="1556068194835">
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="33" column="18" />
+        <mark key="." line="33" column="18" />
+        <mark key="^" line="33" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/api/calc.js" timestamp="1555994221756">
         <mark key="'" line="72" column="0" />
         <mark key="[" line="18" column="21" />
@@ -366,7 +372,7 @@
         <mark key="^" line="46" column="15" />
         <mark key="." line="46" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556016118663">
+      <file name="/Dummy.txt" timestamp="1556068202421">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -559,11 +565,11 @@
       <jump line="105" column="27" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Join/Component/Terms/Component/Term/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>50</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IOyEuO2KuA==</text>
+        <text>50</text>
       </register>
       <register name="/" type="4">
         <text>SET_LOADING</text>
