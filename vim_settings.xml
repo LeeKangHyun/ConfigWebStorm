@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Popup/AgentBusinessInfoAdd.js" timestamp="1556001674464" />
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Card/Result.js" timestamp="1556070609408">
         <mark key="[" line="58" column="8" />
         <mark key="]" line="58" column="14" />
@@ -81,6 +80,12 @@
         <mark key="^" line="109" column="67" />
         <mark key="." line="109" column="67" />
       </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useDebounce/customHooks.js" timestamp="1556092108584">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useLocalStorage/hooks.js" timestamp="1556085503634">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="13" />
@@ -99,6 +104,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="9" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useDebounce/index.js" timestamp="1556092546894">
+        <mark key="[" line="48" column="12" />
+        <mark key="]" line="48" column="26" />
+        <mark key="^" line="48" column="26" />
+        <mark key="." line="48" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Join/Controller.js" timestamp="1555396089961">
         <mark key="[" line="35" column="20" />
@@ -124,8 +135,6 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Payment/index.js" timestamp="1555989398966" />
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Payment/Component/BeforePayment/Component/BeforeGroup.js" timestamp="1556075694114" />
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Calc/Components/Title/index.js" timestamp="1555383573414">
         <mark key="[" line="15" column="30" />
         <mark key="]" line="15" column="31" />
@@ -220,9 +229,6 @@
         <mark key="^" line="58" column="22" />
         <mark key="." line="58" column="22" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1556084982037">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Status/index.js" timestamp="1555639838561">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
@@ -259,7 +265,6 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/common.js" timestamp="1555919571035" />
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Calc/Components/Title/Components/Terms/NoHomePeriod.js" timestamp="1555383341198">
         <mark key="[" line="24" column="38" />
         <mark key="]" line="24" column="38" />
@@ -272,11 +277,11 @@
         <mark key="." line="153" column="0" />
         <mark key="^" line="147" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/index.js" timestamp="1556090756059">
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="15" column="13" />
-        <mark key="^" line="15" column="13" />
-        <mark key="." line="15" column="13" />
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/index.js" timestamp="1556094460162">
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="23" column="11" />
+        <mark key="^" line="23" column="11" />
+        <mark key="." line="23" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Premium/Price/index.js" timestamp="1555917415381">
         <mark key="[" line="74" column="43" />
@@ -332,17 +337,30 @@
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useOnScreen/index.js" timestamp="1556090734931">
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="24" column="28" />
-        <mark key="^" line="24" column="28" />
-        <mark key="." line="24" column="28" />
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useOnScreen/index.js" timestamp="1556092525916">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="35" />
+        <mark key="^" line="24" column="37" />
+        <mark key="." line="24" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useScript/customHooks.js" timestamp="1556094319306">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="50" column="11" />
+        <mark key="]" line="52" column="34" />
+        <mark key="." line="52" column="34" />
+        <mark key="^" line="52" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Components/Empty/index.js" timestamp="1555571693068">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="6" column="14" />
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useMemo/index.js" timestamp="1556093124538">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="20" />
+        <mark key="^" line="19" column="20" />
+        <mark key="." line="19" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Component/PriceSearch/styled.js" timestamp="1555656585516">
         <mark key="[" line="21" column="19" />
@@ -366,11 +384,11 @@
         <mark key="." line="35" column="19" />
         <mark key="^" line="56" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/github/util_with_jest/src/pages/Home/index.js" timestamp="1556090768554">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="25" />
-        <mark key="^" line="14" column="25" />
-        <mark key="." line="14" column="25" />
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/pages/Home/index.js" timestamp="1556094468915">
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="18" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Join/Component/AgentForm/Controller.js" timestamp="1555396681881">
         <mark key="[" line="66" column="27" />
@@ -383,6 +401,12 @@
         <mark key="]" line="30" column="22" />
         <mark key="." line="30" column="22" />
         <mark key="^" line="30" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useKeyPress/index.js" timestamp="1556093947459">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="16" column="16" />
+        <mark key="^" line="13" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Agreement/AgreementView.less" timestamp="1556068194835">
         <mark key="[" line="33" column="17" />
@@ -475,7 +499,7 @@
         <mark key="]" line="23" column="19" />
         <mark key="." line="23" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556088237530">
+      <file name="/Dummy.txt" timestamp="1556092110556">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -491,6 +515,12 @@
         <mark key="]" line="89" column="19" />
         <mark key="." line="89" column="19" />
         <mark key="^" line="89" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useScript/index.js" timestamp="1556094584646">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="51" />
+        <mark key="^" line="9" column="48" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Package/Intro/Component/Discount/index.js" timestamp="1555910542368">
         <mark key="[" line="35" column="12" />
@@ -516,7 +546,6 @@
         <mark key="." line="56" column="36" />
         <mark key="^" line="56" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Payment/Component/AfterPayment/Component/TotalPrice/Controller.js" timestamp="1556076013489" />
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Calc/Components/Title/Components/Portal/index.js" timestamp="1555382826756">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -535,6 +564,12 @@
         <mark key="." line="0" column="9" />
         <mark key="^" line="16" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useKeyPress/customHooks.js" timestamp="1556093926867">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="13" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Package/Intro/index.js" timestamp="1555479365193">
         <mark key="[" line="79" column="13" />
         <mark key="]" line="79" column="15" />
@@ -543,8 +578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="13" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Schedule/Components/WeekCalendar/Controller.js" />
-      <jump line="98" column="14" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Schedule/Components/WeekCalendar/Controller.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Schedule/Components/WeekCalendar/Controller.js" />
       <jump line="54" column="18" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Schedule/Components/WeekCalendar/Controller.js" />
       <jump line="156" column="10" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Schedule/Components/WeekCalendar/index.js" />
@@ -643,48 +676,48 @@
       <jump line="3" column="11" filename="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useAnimation/customHooks.js" />
       <jump line="51" column="0" filename="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useAnimation/customHooks.js" />
       <jump line="3" column="9" filename="$USER_HOME$/Documents/github/util_with_jest/src/Utils/usePrevious/index.js" />
+      <jump line="51" column="1" filename="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useScript/customHooks.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useScript/customHooks.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Previous</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHsvKiBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgbm8tdW5kZWYgKi99Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Previous</text>
+        <text>window.</text>
       </register>
       <register name="/" type="4">
         <text>SET_LOADING</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoJ21vdXNlZG93bicsIGxpc3RlbmVyKQogICAgZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcigndG91Y2hzdGFydCcsIGxpc3RlbmVyKQo=</text>
+        <text encoding="base64">ICAgICAgc2NyaXB0LmFkZEV2ZW50TGlzdGVuZXIoJ2xvYWQnLCBvblNjcmlwdExvYWQpCiAgICAgIHNjcmlwdC5hZGRFdmVudExpc3RlbmVyKCdlcnJvcicsIG9uU2NyaXB0RXJyb3IpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKiBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgbm8tdW5kZWYgKi99Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAKICByZXR1cm4K</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmNvbnN0IGVhc2luZyA9IHsKICBsaW5lYXI6IG4gPT4gbiwKICBlbGFzdGljOiBuID0+IG4gKiAoMzMgKiBuICogbiAqIG4gKiBuIC0gMTA2ICogbiAqIG4gKiBuICsgMTI2ICogbiAqIG4gLSA2NyAqIG4gKyAxNSksCiAgaW5FeHBvOiBuID0+IE1hdGgucG93KDIsIDEwICogKG4gLSAxKSkKfQo=</text>
+        <text encoding="base64">ICAgICAgICBzY3JpcHQucmVtb3ZlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gRGF0ZS5ub3coKQogICAgbG9vcAo=</text>
+        <text encoding="base64">ICAKICAvKmZ1bmN0aW9uIHVwSGFuZGxlcih7IGtleSB9KSB7CiAgICBpZiAoa2V5ID09PSB0YXJnZXRLZXkpIHsKICAgICAgc2V0S2V5UHJlc3NlZChmYWxzZSkKICAgIH0KICB9Ki8K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PgogICAgCiAgPC9kaXY=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-  
-}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1cCcsIGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAKICAvKmZ1bmN0aW9uIGRvd25IYW5kbGVyKHsga2V5IH0pIHsKICAgIGlmIChrZXkgPT09IHRhcmdldEtleSkgewogICAgICBzZXRLZXlQcmVzc2VkKHRydWUpCiAgICB9CiAgfSovCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkb3duJywgZSkK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
