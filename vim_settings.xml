@@ -4,6 +4,13 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Popup/AgentBusinessInfoAdd.js" timestamp="1556001674464" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Connect/index.js" timestamp="1555650397424">
+        <mark key="'" line="22" column="14" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="18" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Card/Result.js" timestamp="1556070609408">
         <mark key="[" line="58" column="8" />
         <mark key="]" line="58" column="14" />
@@ -22,7 +29,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/util_with_jest/package.json" timestamp="1556162754011" />
+      <file name="$USER_HOME$/Documents/github/util_with_jest/package.json" timestamp="1556167800774">
+        <mark key="[" line="63" column="21" />
+        <mark key="]" line="63" column="21" />
+        <mark key="." line="63" column="21" />
+        <mark key="^" line="63" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Brand/Components/Table/index.js" timestamp="1555466873107">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="58" column="22" />
@@ -109,6 +121,13 @@
         <mark key="]" line="52" column="61" />
         <mark key="." line="52" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/RoomList/GlobalState/action.js" timestamp="1555643869244">
+        <mark key="'" line="103" column="15" />
+        <mark key="[" line="56" column="4" />
+        <mark key="]" line="56" column="17" />
+        <mark key="^" line="56" column="17" />
+        <mark key="." line="56" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Home/Component/List/index.js" timestamp="1555467134394">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="65" column="22" />
@@ -150,6 +169,12 @@
         <mark key="]" line="21" column="35" />
         <mark key="." line="21" column="35" />
         <mark key="^" line="21" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useSpring/styles.scss" timestamp="1556167374249">
+        <mark key="'" line="152" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1556154426240">
         <mark key="[" line="0" column="0" />
@@ -228,6 +253,13 @@
         <mark key="^" line="24" column="37" />
         <mark key="." line="24" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useSpring/particles-config.js" timestamp="1556167127272">
+        <mark key="'" line="103" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="103" column="2" />
+        <mark key="^" line="103" column="2" />
+        <mark key="." line="103" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useScript/customHooks.js" timestamp="1556094319306">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="50" column="11" />
@@ -256,10 +288,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useSpring/index.js" timestamp="1556099298852">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useSpring/index.js" timestamp="1556167618511">
+        <mark key="'" line="16" column="36" />
+        <mark key="[" line="59" column="30" />
+        <mark key="]" line="59" column="30" />
+        <mark key="." line="59" column="30" />
+        <mark key="^" line="182" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/PlusProduct/Price/index.js" timestamp="1556015100566">
         <mark key="'" line="7" column="42" />
@@ -433,9 +467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Terms/Controller.js" />
-      <jump line="69" column="36" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Terms/Controller.js" />
-      <jump line="6" column="35" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Terms/Controller.js" />
       <jump line="70" column="30" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Terms/Controller.js" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Process/Controller.js" />
       <jump line="58" column="0" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Terms/Controller.js" />
@@ -533,13 +564,16 @@
       <jump line="47" column="8" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Help/Notice/Controller.js" />
       <jump line="82" column="10" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Help/Notice/Controller.js" />
       <jump line="73" column="7" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Help/Notice/Controller.js" />
+      <jump line="103" column="2" filename="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useSpring/particles-config.js" />
+      <jump line="16" column="36" filename="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useSpring/index.js" />
+      <jump line="158" column="0" filename="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useSpring/styles.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxpc3QsCg==</text>
+      <register name="&quot;" type="4">
+        <text>^8.0.19</text>
       </register>
       <register name="-" type="4">
-        <text>, list</text>
+        <text>^8.0.19</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
@@ -548,31 +582,31 @@
         <text encoding="base64">ICAgICAgbWFwKGxpc3QsIGRhdGEgPT4gewogICAgICAgIGlmIChpbmNsdWRlcyhkYXRhLnRpdGxlLCBmaW5kKSkgewogICAgICAgICAgYXJyLnB1c2goZGF0YSkKICAgICAgICB9CiAgICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxpc3QsCg==</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDEwMCU7CiAgcGFkZGluZzogMDsKICBtYXJnaW46IDA7CiAgZm9udC1mYW1pbHk6ICdhdmVuaXIgbmV4dCcsIGF2ZW5pciwgLWFwcGxlLXN5c3RlbSwgQmxpbmtNYWNTeXN0ZW1Gb250LAogICdoZWx2ZXRpY2EgbmV1ZScsIGhlbHZldGljYSwgdWJ1bnR1LCByb2JvdG8sIG5vdG8sICdzZWdvZSB1aScsIGFyaWFsLAogIHNhbnMtc2VyaWY7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2V0TG9hZGluZyh0cnVlKQo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0RE9NIGZyb20gJ3JlYWN0LWRvbSc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2V0UmVzdWx0KF0pCg==</text>
+        <text encoding="base64">CmNvbnN0IHJvb3RFbGVtZW50ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Jvb3QnKTsKUmVhY3RET00ucmVuZGVyKDxBcHAgLz4sIHJvb3RFbGVtZW50KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFyci5wdXNoKGRhdGEpCg==</text>
+        <text encoding="base64">ICAgIGxpc3QsCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">W10KICAgICAgCiAgICAg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgc2V0TG9hZGluZyh0cnVlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAKICBjb25zdCBvbkNoYW5nZVBhZ2UgPSB1c2VDYWxsYmFjaygodmFsdWUpID0+IHsKICAgIHNldFBhZ2UodmFsdWUpCiAgfSwgW10pCg==</text>
+        <text encoding="base64">ICAgICAgc2V0UmVzdWx0KF0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAKICBjb25zdCBhcGlDYWxsR2V0Tm90aWNlID0gdXNlQ2FsbGJhY2soKCkgPT4gewogICAgYXBpQ2FsbC5nZXQoJy9hcGkvbm90aWNlJyx7CiAgICAgIGNhdGVnb3J5OiAyLAogICAgICBwZXJfcGFnZTogMTAsCiAgICAgIHBhZ2U6IHBhZ2UKICAgIH0pLnRoZW4oZGF0YSA9PiB7CiAgICAgIGNvbnN0IHsgbm90aWNlcywgdG90YWwgfSA9IGRhdGEKICAgICAgc2V0TGlzdChub3RpY2VzKQogICAgICBzZXRUb3RhbCh0b3RhbCkKICAgICAgc2V0TG9hZGluZyhmYWxzZSkKICAgIH0pCiAgfSwgW3BhZ2VdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFyci5wdXNoKGRhdGEpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAge2lzTG9hZGluZyAmJiB9Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">W10KICAgICAgCiAgICAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAKICBjb25zdCBvbkNoYW5nZVBhZ2UgPSB1c2VDYWxsYmFjaygodmFsdWUpID0+IHsKICAgIHNldFBhZ2UodmFsdWUpCiAgfSwgW10pCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
