@@ -71,6 +71,12 @@
         <mark key="^" line="102" column="50" />
         <mark key="." line="102" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Guide/index.js" timestamp="1556175098490">
+        <mark key="[" line="91" column="21" />
+        <mark key="]" line="91" column="24" />
+        <mark key="." line="91" column="24" />
+        <mark key="^" line="91" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/usePrevious/customHooks.js" timestamp="1556090045403">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
@@ -152,6 +158,12 @@
         <mark key="]" line="48" column="26" />
         <mark key="^" line="48" column="26" />
         <mark key="." line="48" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Footer/index.js" timestamp="1556175600689">
+        <mark key="[" line="34" column="31" />
+        <mark key="]" line="34" column="42" />
+        <mark key="^" line="34" column="42" />
+        <mark key="." line="34" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Premium/Intro/Component/ProductType/Controller.js" timestamp="1556171941856">
         <mark key="[" line="5" column="56" />
@@ -642,7 +654,7 @@
         <mark key="]" line="23" column="19" />
         <mark key="." line="23" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556171621596">
+      <file name="/Dummy.txt" timestamp="1556175698237">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -836,10 +848,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ewogICAgICAgIHR5cGU6IA==</text>
+        <text>prime</text>
       </register>
       <register name="-" type="4">
-        <text>?type=${type}</text>
+        <text>prime</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
