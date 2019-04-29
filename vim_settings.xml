@@ -938,12 +938,8 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Header/Top/Controller.js" timestamp="1556513444429">
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Header/Top/Controller.js" timestamp="1556514140006">
         <mark key="'" line="2" column="12" />
-        <mark key="[" line="26" column="16" />
-        <mark key="]" line="26" column="21" />
-        <mark key="." line="26" column="21" />
-        <mark key="^" line="26" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Login/Component/FindPassword/index.js" timestamp="1556507527225">
         <mark key="[" line="27" column="0" />
@@ -1055,10 +1051,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c2l6ZSwg</text>
+        <text>clientWidth</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2l6ZSwg</text>
+        <text>clientWidth</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
