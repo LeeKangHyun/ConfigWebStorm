@@ -323,6 +323,19 @@
         <mark key="." line="21" column="54" />
         <mark key="^" line="21" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Premium/Intro/Component/Benefit/index.js" timestamp="1556589879513">
+        <mark key="'" line="91" column="22" />
+        <mark key="[" line="40" column="47" />
+        <mark key="]" line="41" column="36" />
+        <mark key="." line="41" column="36" />
+        <mark key="^" line="41" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Premium/Intro/Component/Benefit/styled.js" timestamp="1556589919708">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="10" />
+        <mark key="^" line="107" column="9" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Calc/Components/Title/styled.js" timestamp="1555379431360">
         <mark key="[" line="16" column="2" />
         <mark key="]" line="16" column="3" />
@@ -874,7 +887,7 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556528006570">
+      <file name="/Dummy.txt" timestamp="1556590276794">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -992,7 +1005,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="8" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Help/Notice/Controller.js" />
       <jump line="71" column="4" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Help/Notice/Controller.js" />
       <jump line="86" column="6" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Help/Notice/Controller.js" />
       <jump line="47" column="8" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Help/Notice/Controller.js" />
@@ -1092,13 +1104,14 @@
       <jump line="40" column="4" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Header/Top/Controller.js" />
       <jump line="38" column="5" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Header/Top/Controller.js" />
       <jump line="18" column="65" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Header/Top/Controller.js" />
+      <jump line="90" column="22" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Premium/Intro/Component/Benefit/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>매물 등록권</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBsZWZ0OiAwOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>매물 등록권</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
@@ -1107,31 +1120,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0b3AnLCBlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0b3AnKQo=</text>
+        <text encoding="base64">ICBsZWZ0OiAwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVgoLTUwJSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgdGlja2luZyB9ID0gdGhpcy5zdGF0ZQo=</text>
+        <text encoding="base64">ICBsZWZ0OiA1MCU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlbGYgPSB0aGlzCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0b3AnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICghdGlja2luZykgewogICAgICB3aW5kb3cucmVxdWVzdEFuaW1hdGlvbkZyYW1lKGZ1bmN0aW9uKCkgewogICAgICAgIGNvbnN0IGNsaWVudFdpZHRoID0gZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LmNsaWVudFdpZHRoID8gZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LmNsaWVudFdpZHRoIDogd2luZG93LmlubmVyV2lkdGg7CiAgICAgICAgc2VsZi5zZXRTdGF0ZSh7CiAgICAgICAgICB0aWNraW5nOiBmYWxzZSwKICAgICAgICB9LCAoKSA9PiB7CiAgICAgICAgICBzZWxmLnNldFNpZGVCb3goY2xpZW50V2lkdGgpCiAgICAgICAgfSkKICAgICAgfSkKICAgICAgdGhpcy5zZXRTdGF0ZSh7IHRpY2tpbmc6IHRydWUgfSkKICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRocm90dGxlIGZyb20gJ2xvZGFzaC90aHJvdHRsZScK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAKICAvKm9uUmVzaXplQW5kU2Nyb2xsID0gdGhyb3R0bGUoKGUpID0+IHsKICAgIGNvbnNvbGUubG9nKCd0b3AnLCBlKQogICAgY29uc3QgY2xpZW50V2lkdGggPSBkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQuY2xpZW50V2lkdGggPyBkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQuY2xpZW50V2lkdGggOiB3aW5kb3cuaW5uZXJXaWR0aDsKICAgIHRoaXMuc2V0U2lkZUJveChjbGllbnRXaWR0aCk7CiAgfSwgMTAwKSovCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHsgdGlja2luZyB9ID0gdGhpcy5zdGF0ZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHNlbGYgPSB0aGlzCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmICghdGlja2luZykgewogICAgICB3aW5kb3cucmVxdWVzdEFuaW1hdGlvbkZyYW1lKGZ1bmN0aW9uKCkgewogICAgICAgIGNvbnN0IGNsaWVudFdpZHRoID0gZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LmNsaWVudFdpZHRoID8gZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LmNsaWVudFdpZHRoIDogd2luZG93LmlubmVyV2lkdGg7CiAgICAgICAgc2VsZi5zZXRTdGF0ZSh7CiAgICAgICAgICB0aWNraW5nOiBmYWxzZSwKICAgICAgICB9LCAoKSA9PiB7CiAgICAgICAgICBzZWxmLnNldFNpZGVCb3goY2xpZW50V2lkdGgpCiAgICAgICAgfSkKICAgICAgfSkKICAgICAgdGhpcy5zZXRTdGF0ZSh7IHRpY2tpbmc6IHRydWUgfSkKICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldFNpZGVCb3goY2xpZW50V2lkdGgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHRocm90dGxlIGZyb20gJ2xvZGFzaC90aHJvdHRsZScK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
