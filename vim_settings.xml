@@ -528,12 +528,12 @@
         <mark key="^" line="24" column="42" />
         <mark key="." line="24" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/GeneralProduct/Intro/Component/ProductType/index.js" timestamp="1556504074345">
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/GeneralProduct/Intro/Component/ProductType/index.js" timestamp="1556588192708">
         <mark key="'" line="3" column="18" />
-        <mark key="[" line="110" column="47" />
-        <mark key="]" line="110" column="49" />
-        <mark key="." line="110" column="49" />
-        <mark key="^" line="110" column="49" />
+        <mark key="[" line="101" column="20" />
+        <mark key="]" line="101" column="24" />
+        <mark key="." line="101" column="24" />
+        <mark key="^" line="101" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Schedule/Components/WeekCalendar/styled.js" timestamp="1555470345494">
         <mark key="[" line="153" column="0" />
@@ -1094,11 +1094,11 @@
       <jump line="18" column="65" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Header/Top/Controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0b3AnLCBlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>매물 등록권</text>
       </register>
       <register name="-" type="4">
-        <text>, e</text>
+        <text>매물 등록권</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
