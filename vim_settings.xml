@@ -664,6 +664,12 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="12" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/util.js" timestamp="1556614631968">
+        <mark key="[" line="20" column="1" />
+        <mark key="]" line="23" column="8" />
+        <mark key="^" line="23" column="8" />
+        <mark key="." line="23" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useOnClickOutside/index.js" timestamp="1556088782299">
         <mark key="[" line="13" column="22" />
         <mark key="]" line="13" column="39" />
@@ -864,44 +870,44 @@
       <jump line="34" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Sagas/watchFetchGongsil.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>필터</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CnN0ci5zcGxpdCgnJykucmVkdWNlKChhY2MsIGRhdGEpID0+IHsKICAvLyBlbmNvZGVVUklDb21wb25lbnQoZGF0YSkgLyogPyAqLwogIGVzY2FwZShkYXRhKSAvKiA/ICovCiAgcmV0dXJuIGFjYyArIGRhdGEKfSwgJycpIC8qID8gKi8K</text>
       </register>
       <register name="-" type="4">
-        <text>필터</text>
+        <text>encodeURIComponent</text>
       </register>
       <register name="/" type="4">
         <text>delay</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8TEk+CiAgICAgICAgICA8TGluayB0bz0iL2ZpbHRlciI+7ZWE7YSwPC9MaW5rPgogICAgICAgIDwvTEk+Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">LnJlZHVjZSgoYWNjLCBkYXRhKSA9PiB7CiAgLy8gZW5jb2RlVVJJQ29tcG9uZW50KGRhdGEpIC8qID8gKi8KICBlc2NhcGUoZGF0YSkgLyogPyAqLwogIHJldHVybiBhY2MgKyBkYXRhCn0sICcnKSAvKiA/ICov</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uKiBkZWNyZW1lbnRBc3luYygpIHsKICB5aWVsZCBkZWxheSgxMDAwKQp9Cg==</text>
+        <text encoding="base64">CnN0ci5zcGxpdCgnJykucmVkdWNlKChhY2MsIGRhdGEpID0+IHsKICAvLyBlbmNvZGVVUklDb21wb25lbnQoZGF0YSkgLyogPyAqLwogIGVzY2FwZShkYXRhKSAvKiA/ICovCiAgcmV0dXJuIGFjYyArIGRhdGEKfSwgJycpIC8qID8gKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB5aWVsZCBwdXQoeyB0eXBlOiBERUNSRU1FTlQgfSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygxKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB5aWVsZCBwdXQoeyB0eXBlOiBJTkNSRU1FTlQgfSkK</text>
+        <text encoding="base64">CmNvbnNvbGUubG9nKHN0cikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0eXBlb2YgZGF0YQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBpZiAoZWRhdGEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGVsYXkgfSBmcm9tICdyZWR1eC1zYWdhJwo=</text>
+        <text encoding="base64">c3RyLnNwbGl0KCcnKSAvKiA/ICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGVsYXkgfSBmcm9tICdyZWR1eC1zYWdhJwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uKiAoKSB7CiAgdGFrZUxhdGVzdCgnJykKfQo=</text>
+        <text encoding="base64">YS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGVsYXkgfSBmcm9tICdyZWR1eC1zYWdhJwo=</text>
+        <text encoding="base64">bGV0IGEgPSBBcnJheS5wcm90b3R5cGUucmVkdWNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
