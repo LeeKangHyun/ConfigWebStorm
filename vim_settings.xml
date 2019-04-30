@@ -41,6 +41,12 @@
         <mark key="." line="58" column="14" />
         <mark key="^" line="58" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/github/cra3/src/index.js" timestamp="1556602245754">
+        <mark key="[" line="8" column="38" />
+        <mark key="]" line="10" column="59" />
+        <mark key="." line="10" column="59" />
+        <mark key="^" line="10" column="59" />
+      </file>
       <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useLockBodyScroll/index.js" timestamp="1556181265909">
         <mark key="[" line="8" column="54" />
         <mark key="]" line="8" column="54" />
@@ -702,6 +708,12 @@
         <mark key="." line="35" column="19" />
         <mark key="^" line="56" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/github/cra3/src/modules/index.js" timestamp="1556602173842">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="7" column="25" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Complex/Provider.js" timestamp="1556176698720">
         <mark key="[" line="4" column="61" />
         <mark key="]" line="6" column="0" />
@@ -770,6 +782,12 @@
         <mark key="]" line="21" column="6" />
         <mark key="." line="21" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/github/cra3/src/modules/counter.js" timestamp="1556602140525">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="19" column="21" />
+        <mark key="^" line="19" column="21" />
+        <mark key="." line="19" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Come/index.js" timestamp="1555639829766">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -813,6 +831,13 @@
         <mark key="]" line="40" column="60" />
         <mark key="^" line="40" column="60" />
         <mark key="." line="40" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/cra3/src/App.js" timestamp="1556602567050">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+        <mark key="^" line="0" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Help/Help/index.js" timestamp="1556158769751">
         <mark key="[" line="22" column="5" />
@@ -1005,7 +1030,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="4" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Help/Notice/Controller.js" />
       <jump line="86" column="6" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Help/Notice/Controller.js" />
       <jump line="47" column="8" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Help/Notice/Controller.js" />
       <jump line="82" column="10" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Help/Notice/Controller.js" />
@@ -1105,13 +1129,14 @@
       <jump line="38" column="5" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Header/Top/Controller.js" />
       <jump line="18" column="65" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Header/Top/Controller.js" />
       <jump line="90" column="22" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Premium/Intro/Component/Benefit/index.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/github/cra3/src/App.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ck9iamVjdC5hc3NpZ24gPSByZXF1aXJlKCdvYmplY3QtYXNzaWduJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGNsYXNzTmFtZT0iQXBwIg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGNsYXNzTmFtZT0iQXBwIg==</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
@@ -1120,31 +1145,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0b3AnLCBlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ck9iamVjdC5hc3NpZ24gPSByZXF1aXJlKCdvYmplY3QtYXNzaWduJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgPGhlYWRlciBjbGFzc05hbWU9IkFwcC1oZWFkZXIiPgogICAgICAgIDxpbWcgc3JjPXtsb2dvfSBjbGFzc05hbWU9IkFwcC1sb2dvIiBhbHQ9ImxvZ28iIC8+CiAgICAgICAgPHA+CiAgICAgICAgICBFZGl0IDxjb2RlPnNyYy9BcHAuanM8L2NvZGU+IGFuZCBzYXZlIHRvIHJlbG9hZC4KICAgICAgICA8L3A+CiAgICAgICAgPGEKICAgICAgICAgIGNsYXNzTmFtZT0iQXBwLWxpbmsiCiAgICAgICAgICBocmVmPSJodHRwczovL3JlYWN0anMub3JnIgogICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiCiAgICAgICAgICByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiCiAgICAgICAgPgogICAgICAgICAgTGVhcm4gUmVhY3QKICAgICAgICA8L2E+CiAgICAgIDwvaGVhZGVyPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ck9iamVjdC5hc3NpZ24gPSByZXF1aXJlKCdvYmplY3QtYXNzaWduJyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7CmltcG9ydCAnLi9BcHAuY3NzJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZWZ0OiAwOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVgoLTUwJSk7Cg==</text>
+        <text encoding="base64">ICA8QXBwIC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsZWZ0OiA1MCU7Cg==</text>
+        <text encoding="base64">Ck9iamVjdC5hc3NpZ24gPSByZXF1aXJlKCdvYmplY3QtYXNzaWduJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0b3AnKQo=</text>
+        <text encoding="base64">Ck9iamVjdC5hc3NpZ24gPSByZXF1aXJlKCdvYmplY3QtYXNzaWduJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBsZWZ0OiAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgdGlja2luZyB9ID0gdGhpcy5zdGF0ZQo=</text>
+        <text encoding="base64">ICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVgoLTUwJSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlbGYgPSB0aGlzCg==</text>
+        <text encoding="base64">ICBsZWZ0OiA1MCU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
