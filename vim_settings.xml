@@ -664,11 +664,11 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/util.js" timestamp="1556616331437">
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="21" column="19" />
-        <mark key="^" line="21" column="19" />
-        <mark key="." line="21" column="19" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/util.js" timestamp="1556617846419">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="5" />
+        <mark key="." line="25" column="5" />
+        <mark key="^" line="25" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useOnClickOutside/index.js" timestamp="1556088782299">
         <mark key="[" line="13" column="22" />
@@ -871,10 +871,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICsgIiAi</text>
+        <text>str</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgIiAi</text>
+        <text>str</text>
       </register>
       <register name="/" type="4">
         <text>delay</text>
@@ -883,31 +883,31 @@
         <text encoding="base64">ICAgIGVuY29kZVVSSUNvbXBvbmVudChkYXRhKSAvKiA/ICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zm4oZW1haWwpCg==</text>
+        <text encoding="base64">ICAgIGlmIChpZHggPiAwKSB7CiAgICAgIGlmKGFjY1tpZHggLSAxXSAvKiA/ICovICE9PSAnICcpIHsKICAgICAgICByZXR1cm4gYWNjICsgJyAnCiAgICAgIH0KICAgIH0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuY29kZVVSSUNvbXBvbmVudChkYXRhKSAvKiA/ICovCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">fSBlbHNlIHsKIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnN0ci5zcGxpdCgnJykucmVkdWNlKChhY2MsIGRhdGEpID0+IHsKICAvLyBlbmNvZGVVUklDb21wb25lbnQoZGF0YSkgLyogPyAqLwogIGVzY2FwZShkYXRhKSAvKiA/ICovCiAgcmV0dXJuIGFjYyArIGRhdGEKfSwgJycpIC8qID8gKi8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygxKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNvbnNvbGUubG9nKHN0cikK</text>
+        <text encoding="base64">ICAgIHJldHVybiBhY2MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0eXBlb2YgZGF0YQo=</text>
+        <text encoding="base64">ICAgICAgLyogPyAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZiAoZWRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3RyLnNwbGl0KCcnKSAvKiA/ICovCg==</text>
+        <text encoding="base64">ICAgIGFjY1tpbmRleF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
+        <text encoding="base64">ICAgIGluZGV4IC8qID8gKi8K</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
