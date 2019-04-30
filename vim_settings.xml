@@ -431,7 +431,7 @@
         <mark key="^" line="32" column="63" />
         <mark key="." line="32" column="63" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1556524468320">
+      <file name="/GraphQL.result.json" timestamp="1556601087867">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useTheme/styles.scss" timestamp="1556180716338">
@@ -842,11 +842,11 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/config/polyfills.js" timestamp="1556530905378">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="9" column="32" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/config/polyfills.js" timestamp="1556600756037">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
         <mark key="^" line="9" column="32" />
-        <mark key="." line="9" column="32" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/PlusProduct/Price/Controller.js" timestamp="1556506486608">
         <mark key="'" line="3" column="22" />
@@ -1108,7 +1108,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBsZWZ0OiAwOwo=</text>
+        <text encoding="base64">Ck9iamVjdC5hc3NpZ24gPSByZXF1aXJlKCdvYmplY3QtYXNzaWduJyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1120,31 +1120,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0b3AnLCBlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZWZ0OiAwOwo=</text>
+        <text encoding="base64">Ck9iamVjdC5hc3NpZ24gPSByZXF1aXJlKCdvYmplY3QtYXNzaWduJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVgoLTUwJSk7Cg==</text>
+        <text encoding="base64">Ck9iamVjdC5hc3NpZ24gPSByZXF1aXJlKCdvYmplY3QtYXNzaWduJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZWZ0OiA1MCU7Cg==</text>
+        <text encoding="base64">ICBsZWZ0OiAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0b3AnKQo=</text>
+        <text encoding="base64">ICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVgoLTUwJSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBsZWZ0OiA1MCU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgdGlja2luZyB9ID0gdGhpcy5zdGF0ZQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0b3AnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlbGYgPSB0aGlzCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICghdGlja2luZykgewogICAgICB3aW5kb3cucmVxdWVzdEFuaW1hdGlvbkZyYW1lKGZ1bmN0aW9uKCkgewogICAgICAgIGNvbnN0IGNsaWVudFdpZHRoID0gZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LmNsaWVudFdpZHRoID8gZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LmNsaWVudFdpZHRoIDogd2luZG93LmlubmVyV2lkdGg7CiAgICAgICAgc2VsZi5zZXRTdGF0ZSh7CiAgICAgICAgICB0aWNraW5nOiBmYWxzZSwKICAgICAgICB9LCAoKSA9PiB7CiAgICAgICAgICBzZWxmLnNldFNpZGVCb3goY2xpZW50V2lkdGgpCiAgICAgICAgfSkKICAgICAgfSkKICAgICAgdGhpcy5zZXRTdGF0ZSh7IHRpY2tpbmc6IHRydWUgfSkKICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgdGlja2luZyB9ID0gdGhpcy5zdGF0ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHRocm90dGxlIGZyb20gJ2xvZGFzaC90aHJvdHRsZScK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNlbGYgPSB0aGlzCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
