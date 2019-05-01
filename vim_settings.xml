@@ -237,10 +237,12 @@
         <mark key="." line="26" column="19" />
         <mark key="^" line="26" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1556698161875">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1556701381817">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="40" column="73" />
+        <mark key="]" line="40" column="78" />
+        <mark key="." line="40" column="78" />
+        <mark key="^" line="40" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Faq/index.js" timestamp="1555562490529">
         <mark key="[" line="15" column="33" />
@@ -772,8 +774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="2" filename="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useSpring/particles-config.js" />
-      <jump line="16" column="36" filename="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useSpring/index.js" />
       <jump line="158" column="0" filename="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useSpring/styles.scss" />
       <jump line="96" column="29" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Complex/Price/index.js" />
       <jump line="160" column="6" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Complex/Price/Controller.js" />
@@ -872,13 +872,15 @@
       <jump line="50" column="0" filename="$USER_HOME$/Documents/github/util_with_jest/node_modules/@redux-saga/core/index.d.ts" />
       <jump line="255" column="1" filename="$USER_HOME$/Documents/github/util_with_jest/node_modules/@redux-saga/core/effects.d.ts" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Sagas/watchFetchGongsil.js" />
+      <jump line="62" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" />
+      <jump line="25" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CmNvbnN0IHV0aWwgPSByZXF1aXJlKCd1dGlsJykKCmxldCBzdHIgPSAnaHR0cHM6Ly9wYWdlLmtha2FvLmNvbScKCmNvbnN0IGEgPSBzdHIuc3BsaXQoJycpLnJlZHVjZSgoYWNjLCBkYXRhKSA9PiB7CiAgY29uc3QgaXNOdW1iZXIgPSBkYXRhID49IDQ4ICYmIGRhdGEgPD0gNTcKICBjb25zdCBpc0FscGhhYmV0ID0gKGRhdGEgPj0gNjUgJiYgZGF0YSA8PSA5MCkgfHwgKGRhdGEgPj0gOTcgJiYgZGF0YSA8PSAxMjIpCiAgaWYgKGlzTnVtYmVyIHx8IGlzQWxwaGFiZXQpIHJldHVybiBhY2MgKz0gZGF0YQogIHJldHVybiBhY2MKfSwgJycpIC8qID8gKi8K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC8qID8gKi8=</text>
       </register>
       <register name="-" type="4">
-        <text>uint8array</text>
+        <text encoding="base64">IC8qID8gKi8=</text>
       </register>
       <register name="/" type="4">
         <text>delay</text>
@@ -887,31 +889,31 @@
         <text encoding="base64">ICAgIGVuY29kZVVSSUNvbXBvbmVudChkYXRhKSAvKiA/ICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmNvbnN0IHV0aWwgPSByZXF1aXJlKCd1dGlsJykKCmxldCBzdHIgPSAnaHR0cHM6Ly9wYWdlLmtha2FvLmNvbScKCmNvbnN0IGEgPSBzdHIuc3BsaXQoJycpLnJlZHVjZSgoYWNjLCBkYXRhKSA9PiB7CiAgY29uc3QgaXNOdW1iZXIgPSBkYXRhID49IDQ4ICYmIGRhdGEgPD0gNTcKICBjb25zdCBpc0FscGhhYmV0ID0gKGRhdGEgPj0gNjUgJiYgZGF0YSA8PSA5MCkgfHwgKGRhdGEgPj0gOTcgJiYgZGF0YSA8PSAxMjIpCiAgaWYgKGlzTnVtYmVyIHx8IGlzQWxwaGFiZXQpIHJldHVybiBhY2MgKz0gZGF0YQogIHJldHVybiBhY2MKfSwgJycpIC8qID8gKi8K</text>
+        <text encoding="base64">Ly8gY29uc3Qgc3RyID0gJzNbYTJbYmNdZF0nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZW5jb2RlciA9IG5ldyB1dGlsLlRleHRFbmNvZGVyKCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CmNvbnN0IHVpbnQ4YXJyYXkgPSBlbmNvZGVyLmVuY29kZShzdHIpIC8qID8gKi8K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coYSkK</text>
+      <register name="3" type="2">
+        <text encoding="base64">dW56aXAoc3RyLCAxKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpc051bWJlcikK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CnN0ci5zcGxpdCgnJykubWFwKChkYXRhKSA9PiB7CiAgY29uc3QgaWR4ID0gZGF0YS5jaGFyQ29kZUF0KDApIC8qID8gKi8KICAKfSk=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bGV0IG5leHQgPSAnJwpjb25zdCB6aXBMaXN0ID0gc3RyLnNwbGl0KCcnKQpsZXQgcmVwZWF0ID0gJycK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CmxldCBicmFja2V0ID0gMApzdHIuc3BsaXQoJycpLnJlZHVjZSgoYWNjLCBjdXJyZW50KSA9PiB7CiAgY29uc3QgdGVtcCA9IFsuLi5hY2NdCiAgY29uc3QgaWR4ID0gY3VycmVudC5jaGFyQ29kZUF0KDApIC8qID8gKi8KICAKICBjb25zdCBpc051bWJlciA9IGlkeCA+PSA1MCAmJiBpZHggPD0gNTcKICBjb25zdCBvcGVuQnJhY2tldCA9IGlkeCA9PT0gOTEKICBjb25zdCBjbG9zZUJyYWNrZXQgPSBpZHggPT09IDkzCiAgY29uc3QgaXNBbHBoYWJldCA9IChpZHggPj0gNjUgJiYgaWR4IDw9IDkwKSB8fCAoaWR4ID49IDk3ICYmIGlkeCA8PSAxMjIpCiAgCiAgaWYgKGlzTnVtYmVyKSB7CiAgICB0ZW1wLnB1c2goe2NvdW50OiBjdXJyZW50fSkKICB9CiAgCiAgaWYgKGlzQWxwaGFiZXQpIHsKICAgIHRlbXBbYnJhY2tldF0uY2hhciA9IGN1cnJlbnQKICB9CiAgCiAgaWYgKG9wZW5CcmFja2V0KSB7CiAgICAKICB9CiAgCiAgaWYgKGNsb3NlQnJhY2tldCkgewogICAgCiAgfQogIAogIAogIHJldHVybiB0ZW1wCn0sIFtdKSAvKiA/ICov</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
+        <text encoding="base64">ICBpZiAoaXNBbHBoYWJldCkgewogICAgdGVtcAogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
