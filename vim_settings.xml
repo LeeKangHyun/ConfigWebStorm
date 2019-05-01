@@ -237,11 +237,10 @@
         <mark key="." line="26" column="19" />
         <mark key="^" line="26" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1556697240226">
-        <mark key="[" line="26" column="37" />
-        <mark key="]" line="26" column="42" />
-        <mark key="." line="26" column="42" />
-        <mark key="^" line="26" column="42" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1556698161875">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Faq/index.js" timestamp="1555562490529">
         <mark key="[" line="15" column="33" />
@@ -875,11 +874,11 @@
       <jump line="34" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Sagas/watchFetchGongsil.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>en</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmNvbnN0IHV0aWwgPSByZXF1aXJlKCd1dGlsJykKCmxldCBzdHIgPSAnaHR0cHM6Ly9wYWdlLmtha2FvLmNvbScKCmNvbnN0IGEgPSBzdHIuc3BsaXQoJycpLnJlZHVjZSgoYWNjLCBkYXRhKSA9PiB7CiAgY29uc3QgaXNOdW1iZXIgPSBkYXRhID49IDQ4ICYmIGRhdGEgPD0gNTcKICBjb25zdCBpc0FscGhhYmV0ID0gKGRhdGEgPj0gNjUgJiYgZGF0YSA8PSA5MCkgfHwgKGRhdGEgPj0gOTcgJiYgZGF0YSA8PSAxMjIpCiAgaWYgKGlzTnVtYmVyIHx8IGlzQWxwaGFiZXQpIHJldHVybiBhY2MgKz0gZGF0YQogIHJldHVybiBhY2MKfSwgJycpIC8qID8gKi8K</text>
       </register>
       <register name="-" type="4">
-        <text>en</text>
+        <text>uint8array</text>
       </register>
       <register name="/" type="4">
         <text>delay</text>
@@ -888,31 +887,31 @@
         <text encoding="base64">ICAgIGVuY29kZVVSSUNvbXBvbmVudChkYXRhKSAvKiA/ICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3RyLnNwbGl0KCcnKSAvKiA/ICovCg==</text>
+        <text encoding="base64">CmNvbnN0IHV0aWwgPSByZXF1aXJlKCd1dGlsJykKCmxldCBzdHIgPSAnaHR0cHM6Ly9wYWdlLmtha2FvLmNvbScKCmNvbnN0IGEgPSBzdHIuc3BsaXQoJycpLnJlZHVjZSgoYWNjLCBkYXRhKSA9PiB7CiAgY29uc3QgaXNOdW1iZXIgPSBkYXRhID49IDQ4ICYmIGRhdGEgPD0gNTcKICBjb25zdCBpc0FscGhhYmV0ID0gKGRhdGEgPj0gNjUgJiYgZGF0YSA8PSA5MCkgfHwgKGRhdGEgPj0gOTcgJiYgZGF0YSA8PSAxMjIpCiAgaWYgKGlzTnVtYmVyIHx8IGlzQWxwaGFiZXQpIHJldHVybiBhY2MgKz0gZGF0YQogIHJldHVybiBhY2MKfSwgJycpIC8qID8gKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Lypjb25zdCBmaWJvID0gKG4gPSAwKSA9PiB7CiAgaWYgKG4gPT09IDApIHJldHVybiAxCiAgcmV0dXJuIChuID09PSAxIHx8IG4gPT09IDIpID8gMSA6IGZpYm8obiAtIDEpICsgZmlibyhuIC0gMikgLyEqID8gKiEvCn0qLwoKLy8gZmlibygpIC8qID8gKi8KCi8qbGV0IGkgPSAxCgp3aGlsZSAoaSA8IDYwKSB7CiAgbGV0IGEgPSBmaWJvKGkpCiAgY29uc29sZS5sb2coYSkKICBpKysKfSovCgo=</text>
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3QgZW5jb2RlciA9IG5ldyB1dGlsLlRleHRFbmNvZGVyKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CmNvbnN0IHVpbnQ4YXJyYXkgPSBlbmNvZGVyLmVuY29kZShzdHIpIC8qID8gKi8K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coYSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhpc051bWJlcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
