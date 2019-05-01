@@ -237,12 +237,11 @@
         <mark key="." line="26" column="19" />
         <mark key="^" line="26" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1556701381817">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="40" column="73" />
-        <mark key="]" line="40" column="78" />
-        <mark key="." line="40" column="78" />
-        <mark key="^" line="40" column="78" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1556704471759">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Faq/index.js" timestamp="1555562490529">
         <mark key="[" line="15" column="33" />
@@ -514,6 +513,9 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="12" />
       </file>
+      <file name="/JSRegexp Fragment (scratch.es6:1704).regexp" timestamp="1556703749066">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/GeneralProduct/Intro/Component/Discount/index.js" timestamp="1555652845997">
         <mark key="[" line="43" column="24" />
         <mark key="]" line="43" column="29" />
@@ -774,9 +776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="0" filename="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useSpring/styles.scss" />
-      <jump line="96" column="29" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Complex/Price/index.js" />
-      <jump line="160" column="6" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Complex/Price/Controller.js" />
       <jump line="76" column="14" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Complex/Intro/Component/ProductType/index.js" />
       <jump line="100" column="30" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Component/PriceSearch/index.js" />
       <jump line="96" column="31" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Premium/Intro/Component/ProductType/index.js" />
@@ -874,13 +873,16 @@
       <jump line="34" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Sagas/watchFetchGongsil.js" />
       <jump line="62" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" />
       <jump line="25" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" />
+      <jump line="98" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" />
+      <jump line="90" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" />
+      <jump line="107" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC8qID8gKi8=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBfLmluY2x1ZGVzKCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8qID8gKi8=</text>
+        <text>lodash</text>
       </register>
       <register name="/" type="4">
         <text>delay</text>
@@ -889,31 +891,31 @@
         <text encoding="base64">ICAgIGVuY29kZVVSSUNvbXBvbmVudChkYXRhKSAvKiA/ICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gY29uc3Qgc3RyID0gJzNbYTJbYmNdZF0nCg==</text>
+        <text encoding="base64">ICBfLmluY2x1ZGVzKCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dW56aXAoc3RyLCAxKQo=</text>
+        <text encoding="base64">bWF0Y2hpbmcoJ2NvZGluZycsIHJlZ0FycikK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CnN0ci5zcGxpdCgnJykubWFwKChkYXRhKSA9PiB7CiAgY29uc3QgaWR4ID0gZGF0YS5jaGFyQ29kZUF0KDApIC8qID8gKi8KICAKfSk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">bWF0Y2hpbmcoJ2NvZGluZycsIHJlZ0FycikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coYSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGV0IG5leHQgPSAnJwpjb25zdCB6aXBMaXN0ID0gc3RyLnNwbGl0KCcnKQpsZXQgcmVwZWF0ID0gJycK</text>
+        <text encoding="base64">Y29tcGFyZS5zcGxpdCgvW1xzXFddL2dtKSAvKiA/ICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Ly8gY29uc3Qgc3RyID0gJzNbYTJbYmNdZF0nCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmxldCBicmFja2V0ID0gMApzdHIuc3BsaXQoJycpLnJlZHVjZSgoYWNjLCBjdXJyZW50KSA9PiB7CiAgY29uc3QgdGVtcCA9IFsuLi5hY2NdCiAgY29uc3QgaWR4ID0gY3VycmVudC5jaGFyQ29kZUF0KDApIC8qID8gKi8KICAKICBjb25zdCBpc051bWJlciA9IGlkeCA+PSA1MCAmJiBpZHggPD0gNTcKICBjb25zdCBvcGVuQnJhY2tldCA9IGlkeCA9PT0gOTEKICBjb25zdCBjbG9zZUJyYWNrZXQgPSBpZHggPT09IDkzCiAgY29uc3QgaXNBbHBoYWJldCA9IChpZHggPj0gNjUgJiYgaWR4IDw9IDkwKSB8fCAoaWR4ID49IDk3ICYmIGlkeCA8PSAxMjIpCiAgCiAgaWYgKGlzTnVtYmVyKSB7CiAgICB0ZW1wLnB1c2goe2NvdW50OiBjdXJyZW50fSkKICB9CiAgCiAgaWYgKGlzQWxwaGFiZXQpIHsKICAgIHRlbXBbYnJhY2tldF0uY2hhciA9IGN1cnJlbnQKICB9CiAgCiAgaWYgKG9wZW5CcmFja2V0KSB7CiAgICAKICB9CiAgCiAgaWYgKGNsb3NlQnJhY2tldCkgewogICAgCiAgfQogIAogIAogIHJldHVybiB0ZW1wCn0sIFtdKSAvKiA/ICov</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAoaXNBbHBoYWJldCkgewogICAgdGVtcAogIH0K</text>
+        <text encoding="base64">dW56aXAoc3RyLCAxKQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
