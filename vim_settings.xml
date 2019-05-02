@@ -315,12 +315,12 @@
       <file name="/GraphQL.result.json" timestamp="1556760406686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Status/index.js" timestamp="1556762225657">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="15" column="10" />
-        <mark key="^" line="15" column="10" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Status/index.js" timestamp="1556767296964">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="27" />
+        <mark key="." line="22" column="27" />
+        <mark key="^" line="22" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Campaign/index.js" timestamp="1556503012481">
         <mark key="[" line="12" column="21" />
@@ -460,12 +460,12 @@
         <mark key="." line="15" column="35" />
         <mark key="^" line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Status/Controller.js" timestamp="1556762246777">
-        <mark key="'" line="53" column="16" />
-        <mark key="[" line="42" column="4" />
-        <mark key="]" line="42" column="20" />
-        <mark key="^" line="42" column="20" />
-        <mark key="." line="42" column="20" />
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Status/Controller.js" timestamp="1556767727380">
+        <mark key="'" line="14" column="28" />
+        <mark key="[" line="53" column="17" />
+        <mark key="]" line="53" column="17" />
+        <mark key="^" line="53" column="17" />
+        <mark key="." line="53" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Header/Top/config.js" timestamp="1555479153072">
         <mark key="[" line="26" column="17" />
@@ -781,7 +781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="31" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Premium/Intro/Component/ProductType/index.js" />
       <jump line="40" column="61" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Premium/Price/Controller.js" />
       <jump line="161" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Premium/Price/Controller.js" />
       <jump line="22" column="61" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Complex/Intro/Component/ProductType/index.js" />
@@ -881,46 +880,47 @@
       <jump line="18" column="2" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Status/index.js" />
       <jump line="45" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Status/index.js" />
       <jump line="53" column="16" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Status/Controller.js" />
+      <jump line="14" column="28" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Status/Controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>0.5</text>
       </register>
       <register name="-" type="4">
-        <text>innerR</text>
+        <text>0.5</text>
       </register>
       <register name="/" type="4">
         <text>delay</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlzRW5kLAogICAgYXBwLAogICAgbW9udGgsCiAgICBzaWduLAogICAgaW5xdWlyeSwK</text>
+        <text encoding="base64">ICAgIG9ic2VydmVyLm9ic2VydmUoX3N0YXR1cy5jdXJyZW50KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZW50cmllcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhfd3JhcCkK</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICA=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgb2JzZXJ2ZXIub2JzZXJ2ZShfc3RhdHVzLmN1cnJlbnQpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKF93cmFwKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlzRW5kLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpc0VuZCwK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhfd3JhcCkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBzY3JvbGxFdmVudCA9IHVzZUNhbGxiYWNrKChlKSA9PiB7CiAgICBjb25zdCB7IHBhZ2VZT2Zmc2V0IH0gPSB3aW5kb3cKICAgIGlmICghaXNFbmQgJiYgcGFnZVlPZmZzZXQgPiAxNDApIHsKICAgICAgc2V0QXBwKDE4MDApCiAgICAgIHNldE1vbnRoKDUwMCkKICAgICAgc2V0U2lnbig1MDAwMCkKICAgICAgc2V0SW5xdWlyeSgzNSkKICAgICAgc2V0RW5kKHRydWUpCiAgICB9CiAgfSwgW2lzRW5kXSkKICAKICB1c2VFZmZlY3QoKCkgPT4gewogICAgY29uc3QgeyBpbm5lckhlaWdodCB9ID0gd2luZG93CiAgICBpZiAoaW5uZXJIZWlnaHQgPiAxMDUwKSB7CiAgICAgIHNldEFwcCgxODAwKQogICAgICBzZXRNb250aCg1MDApCiAgICAgIHNldFNpZ24oNTAwMDApCiAgICAgIHNldElucXVpcnkoMzUpCiAgICAgIHNldEVuZCh0cnVlKQogICAgfQogICAgZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcignc2Nyb2xsJywgc2Nyb2xsRXZlbnQpCiAgICByZXR1cm4gKCkgPT4gewogICAgICBkb2N1bWVudC5yZW1vdmVFdmVudExpc3RlbmVyKCdzY3JvbGwnLCBzY3JvbGxFdmVudCkKICAgIH0KICB9LCBbc2Nyb2xsRXZlbnRdKQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBbaXNFbmQsIHNldEVuZF0gPSB1c2VTdGF0ZShmYWxzZSkKICBjb25zdCBbYXBwLCBzZXRBcHBdID0gdXNlU3RhdGUoMCkKICBjb25zdCBbbW9udGgsIHNldE1vbnRoXSA9IHVzZVN0YXRlKDApCiAgY29uc3QgW3NpZ24sIHNldFNpZ25dID0gdXNlU3RhdGUoMCkKICBjb25zdCBbaW5xdWlyeSwgc2V0SW5xdWlyeV0gPSB1c2VTdGF0ZSgwKQo=</text>
+        <text encoding="base64">ICAgIGlzRW5kLAo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
