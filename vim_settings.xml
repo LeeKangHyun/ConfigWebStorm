@@ -20,6 +20,9 @@
       <file name="$USER_HOME$/Documents/station3/dabang-server/config/data/data.js" timestamp="1556791497423">
         <mark key="." line="13" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/node_modules/react-html-parser/demo/dist/app.js" timestamp="1556867607200">
+        <mark key="'" line="37" column="14122" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/PlusProduct/Price/Components/Item/index.js" timestamp="1556849625585">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -39,12 +42,14 @@
         <mark key="^" line="1219" column="42" />
       </file>
       <file name="/index.js" timestamp="1556781128696" />
-      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Faq/Controller.js" timestamp="1556790370281">
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Faq/Controller.js" timestamp="1556867635299">
         <mark key="'" line="26" column="2" />
-        <mark key="[" line="18" column="6" />
-        <mark key="]" line="18" column="37" />
-        <mark key="." line="18" column="37" />
-        <mark key="^" line="18" column="37" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/node_modules/@redux-saga/core/index.d.ts" timestamp="1556609504048">
+        <mark key="'" line="50" column="0" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1556861350577">
         <mark key="[" line="0" column="0" />
@@ -55,6 +60,12 @@
         <mark key="]" line="15" column="9" />
         <mark key="." line="15" column="9" />
         <mark key="^" line="21" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Sagas/watchFetchGongsil.js" timestamp="1556609745336">
+        <mark key="'" line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/node_modules/@redux-saga/core/effects.d.ts" timestamp="1556609512474">
+        <mark key="'" line="255" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Faq/index.js" timestamp="1556782847336">
         <mark key="[" line="21" column="38" />
@@ -129,12 +140,14 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Header/Top/Controller.js" timestamp="1556777018582">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Premium/Price/Controller.js" />
-      <jump line="41" column="18" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Complex/Price/Controller.js" />
-      <jump line="7" column="24" filename="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useTheme/index.js" />
-      <jump line="10" column="8" filename="$USER_HOME$/Documents/github/util_with_jest/src/Utils/useMedia/customHooks.js" />
       <jump line="3" column="18" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/GeneralProduct/Intro/Component/ProductType/index.js" />
       <jump line="24" column="13" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Package/Intro/Component/ProductType/index.js" />
       <jump line="5" column="19" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Package/Intro/Component/ProductType/index.js" />
@@ -231,56 +244,60 @@
       <jump line="84" column="7" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Faq/Components/Table/index.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Faq/Components/Table/index.js" />
       <jump line="175" column="6" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Complex/Price/Controller.js" />
+      <jump line="19" column="17921" filename="$USER_HOME$/Documents/station3/dabang-server/node_modules/react-html-parser/demo/dist/app.js" />
+      <jump line="20" column="16995" filename="$USER_HOME$/Documents/station3/dabang-server/node_modules/react-html-parser/demo/dist/app.js" />
+      <jump line="23" column="3692" filename="$USER_HOME$/Documents/station3/dabang-server/node_modules/react-html-parser/demo/dist/app.js" />
+      <jump line="37" column="14122" filename="$USER_HOME$/Documents/station3/dabang-server/node_modules/react-html-parser/demo/dist/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>asdfasdfasdfasdfasdfasdfadsfadsfasdfadsfasdfasdf</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAKICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIEVsZW1lbnQuc2Nyb2xsSW50b1ZpZXcoewogICAgICBiZWhhdmlvcjogJ2F1dG8nCiAgICB9KQogIH0K</text>
       </register>
       <register name="-" type="4">
         <text>asdfasdfasdfasdfasdfasdfadsfadsfasdfadsfasdfasdf</text>
       </register>
       <register name="/" type="4">
-        <text>delay</text>
+        <text>scrollIntoView</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJub2RlIjogInRyIiwKICAgICAgICAgICAgICAgICAgICAiYXR0cnMiOiBudWxsLAogICAgICAgICAgICAgICAgICAgICJjaGlsZHJlbiI6IFsKICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgIm5vZGUiOiAidGQiLAogICAgICAgICAgICAgICAgICAgICAgICAiYXR0cnMiOiBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICAiY2hpbGRyZW4iOiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5vZGUiOiAicCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiYXR0cnMiOiBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgImNoaWxkcmVuIjogIuyjvO2DneuLtOuztOuMgOy2nCDrp4zquLDsl7DsnqUg7KCc7ZWcIgogICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5vZGUiOiAicCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiYXR0cnMiOiBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgImNoaWxkcmVuIjogIi0gMuqxtCDsnbTsg4Eg7JWE7YyM7Yq4IOuLtOuztOuMgOy2nCDsnojripQg6rK97JqwIgogICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
+        <text encoding="base64">ICAKICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIEVsZW1lbnQuc2Nyb2xsSW50b1ZpZXcoewogICAgICBiZWhhdmlvcjogJ2F1dG8nCiAgICB9KQogIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3b3JkLWJyZWFrOiBrZWVwLWFsbDsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB3b3JkLWJyZWFrOiBrZWVwLWFsbDsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGlmIChpc0xvYWRpbmcpIHJldHVybgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>[
         ]</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgbGFiZWw6ICfslYTtjIztirgg64uo7KeAJywKICAgICAgICAgICAgdmFsdWU6ICdhcHQnLAogICAgICAgICAgICBuYW1lOiAn7JWE7YyM7Yq4IOuLqOyngCDqsoDsg4knCiAgICAgICAgICB9LAogICAgICAgICAgewogICAgICAgICAgICBsYWJlbDogJ+yYpO2UvOyKpO2FlCDri6jsp4AnLAogICAgICAgICAgICB2YWx1ZTogJ29mZmljZXRlbCcsCiAgICAgICAgICAgIG5hbWU6ICfsmKTtlLzsiqTthZQg64uo7KeAIOqygOyDiScKICAgICAgICAgIH0sCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDIycHg7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJub2RlIjogInRyIiwKICAgICAgICAgICAgICAgICAgICAiYXR0cnMiOiBudWxsLAogICAgICAgICAgICAgICAgICAgICJjaGlsZHJlbiI6IFsKICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgIm5vZGUiOiAidGQiLAogICAgICAgICAgICAgICAgICAgICAgICAiYXR0cnMiOiBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICAiY2hpbGRyZW4iOiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5vZGUiOiAicCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiYXR0cnMiOiBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgImNoaWxkcmVuIjogIuyjvO2DneuLtOuztOuMgOy2nCDrp4zquLDsl7DsnqUg7KCc7ZWcIgogICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5vZGUiOiAicCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiYXR0cnMiOiBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgImNoaWxkcmVuIjogIi0gMuqxtCDsnbTsg4Eg7JWE7YyM7Yq4IOuLtOuztOuMgOy2nCDsnojripQg6rK97JqwIgogICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAibm9kZSI6ICJ0ciIsCiAgICAgICAgICAgICAgICAgICAgImF0dHJzIjogbnVsbCwKICAgICAgICAgICAgICAgICAgICAiY2hpbGRyZW4iOiBbCiAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICJub2RlIjogInRkIiwKICAgICAgICAgICAgICAgICAgICAgICAgImF0dHJzIjogbnVsbCwKICAgICAgICAgICAgICAgICAgICAgICAgImNoaWxkcmVuIjogWwogICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJub2RlIjogInAiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgImF0dHJzIjogbnVsbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjaGlsZHJlbiI6ICLso7ztg53ri7Trs7TrjIDstpwg6rG07IiYIOygnO2VnCjshLjrjIDri7kx6rG0KSIKICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJub2RlIjogInAiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgImF0dHJzIjogbnVsbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjaGlsZHJlbiI6ICItIOq4sOyhtOyjvO2DnSAy64WEIOuCtCDsspjrtoQg7JW97KCV7IucIOyYiOyZuCIKICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgIm5vZGUiOiAidHIiLAogICAgICAgICAgICAgICAgICAgICJhdHRycyI6IG51bGwsCiAgICAgICAgICAgICAgICAgICAgImNoaWxkcmVuIjogWwogICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAibm9kZSI6ICJ0ZCIsCiAgICAgICAgICAgICAgICAgICAgICAgICJhdHRycyI6IG51bGwsCiAgICAgICAgICAgICAgICAgICAgICAgICJjaGlsZHJlbiI6IFsKICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAibm9kZSI6ICJwIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJhdHRycyI6IG51bGwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiY2hpbGRyZW4iOiAi6riw7JeF7J6Q6riI64yA7Lac7KCc7ZWcIgogICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5vZGUiOiAicCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiYXR0cnMiOiBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgImNoaWxkcmVuIjogIi0g7J6F64yA7IKs7JeF7J6Q7J2YIOyehOuMgOyaqSDso7ztg50g7Leo65OdIOyZuCDso7ztg53st6jrk50g66qp7KCBIOq4sOyXheyekOq4iOuMgOy2nCDsi6Dqt5wg7Leo6riJIOu2iOqwgCIKICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDIycHg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-search>delay</last-search>
+      <last-search>scrollIntoView</last-search>
       <last-offset />
-      <last-pattern>delay</last-pattern>
+      <last-pattern>scrollIntoView</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>board</last-substitute>
       <last-dir>1</last-dir>
@@ -288,7 +305,6 @@
     </search>
     <history>
       <history-search>
-        <entry>push</entry>
         <entry>amdin</entry>
         <entry>admin</entry>
         <entry>board</entry>
@@ -308,6 +324,7 @@
         <entry>SET_LOADING</entry>
         <entry>set</entry>
         <entry>delay</entry>
+        <entry>scrollIntoView</entry>
       </history-search>
       <history-cmd>
         <entry>ㅂ</entry>
