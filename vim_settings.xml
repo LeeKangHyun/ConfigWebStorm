@@ -43,6 +43,12 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/config/Route.js" timestamp="1557207756518">
+        <mark key="[" line="32" column="43" />
+        <mark key="]" line="32" column="48" />
+        <mark key="." line="32" column="48" />
+        <mark key="^" line="32" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Terms/index.js" timestamp="1556780629327">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -83,6 +89,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/package.json" timestamp="1557206852059">
+        <mark key="[" line="99" column="33" />
+        <mark key="]" line="99" column="33" />
+        <mark key="^" line="99" column="37" />
+        <mark key="." line="99" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/github/util_with_jest/node_modules/@redux-saga/core/index.d.ts" timestamp="1556609504048">
         <mark key="'" line="50" column="0" />
       </file>
@@ -91,6 +103,12 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/components/Header/index.js" timestamp="1557207595461">
+        <mark key="[" line="48" column="29" />
+        <mark key="]" line="48" column="31" />
+        <mark key="." line="48" column="31" />
+        <mark key="^" line="48" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Component/PriceSearch/styled.js" timestamp="1556848613273">
         <mark key="[" line="28" column="0" />
@@ -101,7 +119,7 @@
       <file name="/Dummy.txt" timestamp="1556859654108">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1557205325961">
+      <file name="/GraphQL.result.json" timestamp="1557207969712">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Status/index.js" timestamp="1556774177633">
@@ -133,11 +151,11 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/github/util_with_jest/src/pages/Canvas/index.js" timestamp="1557205383013">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="5" />
-        <mark key="^" line="5" column="5" />
-        <mark key="." line="5" column="5" />
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/pages/Canvas/index.js" timestamp="1557207348691">
+        <mark key="[" line="19" column="50" />
+        <mark key="]" line="20" column="5" />
+        <mark key="." line="20" column="5" />
+        <mark key="^" line="20" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/github/util_with_jest/node_modules/@redux-saga/core/effects.d.ts" timestamp="1556609512474">
         <mark key="'" line="255" column="1" />
@@ -158,9 +176,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/station3/dabang-server/config/data/data.js" timestamp="1556791497423">
-        <mark key="." line="13" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Come/index.js" timestamp="1556774368655">
         <mark key="'" line="2" column="39" />
@@ -274,43 +289,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmFsdWUsIHZhbHVlQWdhaW4sIA==</text>
+        <text>Home</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsdWUsIHZhbHVlQWdhaW4sIA==</text>
+        <text>Home</text>
       </register>
       <register name="/" type="4">
         <text>scrollIntoView</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5jdXJyZW50IDw9IHRoaXMubGFzdCkgewogICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgZG9uZTogZmFsc2UsCiAgICAgICAgICAgIHZhbHVlOiB0aGlzLmN1cnJlbnQrKwogICAgICAgICAgfQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICBkb25lOiB0cnVlCiAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGN0eC5maWxsU3R5bGUgPSAicmdiKDIwMCwgMCwgMCkiCiAgICBjdHguZmlsbFJlY3QgPSAoMTAsIDEwLCA1MCwgNTApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWFwLnNldCgnMScsICdzdHIxJykK</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKjxSb3V0ZSBleGFjdCBwYXRoPSIvIiBjb21wb25lbnQ9eygpID0+IDxkaXY+aGVsbG88L2Rpdj59IC8+Ki99Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIHJlYWRPbmx5KHRhcmdldCwgcHJvcGVydHksIGRlc2NyaXB0b3IpIHsKICBjb25zb2xlLmxvZyh0YXJnZXQsIHByb3BlcnR5LCBkZXNjcmlwdG9yKSAvKiA/ICovCn0KCmNsYXNzIENhciB7CiAgQHJlYWRPbmx5CiAgbWFudWZhY3R1cmVyID0gJycKfQoKY29uc3QgbXlDYXIgPSBuZXcgQ2FyKCkKCg==</text>
+        <text encoding="base64">ICAgIGxldCBjdHggPSBjYW52YXMuZ2V0Q29udGV4dCgnMmQnKQogICAgY29uc29sZS5sb2coY3R4KQogICAgY3R4LmZpbGxTdHlsZSA9ICJyZ2IoMjAwLCAwLCAwKSIKICAgIGN0eC5maWxsUmVjdCA9ICgxMCwgMTAsIDUwLCA1MCkKICAKICAgIGN0eC5maWxsU3R5bGUgPSAicmdiKDAsIDAsIDIwMCwgMC41KSIKICAgIGN0eC5maWxsUmVjdCA9ICgzMCwgMzAsIDUwLCA1MCkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">bGV0IHJhbmdlID0gewogIGZyb206IDEsCiAgdG86IDUsCiAgW1N5bWJvbC5hc3luY0l0ZXJhdG9yXSgpIHsKICAgIHJldHVybiB7CiAgICAgIGN1cnJlbnQ6IHRoaXMuZnJvbSwKICAgICAgbGFzdDogdGhpcy50bywKICAgICAgbmV4dCgpIHsKICAgICAgICBpZiAodGhpcy5jdXJyZW50IDw9IHRoaXMubGFzdCkgewogICAgICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSh7CiAgICAgICAgICAgIGRvbmU6IGZhbHNlLAogICAgICAgICAgICB2YWx1ZTogdGhpcy5jdXJyZW50KysKICAgICAgICAgIH0pCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoewogICAgICAgICAgICBkb25lOiB0cnVlCiAgICAgICAgICB9KQogICAgICAgIH0KICAgICAgfQogICAgfQogIH0KfTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAKICAgIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KGFzeW5jIGZ1bmN0aW9uKCkgewogIGZvciBhd2FpdCAobGV0IHZhbHVlIG9mIHJhbmdlKSB7CiAgICBjb25zb2xlLmxvZyh2YWx1ZSkKICB9Cn0pKCkK</text>
+        <text encoding="base64">ICAgIGN0eC5maWxsUmVjdCA9ICgxMCwgMTAsIDUwLCA1MCkKICAgIGN0eC5maWxsUmVjdCA9ICgxMCwgMTAsIDUwLCA1MCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgUHJvbWlzZShyZXNvbHZlID0+IHNldFRpbWVvdXQocmVzb2x2ZSwgMTAwMCkpCiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKENhbnZhcy5jdXJyZW50LmdldENvbnRleHQoJzJkJykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKENhbnZhcy5nZXRDb250ZXh0KCcyZCcpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY3Vycgo=</text>
+        <text encoding="base64">bWFwLnNldCgnMScsICdzdHIxJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
