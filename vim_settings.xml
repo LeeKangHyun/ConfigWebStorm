@@ -141,11 +141,10 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/iterator.js" timestamp="1557196473228">
-        <mark key="[" line="49" column="1" />
-        <mark key="]" line="51" column="14" />
-        <mark key="^" line="51" column="14" />
-        <mark key="." line="51" column="14" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/iterator.js" timestamp="1557198275156">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Components/Header/Top/Controller.js" timestamp="1556777018582">
         <mark key="'" line="86" column="0" />
@@ -257,45 +256,44 @@
       <jump line="37" column="14122" filename="$USER_HOME$/Documents/station3/dabang-server/node_modules/react-html-parser/demo/dist/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>90</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmZ1bmN0aW9uIHJlYWRPbmx5KHRhcmdldCwgcHJvcGVydHksIGRlc2NyaXB0b3IpIHsKICBjb25zb2xlLmxvZyh0YXJnZXQsIHByb3BlcnR5LCBkZXNjcmlwdG9yKSAvKiA/ICovCn0KCmNsYXNzIENhciB7CiAgQHJlYWRPbmx5CiAgbWFudWZhY3R1cmVyID0gJycKfQoKY29uc3QgbXlDYXIgPSBuZXcgQ2FyKCkKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>90</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>scrollIntoView</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJub2RlIjogInRyIiwKICAgICAgICAgICAgICAgICAgICAiYXR0cnMiOiBudWxsLAogICAgICAgICAgICAgICAgICAgICJjaGlsZHJlbiI6IFsKICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgIm5vZGUiOiAidGQiLAogICAgICAgICAgICAgICAgICAgICAgICAiYXR0cnMiOiBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICAiY2hpbGRyZW4iOiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5vZGUiOiAicCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiYXR0cnMiOiBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgImNoaWxkcmVuIjogIuyjvO2DneuLtOuztOuMgOy2nCDrp4zquLDsl7DsnqUg7KCc7ZWcIgogICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5vZGUiOiAicCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiYXR0cnMiOiBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgImNoaWxkcmVuIjogIi0gMuqxtCDsnbTsg4Eg7JWE7YyM7Yq4IOuLtOuztOuMgOy2nCDsnojripQg6rK97JqwIgogICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5jdXJyZW50IDw9IHRoaXMubGFzdCkgewogICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgZG9uZTogZmFsc2UsCiAgICAgICAgICAgIHZhbHVlOiB0aGlzLmN1cnJlbnQrKwogICAgICAgICAgfQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICBkb25lOiB0cnVlCiAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CmZ1bmN0aW9uIHJlYWRPbmx5KHRhcmdldCwgcHJvcGVydHksIGRlc2NyaXB0b3IpIHsKICBjb25zb2xlLmxvZyh0YXJnZXQsIHByb3BlcnR5LCBkZXNjcmlwdG9yKSAvKiA/ICovCn0KCmNsYXNzIENhciB7CiAgQHJlYWRPbmx5CiAgbWFudWZhY3R1cmVyID0gJycKfQoKY29uc3QgbXlDYXIgPSBuZXcgQ2FyKCkKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIEVsZW1lbnQuc2Nyb2xsSW50b1ZpZXcoewogICAgICBiZWhhdmlvcjogJ2F1dG8nCiAgICB9KQogIH0K</text>
+        <text encoding="base64">bGV0IHJhbmdlID0gewogIGZyb206IDEsCiAgdG86IDUsCiAgW1N5bWJvbC5hc3luY0l0ZXJhdG9yXSgpIHsKICAgIHJldHVybiB7CiAgICAgIGN1cnJlbnQ6IHRoaXMuZnJvbSwKICAgICAgbGFzdDogdGhpcy50bywKICAgICAgbmV4dCgpIHsKICAgICAgICBpZiAodGhpcy5jdXJyZW50IDw9IHRoaXMubGFzdCkgewogICAgICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSh7CiAgICAgICAgICAgIGRvbmU6IGZhbHNlLAogICAgICAgICAgICB2YWx1ZTogdGhpcy5jdXJyZW50KysKICAgICAgICAgIH0pCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoewogICAgICAgICAgICBkb25lOiB0cnVlCiAgICAgICAgICB9KQogICAgICAgIH0KICAgICAgfQogICAgfQogIH0KfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
+        <text encoding="base64">KGFzeW5jIGZ1bmN0aW9uKCkgewogIGZvciBhd2FpdCAobGV0IHZhbHVlIG9mIHJhbmdlKSB7CiAgICBjb25zb2xlLmxvZyh2YWx1ZSkKICB9Cn0pKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB3b3JkLWJyZWFrOiBrZWVwLWFsbDsK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgUHJvbWlzZShyZXNvbHZlID0+IHNldFRpbWVvdXQocmVzb2x2ZSwgMTAwMCkpCiAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0xvYWRpbmcpIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgY3Vycgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>[
-        ]</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgbGFiZWw6ICfslYTtjIztirgg64uo7KeAJywKICAgICAgICAgICAgdmFsdWU6ICdhcHQnLAogICAgICAgICAgICBuYW1lOiAn7JWE7YyM7Yq4IOuLqOyngCDqsoDsg4knCiAgICAgICAgICB9LAogICAgICAgICAgewogICAgICAgICAgICBsYWJlbDogJ+yYpO2UvOyKpO2FlCDri6jsp4AnLAogICAgICAgICAgICB2YWx1ZTogJ29mZmljZXRlbCcsCiAgICAgICAgICAgIG5hbWU6ICfsmKTtlLzsiqTthZQg64uo7KeAIOqygOyDiScKICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAKICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIEVsZW1lbnQuc2Nyb2xsSW50b1ZpZXcoewogICAgICBiZWhhdmlvcjogJ2F1dG8nCiAgICB9KQogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
