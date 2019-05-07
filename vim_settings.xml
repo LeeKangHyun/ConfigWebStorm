@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/MapSet.js" timestamp="1557204884438">
+        <mark key="'" line="2" column="9" />
+        <mark key="[" line="53" column="14" />
+        <mark key="]" line="53" column="14" />
+        <mark key="^" line="51" column="35" />
+        <mark key="." line="53" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Premium/Price/Components/styled.js" timestamp="1556859509438">
         <mark key="[" line="41" column="14" />
         <mark key="]" line="41" column="16" />
@@ -94,7 +101,7 @@
       <file name="/Dummy.txt" timestamp="1556859654108">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1557198387336">
+      <file name="/GraphQL.result.json" timestamp="1557205325961">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Status/index.js" timestamp="1556774177633">
@@ -125,6 +132,12 @@
         <mark key="]" line="38" column="1" />
         <mark key="^" line="15" column="33" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/pages/Canvas/index.js" timestamp="1557205383013">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="5" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="5" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/github/util_with_jest/node_modules/@redux-saga/core/effects.d.ts" timestamp="1556609512474">
         <mark key="'" line="255" column="1" />
@@ -158,7 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="18" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/GeneralProduct/Intro/Component/ProductType/index.js" />
       <jump line="24" column="13" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Package/Intro/Component/ProductType/index.js" />
       <jump line="5" column="19" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Package/Intro/Component/ProductType/index.js" />
       <jump line="5" column="19" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/PlusProduct/Intro/Component/ProductType/index.js" />
@@ -258,13 +270,14 @@
       <jump line="20" column="16995" filename="$USER_HOME$/Documents/station3/dabang-server/node_modules/react-html-parser/demo/dist/app.js" />
       <jump line="23" column="3692" filename="$USER_HOME$/Documents/station3/dabang-server/node_modules/react-html-parser/demo/dist/app.js" />
       <jump line="37" column="14122" filename="$USER_HOME$/Documents/station3/dabang-server/node_modules/react-html-parser/demo/dist/app.js" />
+      <jump line="2" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/MapSet.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bWFwLnNldCgnMScsICdzdHIxJykK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dmFsdWUsIHZhbHVlQWdhaW4sIA==</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text encoding="base64">dmFsdWUsIHZhbHVlQWdhaW4sIA==</text>
       </register>
       <register name="/" type="4">
         <text>scrollIntoView</text>
