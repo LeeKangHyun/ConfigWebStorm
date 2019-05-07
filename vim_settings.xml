@@ -91,6 +91,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="15" column="24" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1557192584808">
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="33" column="23" />
+        <mark key="^" line="28" column="16" />
+        <mark key="." line="33" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Come/Controller.js" timestamp="1556776048607">
         <mark key="[" line="19" column="8" />
         <mark key="]" line="20" column="16" />
@@ -249,11 +255,11 @@
       <jump line="37" column="14122" filename="$USER_HOME$/Documents/station3/dabang-server/node_modules/react-html-parser/demo/dist/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAKICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIEVsZW1lbnQuc2Nyb2xsSW50b1ZpZXcoewogICAgICBiZWhhdmlvcjogJ2F1dG8nCiAgICB9KQogIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC8qID8gKi8=</text>
       </register>
       <register name="-" type="4">
-        <text>asdfasdfasdfasdfasdfasdfadsfadsfasdfadsfasdfasdf</text>
+        <text encoding="base64">IC8qID8gKi8=</text>
       </register>
       <register name="/" type="4">
         <text>scrollIntoView</text>
