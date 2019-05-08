@@ -223,6 +223,12 @@
         <mark key="." line="31" column="20" />
         <mark key="^" line="31" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/pages/Canvas/Components/Clock/index.js" timestamp="1557291809180">
+        <mark key="[" line="76" column="29" />
+        <mark key="]" line="77" column="20" />
+        <mark key="^" line="77" column="20" />
+        <mark key="." line="77" column="20" />
+      </file>
       <file name="/GraphQL.result.json" timestamp="1557285030355">
         <mark key="[" line="0" column="0" />
       </file>
@@ -398,10 +404,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZHJhdywg</text>
+        <text>const</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZHJhdywg</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>scrollIntoView</text>
