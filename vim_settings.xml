@@ -15,6 +15,12 @@
         <mark key="]" line="41" column="16" />
         <mark key="." line="41" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/pages/Canvas/Components/GrayScale/index.js" timestamp="1557298504035">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+        <mark key="^" line="12" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/github/util_with_jest/src/pages/Canvas/Components/Panorama/index.js" timestamp="1557295614358">
         <mark key="[" line="6" column="20" />
         <mark key="]" line="7" column="15" />
@@ -306,11 +312,11 @@
         <mark key="^" line="21" column="38" />
         <mark key="." line="21" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/github/util_with_jest/src/pages/Canvas/Components/ColorPicker/index.js" timestamp="1557297174858">
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="11" column="33" />
-        <mark key="." line="11" column="33" />
-        <mark key="^" line="11" column="33" />
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/pages/Canvas/Components/ColorPicker/index.js" timestamp="1557298474404">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="20" column="73" />
+        <mark key="^" line="10" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -416,44 +422,44 @@
       <jump line="33" column="5" filename="$USER_HOME$/Documents/github/util_with_jest/src/pages/Canvas/Components/ColorPicker/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBpbWcuc3JjID0gcmVxdWlyZSgnQC9pbWFnZXMvTWVvbmcucG5nJykKICBpbWcuYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>scrollIntoView</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGN0eCA9IENhbnZhcy5jdXJyZW50LmdldENvbnRleHQoJzJkJykK</text>
+        <text encoding="base64">ICAKICB1c2VMYXlvdXRFZmZlY3QoKCkgPT4gewogICAgaW1nLnNyYyA9IHJlcXVpcmUoJ0AvaW1hZ2VzL01lb25nLnBuZycpCiAgICBpbWcuY3Jvc3NPcmlnaW4gPSAiQW5vbnltb3VzIgogIH0sIFtpbWddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBpbWcuc3JjID0gcmVxdWlyZSgnQC9pbWFnZXMvTWVvbmcucG5nJykKICBpbWcuYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltZy5vbmxvYWQgPSBmdW5jdGlvbigpIHsKICAgICAgY3R4LmRyYXdJbWFnZShpbWcsIDAsIDApCiAgICAgIGltZy5zdHlsZS5kaXNwbGF5ID0gJ25vbmUnCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB1c2VMYXlvdXRFZmZlY3QoKCkgPT4gewogICAgY29uc3QgY2FudmFzID0gQ2FudmFzLmN1cnJlbnQKICAgIHNldEN0eChjYW52YXMuZ2V0Q29udGV4dCgnMmQnKSkKICAgIAogICAgY2FudmFzLmFkZEV2ZW50TGlzdGVuZXIoJ21vdXNlbW92ZScsIHBpY2spCiAgICAKICAgIHJldHVybiAoKSA9PiB7CiAgICAgIGNhbnZhcy5yZW1vdmVFdmVudExpc3RlbmVyKCdtb3VzZW1vdmUnLCBwaWNrKQogICAgfQogIH0sIFtwaWNrXSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGN0eCA9IENhbnZhcy5jdXJyZW50LmdldENvbnRleHQoJzJkJykK</text>
+        <text encoding="base64">ICAgIGltZy5vbmxvYWQgPSBmdW5jdGlvbigpIHsKICAgICAgY3R4LmRyYXdJbWFnZShpbWcsIDAsIDApCiAgICAgIGltZy5zdHlsZS5kaXNwbGF5ID0gJ25vbmUnCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICB1c2VMYXlvdXRFZmZlY3QoKCkgPT4gewogICAgY29uc3QgY2FudmFzID0gQ2FudmFzLmN1cnJlbnQKICAgIHNldEN0eChjYW52YXMuZ2V0Q29udGV4dCgnMmQnKSkKICAgIAogICAgY2FudmFzLmFkZEV2ZW50TGlzdGVuZXIoJ21vdXNlbW92ZScsIHBpY2spCiAgICAKICAgIHJldHVybiAoKSA9PiB7CiAgICAgIGNhbnZhcy5yZW1vdmVFdmVudExpc3RlbmVyKCdtb3VzZW1vdmUnLCBwaWNrKQogICAgfQogIH0sIFtwaWNrXSkK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGN0eCA9IENhbnZhcy5jdXJyZW50LmdldENvbnRleHQoJzJkJykK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGN0eCA9IENhbnZhcy5jdXJyZW50LmdldENvbnRleHQoJzJkJykK</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">J3JnYmEoJyArIGRhdGFbMF0gKyAnLCAnICsgZGF0YVsxXSArICcsICcgKyBkYXRhWzJdICsgJywgJyArIChkYXRhWzNdIC8gMjU1KSArICcpJwogICA=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAgIA==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB1c2UK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
