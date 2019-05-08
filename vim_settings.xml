@@ -313,12 +313,12 @@
         <mark key="^" line="21" column="38" />
         <mark key="." line="21" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/github/util_with_jest/src/pages/Canvas/Components/ColorPicker/index.js" timestamp="1557303723737">
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/pages/Canvas/Components/ColorPicker/index.js" timestamp="1557305959688">
         <mark key="'" line="66" column="1" />
-        <mark key="[" line="54" column="23" />
-        <mark key="]" line="55" column="23" />
-        <mark key="." line="55" column="23" />
-        <mark key="^" line="55" column="23" />
+        <mark key="[" line="65" column="65" />
+        <mark key="]" line="65" column="66" />
+        <mark key="." line="65" column="66" />
+        <mark key="^" line="65" column="66" />
       </file>
     </filemarks>
     <jumps>
@@ -425,10 +425,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[]</text>
+        <text encoding="base64">PjwvQ2FudmFzQ29tcG9uZW50</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text encoding="base64">PjwvQ2FudmFzQ29tcG9uZW50</text>
       </register>
       <register name="/" type="4">
         <text>scrollIntoView</text>
@@ -436,32 +436,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgSW52ZXJ0LmN1cnJlbnQuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCBvbkludmVydCkKICAgICAgR3JheVNjYWxlLmN1cnJlbnQuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCBvbkdyYXlTY2FsZSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5kaXIoaW1nKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgIA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaW1nCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJTsKICBoZWlnaHQ6IGF1dG87Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBpbWcuc3R5bGUuZGlzcGxheSA9ICdub25lJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAvKmNvbnN0IGNhbnZhcyA9IGN0eC5jYW52YXM7CiAgICAgICAgbGV0IGhSYXRpbyA9IGNhbnZhcy53aWR0aCAvIGltZy53aWR0aAogICAgICAgIGxldCB2UmF0aW8gPSBjYW52YXMuaGVpZ2h0IC8gaW1nLmhlaWdodAogICAgICAgIGxldCByYXRpbyA9IE1hdGgubWluKGhSYXRpbywgdlJhdGlvKQogICAgICAgIAogICAgICAgIGxldCBjZW50ZXJTaGlmdF94ID0gKGNhbnZhcy53aWR0aCAtIGltZy53aWR0aCAqIHJhdGlvKSAvIDIKICAgICAgICBsZXQgY2VudGVyU2hpZnRfeSA9IChjYW52YXMuaGVpZ2h0IC0gaW1nLmhlaWdodCAqIHJhdGlvKSAvIDIKICAgICAgICAKICAgICAgICBjdHguY2xlYXJSZWN0KDAsIDAsIGltZy53aWR0aCwgaW1nLmhlaWdodCkKICAgICAgICAKICAgICAgICBjdHguZHJhd0ltYWdlKGltZywgMCwgMCwgaW1nLndpZHRoLCBpbWcuaGVpZ2h0LCBjZW50ZXJTaGlmdF94LCBjZW50ZXJTaGlmdF95LCBpbWcud2lkdGggKiByYXRpbywgaW1nLmhlaWdodCAqIHJhdGlvKSovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJTsKICBoZWlnaHQ6IDEwMCU7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5kaXIoaW1nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV2ZW50KQo=</text>
+        <text encoding="base64">ICAgICAgaW1nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICB3aWR0aDogMTAwJTsKICBoZWlnaHQ6IGF1dG87Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
