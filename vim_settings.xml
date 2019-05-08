@@ -313,16 +313,15 @@
         <mark key="^" line="21" column="38" />
         <mark key="." line="21" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/github/util_with_jest/src/pages/Canvas/Components/ColorPicker/index.js" timestamp="1557305959688">
-        <mark key="'" line="66" column="1" />
-        <mark key="[" line="65" column="65" />
-        <mark key="]" line="65" column="66" />
-        <mark key="." line="65" column="66" />
-        <mark key="^" line="65" column="66" />
+      <file name="$USER_HOME$/Documents/github/util_with_jest/src/pages/Canvas/Components/ColorPicker/index.js" timestamp="1557306818797">
+        <mark key="'" line="64" column="9" />
+        <mark key="[" line="56" column="31" />
+        <mark key="]" line="56" column="31" />
+        <mark key="." line="56" column="31" />
+        <mark key="^" line="56" column="53" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="40" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Package/Price/Controller.js" />
       <jump line="131" column="9" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Package/Price/Controller.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Package/Price/Controller.js" />
       <jump line="181" column="25" filename="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Complex/Price/Controller.js" />
@@ -422,13 +421,14 @@
       <jump line="5" column="1" filename="$USER_HOME$/Documents/github/util_with_jest/src/pages/Canvas/Components/ColorPicker/index.js" />
       <jump line="67" column="8" filename="$USER_HOME$/Documents/github/util_with_jest/src/pages/Canvas/Components/ColorPicker/index.js" />
       <jump line="66" column="1" filename="$USER_HOME$/Documents/github/util_with_jest/src/pages/Canvas/Components/ColorPicker/index.js" />
+      <jump line="64" column="9" filename="$USER_HOME$/Documents/github/util_with_jest/src/pages/Canvas/Components/ColorPicker/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PjwvQ2FudmFzQ29tcG9uZW50</text>
+        <text>, img.width, img.height</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PjwvQ2FudmFzQ29tcG9uZW50</text>
+        <text>, img.width, img.height</text>
       </register>
       <register name="/" type="4">
         <text>scrollIntoView</text>
