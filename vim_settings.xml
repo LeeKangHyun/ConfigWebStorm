@@ -56,6 +56,7 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/github/kangto.github.io/node_modules/gatsby-source-firestore/node_modules/@google-cloud/firestore/build/src/index.js" timestamp="1557800632552" />
       <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Intro/Complex/Price/index.js" timestamp="1556848685602">
         <mark key="[" line="59" column="17" />
         <mark key="]" line="59" column="27" />
@@ -118,11 +119,11 @@
         <mark key="." line="116" column="51" />
         <mark key="^" line="116" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/github/kangto.github.io/gatsby-node.js" timestamp="1557799588763">
-        <mark key="[" line="31" column="25" />
-        <mark key="]" line="31" column="31" />
-        <mark key="." line="31" column="31" />
-        <mark key="^" line="31" column="31" />
+      <file name="$USER_HOME$/Documents/github/kangto.github.io/gatsby-node.js" timestamp="1557800637660">
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="45" column="25" />
+        <mark key="." line="45" column="25" />
+        <mark key="^" line="45" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1557466859551">
         <mark key="[" line="11" column="0" />
@@ -172,6 +173,7 @@
         <mark key="^" line="45" column="15" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/Home/Main/AppLink/Controller.js" timestamp="1557463534221" />
       <file name="/GraphQL.result.json" timestamp="1557728060769">
         <mark key="[" line="0" column="0" />
       </file>
@@ -194,6 +196,7 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/station3/dabang-pro/client/Containers/Home/Components/Banner/Component/AdviceBtn/Components/Input/index.js" timestamp="1557450809037" />
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/News/Component/List/Components/Swipe/styled.js" timestamp="1557218586550">
         <mark key="[" line="64" column="43" />
         <mark key="]" line="64" column="43" />
@@ -381,6 +384,9 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="4" column="1" />
       </file>
+      <file name="/JavaScript Console" timestamp="1557800645050">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/github/util_with_jest/src/components/Header/index.js" timestamp="1557207595461">
         <mark key="[" line="48" column="29" />
         <mark key="]" line="48" column="31" />
@@ -567,10 +573,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>boundActionCreators</text>
+        <text encoding="base64">ID0=</text>
       </register>
       <register name="-" type="4">
-        <text>boundActionCreators</text>
+        <text encoding="base64">ID0=</text>
       </register>
       <register name="/" type="4">
         <text>scrollIntoView</text>
@@ -606,7 +612,7 @@
         <text encoding="base64">ICAgIHsKICAgICAgcmVzb2x2ZTogJ2dhdHNieS1zb3VyY2UtZmlyZWJhc2UnLAogICAgICBvcHRpb25zOiB7CiAgICAgICAgY3JlZGVudGlhbDogcmVxdWlyZSgnLi9maXJlYmFzZS1rZXkuanNvbicpLAogICAgICAgIGRhdGFiYXNlVVJMOiAnaHR0cHM6Ly9wb3J0Zm9saW8tMzlkNTYuZmlyZWJhc2Vpby5jb20nCiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>vsplit</text>
+        <text>669</text>
       </register>
     </registers>
     <search>
@@ -655,6 +661,7 @@
         <entry>split</entry>
         <entry>2084</entry>
         <entry>vsplit</entry>
+        <entry>669</entry>
       </history-cmd>
       <history-expr />
       <history-input />
