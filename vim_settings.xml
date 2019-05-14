@@ -86,6 +86,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/github/kangto.github.io/.gitignore" timestamp="1557828085411">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/github/util_with_jest/package.json" timestamp="1557206852059">
         <mark key="[" line="99" column="33" />
         <mark key="]" line="99" column="33" />
@@ -189,6 +195,12 @@
         <mark key="." line="64" column="11" />
         <mark key="^" line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/github/kangto.github.io/static/CNAME" timestamp="1557827660163">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Home/Component/AdInquiry/Components/Inquiry/Components/Modal/Components/Field/TextField.js" timestamp="1557451351495">
         <mark key="[" line="16" column="22" />
         <mark key="]" line="16" column="22" />
@@ -218,6 +230,12 @@
         <mark key="]" line="6" column="62" />
         <mark key="." line="6" column="62" />
         <mark key="^" line="6" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/kangto.github.io/index.html" timestamp="1557826924563">
+        <mark key="[" line="7" column="115" />
+        <mark key="]" line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="8" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Home/Component/Theme/styled.js" timestamp="1557218257562">
         <mark key="[" line="6" column="23" />
@@ -318,7 +336,7 @@
         <mark key="^" line="54" column="12" />
         <mark key="." line="54" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557825446701">
+      <file name="/Dummy.txt" timestamp="1557827400983">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Home/Component/Schedule/Components/Later/styled.js" timestamp="1557217971394">
@@ -327,7 +345,7 @@
         <mark key="." line="31" column="20" />
         <mark key="^" line="31" column="20" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1557825547168">
+      <file name="/GraphQL.result.json" timestamp="1557827571463">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/News/Component/List/Components/Swipe/index.js" timestamp="1557218525438">
@@ -347,6 +365,11 @@
         <mark key="]" line="11" column="1" />
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/github/kangto.github.io/src/styleds/Board/index.js" timestamp="1557826586130">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Process/index.js" timestamp="1556782919992">
         <mark key="[" line="32" column="0" />
@@ -396,18 +419,24 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/github/kangto.github.io/static/sitemap.xml" timestamp="1557827710292">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/station3/dabang-server/client/Web/Pages/NewSales/Guide/Pages/Faq/index.js" timestamp="1556782847336">
         <mark key="[" line="21" column="38" />
         <mark key="]" line="21" column="38" />
         <mark key="^" line="21" column="38" />
         <mark key="." line="21" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/github/kangto.github.io/gatsby-config.js" timestamp="1557825825044">
+      <file name="$USER_HOME$/Documents/github/kangto.github.io/gatsby-config.js" timestamp="1557827394404">
         <mark key="'" line="65" column="0" />
-        <mark key="[" line="36" column="49" />
-        <mark key="]" line="36" column="49" />
-        <mark key="." line="36" column="49" />
-        <mark key="^" line="36" column="49" />
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -514,10 +543,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PropTypes.</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>PropTypes.</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>scrollIntoView</text>
@@ -526,31 +555,31 @@
         <text encoding="base64">ICAgICAgPFNFTyB0aXRsZT0i6rKM7Iuc7YyQIiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGl0bGUgfSBmcm9tICdzdHlsZWRzL0JvYXJkJwo=</text>
+        <text encoding="base64">ICA8dXJsPgogICAgPGxvYz5odHRwOi8vd3d3LnN0YXRpb24zLmNvLmtyL2hvbWUvPC9sb2M+CiAgICA8bGFzdG1vZD4yMDE5LTAyLTEyVDIxOjQwOjEyKzAwOjAwPC9sYXN0bW9kPgogICAgPGNoYW5nZWZyZXE+ZGFpbHk8L2NoYW5nZWZyZXE+CiAgICA8cHJpb3JpdHk+MC44NTwvcHJpb3JpdHk+CiAgPC91cmw+CiAgPHVybD4KICAgIDxsb2M+aHR0cDovL3d3dy5zdGF0aW9uMy5jby5rci9zZXJ2aWNlLzwvbG9jPgogICAgPGxhc3Rtb2Q+MjAxOS0wMi0xMlQyMTo0MDoxMiswMDowMDwvbGFzdG1vZD4KICAgIDxjaGFuZ2VmcmVxPmRhaWx5PC9jaGFuZ2VmcmVxPgogICAgPHByaW9yaXR5PjAuODU8L3ByaW9yaXR5PgogIDwvdXJsPgogIDx1cmw+CiAgICA8bG9jPmh0dHA6Ly93d3cuc3RhdGlvbjMuY28ua3IvY3VsdHVyZS88L2xvYz4KICAgIDxsYXN0bW9kPjIwMTktMDItMTJUMjE6NDA6MTIrMDA6MDA8L2xhc3Rtb2Q+CiAgICA8Y2hhbmdlZnJlcT5kYWlseTwvY2hhbmdlZnJlcT4KICAgIDxwcmlvcml0eT4wLjg1PC9wcmlvcml0eT4KICA8L3VybD4K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGl0bGUgfSBmcm9tICdzdHlsZWRzL0JvYXJkJwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGgxIHN0eWxlPXt7Zm9udFNpemU6ICczdncnfX0+CiAgICAgICAg6rCV7JWE7KeAIOupjeydtOydmCDsp5HsgqwgRGV2S2FuZwogICAgICA8L2gxPgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgVGl0bGUgfSBmcm9tICdzdHlsZWRzL0JvYXJkJwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsgVGl0bGUgfSBmcm9tICdzdHlsZWRzL0JvYXJkJwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFNFTyBmcm9tICdjb21wb25lbnRzL1NFTycK</text>
+        <text encoding="base64">ICAgICAgPGgxIHN0eWxlPXt7Zm9udFNpemU6ICczdncnfX0+CiAgICAgICAg6rCV7JWE7KeAIOupjeydtOydmCDsp5HsgqwgRGV2S2FuZwogICAgICA8L2gxPgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgVgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>

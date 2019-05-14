@@ -62,7 +62,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>54</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -214,7 +214,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'develop'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'npm start'">
@@ -246,7 +246,7 @@
           <IdeaActionID>NewScratchFile</IdeaActionID>
           <ShortCut>'⇧⌘N'</ShortCut>
           <Description>Scratch File</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -302,6 +302,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'can render?'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'develop'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'develop'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
