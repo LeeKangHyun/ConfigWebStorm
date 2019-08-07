@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Client" />
-    <option name="defaultScopeName" value="Client" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Client" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,6 +14,5 @@
     <mask>*.mxml</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
-    <mask>*.md</mask>
   </component>
 </application>

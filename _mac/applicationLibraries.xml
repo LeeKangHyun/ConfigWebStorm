@@ -4,10 +4,6 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="@types/fetch.io" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="@types/flowdoc" type="javaScript">
       <CLASSES />
       <SOURCES />
@@ -49,10 +45,6 @@
       <SOURCES />
     </library>
     <library name="@types/react-router-dom" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/webassembly-web-api" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
