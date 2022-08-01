@@ -11,8 +11,10 @@
         <entry key="JSON" value="true" />
         <entry key="JSP" value="true" />
         <entry key="JSPX" value="true" />
+        <entry key="Jade" value="true" />
         <entry key="JavaScript" value="true" />
         <entry key="LESS" value="true" />
+        <entry key="Markdown" value="false" />
         <entry key="SASS" value="true" />
         <entry key="SCSS" value="true" />
         <entry key="Stylus" value="true" />
@@ -25,7 +27,6 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
   <component name="LiveEditOptions" restartIfHotSwapFailed="true" />
