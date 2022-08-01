@@ -1,4 +1,4 @@
-<filetype binary="false" description="Java Source" name="Java">
+<filetype binary="false" default_extension="java" description="Java Source" name="Java">
   <highlighting>
     <options>
       <option name="LINE_COMMENT" value="//" />
