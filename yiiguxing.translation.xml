@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="top level ampersand selector" />
+      <item value="Expected" />
       <item value="properly" />
       <item value="'calls formatAbbr properly" />
       <item value="get Derived State From Props" />
@@ -14,12 +16,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="10" />
-        <entry key="KOREAN" value="10" />
+        <entry key="ENGLISH" value="12" />
+        <entry key="KOREAN" value="12" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662007088432" />
+    <option name="lastTrimTime" value="1675062208042" />
   </component>
 </application>
