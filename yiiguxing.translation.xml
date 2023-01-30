@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogX" value="2112" />
+    <option name="newTranslationDialogY" value="-818" />
     <histories>
+      <item value="Traverse" />
+      <item value="Traverse node with current scope and path" />
       <item value="top level ampersand selector" />
       <item value="Expected" />
       <item value="properly" />
@@ -17,7 +21,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="12" />
-        <entry key="KOREAN" value="12" />
+        <entry key="KOREAN" value="13" />
       </map>
     </option>
   </component>
